@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d d "</item>
+        <item quantity="one">"%d d "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d h "</item>
+        <item quantity="one">"%d h "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d m "</item>
+        <item quantity="one">"%d m "</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">Dostupné aktualizace pro %d apl.</item>
+        <item quantity="one">Dostupná aktualizace pro %d apl.</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d apl. se spustí automaticky</item>
+        <item quantity="one">%d apl. se spustí automaticky</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d apl. se nespustí automaticky</item>
+        <item quantity="one">"%d apl. se nespustí automaticky</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">Povolení: %d</item>
+        <item quantity="one">Povolení: %d</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d apl. má práva ROOT</item>
+        <item quantity="one">%d apl. má práva ROOT</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d apl. nemá práva ROOT</item>
+        <item quantity="one">%d apl. nemá práva ROOT</item>
+    </plurals>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Použito před %d dny</item>
+        <item quantity="one">Použito včera</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Vyhledat %d apl.</item>
+        <item quantity="one">Vyhledat %d apl.</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Aplikace (%d) mohou použít mobilní data</item>
+        <item quantity="one">Aplikace (%d) mohou použít mobilní data</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Aplikace (%d) nemohou použít mobilní data</item>
+        <item quantity="one">Aplikace (%d) nemohou použít mobilní data</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Nalezeno: %d</item>
+        <item quantity="one">Nalezeno: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Spotřeba dat není sledována pro %d apl.</item>
+        <item quantity="one">Spotřeba dat není sledována pro %d apl.</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Spotřeba dat je sledována pro %d apl.</item>
+        <item quantity="one">Spotřeba dat je sledována pro %d apl.</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apl. používá úsporu dat</item>
+        <item quantity="one">%d apl. používá úsporu dat</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apl. nepoužívá úsporu dat</item>
+        <item quantity="one">%d apl. nepoužívá úsporu dat</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apl. může být optimalizováno</item>
+        <item quantity="one">%d apl. může být optimalizována</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apl. může být optimalizováno</item>
+        <item quantity="one">%d apl. může být optimalizována</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+        <item quantity="one">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Požadovaný minimální počet písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Požadovaný minimální počet velkých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno velké písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Požadovaný minimální počet číslic v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Požadovaný minimální počet zvláštních symbolů v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden zvláštní symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Požadovaný minimální počet nepísmenných znaků v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno.</item>
+    </plurals>
+    <plurals name="number_locked">
+         <item quantity="other">Zamknutých apl.: %d</item>
+         <item quantity="one">Zamknutých apl.: %d</item>
+     </plurals>
+     <plurals name="number_to_lock">
+         <item quantity="other">Nezamknutých apl.: %d</item>
+         <item quantity="one">Nezamknutých apl.: %d</item>
+     </plurals>
+     <plurals name="find_applications">
+         <item quantity="other">Vyhledat mezi %d apl.</item>
+         <item quantity="one">Vyhledat mezi %d apl.</item>
+     </plurals>
+     <plurals name="found_apps_title">
+         <item quantity="other">Nalezeno: %d</item>
+         <item quantity="zero">>Nalezeno: 0</item>
+         <item quantity="one">>Nalezeno: %d</item>
+     </plurals>	
+</resources>

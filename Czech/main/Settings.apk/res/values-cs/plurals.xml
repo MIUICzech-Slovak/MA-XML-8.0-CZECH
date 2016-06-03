@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Czech translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+        <item quantity="one">Ještě %1$d klepnutí a bude z vás vývojář.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Požadovaný minimální počet písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Požadovaný minimální počet malých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Požadovaný minimální počet velkých písmen v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jedno velké písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Požadovaný minimální počet číslic v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat alespoň jednu číslici.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Požadovaný minimální počet zvláštních symbolů v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden zvláštní symbol.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Požadovaný minimální počet nepísmenných znaků v heslu: %d.</item>
+        <item quantity="one">Heslo musí obsahovat nejméně jeden znak jiný než písmeno.</item>
+    </plurals>
+   <plurals name="power_center_battery_day">
+        <item quantity="other">"%d d "</item>
+        <item quantity="one">"%d d "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d h "</item>
+        <item quantity="one">"%d h "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min "</item>
+        <item quantity="one">"%d min "</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Aplikace mohou číst oznámení (celkem %d)</item>
+        <item quantity="one">%d aplikace může číst oznámení</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Zadali jste nesprávný kód PIN SIM karty. Počet zbývajících pokusů: %d.</item>
+        <item quantity="one">Zadali jste nesprávný kód PIN SIM karty. Máte ještě %d pokus, poté budete muset o odemknutí zařízení požádat svého operátora.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">Počet nalezených tiskáren: %1$s</item>
+        <item quantity="one">Byla nalezena %1$s tiskárna</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Počet kroků do získání stavu zařízení: %1$d.</item>
+        <item quantity="one">Počet kroků do získání stavu zařízení: %1$d.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Počet kroků do získání stavu vývojáře: %1$d.</item>
+        <item quantity="one">Počet kroků do získání stavu vývojáře: %1$d.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Počet kroků do nahlášení chyby: %1$d.</item>
+        <item quantity="one">Počet kroků do nahlášení chyby: %1$d.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Počet aplikací poskytující podmínky: %d</item>
+        <item quantity="one">%d aplikace poskytuje podmínky</item>
+    </plurals>
+    <plurals name="status_bar_settings_disabled_header_title">
+        <item quantity="other">"%s apl. nemůže zobrazit upozornění"</item>
+        <item quantity="one">"1 apl. nemůže zobrazit upozornění"</item>
+    </plurals>
+    <plurals name="status_bar_settings_enabled_header_title">
+        <item quantity="other">%s apl. může zobrazit upozornění</item>
+        <item quantity="one">1 apl. může zobrazit upozornění</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+         <item quantity="other">Vždy vypnout pro %d apl.</item>
+         <item quantity="one">Vždy vypnout pro 1 apl.</item>
+     </plurals>
+     <plurals name="auto_disable_screenbuttons_disabled_header_title">
+         <item quantity="other">Nikdy nevypínat pro %d apl.</item>
+         <item quantity="one">Nikdy nevypínat pro 1 apl.</item>
+     </plurals>
+     <plurals name="notification_apps">
+         <item quantity="other">%d apl. obsahuje ohrožení soukromí</item>
+         <item quantity="one">%d apl. obsahuje ohrožení soukromí</item>
+     </plurals>	
+</resources>
