@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Přidat časté fráze</string>
   <string name="alwaysUsePrompt">Nastavit jako výchozí (už se neptat)</string>
   <string name="android_ringtone_default_with_actual">Výchozí zvonění (%1$s)</string>
   <string name="android_ringtone_silent">Žádné</string>
@@ -33,16 +34,21 @@
   <string name="cut">Vyjmout</string>
   <string name="day_following_good_friday"/>
   <string name="default_name">Výchozí</string>
+  <string name="delete_frequent_phrases">Vymazat časté fráze</string>
+  <string name="delete_frequent_phrases_confirm">Vymazat vybrané fráze?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">MiPAD</string>
   <string name="device_xiaomi">Xiaomi</string>
   <string name="double_seventh_day"/>
   <string name="easter"/>
+  <string name="edit_frequent_phrases">Upravit časté fráze</string>
   <string name="first_back_long_press_message">"Chcete používat dlouhé stlačení klávesy Zpět k ukončení aktivní aplikace? \nFunkci zapnete v Nastavení systému &gt; Tlačítka"</string>
   <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
   <string name="fools_day"/>
   <string name="force_exit_message">Aplikace \"%1$s\" byla úspěšně ukončena"</string>
   <string name="force_exit_skip_message">%1$s je systémová aplikace a nemůže být ukončena.</string>
+  <string name="frequent_phrases_des">Vložte rychle často používané fráze</string>
+  <string name="frequent_phrases_size_exceeded">Nelze přidat více, než 10 frází.</string>
   <string name="global_actions_airplane_mode">Režim letadlo</string>
   <string name="global_actions_reboot">Restart</string>
   <string name="global_actions_shutdown">Vypnout</string>
@@ -99,6 +105,9 @@
   <string name="maml_component_customization_title">Nastavení</string>
   <string name="memory_clear_nothing_result">Paměť RAM je čistá</string>
   <string name="memory_clear_result">"Uvolněno: %1$sB \nDostupné: %2$sB"</string>
+  <string name="menu_add_frequent_phrases">Přidat</string>
+  <string name="menu_delete">Vymazat</string>
+  <string name="menu_edit">Upravit</string>
   <string name="mibi_license">Podmínky používání MiCredit</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
@@ -195,13 +204,4 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
-   <string name="add_frequent_phrases">Přidat časté fráze</string>
-   <string name="delete_frequent_phrases">Vymazat časté fráze</string>
-   <string name="delete_frequent_phrases_confirm">Vymazat vybrané fráze?</string>
-   <string name="edit_frequent_phrases">Upravit časté fráze</string>
-   <string name="frequent_phrases_des">Vložte rychle často používané fráze</string>
-   <string name="frequent_phrases_size_exceeded">Nelze přidat více, než 10 frází.</string>
-   <string name="menu_add_frequent_phrases">Přidat</string>
-   <string name="menu_delete">Vymazat</string>
-   <string name="menu_edit">Upravit</string>
 </resources>

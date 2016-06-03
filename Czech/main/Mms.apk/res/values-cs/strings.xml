@@ -19,6 +19,8 @@
   <string name="add_slide_hint">Umožňuje vytvořit nový snímek.</string>
   <string name="add_smiley">Přidat smajlík</string>
   <string name="add_timing">Časovač</string>
+  <string name="add_to_browser_favorite_failed">selhalo</string>
+  <string name="add_to_browser_favorite_success">úspěšné</string>
   <string name="add_video">Přidat video</string>
   <string name="adding_attachments">Čekejte prosím, než budou položky přidány do prezentace.</string>
   <string name="adding_attachments_title">Přidávání příloh</string>
@@ -47,6 +49,7 @@
   <string name="bookmark_confirm_delete_message">Vybrané zprávy budou odstraněny z oblíbených</string>
   <string name="bookmark_empty">Žádné oblíbené zprávy</string>
   <string name="bookmark_list_title">Oblíbené</string>
+  <string name="call_sender">Volat odesílatele</string>
   <string name="cannot_add_picture_and_video">Na jeden snímek nelze přidat video a obrázek.</string>
   <string name="cannot_add_slide_anymore">Další snímky nelze přidat.</string>
   <string name="cannot_forward_drm_obj">Objekt DRM obsažený ve zprávě nelze přeposlat.</string>
@@ -117,6 +120,9 @@
   <string name="delete_message">Smazat</string>
   <string name="delete_phrase">Odstranit frázi</string>
   <string name="delete_unlocked">Smazat i zamknuté</string>
+  <string name="delete_wild_sims">Vymazat čísla</string>
+  <string name="delete_wild_sims_confirm">Všechny zprávy z tohoto čísla budou vymazány z vašeho telefonu. Můžete je obnovit na i.mi.com.</string>
+  <string name="delete_wild_sims_title">Vymazat vybraná čísla</string>
   <string name="delivery_report_activity">Potvrzení o doručení</string>
   <string name="delivery_toast_body">Zpráva pro %s doručena</string>
   <string name="disable_notifications_dialog_message">Zamezit duplicitnímu oznamování zpráv pro výchozí SMS/MMS aplikaci?</string>
@@ -363,6 +369,7 @@
   <string name="playing_failed">Nelze přehrát</string>
   <string name="pref_advanced_settings_title">Pokročilá nastavení</string>
   <string name="pref_allow_network_access_summary">Turn on to get the latest info on delivery and other services.</string>
+  <string name="pref_cell_broadcast">Cell Broadcasts</string>
   <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy od banky, operátora, atd.</string>
   <string name="pref_edit_smsc_address">Číslo SMS centra (SMSC)</string>
   <string name="pref_forward_title">Přeposlat</string>
@@ -518,6 +525,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
   <string name="share_img">Sdílet</string>
   <string name="show_all_messages">Zobrazit všechny zprávy</string>
+  <string name="show_sender">Zobrazit info o odesílateli</string>
   <string name="sim_card1">SIM karta 1</string>
   <string name="sim_card2">SIM karta 2</string>
   <string name="sim_card_cloud">%s (Cloudová zpráva)</string>
@@ -630,12 +638,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
-  <string name="call_sender">Volat odesílatele</string>
-  <string name="show_sender">Zobrazit info o odesílateli</string>
-  <string name="pref_cell_broadcast">Cell Broadcasts</string>
-  <string name="add_to_browser_favorite_failed">selhalo</string>
-  <string name="add_to_browser_favorite_success">úspěšné</string>
-  <string name="delete_wild_sims">Vymazat čísla</string>
-   <string name="delete_wild_sims_confirm">Všechny zprávy z tohoto čísla budou vymazány z vašeho telefonu. Můžete je obnovit na i.mi.com.</string>
-   <string name="delete_wild_sims_title">Vymazat vybraná čísla</string>  
 </resources>

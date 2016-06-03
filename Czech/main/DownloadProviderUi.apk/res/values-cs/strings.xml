@@ -210,6 +210,12 @@
   <string name="subbt_wait">ˇV pořadí...</string>
   <string name="task_detail">Úlohy</string>
   <string name="task_detail_notfound_confirm">OK</string>
+  <string name="third_web_cancel">Zrušit</string>
+  <string name="third_web_confirm">OK</string>
+  <string name="third_web_default">Pamatovat si umístění</string>
+  <string name="third_web_filename_hint">Název</string>
+  <string name="third_web_filesize">Velikost</string>
+  <string name="third_web_savepath">Umístění</string>
   <string name="third_web_title">Stáhnout</string>
   <string name="title_tips">Upozornění</string>
   <string name="title_unbind_xunlei">Odebrat Xunlei účet</string>
@@ -238,10 +244,4 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-  <string name="third_web_cancel">Zrušit</string>
-   <string name="third_web_confirm">OK</string>
-   <string name="third_web_default">Pamatovat si umístění</string>
-   <string name="third_web_filename_hint">Název</string>
-   <string name="third_web_filesize">Velikost</string>
-   <string name="third_web_savepath">Umístění</string>
 </resources>

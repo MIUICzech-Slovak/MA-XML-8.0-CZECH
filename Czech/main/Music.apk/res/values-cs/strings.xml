@@ -79,6 +79,7 @@
   <string name="delete_file_end">Soubory vymazány</string>
   <string name="delete_file_start">Vymazat soubory</string>
   <string name="desc_online_personal_radio">Přesně pro Vás</string>
+  <string name="desktop_lyric_lock_toast">Uzamčeno. Použijte Mini Přehrávač v liště pro odblokování</string>
   <string name="device_connected">Připojeno</string>
   <string name="device_not_connected">Nepřipojeno</string>
   <string name="dialog_button_agree">Souhlasím</string>
@@ -286,6 +287,8 @@
   <string name="more_online_release">Více</string>
   <string name="more_online_song">Více</string>
   <string name="more_online_suggest">Více</string>
+  <string name="more_settings">Více nastavení</string>
+  <string name="more_settings_summary">Nastavení stahování, spánku, mobilních dat atd.</string>
   <string name="multichoice">Vybrat</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_filter">Filtrovat audio soubory</string>
@@ -350,6 +353,10 @@
   <string name="pay_now">Zaplatit nyní</string>
   <string name="payment_fail">Platba selhala</string>
   <string name="payment_success">Zaplaceno</string>
+  <string name="permission_declaration_message">Povolte přístup k úložišti v aplikaci Optimalizace &gt; Povolení &gt; Správa povolení &gt; Úložiště &gt; Hudba pro správné fungování aplikace.</string>
+  <string name="permission_declaration_negative_text">Později</string>
+  <string name="permission_declaration_positive_text">Přejít do aplikace Optimalizace</string>
+  <string name="permission_declaration_title">Povolit</string>
   <string name="play_all_song">Přehrát vše</string>
   <string name="play_next">Přehrát další</string>
   <string name="playback_failed_no_title_by_bad_file">Skladbu nelze přehrát, nepodporovaný formát, nebo soubor neexistuje.</string>
@@ -411,6 +418,7 @@
   <string name="set_lyric_successful">Text skladby uložen</string>
   <string name="set_ringtones_failed">Nastavení zvonění selhalo.</string>
   <string name="set_ringtones_successful">%s nastaveno jako zvonění.</string>
+  <string name="settings">Nastavení</string>
   <string name="settings_notification_text">Zobrazit ovládání hudby v roletce</string>
   <string name="settings_notification_title">Widget v roletce</string>
   <string name="share_append_text">Od @小米音乐</string>
@@ -464,6 +472,7 @@
   <string name="title_online_suggest">Mohlo by se vám líbit</string>
   <string name="title_search_history">Prohledat historii</string>
   <string name="title_search_hot">Horké</string>
+  <string name="toast_cancel_play">Přehrávání zrušeno</string>
   <string name="today_update">Aktualizovaná Hudba</string>
   <string name="too_freq">Příliš častá operace</string>
   <string name="tos">Podmínky používání</string>
@@ -499,13 +508,4 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
-  <string name="more_settings">Více nastavení</string>
-  <string name="more_settings_summary">Nastavení stahování, spánku, mobilních dat atd.</string>
-  <string name="settings">Nastavení</string>
-  <string name="toast_cancel_play">Přehrávání zrušeno</string>
-  <string name="desktop_lyric_lock_toast">Uzamčeno. Použijte Mini Přehrávač v liště pro odblokování</string>
-   <string name="permission_declaration_message">Povolte přístup k úložišti v aplikaci Optimalizace &gt; Povolení &gt; Správa povolení &gt; Úložiště &gt; Hudba pro správné fungování aplikace.</string>
-   <string name="permission_declaration_negative_text">Později</string>
-   <string name="permission_declaration_positive_text">Přejít do aplikace Optimalizace</string>
-   <string name="permission_declaration_title">Povolit</string>
 </resources>

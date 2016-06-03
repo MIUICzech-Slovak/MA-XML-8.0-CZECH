@@ -115,8 +115,10 @@
   <string name="files_backup_info">Všechny soubory na SD kartě (včetně fotografií, hudby, videí, dat apl., atd.)</string>
   <string name="findlost_contact">Obnovit kontakty</string>
   <string name="findlost_contact_online">Obnovit kontakt online</string>
+  <string name="guarded_mode_dialog_backup_message">Záloha není povolena v režimu Návštěvník.</string>
   <string name="guarded_mode_dialog_message">V režimu Návštěvník nelze vytvářet nebo obnovovat zálohy</string>
   <string name="guarded_mode_dialog_title">Režim Návštěvník</string>
+  <string name="guarded_mode_dialog_transfer_message">Přenos není povolen v režimu Návštěvník.</string>
   <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Xiaomi"</string>
   <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku, pokud již existuje záloha</string>
   <string name="import_from_xiaomi_account_hint_title">Pro zálohování kontaktů používejte MiTalk</string>
@@ -138,6 +140,8 @@
   <string name="miliao_account_login">Přihlásit k MiTalk</string>
   <string name="mms_title">Multimediální zprávy</string>
   <string name="multi_select_title">Vybrané položky: %1$s</string>
+  <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
+  <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="never">Nikdy</string>
   <string name="new_backup">Zálohovat</string>
   <string name="no_encrypt_password">Šifrování bez hesla</string>
@@ -150,6 +154,8 @@
   <string name="notif_restore_complete_title">Obnova dokončena</string>
   <string name="notif_restore_content">Obnovení uživatelských dat</string>
   <string name="notif_restore_title">Obnovit data</string>
+  <string name="notif_trans_receiving_completed">Data úspěšně přijata</string>
+  <string name="notif_trans_sending_completed">Data úspěšně odeslána</string>
   <string name="page_loading">Načítání...</string>
   <string name="progress_backup_hint">Zálohování dat...</string>
   <string name="progress_restore_hint">Obnovování dat...</string>
@@ -275,7 +281,9 @@ a stiskněte [Jsem odesílatel]"</string>
   <string name="trans_please_waiting">Čekejte prosím...</string>
   <string name="trans_progress_subdescript_br_receiver">Obnovení %1$s, %2$s dokončeno</string>
   <string name="trans_progress_subdescript_br_sender">Zálohování %1$s, %2$s dokončeno</string>
+  <string name="trans_progress_subdescript_br_sender_finish">Zálohováno %s, čeká na odeslání...</string>
   <string name="trans_progress_subdescript_transing_receiver">Přijímání %1$s, %2$s dokončeno</string>
+  <string name="trans_progress_subdescript_transing_receiver_finish">Přijato %s, čeká na obnovení...</string>
   <string name="trans_progress_subdescript_transing_sender">Odesílání %s</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Přijímání souborů, %s dokončeno</string>
   <string name="trans_progress_subdescript_transingsd_sender">Odesílání souborů, %s dokončeno</string>
@@ -324,29 +332,21 @@ a Přenos je povolen"</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">ks</string>
   <string name="unknown_hint">Neznámý</string>
+  <string name="user_notice_declaration_ignore">Znovu nezobrazovat</string>
+  <string name="user_notice_message">Některé funkce vyžadují připojení k internetu.</string>
+  <string name="user_notice_title">Upozornění</string>
   <string name="wifi_title">Wi-Fi nastavení</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+  <string name="xiaomi_external_storage_unavailable">Úložiště je nedostupné, zkontrolujte SD kartu.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
-  <string name="notif_trans_receiving_completed">Data úspěšně přijata</string>
-   <string name="notif_trans_sending_completed">Data úspěšně odeslána</string>
-   <string name="trans_progress_subdescript_br_sender_finish">Zálohováno %s, čeká na odeslání...</string>
-   <string name="trans_progress_subdescript_transing_receiver_finish">Přijato %s, čeká na obnovení...</string>
-   <string name="xiaomi_bytes_unit">%1$sB</string>
-   <string name="xiaomi_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-   <string name="xiaomi_external_storage_unavailable">Úložiště je nedostupné, zkontrolujte SD kartu.</string>
-   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-   <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
  Size: %2$s"</string>
-   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
-   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
-   <string name="user_notice_declaration_ignore">Znovu nezobrazovat</string>
-   <string name="user_notice_message">Některé funkce vyžadují připojení k internetu.</string>
-   <string name="user_notice_title">Upozornění</string>
-   <string name="guarded_mode_dialog_backup_message">Záloha není povolena v režimu Návštěvník.</string>
-   <string name="guarded_mode_dialog_transfer_message">Přenos není povolen v režimu Návštěvník.</string>
-   <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
-   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
+  <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
 </resources>

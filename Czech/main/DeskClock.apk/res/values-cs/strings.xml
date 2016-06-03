@@ -62,6 +62,8 @@
   <string name="label_pref_summary">Název tohoto budíku</string>
   <string name="lap">Kolo</string>
   <string name="lap_num">Kolo</string>
+  <string name="legal_off_day">Dny volna</string>
+  <string name="legal_off_day_message">" (Budík je vypnutý během volných dní)"</string>
   <string name="legal_workday">Pracovní den</string>
   <string name="legal_workday_invalidate">Seznam svátků není aktuální (Nastaveno je buzení od pondělí do pátku)</string>
   <string name="legal_workday_invalidate_message">(Seznam svátků není aktuální, aktualizujte v Nastaveních)</string>
@@ -77,6 +79,7 @@
   <string name="minute">1 min.</string>
   <string name="minutes">%s min.</string>
   <string name="never">Jednou</string>
+  <string name="oneshot_alarm">Vymazat budík po vypnutí</string>
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Vyzváněcí tón</string>
   <string name="reset">Reset</string>
@@ -131,7 +134,4 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="legal_off_day">Dny volna</string>
-   <string name="legal_off_day_message">" (Budík je vypnutý během volných dní)"</string>
-   <string name="oneshot_alarm">Vymazat budík po vypnutí</string>
 </resources>

@@ -22,6 +22,9 @@
   <string name="account">Účet</string>
   <string name="account_prifix">Účet:</string>
   <string name="action">Přihlásit</string>
+  <string name="action_menu_account_not_login">Nepřihlášen</string>
+  <string name="action_menu_account_not_login_hint">Použít nastavení MiCloud pro přihlášení</string>
+  <string name="action_menu_bookshelf">Bookshelf</string>
   <string name="action_menu_current_version">Aktuální verze</string>
   <string name="action_menu_text_add_bookmark">Přidat záložku</string>
   <string name="action_menu_text_bandwidth">Úspora dat</string>
@@ -44,6 +47,9 @@
   <string name="action_menu_text_share">Sdílet</string>
   <string name="action_menu_text_snapshot">Uložit stránku</string>
   <string name="action_menu_text_video">Video</string>
+  <string name="action_menu_toolbox">Nástroje</string>
+  <string name="action_menu_useful_page">Přidat užitečné</string>
+  <string name="action_menu_useful_page_added">Přidáno</string>
   <string name="actionbar_share">Sdílet</string>
   <string name="actionbar_web_search">Hledat</string>
   <string name="adblock_notification">Blokované reklamy: %d</string>
@@ -106,6 +112,8 @@
   <string name="bookmark_URL_already_exisit">Záložka již existuje</string>
   <string name="bookmark_add_group_text_header">Přidat vybrané %1$d do skupiny</string>
   <string name="bookmark_add_to">Přidat do</string>
+  <string name="bookmark_btn_select_all">Vše</string>
+  <string name="bookmark_btn_select_none">Odznačit</string>
   <string name="bookmark_cannot_save_url">"Tuto URL nelze uložit mezi záložky."</string>
   <string name="bookmark_folder_needs_title">Složka musí mít název.</string>
   <string name="bookmark_group_lable">Skupina</string>
@@ -176,6 +184,8 @@
   <string name="color_picker_hue">Odstín</string>
   <string name="color_picker_saturation">Sytost barvy</string>
   <string name="color_picker_value">Hodnota</string>
+  <string name="comment_app_menu">Komentář</string>
+  <string name="comment_menu">Komentář</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.sk</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.cz</string>
   <string name="common_use_phrase_bottom_bar_down_analytic_txt">Sbalit</string>
@@ -216,6 +226,10 @@
   <string name="current_version_pad">Tablet</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Telefon</string>
+  <string name="custom_head_card_text">"Always believe that something wonderful
+ is about to happen"</string>
+  <string name="custom_head_card_text_incognito">"Only God and you know that
+ privacy window​"</string>
   <string name="data_traffic_prompt_change">Přehrávání videí na mobilním připojení může výrazně zvýšit vaše poplatky.</string>
   <string name="data_traffic_prompt_message">Prohlížení webu na mobilním připojení může výrazně zvýšit vaše poplatky.</string>
   <string name="data_traffic_prompt_title">Spotřeba dat</string>
@@ -388,6 +402,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="loading_tips">Potáhněte pro obnovení</string>
   <string name="local_bookmarks">Místní</string>
   <string name="location">Adresa</string>
+  <string name="login_failed_toast">Přihlášení selhalo.</string>
   <string name="low_memory_error">Nebylo možné dokončit předchozí akci z důvodu malé dostupné paměti</string>
   <string name="max_tabs_warning">Další karty nejsou dostupné</string>
   <string name="maximum_input_alert">Maximálně 2048 znaků</string>
@@ -745,6 +760,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="remove_snapshot">Smazat uloženou stránku</string>
   <string name="removed_from_bookmarks">Odstraněno ze záložek.</string>
   <string name="replace">Nahradit</string>
+  <string name="reply_comment_title">Odpověď: %s</string>
   <string name="resume_download">Spustit</string>
   <string name="retry_after_network_available">Nelze se připojit k síti</string>
   <string name="retry_download">Znovu</string>
@@ -804,6 +820,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="select_dot">Vybrat text</string>
   <string name="select_download_device">Vyberte zařízení</string>
   <string name="send_bookmark_to_home_screen">Odeslat na plochu</string>
+  <string name="send_comment_button">Odeslat</string>
+  <string name="send_comment_title">Komentář</string>
   <string name="send_to_popular">Populární</string>
   <string name="set_as_homepage">Nastavit jako domovskou stránku</string>
   <string name="share_link">Sdílet odkaz</string>
@@ -1018,22 +1036,4 @@ Opravdu chcete odejít z této stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
-  <string name="action_menu_account_not_login">Nepřihlášen</string>
-   <string name="action_menu_account_not_login_hint">Použít nastavení MiCloud pro přihlášení</string>
-   <string name="action_menu_bookshelf">Bookshelf</string>
-   <string name="action_menu_toolbox">Nástroje</string>
-   <string name="action_menu_useful_page">Přidat užitečné</string>
-   <string name="action_menu_useful_page_added">Přidáno</string>
-   <string name="comment_app_menu">Komentář</string>
-   <string name="comment_menu">Komentář</string>
-   <string name="custom_head_card_text">"Always believe that something wonderful
- is about to happen"</string>
-   <string name="custom_head_card_text_incognito">"Only God and you know that
- privacy window​"</string>
-  <string name="login_failed_toast">Přihlášení selhalo.</string>
-  <string name="reply_comment_title">Odpověď: %s</string>
-  <string name="send_comment_button">Odeslat</string>
-  <string name="send_comment_title">Komentář</string>
-  <string name="bookmark_btn_select_all">Vše</string>
-  <string name="bookmark_btn_select_none">Odznačit</string>
 </resources>

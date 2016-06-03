@@ -150,6 +150,7 @@
   <string name="downloading">Stahování...</string>
   <string name="downloading_in_3g">Stahování přes 3G...</string>
   <string name="email_platform">E-mail</string>
+  <string name="enable_documentsui">Nejprve povolte %s v Nastavení - Nainstalované aplikace</string>
   <string name="enable_sd_card">Povolit SD kartu</string>
   <string name="enable_usb">Připojte USB zařízení</string>
   <string name="encrypt_error">Nelze vytvořit soukromé soubory, zkuste to znovu.</string>
@@ -157,10 +158,12 @@
   <string name="encrypt_success">Úspěšně skryto</string>
   <string name="encrypt_success_first_five">Úspěšně zašifrováno. Potáhněte dolů hlavní stránku aplikace Soubory pro jejich zobrazení.</string>
   <string name="encrypting">Šifrování...</string>
+  <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /MIUI/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
   <string name="error_filename_too_long">Název souboru je příliš dlouhý</string>
   <string name="error_info_cant_send_folder">Složka nemůže být přesunuta</string>
   <string name="error_open_file_failed_no_app_found">Nebyla nalezena aplikace pro otevření tohoto souboru</string>
   <string name="expand_all">Vše</string>
+  <string name="extended_storage_file_can_not_open">Nelze otevřít soubor. Zkopírujte soubor na interní úložiště.</string>
   <string name="extract">Rozbalit</string>
   <string name="fail_to_create_folder">Složku nelze vytvořit, složka již existuje</string>
   <string name="fail_to_create_folder_unknown">Nelze vytvořit složku.</string>
@@ -351,6 +354,7 @@ and never miss the cool new ones!"</string>
   <string name="no_tasks">Žádné úkoly</string>
   <string name="no_wifi">Žádná Wi-Fi síť není v dosahu</string>
   <string name="no_wifi_hint">Nebylo nalezeno Wi-Fi připojení</string>
+  <string name="not_installed_documentsui">Nemáte nainstalovanou aplikaci DocumentsUI (Dokumenty)</string>
   <string name="notif_server_starting">Spouští se služba FTP server</string>
   <string name="notif_title">Služba FTP server běží</string>
   <string name="notification_content_hint">Zobrazit</string>
@@ -454,6 +458,7 @@ and never miss the cool new ones!"</string>
   <string name="repair_done">Obnoveno</string>
   <string name="repair_error">Nelze obnovit</string>
   <string name="repair_file">Obnovit šifrované soubory</string>
+  <string name="request_timeout">Požadavek sítě neodpovídá</string>
   <string name="reset_password">Obnovit heslo</string>
   <string name="restoring">Obnovení...</string>
   <string name="rlv_last_loading_time">Naposledy obnoveno: %1$s</string>
@@ -511,6 +516,7 @@ and never miss the cool new ones!"</string>
   <string name="server_control_advanced_settings">Pokročilé nastavení</string>
   <string name="server_control_charset">Kódování přenosu</string>
   <string name="server_control_settings">Nastavení</string>
+  <string name="server_error">Chyba serveru, zkuste to znovu. (Chyba %s)</string>
   <string name="share_box">Sdíleno</string>
   <string name="share_box_receive">Přijato</string>
   <string name="share_box_send">Odesláno</string>
@@ -566,6 +572,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="tag_weixin_video">Malá videa</string>
   <string name="terabyteShort">TB</string>
   <string name="title_app_tags">Aplikace</string>
+  <string name="title_enable_documentsui">Povolte Dokumenty</string>
   <string name="title_expire_video">Brzy vyprší platnost</string>
   <string name="title_more_source">Více aplikací</string>
   <string name="title_recent">Nedávné</string>
@@ -627,11 +634,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="enable_documentsui">Nejprve povolte %s v Nastavení - Nainstalované aplikace</string>
-  <string name="not_installed_documentsui">Nemáte nainstalovanou aplikaci DocumentsUI (Dokumenty)</string>
-  <string name="title_enable_documentsui">Povolte Dokumenty</string>
-  <string name="error_contains_sharer_path">Nelze dešifrovat soubory ve složce /MIUI/Gallery/cloud/sharer. Přesuňte soubory do jiné složky a zkuste to znovu.</string>
-  <string name="extended_storage_file_can_not_open">Nelze otevřít soubor. Zkopírujte soubor na interní úložiště.</string>
-  <string name="request_timeout">Požadavek sítě neodpovídá</string>
-   <string name="server_error">Chyba serveru, zkuste to znovu. (Chyba %s)</string>
 </resources>

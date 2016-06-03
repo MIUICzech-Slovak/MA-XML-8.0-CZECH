@@ -135,6 +135,7 @@
   <string name="call_record_auto_whitelist_no_item">Přidejte číslo stisknutím tlačítka +</string>
   <string name="call_record_auto_whitelist_summary">Čísel: %d</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 číslo</string>
+  <string name="call_record_loading_content">Načítání...</string>
   <string name="call_record_off_summary">Nahrávání deaktivováno</string>
   <string name="call_record_on_summary">Nahrávání aktivováno</string>
   <string name="call_record_setting">Nahrávání hovorů</string>
@@ -731,6 +732,7 @@
   <string name="onscreenSwapCallsText">Zaměnit</string>
   <string name="onscreenVideoCallText">Video hovor</string>
   <string name="open_miui">Otevřít</string>
+  <string name="operator_mins_first_close">Vypnout</string>
   <string name="optional_summary">Volitelné</string>
   <string name="ota_activate">Aktivovat</string>
   <string name="ota_call_end">Zpět</string>
@@ -971,6 +973,8 @@ Počet zbývajících pokusů: %d."</string>
   <string name="roaming">Data při roamingu</string>
   <string name="roaming_disable">Datové přenosy v roamingu</string>
   <string name="roaming_enable">Datové přenosy v roamingu</string>
+  <string name="roaming_notification_content">Můžete přidat automaticky kód země.</string>
+  <string name="roaming_notification_title">Roaming je aktivní</string>
   <string name="roaming_reenable_message">Připojení datových služeb bylo přerušeno, protože jste opustili domovskou síť a datové služby při roamingu máte vypnuty.</string>
   <string name="roaming_warning">Opravdu chcete povolit datové služby při roamingu? Vystavujete se nebezpečí vysokých poplatků.</string>
   <string name="rsp_unlock_failed">Požadavek na odemknutí poskytovatele sítě UIM nebyl úspěšný.</string>
@@ -1090,6 +1094,8 @@ Počet zbývajících pokusů: %d."</string>
   <string name="telocation_contacts_countrycode">Výchozí kód země</string>
   <string name="telocation_contacts_countrycode_hint">Zadejte kód země</string>
   <string name="telocation_contacts_countrycode_summary">Výchozí kód vaší země: %s</string>
+  <string name="telocation_country_code_enabled_message">Přidat kód země při volání pro pohodlnější volání domů.</string>
+  <string name="telocation_country_code_enabled_title">Přidat kód země při volání</string>
   <string name="telocation_countrycode_alert_message">Zadejte telefonní číslo bez kódu země</string>
   <string name="telocation_countrycode_alert_message_warning">Zadaný kód země je zřejmě nesprávný.</string>
   <string name="telocation_countrycode_alert_message_wrong">Zadaný kód země je nesprávný.</string>
@@ -1187,10 +1193,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="roaming_notification_title">Roaming je aktivní</string>
-   <string name="roaming_notification_content">Můžete přidat automaticky kód země.</string>
-   <string name="telocation_country_code_enabled_message">Přidat kód země při volání pro pohodlnější volání domů.</string>
-   <string name="telocation_country_code_enabled_title">Přidat kód země při volání</string>  
-   <string name="call_record_loading_content">Načítání...</string>
-   <string name="operator_mins_first_close">Vypnout</string>
 </resources>

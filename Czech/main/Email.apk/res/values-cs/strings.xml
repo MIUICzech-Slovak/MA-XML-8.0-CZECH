@@ -362,6 +362,7 @@
   <string name="contact_list_add_btn">Přidat</string>
   <string name="contact_list_search_hint">Vyhledat kontakty</string>
   <string name="contact_list_title">Seznam kontaktů</string>
+  <string name="contact_permission_error">Přístup ke kontaktům zamítnut</string>
   <string name="contact_select">Vybrat kontakty</string>
   <string name="content_description">%1$s – %2$s, %3$s, dne %4$s, %5$s</string>
   <string name="content_description_today">%1$s – %2$s, %3$s v %4$s, %5$s</string>
@@ -468,6 +469,9 @@
   <string name="expand_recipient_details">Rozbalit podrobnosti o příjemci</string>
   <string name="fail_get_email_message">Načítání zprávy selhalo.</string>
   <string name="failed">Fotografii nelze načíst</string>
+  <string name="failed_read_phone_state_permission">Nemá povolení pro přístup ke stavu zařízení</string>
+  <string name="failed_read_write_calendar_permission">Nemá povolení pro přístup ke kalendáři</string>
+  <string name="failed_read_write_contacts_permission">Nemá povolení pro přístup ke kontaktům</string>
   <string name="feedback">Odeslat názor</string>
   <string name="feedback_body">Informace o zpětné vazbě</string>
   <string name="feedback_sent">Děkujeme za váš názor.</string>
@@ -875,6 +879,7 @@ Kopie: %4$s
   <string name="report_phishing">Nahlásit neopráv. získ. údajů</string>
   <string name="report_spam">Nahlásit spam</string>
   <string name="request_entity_large">Požadovaný soubor je příliš velký!</string>
+  <string name="request_permission_activity">Je nutné povolení</string>
   <string name="require_manual_sync_message">Synchronizace na pozadí je v tomto účtu při roamingu zakázána.</string>
   <string name="respond_inline">Vložená odpověď</string>
   <string name="resume_draft">Upravit</string>
@@ -1024,6 +1029,8 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="widget_all_mail">Všechny zprávy</string>
   <string name="widget_large_unread_count">%d</string>
   <string name="widget_other_views">Ostatní</string>
+  <string name="wipe_account_fail_description">Dotykem udělíte povolení</string>
+  <string name="wipe_account_fail_title">Vymazání osobních údajů selhalo</string>
   <string name="wrong_password">Nesprávné heslo!</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Úložiště je nedostupné, zkontrolujte SD kartu.</string>
@@ -1037,11 +1044,4 @@ Velikost aplikace: %2$s"</string>
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="failed_read_phone_state_permission">Nemá povolení pro přístup ke stavu zařízení</string>
-   <string name="failed_read_write_calendar_permission">Nemá povolení pro přístup ke kalendáři</string>
-   <string name="failed_read_write_contacts_permission">Nemá povolení pro přístup ke kontaktům</string>
-   <string name="contact_permission_error">Přístup ke kontaktům zamítnut</string>
-   <string name="request_permission_activity">Je nutné povolení</string>
-   <string name="wipe_account_fail_description">Dotykem udělíte povolení</string>
-   <string name="wipe_account_fail_title">Vymazání osobních údajů selhalo</string>
 </resources>
