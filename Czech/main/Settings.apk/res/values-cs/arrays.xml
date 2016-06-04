@@ -210,9 +210,10 @@
         <item>Zásobník volání funkce glGetError</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Silné</item>
-        <item>Střední</item>
+        <item>Vypnuté</item>
         <item>Slabé</item>
+        <item>Střední</item>
+        <item>Silné</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nikdy nepoužívat kontrolu HDCP</item>
