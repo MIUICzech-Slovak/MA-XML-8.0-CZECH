@@ -64,7 +64,7 @@
 Zadejte město manuálně"</string>
   <string name="location_management">Města</string>
   <string name="location_tag">Lokalizovat</string>
-  <string name="menu_add_city">Přidat nebo vymazat město</string>
+  <string name="menu_add_city">Přidat nebo odebrat město</string>
   <string name="menu_location">Města</string>
   <string name="network_not_available">Nelze se připojit k síti</string>
   <string name="network_unavailable">Žádná síť</string>
