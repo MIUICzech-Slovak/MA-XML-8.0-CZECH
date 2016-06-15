@@ -7,7 +7,6 @@
   <string name="altitude_uncalibrate_tip">Nelze kalibrovat nadmořskou výšku.</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
-  <string name="calibrate_altitude">Kalibrace</string>
   <string name="calibrate_failed">Kalibrace nadmořské výšky selhala</string>
   <string name="calibrate_failed_no_location">Kalibrace selhala. Nelze získat aktuální polohu</string>
   <string name="calibrate_failed_timeout">Kalibrace selhala: Čas připojení na server vypršel</string>
@@ -32,7 +31,6 @@
   <string name="error_camera_unavailable_title">Fotoaparát není dostupný</string>
   <string name="first_using_dialog_message">Kompas používá vaše internetové připojení, fotoaparát a vaši polohu.</string>
   <string name="first_using_dialog_title">Podmínky používání</string>
-  <string name="getting_location">Kalibrace...</string>
   <string name="guide_toast">"Prosím zkalibrujte kompas pohybem ve tvaru osmičky"</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
@@ -45,14 +43,11 @@
   <string name="location_south">S</string>
   <string name="location_west">W</string>
   <string name="longitude">LON</string>
-  <string name="menu_calibrate">Kalibrovat kompas</string>
   <string name="mobiledata_alert_dialog_message">Připojit se k internetu pro kalibraci nadmořské výšky?</string>
   <string name="mobiledata_alert_dialog_title">Upozornění</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
   <string name="shake_enter_tip">Zatřesením zkalibrujete</string>
   <string name="using_camera_confirm_cancel">Ukončit</string>
-  <string name="using_camera_confirm_message">Kompas využívá i aplikaci Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>
-  <string name="using_camera_confirm_title">Podmínky používání</string>
 </resources>

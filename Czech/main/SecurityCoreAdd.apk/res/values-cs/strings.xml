@@ -85,7 +85,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="import_contacts_desc">Změnit importované kontakty na soukromé</string>
   <string name="import_contacts_suc">Importované soukromé kontakty</string>
   <string name="import_file_suc">Položky importované do složek</string>
-  <string name="import_now">Exportovat</string>
+  <string name="import_now">Importovat</string>
   <string name="import_photo">Importovat fotografie</string>
   <string name="import_photo_desc">Zobrazit sdílené položky v Druhém profilu</string>
   <string name="import_photo_suc">Importované fotografie</string>
@@ -147,7 +147,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="settings_status_icon_summary">Zobrazit ikonu Druhého profilu v liště</string>
   <string name="settings_status_icon_title">Ikona Druhého profilu</string>
   <string name="settings_switch_shortcut_summary">Zobrazit odkaz Druhého profilu na ploše Primárního profilu</string>
-  <string name="settings_switch_shortcut_title">Dotkněte se odkazu pro přepnutí profilu</string>
+  <string name="settings_switch_shortcut_title">Odkaz pro přepnutí profilu</string>
   <string name="show_normal_content">Nezobrazovat soukromé složky</string>
   <string name="show_private_content">Zobrazit soukromé položky</string>
   <string name="show_private_msg">Zobrazit soukromé zprávy</string>

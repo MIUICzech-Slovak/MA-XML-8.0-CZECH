@@ -5,11 +5,11 @@
   <string name="add_contact">Přidat kontakt</string>
   <string name="add_festival">Doporučené</string>
   <string name="add_nickname">Přezdívka</string>
-  <string name="add_picture">Přidat fotografii</string>
   <string name="add_smiley">Přidat smajlík</string>
   <string name="add_timing">Časovač</string>
   <string name="already_followed">Tuto osobu už sledujete</string>
   <string name="attach_slideshow">Prezentace</string>
+  <string name="attach_image">Obrázky</string>
   <string name="attach_sound">Zvuk</string>
   <string name="attach_subject">Předmět</string>
   <string name="attach_take_photo">Vyfotit</string>
@@ -72,7 +72,6 @@
   <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
   <string name="festival_never_remind">Znovu se neptat</string>
   <string name="festival_sms_loading">Načítám...</string>
-  <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">"Vytvořeno: "</string>
   <string name="file_size">"Velikost: "</string>
   <string name="file_title">"Název: "</string>
@@ -101,6 +100,7 @@
   <string name="message_block_processing">Zpracovávání</string>
   <string name="message_block_reminder">Připomenutí</string>
   <string name="message_failed">Neúspěšné</string>
+  <string name="message_list_all_read">Označit vše jako přečtené</string>
   <string name="message_pending">Odesílání...</string>
   <string name="message_readed">Přečteno</string>
   <string name="message_saved_as_draft">Zpráva byla uložena jako koncept</string>
