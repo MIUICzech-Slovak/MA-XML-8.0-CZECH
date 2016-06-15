@@ -64,9 +64,9 @@
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">narozeniny</string>
-  <string name="button_day">D</string>
-  <string name="button_month">M</string>
-  <string name="button_week">T</string>
+  <string name="button_day">Den</string>
+  <string name="button_month">Měsíc</string>
+  <string name="button_week">Týden</string>
   <string name="calendar_refresh">Aktualizovat</string>
   <string name="calendar_server_error">Chyba serveru</string>
   <string name="can_not_create_long_event">Popis je příliš dlouhý</string>
