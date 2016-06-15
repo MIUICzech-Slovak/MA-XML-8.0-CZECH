@@ -24,7 +24,6 @@
   <string name="analog_gadget">Analogové hodiny</string>
   <string name="app_label">Hodiny</string>
   <string name="auto_silence_never">Nezastavovat</string>
-  <string name="auto_silence_summary">Budík se ztiší po %d minutách</string>
   <string name="auto_silence_title">Autom. ztišení</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Upozornění na narozeniny</string>
@@ -41,7 +40,6 @@
   <string name="default_alarm_alert">Výchozí styl budíku</string>
   <string name="default_alarm_title">Výchozí zvonění</string>
   <string name="default_label">Budík</string>
-  <string name="delelte_selected_timezone">Opravdu chcete vymazat vybrané časové zóny?</string>
   <string name="delete">Smazat</string>
   <string name="delete_alarm">Smazat</string>
   <string name="delete_alarm_confirm">Opravdu smazat označené?</string>
@@ -71,7 +69,6 @@
   <string name="loading_ringtone">Načítání zvonění...</string>
   <string name="menu_add_worldclock">Časová zóna</string>
   <string name="menu_desk_clock">Stolní hodiny</string>
-  <string name="menu_edit_systemtime">Systémový čas</string>
   <string name="menu_edit_timer_item">Upravit časovač</string>
   <string name="menu_item_dock_settings">Nastavení doku</string>
   <string name="menu_item_sort_by_gmt_offset">Seřadit podle času</string>
@@ -95,9 +92,15 @@
   <string name="slider_text">Potáhněte nahoru</string>
   <string name="snooze_confirm_cancel">Zrušit budík</string>
   <string name="snooze_duration_title">Délka odložení</string>
-  <string name="snooze_message">Ztišit na %d min</string>
   <string name="start">Start</string>
   <string name="start_up">Spustit</string>
+  <string name="stat_repeat_everyday">Každý den</string>
+  <string name="stat_repeat_legal_off_day">Svátky</string>
+  <string name="stat_repeat_legal_workday">Pracovní dny</string>
+  <string name="stat_repeat_none">Nikdy</string>
+  <string name="stat_repeat_self_define">Vlastní</string>
+  <string name="stat_repeat_weekdays">Po-Pá</string>
+  <string name="stat_repeat_weekends">Víkend</string>
   <string name="stopwatch_lap_empty_text">Žádné kolo</string>
   <string name="stopwatch_title">Stopky</string>
   <string name="system_time_setting">Nastavení</string>
@@ -112,12 +115,6 @@
   <string name="timer_item_picker_hour">" hod"</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">s</string>
-  <string name="timer_message">%1$d min a %2$d s</string>
-  <string name="timer_message_00">%1$d min a %2$d s</string>
-  <string name="timer_message_01">%1$d min a %2$d s</string>
-  <string name="timer_message_10">%1$d min a %2$d s</string>
-  <string name="timer_message_with_hour">%1$d hod a %2$d min</string>
-  <string name="timer_message_with_seconds">%1$d s</string>
   <string name="timer_new_item">Upravit</string>
   <string name="timer_notify_text">Odložit nebo zrušit časovač</string>
   <string name="timer_start_alarm">Časovač vypršel</string>
