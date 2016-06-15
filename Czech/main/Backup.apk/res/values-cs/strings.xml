@@ -284,7 +284,7 @@ a stiskněte [Jsem odesílatel]"</string>
   <string name="trans_progress_subdescript_br_sender_finish">Zálohováno %s, čeká na odeslání...</string>
   <string name="trans_progress_subdescript_transing_receiver">Přijímání %1$s, %2$s dokončeno</string>
   <string name="trans_progress_subdescript_transing_receiver_finish">Přijato %s, čeká na obnovení...</string>
-  <string name="trans_progress_subdescript_transing_sender">Odesílání %s</string>
+  <string name="trans_progress_subdescript_transing_sender">Odesílání %1$s, %2$s dokončeno</string>
   <string name="trans_progress_subdescript_transingsd_receiver">Přijímání souborů, %s dokončeno</string>
   <string name="trans_progress_subdescript_transingsd_sender">Odesílání souborů, %s dokončeno</string>
   <string name="trans_progress_subdescript_transingsddata_receiver">Přijímání dat z SD karty %1$s, %2$s dokončeno</string>
