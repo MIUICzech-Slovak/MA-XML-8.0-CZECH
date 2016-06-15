@@ -7,10 +7,8 @@
   <string name="activate_finddevice">Připojte se k síti pro aktivaci zařízení</string>
   <string name="activate_number_change_dialog_message">Vyberte telefonní číslo pro aktivaci. Toto číslo se zobrazí volanému přes MiVoice.</string>
   <string name="activating">Aktivace...</string>
-  <string name="alert_notif_title_dspt">Nesynchronizuje</string>
   <string name="antispam_sync">Nastavení režimu Nerušit</string>
   <string name="app_name">MiCloud</string>
-  <string name="app_sync_off">Synchr. apl vypnuta</string>
   <string name="apple_10gb">20GB</string>
   <string name="apple_cloud">Apple Cloud</string>
   <string name="apple_cloud_eng">iCloud</string>
@@ -32,22 +30,9 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="buy_space_sulotion_title">Cloudové úložiště</string>
   <string name="calendar_sync">Kalendář</string>
   <string name="click_to_enabled">Synchronizovat</string>
-  <string name="close_cloud_app_backup_cancel">Zrušit</string>
-  <string name="close_cloud_app_backup_close">Zavřít</string>
-  <string name="close_cloud_app_backup_local_backup">Zálohovat</string>
-  <string name="close_cloud_app_backup_message">Služba zálohy do MiCloud bude ukončena a vaše zálohovaná data budou vymazána 1.5.2015, zálohujte si svá data co nejdříve jiným způsobem.</string>
-  <string name="close_cloud_app_backup_notification_message">Zobrazit více informací</string>
-  <string name="close_cloud_app_backup_notification_title">Upozornění MiCloud zálohy</string>
-  <string name="close_cloud_app_backup_title">Upozornění</string>
-  <string name="cloud_app_back_up_quit_notification_content1">Služba zálohy aplikací do MiCloud bude ukončena pro jiné aplikace, než MIUI. Všechna zálohovaná data doinstalovaných aplikací budou vymazána 1. května 2015. Pro zamezení ztráty dat doinstalovaných aplikací si zálohujte data lokálně.</string>
-  <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatní MIUI aplikace budou i nadále zálohovány.</string>
-  <string name="cloud_app_back_up_quit_notification_content3">Zálohujte data aplikací</string>
   <string name="cloud_back_up_button_ok">Zastavit</string>
   <string name="cloud_back_up_close_info">Zálohovat</string>
-  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_dialog_content">Zastavit zálohování? Přerušením zálohování nebude možné obnovit vaše nastavení.</string>
-  <string name="cloud_back_up_interval_long">7 dní</string>
-  <string name="cloud_back_up_interval_short">1 den</string>
   <string name="cloud_back_up_network_unavailable">Nelze odebrat. Připojte se k Wi-Fi síti.</string>
   <string name="cloud_back_up_open_info">"Zálohovat vaše aplikace jednou za %1$s, když je dostupná Wi-Fi
 Naposledy: %2$s"</string>
@@ -56,24 +41,17 @@ Naposledy: %2$s"</string>
   <string name="cloud_back_up_summary">Zálohovat při připojení k Wi-Fi</string>
   <string name="cloud_back_up_title">Zálohovat zařízení</string>
   <string name="cloud_backup_dialog_title">Zálohovat do MiCloud</string>
-  <string name="cloud_backup_have_data">Nalezena záloha v MiCloud</string>
-  <string name="cloud_backup_select_recover">Vybrat zálohu z MiCloud</string>
   <string name="cloud_find_device">Najít zařízení</string>
   <string name="cloud_restore_title">Obnovit ze zálohy</string>
   <string name="cloud_space_upgrade_message">Stiskněte pro získání %s GB místa tento měsíc</string>
   <string name="cloud_space_upgrade_no_quota_info">Nesprávná data, zkuste to znovu</string>
   <string name="cloud_space_upgrade_title">Získejte více prostoru v Cloudu!</string>
-  <string name="cloud_sync_setting_summary_standard">Synchr. SMS, fotografie a videa po připojení k Wi-Fi</string>
-  <string name="cloud_sync_setting_summary_wlan">Pouze přes Wi-Fi: Synchr. vše pouze přes Wi-Fi</string>
   <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string>
   <string name="connect_network">Připojte se k Wi-Fi nebo vložte SIM kartu</string>
   <string name="connect_wlan">Připojte se k Wi-Fi</string>
   <string name="contact">Kontaktů</string>
-  <string name="current">Současné</string>
-  <string name="data_syncing">Synchr. dat</string>
   <string name="deskclock_backup">Záloha hodin a budíků</string>
-  <string name="detail">Podrobnosti</string>
   <string name="detect_sim_card">Vyhledat SIM kartu</string>
   <string name="disable_find_device_error">Chyba: %1$s</string>
   <string name="disable_find_device_success">Vyhledání zařízení je deaktivováno.</string>
@@ -108,7 +86,6 @@ Naposledy: %2$s"</string>
   <string name="find_device_error_password_changed">Heslo k účtu bylo změněno.</string>
   <string name="find_device_error_server">Chyba serveru</string>
   <string name="find_device_error_unknown">Neznámá chyba.</string>
-  <string name="find_device_noise_title">Najít telefon podle zvuku</string>
   <string name="find_device_notice_p1">Navštivte</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pro zjištění polohy, zablokování nebo vymazání všech dat</string>
@@ -120,14 +97,10 @@ Naposledy: %2$s"</string>
 Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</string>
   <string name="find_device_status_ok">Vyhledejte své zařízení na i.mi.com</string>
   <string name="find_device_status_ok_international">Najděte své zařízení na www.mi.com/micloud</string>
-  <string name="find_device_stop_noise">Zavřít</string>
   <string name="find_device_success_title">Zjišťování polohy je zapnuté</string>
-  <string name="finish">Dokončit</string>
-  <string name="flight_mode">Režim Letadlo</string>
   <string name="forget_password">Zapomenuté heslo</string>
   <string name="free_space_has_received">Tento měsíc již byla navýšena kapacita</string>
   <string name="free_space_receive_fail">Nelze navýšit</string>
-  <string name="full_space">Úložiště je plné</string>
   <string name="get_first_month_gb">Získejte %s prostoru</string>
   <string name="get_this_month_gb">Získejte %s prostoru</string>
   <string name="google_100gb">100GB</string>
@@ -138,13 +111,9 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="header_cloud_restore_summary">Obnovit aplikace, nastavení plochy a systému ze zálohy z MiCloud</string>
   <string name="header_data_and_synchronization">Data a synchronizace</string>
   <string name="header_find_device_settings">Vyhledat zařízení</string>
-  <string name="header_other_settings">Ostatní</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Zadejte heslo</string>
-  <string name="internet">Internet</string>
   <string name="internet_access_dspt">Tato aplikace vyžaduje připojení na internet pro její správné fungování.</string>
-  <string name="internet_disconnected">Internet odpojen</string>
-  <string name="less_flow_mode">Použít mobilní data pro synchr.</string>
   <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení zpráv jděte na %s.</string>
   <string name="loading">Načítání...</string>
   <string name="loading_hint">Načítání...</string>
@@ -152,7 +121,6 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="master_alert_notif_dspt_add">%s nebylo synchronizováno.</string>
   <string name="master_alert_notif_dspt_no">Vše je aktuální.</string>
   <string name="master_alert_notif_title">Povolte MiCloud</string>
-  <string name="micloud">MiCloud</string>
   <string name="micloud_all_sub_1_intl_sms">"Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty. Bude zpoplatněna operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
   <string name="micloud_all_sub_1_sms">"Bude odeslána SMS pro aktivaci vaší SIM karty. Bude zpoplatněna operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">"2 SMS (běžná a mezinárodní) budou odeslány pro aktivaci vaší SIM karty. Budou zpoplatněny operátorem. Pokud povolíte funkci 'Vyhledat zařízení', aktivační SMS bude odeslána, když vyměníte SIM karty."</string>
@@ -212,8 +180,6 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_detail_ok">OK</string>
   <string name="micloud_detail_pending">Čeká na synchr.</string>
   <string name="micloud_detail_preference_sync_items">Položky</string>
-  <string name="micloud_detail_preference_syncing">Synchronizuje se</string>
-  <string name="micloud_detail_preference_wlan">Synchr. na Wi-Fi</string>
   <string name="micloud_detail_query_error">Nelze načíst stav synchr.</string>
   <string name="micloud_detail_query_error_detail">Nelze načíst stav synchr.</string>
   <string name="micloud_detail_query_error_title">Nelze načíst stav synchr.</string>
@@ -253,21 +219,20 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
  
  V tomto případě můžete buď vymazat stará data nebo si zakoupit více místa v úložišti MiCloud."</string>
   <string name="micloud_full_influence_title">Když je MiCloud plný</string>
-  <string name="micloud_intro_01_part_01">Ušetřete za mobilní data!</string>
-  <string name="micloud_intro_01_part_02">Cloudové zprávy zdarma přes internet</string>
-  <string name="micloud_intro_02_part_01">Už nemusíte používat USB klíčenku na přenos svých dat!</string>
-  <string name="micloud_intro_02_part_02">Synchronizovat kontakty, zprávy, fotografie a ostatní data mezi různými zařízeními.</string>
-  <string name="micloud_intro_03_part_01">Na dálku zabezpečit svá data v zařízení</string>
-  <string name="micloud_intro_03_part_02">Také můžete najít, zablokovat a vymazat své zařízení na i.mi.com</string>
   <string name="micloud_main_battery_low">Slabá baterie pro synchr.</string>
   <string name="micloud_main_battery_message">Připojte zařízení k nabíječce pro synchronizaci</string>
   <string name="micloud_main_clear_now">Vyčistit</string>
   <string name="micloud_main_data_unsynced">%d nesynchr.</string>
   <string name="micloud_main_detail">Podrobnosti</string>
-  <string name="micloud_main_last_sync_time">Naposledy</string>
+  <string name="micloud_main_last_sync_time">Synchr.: %s</string>
   <string name="micloud_main_memory_low_message">Pro synchr. vymažte něco z MiCloud.</string>
   <string name="micloud_main_memory_low_title">Není dostatek volného místa na interním úložišti</string>
   <string name="micloud_main_message_not_synced">%s nesynchr.</string>
+  <string name="micloud_main_multi_user_error_message">"Přihlásili jste se stejným Xiaomi účtom, jako na primárním profilu. Pokud chcete zálohovat data:
+
+1.Použijte jiný Xiaomi účet
+2.Přeneste svá data do primárního profilu"</string>
+  <string name="micloud_main_multi_user_error_title">MiCloud pozastaven</string>
   <string name="micloud_main_network_abnormal">Nelze se připojit k síti</string>
   <string name="micloud_main_network_error">Síť není dostupná. Zkontrolujte vaše nastavení a zkuste to znovu.</string>
   <string name="micloud_main_not_sync">%d položek čeká na synchr.</string>
@@ -277,7 +242,6 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_main_space_full">Plná kapacita</string>
   <string name="micloud_main_space_full_title">MiCloud je plný</string>
   <string name="micloud_main_space_low">Dochází volné místo...</string>
-  <string name="micloud_main_space_risk">Máte %d nesynchr. dat. Navyšte si kapacitu MiCloud úložiště.</string>
   <string name="micloud_main_stop_sync">Ukončit synchr.</string>
   <string name="micloud_main_suggest_master_sync">Nelze synchr. vše</string>
   <string name="micloud_main_suggest_setting">"Čeká se na Wi-Fi síť pro synchr.
@@ -322,6 +286,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_notif_content_depend_wifi">Připojte se k Wi-Fi pro synchr.</string>
   <string name="micloud_notif_content_master_depend_wifi">Připojte se na Wi-Fi síť.</string>
   <string name="micloud_notif_content_memory_low">Není dostatek místa na úložišti.</string>
+  <string name="micloud_notif_content_multi_user_error">Přihlásili jste se stejným Xiaomi účtom, jako na primárním profilu.</string>
   <string name="micloud_notif_content_sync_finish">Účet</string>
   <string name="micloud_notif_content_sync_not_finish">Podrobnosti</string>
   <string name="micloud_notif_content_sync_with_off">Dotykem synchr. vaše zařízení.</string>
@@ -330,12 +295,16 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_notif_title_depend_wifi">%d čeká na synchr.</string>
   <string name="micloud_notif_title_master_depend_wifi">Nelze synchr. s MiCloud</string>
   <string name="micloud_notif_title_memory_low">Nelze synchr. s MiCloud</string>
+  <string name="micloud_notif_title_multi_user_error">Nelze synchr. s MiCloud</string>
   <string name="micloud_notif_title_sync_finish">Synchr.</string>
   <string name="micloud_notif_title_sync_not_finish">Nesynchr.</string>
   <string name="micloud_notif_title_sync_progress">Synchr...</string>
   <string name="micloud_notif_title_sync_with_off">Synchr. s MiCloud</string>
   <string name="micloud_other_product_price">Cena ostatních produktů:</string>
   <string name="micloud_proceed">Pokračovat</string>
+  <string name="micloud_request_permission_confirm">OK</string>
+  <string name="micloud_request_permission_content">MiCloud vyžaduje povolení pro synchr. dat. Povolte MiCloud přístup ke kontaktům, kalendáři, Xiaomi účtu, SIM kartě, historii hovorů a SMS.</string>
+  <string name="micloud_request_permission_title">MiCloud vyžaduje povolení</string>
   <string name="micloud_sec_dspt">a sdílejte s přáteli.</string>
   <string name="micloud_setting_antispam_summary">Výjimky a blokovaná tel. čísla.</string>
   <string name="micloud_setting_browser_summary">Záložky a historii</string>
@@ -403,8 +372,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="next">Další</string>
   <string name="noRemind">Nepřipomínat</string>
   <string name="no_sim">Žádná SIM karta</string>
-  <string name="normal">Normální</string>
-  <string name="only_in_wlan">Vypnuto</string>
   <string name="other_settings">Další nastavení</string>
   <string name="password">Heslo</string>
   <string name="phone_number_may_required_dspt_provision">"Tato služba může vyžadovat vaše telefonní číslo. "</string>
@@ -414,7 +381,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="pref_summary_sync_video_on_wifi_only">Synchronizovat video profil kontaktů pouze na Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Synchr. kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použít pouze Wi-Fi pro zobrazení fotky</string>
-  <string name="pref_title_sync_my_profile_title">Synchr. můj profil</string>
   <string name="pref_title_sync_video_on_wifi_only">Synchr. video pouze přes Wi-Fi</string>
   <string name="privacy_policy">Podmínky soukromí</string>
   <string name="remind_later">Později</string>
@@ -437,7 +403,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="soundrecorder_sync_only_in_wifi">Synchr. pouze přes Wi-Fi</string>
   <string name="soundrecorder_sync_only_in_wifi_summary">Záznamník nebude využívat mobilní data pro zálohu nahrávek</string>
   <string name="soundrecorder_sync_records">Synchr. s MiCloud</string>
-  <string name="space">Kapacita</string>
   <string name="start_micloud">Start</string>
   <string name="storage">Úložiště</string>
   <string name="sub_alert_notif_content">Povolte MiCloud</string>
@@ -447,8 +412,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sub_sync_item_sms_summary">Doporučuje se zapnout, jinak může spotřebovávat Vaše data</string>
   <string name="sub_sync_item_sms_title_wifi_only">Použít pouze Wi-Fi pro synchr. MMS / SMS</string>
   <string name="success_upgraded_space">%s přidáno</string>
-  <string name="sync">Synchr.</string>
-  <string name="sync_dspt">Použijte svůj Xiaomi účet pro synchronizaci dat</string>
+  <string name="sync_dspt">Povolit synchr.</string>
   <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS a historii hovorů. Přo přístup k zálohovaným údajům navštivte %s.</string>
   <string name="sync_dspt_entrance_provision_2">Více</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívat</string>
@@ -468,8 +432,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
   <string name="sync_resend_sms_dspt_provision">. Pokud změníte SIM kartu, bude odeslána mezinárodní SMS pro její aktivaci.</string>
-  <string name="sync_setting">Nastavení synchr.</string>
-  <string name="sync_standard">Standard</string>
   <string name="sync_sub_1_intl_sms">Bude odeslána mezinárodní SMS pro aktivaci vaší SIM karty</string>
   <string name="sync_sub_1_sms">Bude odeslána SMS pro aktivaci vaší SIM karty</string>
   <string name="sync_sub_1_sms_1_intl_sms">Bude odeslána mezinárodní a běžná SMS pro aktivaci vašich SIM karet</string>
@@ -478,9 +440,9 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
   <string name="sync_sub_dspt_provision">Zobrazte a spravujte vaše data kdekoliv</string>
   <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
-  <string name="system_sync_off">Synchr. vypnuta</string>
   <string name="title_reg">Vytvořit Xiaomi účet</string>
   <string name="total_space_upgraded_to">Celkem: %s</string>
+  <string name="trying_to_connect_to_network">Připojování k síti...</string>
   <string name="unactivated_user">Není aktivován</string>
   <string name="upgrade_space">Přidat kapacitu</string>
   <string name="upgrade_space_gb">GB</string>
@@ -497,10 +459,6 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="verify">Ověřit</string>
   <string name="view_storage_title">Kapacita cloudu</string>
   <string name="voip_choose_sim">Vyberte telefonní číslo pro aktivaci MiVoice</string>
-  <string name="voip_dspt">MiVoice</string>
-  <string name="wifi">Wi-Fi</string>
-  <string name="wifi_disconnected">Wi-Fi odpojena</string>
-  <string name="wifi_sync">Wi-Fi synchr.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>

@@ -15,6 +15,9 @@
   <string name="backup_success">Záloha dokončena</string>
   <string name="backup_successfully">Úspěšně zálohováno</string>
   <string name="backup_to_cloud">Zálohovat</string>
+  <string name="btn_back">Zpět</string>
+  <string name="btn_continue">Pokračovat</string>
+  <string name="btn_skip">Přeskočit</string>
   <string name="button_cancel">Zrušit</string>
   <string name="button_delete">Vymazat</string>
   <string name="button_next">Další</string>
@@ -99,7 +102,6 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="recover_from_micloud">Obnovit pomocí MiCloud</string>
   <string name="recover_home_settings">Obnovit nastavení plochy</string>
   <string name="recover_miui_settings">Obnovit nastavení MIUI</string>
-  <string name="recover_settings">Obnovit nastavení plochy</string>
   <string name="recover_settings_description">Nevypínejte zařízení</string>
   <string name="recovering">Obnovení %s</string>
   <string name="remove_task_in_process">Mazání...</string>

@@ -20,9 +20,9 @@
   <string name="Call_ADRESS">Hovory z regionu</string>
   <string name="Call_BLACKLIST">Blokované Hovory</string>
   <string name="Call_DEFAULT">Inteligentní blokování</string>
-  <string name="Call_MODENAME">Neinteligentní hovory</string>
   <string name="Call_PREFIX">Číslo hovoru</string>
   <string name="Call_PRIVATE_CALL">Blokovat skrytá čísla</string>
+  <string name="MALICIOUS_URL">Škodlivý odkaz</string>
   <string name="NACaddnumcontent">Telefonní číslo</string>
   <string name="NACaddnumtitle">Přidat číslo do výjimek</string>
   <string name="PAST_BLOCK">Předchozí režim blokování</string>
@@ -31,7 +31,6 @@
   <string name="SMS_BLACKLIST">Blokované SMS</string>
   <string name="SMS_DEFAULT">Inteligentní blokování</string>
   <string name="SMS_KEYWORDS">Blokovat klíčová slova</string>
-  <string name="SMS_MODENAME">Neinteligentní SMS</string>
   <string name="SMS_PREFIX">Číslo SMS</string>
   <string name="SMS_SERVICE">Blokování služeb</string>
   <string name="SMSpass">SMS</string>
@@ -55,6 +54,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Pokud není v černé listině</string>
   <string name="antispam_notificaiton_type_show_none">Nikdy</string>
   <string name="antispam_notification_setting_title">Upozornit na blokování</string>
+  <string name="antispam_xpace_text">Přepněte se do hlavního profilu pro nastavení AntiSpam</string>
   <string name="app_name">AntiSpam</string>
   <string name="backsound_set_hint">Nastavit zvuk na %s?</string>
   <string name="baidu_thanks"/>
@@ -111,7 +111,6 @@
   <string name="dlg_remove_blacklist">Odstranit toto číslo z černé listiny?</string>
   <string name="dlg_remove_blacklist_ing">Odebírání z černé listiny...</string>
   <string name="dlg_remove_blacklist_ok">Odstranit</string>
-  <string name="dlg_remove_whitelist">Odebrat z výjimek?</string>
   <string name="dlg_remove_whitelist_content">Odebrat tato čísla z výjimek?</string>
   <string name="dlg_remove_whitelist_ing">Odebírání z výjimek...</string>
   <string name="dlg_remove_whitelist_title">Odebrat</string>
@@ -124,9 +123,7 @@
   <string name="email">E-mail</string>
   <string name="empty_activity_title">" "</string>
   <string name="fw_blocked">Blokované</string>
-  <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
-  <string name="fw_blocked_count_call">Hovory (%d)</string>
-  <string name="fw_blocked_count_sms">SMS (%d)</string>
+  <string name="fw_blocked_count">"Blokované: "</string>
   <string name="fw_blocked_join">" a "</string>
   <string name="hint_antispam_mode_edit">Vlastní režim</string>
   <string name="im">IM</string>
@@ -144,21 +141,17 @@
   <string name="mark_agent_block">Označeno jako prodejce</string>
   <string name="mark_agent_block_large">Zprostředkovatel</string>
   <string name="mark_agent_time_setting">Blokovat čísla prodejců vícekrát nahlášená</string>
-  <string name="mark_banking_insurance">Prodej pojistek</string>
-  <string name="mark_banking_insurance_block">Nahlásit jako Prodej pojistek</string>
-  <string name="mark_express">Kurýr</string>
-  <string name="mark_express_block">Označeno jako kurýr</string>
   <string name="mark_fraud">Podvodník</string>
   <string name="mark_fraud_block">Označeno jako podvodník</string>
   <string name="mark_fraud_block_large">Podvodník</string>
   <string name="mark_fraud_time_setting">Blokovat obtěžující čísla vícekrát nahlášená</string>
+  <string name="mark_harass">Block reported nuisances</string>
+  <string name="mark_harass_block">Reported as nuisance</string>
   <string name="mark_harass_block_large">Obtěžuje</string>
-  <string name="mark_harass_time_setting">Blokovat obtěžující čísla vícekrát nahlášená</string>
-  <string name="mark_meal">Donáška</string>
-  <string name="mark_meal_block">Označeno jako donáška</string>
+  <string name="mark_harass_time_setting">Blokovat obtěžující čísla nahlášená vícekrát</string>
   <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_banking">Pojišťovací agent</string>
   <string name="mark_number_fraud">Otravný</string>
+  <string name="mark_number_harass">Obtěžování</string>
   <string name="mark_number_info">"
 Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla, která opravdu blokovat chcete."</string>
   <string name="mark_number_sell">Prodejce</string>
@@ -173,12 +166,12 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="mark_sell_time_setting">Blokovat čísla prodejců vícekrát nahlášená</string>
   <string name="mark_time_setting_dialog_title">Nahlásit číslo</string>
   <string name="mark_time_text">%d</string>
-  <string name="marked_by_others">%d lidí označilo jako</string>
-  <string name="marked_by_user">jste označili jako</string>
+  <string name="marked_by_others">"%d lidí označilo jako"</string>
+  <string name="marked_by_user">"jste označili jako"</string>
   <string name="menu_add">Přidat</string>
   <string name="menu_add_into_contact">Přidat do současného kontaktu</string>
   <string name="menu_add_new_contact">Nový kontakt</string>
-  <string name="menu_bl_add_contact">Nedávné</string>
+  <string name="menu_bl_add_contact">Kontakty</string>
   <string name="menu_bl_add_manual">Přidat</string>
   <string name="menu_bl_call_log">Zobrazit blokované hovory</string>
   <string name="menu_bl_clear">Vymazat černou listinu</string>
@@ -350,5 +343,5 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="user_define_title">Vlastní režim</string>
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
-  <string name="wl_no_whitelist">Povolit jen výjimky</string>
+  <string name="wl_no_whitelist">Žádná čísla</string>
 </resources>

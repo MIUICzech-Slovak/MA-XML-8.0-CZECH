@@ -59,11 +59,8 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%1$s dnů do %4$s (%5$s)</string>
-  <string name="birthday_notification_text_three_days_later">Za 3 dny má %4$s (%3$s)!</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">Kupte květy nebo dortu pro TA</string>
   <string name="birthday_notification_text_today">Nezapomeňte poblahopřát!</string>
-  <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
-  <string name="birthday_notification_title_three_days_later">%1$s bude mít %2$s</string>
+  <string name="birthday_notification_title_days_later">%1$s bude mít %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">narozeniny</string>
@@ -84,11 +81,6 @@
   <string name="create_an_account_desc">"Kalendář funguje lépe s účtem Google.\n • Přístup z jakéhokoliv webového prohlížeče\n • Bezpečné zálohování událostí"</string>
   <string name="creating_event">Událost byla vytvořena</string>
   <string name="creating_event_with_guest">Pozvánky byly odeslány</string>
-  <string name="cta_notice_checkbox">Znovu se neptat</string>
-  <string name="cta_notice_message">\"Upozornění narozenin\" v kalendáři vás upozorní na narozeniny vašich kontaktů, ale je k nim nutné povolit přístup. Souhlasíte?</string>
-  <string name="cta_notice_ok">OK</string>
-  <string name="cta_notice_title">Upozornění</string>
-  <string name="cta_notify_settings">Upozornit na přístup ke kontaktům</string>
   <string name="custom">Vlastní (nelze upravit v telefonu)</string>
   <string name="daily">Denně</string>
   <string name="data_notice_change_settings">Nastavení</string>
@@ -110,7 +102,6 @@
   <string name="dismiss_all_label">Zavřít vše</string>
   <string name="do_not_check">Nekontrolovat -</string>
   <string name="does_not_repeat">Jednorázová událost</string>
-  <string name="done">Další</string>
   <string name="download">Stáhnout</string>
   <string name="edit_event_all_day_label">Celý den</string>
   <string name="edit_event_calendar_label">Kalendář</string>
@@ -150,9 +141,7 @@
   <string name="event_info_when">"Kdy: "</string>
   <string name="event_info_where">"Kde: "</string>
   <string name="event_lunar_month"/>
-  <string name="event_not_found">Událost nenalezena.</string>
   <string name="event_show_more">Více</string>
-  <string name="event_subscirbe_detail_title">Podrobnosti</string>
   <string name="event_title">Název</string>
   <string name="event_view">Zobrazit událost</string>
   <string name="every_weekday">Každý pracovní den (po–pá)</string>
@@ -162,12 +151,12 @@
   <string name="gadget_no_events">Žádné nadcházející události</string>
   <string name="gadget_title">Kalendář</string>
   <string name="goto_today">Dnes</string>
+  <string name="guide_card_hint_text">Dotykem otevřete MiCloud</string>
   <string name="hide_controls">Skrýt ovládací prvky</string>
   <string name="hint_attendees">Hosté</string>
   <string name="hint_description">Popis</string>
   <string name="hint_what">Název události</string>
   <string name="hint_where">Místo</string>
-  <string name="holiday_label">Volno</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
@@ -177,8 +166,6 @@
   <string name="insert_event_dialog_title">Upozornění</string>
   <string name="insert_event_toast_add_failed">Přidání selhalo</string>
   <string name="insert_event_toast_add_success">Událost vytvořena</string>
-  <string name="internet_connection_notification">Upozornění na internetové připojení</string>
-  <string name="internet_connection_notification_descrip">Zobrazit upozornění na internetové připojení vždy při spuštění Kalendáře</string>
   <string name="jump_date">Přejít</string>
   <string name="jump_date_full">Přejít na datum</string>
   <string name="label_recent_events">Nedávné události</string>
@@ -212,7 +199,7 @@
   <string name="month_view">Měsíc</string>
   <string name="monthly">Měsíčně</string>
   <string name="monthly_on_day">Měsíčně</string>
-  <string name="monthly_on_day_count" formatted="false">Měsíčně (vždy %1$s %2$s)</string>
+  <string name="monthly_on_day_count">Měsíčně (vždy %1$s %2$s)</string>
   <string name="movable_list_header_label">Popis</string>
   <string name="network_not_available">Nelze se připojit k síti</string>
   <string name="new_event_dialog_label">Nová událost</string>
@@ -224,13 +211,7 @@
   <string name="no_syncable_calendars">Žádné kalendáře</string>
   <string name="no_title_label">(bez názvu)</string>
   <string name="not_synced">není synchronizován</string>
-  <string name="notice_button_exit">Ukončit</string>
-  <string name="notice_button_ok">Souhlasím</string>
-  <string name="notice_declaration_ignore">Znovu se neptat</string>
-  <string name="notice_title_agreement">Internetové připojení</string>
-  <string name="notice_title_request">Upozornění</string>
-  <string name="online_calendar_activity_label">Přihlásit</string>
-  <string name="online_notice_message">Používáním této aplikace souhlasíte s Xiaomi %1$s a %2$s. Některé funkce vyžadují internetové připojení.</string>
+  <string name="path_calendar">Systémové aplikace/Kalendář/Nastavení</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibrace</string>
   <string name="pref_error_no_ringtone_select">Žádné</string>
@@ -254,7 +235,7 @@
   <string name="preferences_general_title">Nastavení zobrazení kalendáře</string>
   <string name="preferences_hide_declined_title">Skrýt odmítnuté události</string>
   <string name="preferences_history_events">Show history events</string>
-  <string name="preferences_holidays">Show holidays</string>
+  <string name="preferences_holidays">Zobrazit svátky</string>
   <string name="preferences_home_tz_default">Europe/Prague</string>
   <string name="preferences_home_tz_title">Domovské č. pásmo</string>
   <string name="preferences_reminder_title">Nastavení připomenutí</string>
@@ -309,6 +290,7 @@
   <string name="saving_event">Událost byla uložena.</string>
   <string name="saving_event_with_guest">Aktualizace byly odeslány.</string>
   <string name="search">Hledat</string>
+  <string name="search_calendar">Kalendář;Agenda;Upozornění</string>
   <string name="search_history_cleared">Historie vyhledávání vymazána.</string>
   <string name="search_title">Hledat v mých kalendářích</string>
   <string name="select_date">Vybrat datum</string>
@@ -316,10 +298,9 @@
   <string name="select_synced_calendars_title">Kalendáře, které se mají synchronizovat</string>
   <string name="select_visible_calendars_title">Kalendáře, které se mají zobrazit</string>
   <string name="set_as_wallpaper">Nastavit jako tapetu</string>
-  <string name="setting_holiday">Holidays</string>
+  <string name="settings_calendar">Kalendář</string>
+  <string name="setting_holiday">Svátky</string>
   <string name="setting_others">Ostatní</string>
-  <string name="show_all_lunar">Lunární (Čína)</string>
-  <string name="show_almanac">Almanach (Čína)</string>
   <string name="show_controls">Zobrazit ovládací prvky</string>
   <string name="show_day_view">Zobrazit den</string>
   <string name="show_newer_events">Dotykem zobrazíte události po období %1$s</string>
@@ -337,7 +318,7 @@
   <string name="tab_online">Online</string>
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index" formatted="false">Událost %1$s z %2$s</string>
+  <string name="template_announce_item_index">Událost %1$s z %2$s</string>
   <string name="text_year">Rok</string>
   <string name="time_zone">Zóna</string>
   <string name="timezone_label">Časové pásmo</string>
@@ -369,7 +350,6 @@
   <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">Just a sec…</string>
   <string name="travel_local">Destination</string>
-  <string name="travel_notice_message">Calendar needs to connect to the internet and access your location in order to display travel information.</string>
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>

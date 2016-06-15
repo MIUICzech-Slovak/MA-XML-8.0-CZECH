@@ -3,7 +3,7 @@
   <string name="abort_backup_confirm">Záloha není dokončena. Chcete ukončit zálohování?</string>
   <string name="account_contact_backup_info">Data (Xiaomi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
   <string name="account_login">Přihlásit se</string>
-  <string name="account_summary">" (Gmail, E-mail a Xiaomi účet)"</string>
+  <string name="account_summary">Zálohování Gmailu, Emailu a účtu Xiaomi</string>
   <string name="already_enable_encrypt">Zapnout šifrování</string>
   <string name="app_name">Zálohování</string>
   <string name="apps_and_data_item_desc">Apl. a data</string>
@@ -39,7 +39,6 @@
   <string name="backup_items_sysdata_tailer">x: systémová data\u0020</string>
   <string name="backup_new">Nový:</string>
   <string name="backup_progress">Zálohování...</string>
-  <string name="backup_recently">\u0020(Nejnovější)</string>
   <string name="backup_report">Hlášení zálohování</string>
   <string name="backup_update">Aktualizace</string>
   <string name="batch_delete_backup_confirm">Vymazat zálohy?</string>
@@ -78,7 +77,6 @@
   <string name="current_sim">Současná SIM</string>
   <string name="custom_progress">%d položek</string>
   <string name="data_item_desc">Data</string>
-  <string name="data_no_enough_space">Nedostatek místa, uvolněte místo a zkuste to znovu</string>
   <string name="data_no_enough_space_message">Záloha se nemusí provést, uvolněte místo a zkuste to znovu</string>
   <string name="date_format">yyyy MM dd HH:mm:ss</string>
   <string name="delete">Smazat</string>
@@ -116,7 +114,6 @@
   <string name="findlost_contact">Obnovit kontakty</string>
   <string name="findlost_contact_online">Obnovit kontakt online</string>
   <string name="guarded_mode_dialog_backup_message">Záloha není povolena v režimu Návštěvník.</string>
-  <string name="guarded_mode_dialog_message">V režimu Návštěvník nelze vytvářet nebo obnovovat zálohy</string>
   <string name="guarded_mode_dialog_title">Režim Návštěvník</string>
   <string name="guarded_mode_dialog_transfer_message">Přenos není povolen v režimu Návštěvník.</string>
   <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Xiaomi"</string>
@@ -135,7 +132,6 @@
   <string name="local_select_sysdata">Systémová data</string>
   <string name="local_select_userapp">Aplikace</string>
   <string name="local_select_video">Videa</string>
-  <string name="menu_patch_delete">Smazat zálohy</string>
   <string name="miliao_account_guide">Účet MiTalk byl povýšen na účet Xiaomi\n Užijte si všechny dostupné online služby</string>
   <string name="miliao_account_login">Přihlásit k MiTalk</string>
   <string name="mms_title">Multimediální zprávy</string>
@@ -144,10 +140,10 @@
   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="never">Nikdy</string>
   <string name="new_backup">Zálohovat</string>
-  <string name="no_encrypt_password">Šifrování bez hesla</string>
+  <string name="no_encrypt_password">Žádné heslo pro šifrování</string>
   <string name="no_network">Připojení k síti není k dispozici\nOvěřte prosím připojení a zkuste to znovu</string>
   <string name="note_title">Poznámky</string>
-  <string name="nothing_searched">Výsledek hledání: nic nenalezeno</string>
+  <string name="nothing_searched">Nic nenalezeno</string>
   <string name="notif_backup_complete_title">Záloha dokončena</string>
   <string name="notif_backup_content">Zálohování uživatelských dat</string>
   <string name="notif_backup_title">Zálohování dat</string>
@@ -169,7 +165,7 @@
   <string name="restore_backup">Obnovit</string>
   <string name="restore_contact">Obnovit kontakty</string>
   <string name="restore_contact_content">Obnovou těchto kontaktů můžou vzniknout duplicity:\nPOZNÁMKA:Tyto kontakty můžete sloučit v nastavení.</string>
-  <string name="restore_contacts_hit">(Poznámka: Kontakt musí existovat, aby k němu mohly být obnoveny všechny údaje)</string>
+  <string name="restore_contacts_hit">(Poznámka: Před obnovením kontaktů musíte ručně zadat originální účet)</string>
   <string name="restore_counts">Obnovení:</string>
   <string name="restore_data">Obnovit data</string>
   <string name="restore_failed">Obnovení selhalo!</string>
@@ -190,7 +186,7 @@
   <string name="sc_request_timeout">Vypršel časový limit žádosti</string>
   <string name="sc_service_unavailable">Služba není k dispozici</string>
   <string name="sc_unaccess_password_file">Neukládejte podrobnosti hesla k Wi-Fi</string>
-  <string name="sc_unauthorized">Certifikát není platný</string>
+  <string name="sc_unauthorized">Ověření ttožnosti selhalo. Zkuste se opět přihlásit</string>
   <string name="sd_not_available">SD karta nebyla nalezena</string>
   <string name="sdcard_no_enough_space">Nedostatek místa na SD kartě</string>
   <string name="sdcard_no_enough_space_message">Záloha se nemusí provést, uvolněte místo a zkuste to znovu</string>
@@ -219,7 +215,7 @@
   <string name="system_backup">Záloha</string>
   <string name="system_backup_info">Nastavení systému a plochy</string>
   <string name="task_backup_cancel_progress">Ukončování zálohování...</string>
-  <string name="task_backup_finished_local">Zálohování dokončeno</string>
+  <string name="task_backup_finished_local">"Záloha dokončena "</string>
   <string name="task_canceled">Stornováno</string>
   <string name="task_canceled_all_local">Zrušeno</string>
   <string name="task_canceled_local">%s úloha zrušena</string>
@@ -229,7 +225,7 @@
   <string name="task_failed_local">Selhalo zálohování %1$s úloh(a)</string>
   <string name="task_finished">Hotovo</string>
   <string name="task_local_backup_cancel_dialog">Zálohování nebylo dokončeno!\nOpravdu chcete zrušit zálohování?</string>
-  <string name="task_pending">ve frontě</string>
+  <string name="task_pending">Čeká...</string>
   <string name="task_post_running">Dokončování</string>
   <string name="task_pre_running">Příprava</string>
   <string name="task_progress">Průběh</string>
@@ -257,6 +253,7 @@
   <string name="trans_connect_failed_title">Připojení selhalo</string>
   <string name="trans_connect_failed_toast">Nelze se připojit</string>
   <string name="trans_connecting_toast">Připojování...</string>
+  <string name="trans_connection_failed">Zařízení odpojeno</string>
   <string name="trans_detail_category_account">Účty a kontakty</string>
   <string name="trans_detail_category_files">Soubory</string>
   <string name="trans_detail_category_sysdata">Systémová data</string>
@@ -270,7 +267,8 @@
   <string name="trans_one_key_migrate">Přenos dat</string>
   <string name="trans_operate_func_one">Metoda A</string>
   <string name="trans_operate_func_two">Metoda B</string>
-  <string name="trans_operate_new_phone_tips">"Načtěte QR kód novým zařízením. Jděte do Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení a stiskněte [Jsem příjemce] pro vytvoření QR kódu"</string>
+  <string name="trans_operate_new_phone_tips">"Jděte do Nastavení &gt; Další nastavení &gt; Přesun do nového zařízení
+a stiskněte [Jsem příjemce] pro vytvoření QR kódu"</string>
   <string name="trans_operate_old_phone_tips1">"Metoda A
 1. Nainstalujte aktuální verzi MIUI
 2. Spusťte Přesun do nového zařízení a stiskněte Spustit
@@ -321,7 +319,6 @@ a stiskněte [Jsem odesílatel]"</string>
   <string name="trans_start_failed_message">Spuštění selhalo, zkuste to znovu nebo restartujte</string>
   <string name="trans_start_failed_title">Spuštění selhalo</string>
   <string name="trans_time_format_second">méně než 1 min.</string>
-  <string name="trans_time_remained">", připraveno v "</string>
   <string name="trans_time_spent">"
  Čas trvání: %s"</string>
   <string name="trans_wait_trans_data">"Připojte se ke starému zařízení.

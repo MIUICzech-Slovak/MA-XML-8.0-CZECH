@@ -2176,13 +2176,13 @@ Zvolte Váš operační systém:"</string>
   <string name="power_cell">Pohotovostní režim</string>
   <string name="power_center">Výkon</string>
   <string name="power_charge_remaining">%1$s do nabití</string>
-  <string name="power_charging">%1$d %% – %2$s</string>
+  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s do úplného nabití</string>
   <string name="power_charging_duration_ac">%1$s - %2$s do úplného nabití adaptérem</string>
   <string name="power_charging_duration_usb">%1$s - %2$s do úplného nabití z USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s do úplného nabití bezdrátově</string>
   <string name="power_discharge_remaining">Zbývá %1$s</string>
-  <string name="power_discharging_duration">%1$d %% – zbývá přibližně %2$s</string>
+  <string name="power_discharging_duration">%1$s – zbývá přibližně %2$s</string>
   <string name="power_flashlight">Svítilna</string>
   <string name="power_hide_mode_summary">Zakázat aplikacím za vypnutého displeje přístup k Wi-Fi, datovému připojení, GPS a snížit tak spotřebu baterie</string>
   <string name="power_hide_mode_title">Úspora baterie</string>

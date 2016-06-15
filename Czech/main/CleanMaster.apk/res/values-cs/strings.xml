@@ -11,6 +11,7 @@
   <string name="activity_title_ignored_image">Ignorováno</string>
   <string name="activity_title_image_gallery">Vymazat podobné fotografie</string>
   <string name="activity_title_large_file">Velké soubory</string>
+  <string name="activity_title_main">Čistič</string>
   <string name="activity_title_news">Novinky</string>
   <string name="activity_title_privacy_cache">Soukromí</string>
   <string name="activity_title_residual">Staré</string>
@@ -251,16 +252,12 @@
   <string name="no_network">Nelze se připojit k síti</string>
   <string name="no_network_btn">Znovu</string>
   <string name="notification_summary_after_auto_cleanup">Vyčištěno %s</string>
-  <string name="notification_summary_of_apps_cleanup">Nepoužívané aplikace zabírají %s z úložiště</string>
   <string name="notification_summary_of_garbage_cleanup">Nepotřebné soubory zabírají %s.</string>
-  <string name="notification_title_of_apps_cleanup">Nepoužívané aplikace</string>
   <string name="notification_title_of_garbage_cleanup">Upozornění na odpad</string>
   <string name="notify_when">Zobrazit upozornění, když nepotřebné soubory dosáhnou 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Povolit</string>
   <string name="open_browser">Otevřít v prohlížeči</string>
-  <string name="opened">Zap.</string>
-  <string name="optimizecenter_data_support"/>
   <string name="optimizecenter_data_support_cm">Poskytuje Clean Master</string>
   <string name="optimizecenter_data_support_tc">Poskytuje Tencent</string>
   <string name="positive_confirm">Ok</string>
@@ -273,7 +270,6 @@
   <string name="pref_content_cleanup_white_list_none">Žádné</string>
   <string name="pref_section_auto_clean_and_alert">Vyčistit automaticky</string>
   <string name="pref_summary_auto_clean_and_alert">Automaticky vyčistit odpad nebo upozornit po dosažení zadané velikosti</string>
-  <string name="pref_summary_auto_deepclean_and_alert">Upozornění nepoužívaných apl.</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualizováno: %s</string>
   <string name="pref_summary_cleanup_white_list">Soubory v seznamu budou ignorovány při čištění</string>
   <string name="pref_summary_expand_cache_group">Skupiny v seznamu cache budou rozbaleny</string>
@@ -282,13 +278,9 @@
   <string name="pref_summary_garbage_cleanup_check_time">Vyberte interval upozornění na odpad</string>
   <string name="pref_summary_garbage_process_mode">Upozornění na automatické čištění odpadu</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Odeslat a zkontrolovat neznámé názvy souborů s online databází</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Automaticky vybrat aplikace na vyčištění</string>
-  <string name="pref_title_apps_check_size">Limit volného místa na úložišti</string>
-  <string name="pref_title_apps_check_time">Jak často kontrolovat</string>
   <string name="pref_title_apps_cleanup_size">​pokud velikost cache dosáhne/</string>
   <string name="pref_title_auto_clean_and_alert">Automatické čištění</string>
   <string name="pref_title_auto_clean_content_choose">Vyčistit</string>
-  <string name="pref_title_auto_deepclean_and_alert">Upozornění na nepoužívané apl.</string>
   <string name="pref_title_auto_update_cleanup_db">Auto. aktualizace</string>
   <string name="pref_title_choose_engine">Databáze</string>
   <string name="pref_title_cleanup_white_list">Seznam výjimek</string>
