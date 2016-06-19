@@ -41,4 +41,12 @@
         <item quantity="other">Budík bude ztišený po %d min.</item>
         <item quantity="one">Budík bude ztišený po %d min.</item>
     </plurals>
+     <plurals name="delete_alarm_confirm">
+        <item quantity="other">Vymazat vybrané budíky?</item>
+        <item quantity="one">Vymazat tento budík?</item>
+     </plurals>
+     <plurals name="delete_timezone_confirm">
+        <item quantity="other">Vymazat vybrané časové zóny?</item>
+        <item quantity="one">Vymazat tuto časovou zónu?</item>
+     </plurals>
 </resources>

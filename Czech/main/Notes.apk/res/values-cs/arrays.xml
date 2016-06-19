@@ -35,4 +35,12 @@ http://www.miuios.cz/
         <item>Velké</item>
         <item>Obrovské</item>
     </string-array>
+    <string-array name="attachment_chooser">
+        <item>Fotoaparát</item>
+        <item>Galerie</item>
+     </string-array>
+     <string-array name="folder_operations">
+        <item>Přejmenovat</item>
+        <item>Vymazat</item>
+     </string-array>
 </resources>

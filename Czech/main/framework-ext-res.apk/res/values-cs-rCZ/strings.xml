@@ -116,4 +116,5 @@
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="turn_off">Vypnout</string>
   <string name="unknown_caller">Neznámé číslo</string>
+  <string name="status_bar_toggle_cast">Přenos</string>
 </resources>

@@ -27,7 +27,7 @@
         <item>Tapety</item>
         <item>Efekty</item>
     </string-array>
-    <string-array name="weather_type">
+    <string-array name="gadget_weather_image">
         <item>Jasno</item>
         <item>Oblačno</item>
         <item>Zamračeno</item>
@@ -54,4 +54,31 @@
         <item>Prach</item>
         <item>Mlha</item>
     </string-array>
+    <string-array name="weather_type">
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Zamračeno</item>
+        <item>Mlhavo</item>
+        <item>Silná bouře</item>
+        <item>Liják</item>
+        <item>Bouře</item>
+        <item>Bouře</item>
+        <item>Déšť</item>
+        <item>Silný déšť</item>
+        <item>Déšť</item>
+        <item>Lehký déšť</item>
+        <item>Déšť se sněhem</item>
+        <item>Sněhová bouře</item>
+        <item>Sněžení</item>
+        <item>Silné sněžení</item>
+        <item>Sněžení</item>
+        <item>Lehké sněžení</item>
+        <item>Písečná bouře</item>
+        <item>Písečná bouře</item>
+        <item>Písečná bouře</item>
+        <item>Větrno</item>
+        <item>Krupobití</item>
+        <item>Prach</item>
+        <item>Mlha</item>
+     </string-array>    
 </resources>

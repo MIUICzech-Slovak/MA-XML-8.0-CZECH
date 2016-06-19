@@ -217,4 +217,8 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
   <string name="waiting_tip">Kontrola může trvat i 1 min.</string>
+  <string name="all_permissions">Všechna povolení</string>
+     <string name="grant_confirm_question">Chcete udělit následující povolení? Získáte přístup k:</string>
+     <string name="grant_dialog_button_allow">Povolit</string>
+     <string name="grant_dialog_button_deny">Odmítnout</string>
 </resources>

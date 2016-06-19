@@ -829,4 +829,7 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="add_label">Přidat složku</string>
+     <string name="dialog_insufficient_space_on_external">Není dostatek volného místa pro stažení přílohy.</string>
+     <string name="please_fill_in_your_mailbox_information2">Zadejte vaše nastavení:</string>
 </resources>

@@ -37,4 +37,14 @@
   <string name="title_save">Uložit do</string>
   <string name="toast_failed_delete">Některé dokumenty nelze smazat</string>
   <string name="toast_no_application">Soubor nelze otevřít</string>
+  <string name="button_copy">Kopírovat</string>
+     <string name="button_select">Vybrat</string>
+     <string name="copy_failure_alert_content">Tyto soubory nebyly zkopírovány: %1$s</string>
+     <string name="copy_notification_title">Kopírování souborů</string>
+     <string name="copy_preparing">Připravuje se na kopírování...</string>
+     <string name="copy_remaining">Zbývá: %s</string>
+     <string name="menu_copy">Kopírovat do…</string>
+     <string name="menu_select_all">Vybrat vše</string>
+     <string name="notification_touch_for_details">Klepnutím zobrazíte podrobné informace</string>
+     <string name="retry">Zkusit znovu</string>
 </resources>

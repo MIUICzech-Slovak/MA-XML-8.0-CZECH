@@ -16,4 +16,8 @@
         <item>Větší</item>
         <item>Velký</item>
     </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Výchozí</item>
+        <item>Vlastní</item>
+     </string-array>
 </resources>

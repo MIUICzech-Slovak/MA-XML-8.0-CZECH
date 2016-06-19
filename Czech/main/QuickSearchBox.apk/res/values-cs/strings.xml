@@ -72,4 +72,6 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
+  <string name="suggest_open_app_failed">Nelze otevřít tuto aplikaci</string>
+     <string name="xiaomi_homepage_hint" />
 </resources>

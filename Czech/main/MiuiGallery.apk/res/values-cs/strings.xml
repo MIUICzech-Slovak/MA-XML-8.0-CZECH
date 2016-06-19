@@ -723,4 +723,6 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
+  <string name="operation_enter_delete_local">Vymazat zálohované fotografie a videa ze zařízení</string>
+     <string name="revert">Zpět</string>
 </resources>

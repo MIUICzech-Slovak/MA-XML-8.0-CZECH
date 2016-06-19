@@ -1432,4 +1432,5 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="empty_title_permission_apps_list">Žádné aplikace.</string>
      <string name="power_dialog_cancel">Zrušit</string>
      <string name="power_dialog_ok">OK</string>
+     <string name="activity_title_safepay">Bezpečnost plateb</string>
 </resources>

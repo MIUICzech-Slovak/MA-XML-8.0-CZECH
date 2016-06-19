@@ -88,4 +88,5 @@ Zadejte město manuálně"</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zítra</string>
+  <string name="button_sure_abandon">Zrušit změny?</string>
 </resources>

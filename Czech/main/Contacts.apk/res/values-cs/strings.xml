@@ -1215,4 +1215,6 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat ve Zlatých stránkách</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="callrecordview_menu_ip">Auto IP hovor</string>
+  <string name="close_dial_pad_description">Zavřít číselník</string>
 </resources>

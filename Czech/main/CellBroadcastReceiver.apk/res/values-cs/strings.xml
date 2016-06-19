@@ -92,4 +92,7 @@
   <string name="show_cmas_opt_out_title">Zobrazit dialog pro odhlášení</string>
   <string name="sms_cb_settings">Nastavení zpráv informačních služeb</string>
   <string name="view_details_title">Podrobnosti upozornění</string>
+  <string name="category_india_settings_title">Nastavení pro Indii</string>
+     <string name="enable_channel_60_alerts_summary">Kanál 60 se v Indii používá pro aktuální informace o oblasti</string>
+     <string name="enable_channel_60_alerts_title">Zobrazit vysílání kanálu 60</string>
 </resources>

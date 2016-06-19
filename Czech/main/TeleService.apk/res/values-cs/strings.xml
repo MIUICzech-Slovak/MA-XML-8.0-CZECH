@@ -1196,4 +1196,24 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="accessibility_settings_activity_title">Dostupnost</string>
+     <string name="additional_gsm_call_settings_with_label">Další nastavení (%s)</string>
+     <string name="agree_provision">Pokračovat</string>
+     <string name="all_day">Celý den</string>
+     <string name="antispam_setting">AntiSpam</string>
+     <string name="area_code_preference_be_set_summary">Současná poloha: %s</string>
+     <string name="callFailed_cdma_activation">SIM karta aktivovala vaši službu a aktualizovala možnosti roamingu vašeho telefonu</string>
+     <string name="call_barring_incoming">Ppesměrování přích. hovoru</string>
+     <string name="call_barring_outgoing">Ppesměrování odch. hovoru</string>
+     <string name="call_forwarding_settings_with_label">Přesměrovávání hovorů (%s)</string>
+     <string name="cb_psw_dont_match">Hesla se neshodují</string>
+     <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
+     <string name="not_activate_sim_card_content_title">Telefon nebyl aktivován</string>
+     <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
+     <string name="not_sufficient_funds_content_title">Not Enough Funds</string>
+     <string name="not_supported_number_content_title">Není podporováno</string>
+     <string name="ringtone_silent">Žádné</string>
+     <string name="ringtone_unknown">Neznámé zvonění</string>
+     <string name="vibrate_after_connected_summary">Vibrovat při přijetí</string>
+     <string name="vibrate_after_connected_title">Vibrovat při spojení</string>
 </resources>
