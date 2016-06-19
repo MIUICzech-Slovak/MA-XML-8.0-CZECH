@@ -2329,7 +2329,6 @@ Zvolte Váš operační systém:"</string>
   <string name="permission_manager">Povolení</string>
   <string name="permission_mgr">Povolení</string>
   <string name="permissions_label">Oprávnění</string>
-  <string name="personal_data_section_title">Osobní údaje</string>
   <string name="personal_device_admin_title">Osobní</string>
   <string name="phone_call_noise_suppression">Potlačení hluku při hovoru</string>
   <string name="phone_info_label">Informace o zařízení</string>
@@ -4142,7 +4141,6 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="location_scanning_wifi_always_scanning_description">Umožňuje zlepšit přesnost určování polohy tím, že systémové aplikace a služby budou vyhledávat sítě Wi-Fi neustále.</string>
   <string name="location_scanning_wifi_always_scanning_title">Vyhledávání Wi‑Fi</string>
   <string name="lock_immediately_summary_with_exception">Okamžitě po režimu spánku, pokud odemknutí není udržováno pomocí agenta %1$s</string>
-  <string name="lockpassword_confirm_passwords_dont_match">Hesla nejsou shodná</string>
   <string name="lockpassword_confirm_your_password_generic">Chcete-li pokračovat, zadejte heslo zařízení.</string>
   <string name="lockpassword_confirm_your_pattern_generic">Chcete-li pokračovat, zadejte gesto zařízení.</string>
   <string name="lockpassword_confirm_your_pin_generic">Chcete-li pokračovat, zadejte PIN zařízení.</string>
