@@ -5,7 +5,6 @@
   <string name="activity_not_found_uri">Nenalezen program pro tuto akci</string>
   <string name="addBlackList">Přidat na černou listinu</string>
   <string name="add_attachment">Příloha</string>
-  <string name="add_bookmark">Oblíbené</string>
   <string name="add_contact">Přidat kontakt</string>
   <string name="add_festival">Doporučené</string>
   <string name="add_music">Přidat hudbu</string>
@@ -163,9 +162,10 @@
   <string name="exporting_progress_private_message">Exportování zpráv ze soukromé schránky</string>
   <string name="failed_to_add_media">Tuto položku %1$s, nelze do zprávy přidat.</string>
   <string name="failed_to_resize_image">Velikost fotografie se nepodařilo přizpůsobit.</string>
-  <string name="fdn_check_failure">Můžete pouze posílat zprávy na Vaše povolená čísla.</string>
-  <string name="feedback_description_hint">Napište Váš názor (povinně v Angličtině)</string>
-  <string name="feedback_submit">Odeslat</string>
+  <string name="fake_cell_alert_hint">Vypadá to, že sms byla odeslána z jiného čísla, než je zobrazeno. Buďte opatrní, pokud SMS vyžaduje přihlašovací údaje nebo platby.</string>
+  <string name="fake_cell_checking_hint">Kontrola zabezpečení...</string>
+  <string name="fake_cell_safe_hint">Tato zpráva je bezpečná</string>
+  <string name="fdn_check_failure">Můžete posílat zprávy pouze na vaše povolená čísla.</string>
   <string name="festival">Doporučené</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Tato funkce vyžaduje připojení k internetu.</string>
@@ -183,7 +183,6 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Celkem z: %1$s bylo nalezených ze starého účtu. Přejete si je nahrát do stávajícího účtu: %2$s?</string>
   <string name="found_old_messages_title">Nahrát zprávy</string>
-  <string name="found_wild_messages">Zprávy z těchto čísel byly nalezeny ve vašem MiCloud účtu:%s Chcete je stáhnout?</string>
   <string name="found_wild_messages_guide_cloud_desc">Pro synchr. zpráv z MiCloud se přihlaste svým Xiaomi účtem a povolte synchr. SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Synchr. SMS zpráv z MiCould v nastavení SMS.</string>
   <string name="found_wild_messages_guide_sync_not_started">Synchr. ještě nezačala</string>
@@ -288,8 +287,6 @@
   <string name="mx_activate_int_hint_malformed_info">Nastala chyba. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
   <string name="mx_activate_int_hint_server">Aktivace serveru pro Cloud zprávy selhala. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
   <string name="mx_activate_int_hint_sim_change">Byla změněna SIM karta. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
-  <string name="mx_activate_int_popup_msg">Zprávy umožňují uživatelům MIUI odesílat zprávy mezi sebou bez použití mobilních dat.</string>
-  <string name="mx_activate_popup_msg">Cloud zprávy umožňují uživatelům MIUI odesílat zprávy mezi sebou bez použití mobilních dat.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivování ...</string>
   <string name="mx_activate_status_desc_check_net_connection">Nelze se připojit k síti</string>
   <string name="mx_activate_status_desc_fail">Nelze aktivovat Cloudové zprávy</string>
@@ -297,8 +294,6 @@
   <string name="mx_activate_status_desc_query_activte_info">Kontrola SIM karty...</string>
   <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefonní číslo není správné</string>
   <string name="mx_activate_status_desc_wait_for_sms_fail">Nelze aktivovat Cloudové zprávy</string>
-  <string name="mx_activate_user_agreement_p1">"Používáním této služby souhlasíte s "</string>
-  <string name="mx_activation_done">Cloud zprávy jsou povoleny</string>
   <string name="mx_and_voip_enable">MiZprávy</string>
   <string name="mx_and_voip_enable_popup_msg">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakychkoliv poplatků.</string>
   <string name="mx_and_voip_enable_popup_msg2">Ochrana soukromí</string>
@@ -314,19 +309,19 @@
   <string name="mx_count_dspt">Odeslali jste %1$d SMS a %2$d MMS přes cloud</string>
   <string name="mx_current_status">Další nastavení</string>
   <string name="mx_dspt">Poslat SMS přes internet pomocí MIUI, pokud odeslání přes operátora selže</string>
+  <string name="mx_dspt_listview">Odeslat zprávy přes internet mezi uživateli MIUI zdarma</string>
   <string name="mx_dspt_provision">Cloudové zprávy vám umožní zdarma zasílat SMS mezi uživateli MIUI. Aktivační SMS může být zpoplatněna vašim operátorem.</string>
   <string name="mx_dspt_provision_ex">Odesílejte MiZprávy ostatním uživatelům MIUI bez jakýchkoliv poplatků.</string>
   <string name="mx_dspt_provision_ex2">Ochrana soukromí</string>
   <string name="mx_enable">Zapnout cloudové zprávy</string>
   <string name="mx_enable_ex">MiZprávy</string>
-  <string name="mx_enable_int_popup_msg">Cloud zprávy Vám umožní posílat SMS zprávy zdarma mezi uživateli MIUI. Pro aktivaci se odešle mezinárodní SMS zpráva, která bude zpoplatněna dle ceníku Vašeho operátora.</string>
   <string name="mx_enable_popup_msg">Cloud zprávy Vám umožňují odesílat SMS přes MIUI. Vyžaduje se odeslání běžné SMS pro jejich aktivaci. Chcete pokračovat?</string>
   <string name="mx_filter_message_from_stranger">Blokovat Cloudové zprávy z neznámých čísel</string>
   <string name="mx_filter_message_from_stranger_dialog_desc">Stále bude možné přijímat běžné SMS zprávy z neznámých čísel. Toto nastavení můžete kdykoliv změnit v nastavení zpráv.</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokovat Cloudové zprávy z neznámých čísel</string>
   <string name="mx_filter_message_from_stranger_summary">Stále bude možné přijímat běžné SMS zprávy z neznámých čísel</string>
-  <string name="mx_int_warning_notice">Pro aktivací Cloud zpráv se odešle mezinárodní SMS zpráva, která bude zpoplatněná Vašim operátorem</string>
   <string name="mx_msg">Cloudová zpráva</string>
+  <string name="mx_msg_pageview_setting_title">Nastavení Cloudových zpráv</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_on_sim_1">Cloudové zprávy na SIM 1</string>
   <string name="mx_on_sim_2">Cloudové zprávy na SIM 2</string>
@@ -334,8 +329,6 @@
   <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
   <string name="mx_recommend_msg">Povolte Cloud zprávy pro zasílání zpráv zdarma</string>
   <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
-  <string name="mx_warning_notice">SMS byla odeslána k aktivaci cloudových zpráv.</string>
-  <string name="my_bookmark">Záložky</string>
   <string name="need_download">Čekání na synchr...</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
@@ -373,7 +366,6 @@
   <string name="pref_collapse_sp_messages_summary">Spojovat do vlákna zprávy od banky, operátora, atd.</string>
   <string name="pref_edit_smsc_address">Číslo SMS centra (SMSC)</string>
   <string name="pref_forward_title">Přeposlat</string>
-  <string name="pref_key_mx_feedback">Odeslat report</string>
   <string name="pref_message_recovery_introduction_title">Obnovit zprávu</string>
   <string name="pref_messages_to_save">Nastavit počet zpráv pro uložení</string>
   <string name="pref_mms_settings_title">Nastavení zpráv (MMS)</string>
@@ -391,8 +383,6 @@
   <string name="pref_summary_mms_auto_retrieval">Automaticky načítat MMS zprávy</string>
   <string name="pref_summary_mms_read_reports">Oznamovat přečtení MMS zprávy</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítat MMS zprávy při roamingu</string>
-  <string name="pref_summary_mx_feedback">"Pomozte zlepšit MIUI! 
-Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="pref_summary_notification_body_enabled">Zobrazit zprávu na zamykací obrazovce a v notifikační liště</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Náhled zprávy je v chráněném režimu vypnutý</string>
   <string name="pref_summary_off_system_mms_priority">Ostatní SMS aplikace dostanou zprávu přednostně</string>
@@ -488,6 +478,11 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="search_label">Zprávy</string>
   <string name="search_setting_description">Text ve zprávách</string>
   <string name="search_show_more_results">Více</string>
+  <string name="search_title_mms">Zprávy</string>
+  <string name="second_mms">Druhá zpráva</string>
+  <string name="second_mms_introduction">Jděte do Druhého profilu</string>
+  <string name="second_mms_notice">Zobrazit pouze druhou zprávu</string>
+  <string name="second_mms_switch">Přepnout profil</string>
   <string name="secs">s</string>
   <string name="security_alert_desc">Odesílatel není ve vašem seznamu kontaktů.</string>
   <string name="security_alert_desc_highlight">Nahlásit toto číslo</string>
@@ -522,7 +517,6 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="service_network_problem">Nelze odeslat, potíže se sítí.</string>
   <string name="service_not_activated">Služba není aktivní ve vaší síti.</string>
   <string name="set">Nastavit</string>
-  <string name="set_smsc_address_title_miui">Nastavit číslo SMS centra</string>
   <string name="share_img">Sdílet</string>
   <string name="show_all_messages">Zobrazit všechny zprávy</string>
   <string name="show_sender">Zobrazit info o odesílateli</string>
@@ -551,6 +545,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Informační zprávy</string>
   <string name="sp_mark_as_read">Označit všechny zprávy jako přečtené?</string>
+  <string name="sp_mark_as_read_menu_title">Označit jako přečtené</string>
   <string name="sp_mark_as_read_progress">Označení všech zpráv jako přečtené...</string>
   <string name="sp_mark_as_read_title">Označit vše jako přečtené?</string>
   <string name="status_failed">Neúspěšný</string>
@@ -569,7 +564,7 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Velikost MMS:</string>
   <string name="storage_dialog_sms">SMS: %d</string>
-  <string name="storage_limits_activity">Limit paměti</string>
+  <string name="storage_limits_activity">Omezení úložiště</string>
   <string name="storage_limits_message">Chcete omezit počet zpráv a šetřit místo na rozhovor?</string>
   <string name="storage_limits_setting">Nastavené limity</string>
   <string name="storage_limits_setting_dismiss">Bez omezení</string>
@@ -584,7 +579,6 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="timed_message_to">Komu</string>
   <string name="title_allow_network_access">Aktualizovat info automaticky</string>
   <string name="title_collapse_sp_messages">Spojovat zprávy služeb</string>
-  <string name="title_date_type">Časy zpráv</string>
   <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
   <string name="title_show_sms_template">Kontrola SMS zda obsahuje ověřovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pro OTP</string>
@@ -593,10 +587,6 @@ Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
   <string name="to_count">%d lidí</string>
   <string name="to_label">"Komu "</string>
   <string name="to_send_wrapper">Bude odesláno %s hod.</string>
-  <string name="toast_description_required">"Nelze odeslat prázdnou zprávu"</string>
-  <string name="toast_feedback_finish">Váš report bude automaticky odeslán po připojení na Wi-Fi</string>
-  <string name="toast_feedback_max">Můžete odeslat pouze 3 hlášení za den</string>
-  <string name="toast_feedback_start">Vytváření záznamu...</string>
   <string name="too_many_attachments">Počet vložených příloh je omezen na %1$s. Bude přidáno pouze prvních %2$s příloh.</string>
   <string name="too_many_recipients">Počet příjemců této zprávy je příliš vysoký (%1$s). Počet příjemců je omezen na %2$s.</string>
   <string name="too_many_unsent_mms">Nelze odeslat zprávu hned. Existuje příliš mnoho neodeslaných MMS zpráv.</string>
@@ -619,6 +609,8 @@ Pokus: %s."</string>
   <string name="unsticked_conversation">Připnutí již zrušeno</string>
   <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
   <string name="user_agreement1">Pozorně si přečtěte všechny podmínky před tím, než začnete používat nebo instalovat další aplikace.</string>
+  <string name="url_result_safe">URL je bezpečená</string>
+  <string name="url_scanning">Kontrola URL...</string>
   <string name="user_agreement2">" Podmínky používání"</string>
   <string name="user_agreement3">" a "</string>
   <string name="user_agreement4">Ochrana soukromí</string>

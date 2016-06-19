@@ -193,6 +193,14 @@
          <item quantity="other">%1$d položek | %2$s</item>
          <item quantity="one">%1$d položek | %2$s</item>
      </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Vymazat %1$d fotografie %2$s?</item>
+        <item quantity="one">Vymazat tuto fotografii %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Vymazat %1$d videa %2$s?</item>
+        <item quantity="one">Vymazat toto video %2$s?</item>
+    </plurals>    
      <plurals name="download_error">
          <item quantity="other">Stahování selhalo: %1$d</item>
          <item quantity="one">Stahování selhalo: %1$d</item>
@@ -225,4 +233,32 @@
          <item quantity="other">Nedostatek místa na úložišti. Čeká na zálohování: %1$d</item>
          <item quantity="one">Nedostatek místa na úložišti. Čeká na zálohování: %1$d</item>
      </plurals>	
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">Sdíleno %d lidem</item>
+        <item quantity="one">Sdíleno %d osobě</item>
+     </plurals>
+     <plurals name="picker_all_image_need_download">
+        <item quantity="other">Vybrané fotografie nejsou v zařízení, stáhnout přes mobilní data?</item>
+        <item quantity="one">Vybrané fotografie nejsou v zařízení, stáhnout přes mobilní data?</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+        <item quantity="other">Vybrané fotografie nejsou v zařízení, stahování...</item>
+        <item quantity="one">Vybrané fotografie nejsou v zařízení, stahování...</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Vybrané fotografie nejsou v zařízení (%dMB), stáhnout přes mobilní data?</item>
+        <item quantity="one">Vybrané fotografie nejsou v zařízení (%dMB), stáhnout přes mobilní data?</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Zrušit stahování %d fotografií?</item>
+        <item quantity="one">Zrušit stahování poslední fotografie?</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Stahování %1$d fotografií selhalo, zkusit znovu?</item>
+        <item quantity="one">Stahování fotografie selhalo, zkusit znovu?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Stahování %1$d fotografií (%2$dMB) selhalo, zkusit znovu?</item>
+        <item quantity="one">Stahování fotografie (%2$dMB) selhalo, zkusit znovu?</item>
+     </plurals>
 </resources>

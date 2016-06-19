@@ -30,7 +30,6 @@
         <item>Vyčistit</item>
         <item>Instalovat</item>
         <item>Zobrazit umístění souboru</item>
-        <item>Výjimka</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Podrobnosti</item>
