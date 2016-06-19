@@ -120,6 +120,7 @@
   <string name="callFailed_unobtainable_number">Chybné číslo</string>
   <string name="callFailed_userBusy">Linka je obsazená.</string>
   <string name="callUnanswered_forwarded">Hovor je přesměrovaný</string>
+  <string name="call_advanced_setting_title">Další nastavení</string>
   <string name="call_barring_sum">Nastavení blokování hlasových hovorů</string>
   <string name="call_description_recording">Nahrávání hovoru...</string>
   <string name="call_forwarding_number_hint">Zadejte prosím číslo pro přesměrování</string>
@@ -814,6 +815,8 @@ Počet zbývajících pokusů: %d."</string>
   <string name="preference_auto_ip_summary_disable">Deaktivováno</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_category_ringtone">Vyzvánění</string>
+  <string name="preference_data_usage_summary">Nastavte svůj limit mobilních dat</string>
+  <string name="preference_data_usage_title">Nastavit limit dat</string>
   <string name="preference_dial_pad_touch_tone_default">Výchozí</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
   <string name="preference_dial_pad_touch_tone_title">Tóny číselníku</string>

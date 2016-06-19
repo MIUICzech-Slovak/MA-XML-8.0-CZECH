@@ -612,6 +612,7 @@
   <string name="square">Čtverec</string>
   <string name="start_to_use_face_albumset">Album lidí</string>
   <string name="storage_no_space">"Není volné místo na úložišti."</string>
+  <string name="sticker">Nálepka</string>
   <string name="straighten">Vyrovnat</string>
   <string name="straighten_tooltip">Potáhněte snímek pro jeho vyrovnání</string>
   <string name="success_create_quick_icon_on_desk">Vytvořeno</string>
@@ -699,8 +700,8 @@
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Text</string>
-  <string name="video_editor_text_edit_end">Poděkování</string>
-  <string name="video_editor_text_edit_input_end_hint">Zadejte poděkování</string>
+  <string name="video_editor_text_edit_end">Titulky</string>
+  <string name="video_editor_text_edit_input_end_hint">Zadejte titulek</string>
   <string name="video_editor_text_edit_input_hint">Dotykem upravíte</string>
   <string name="video_editor_text_edit_input_open_hint">Zadejte název</string>
   <string name="video_editor_text_edit_start">Název</string>

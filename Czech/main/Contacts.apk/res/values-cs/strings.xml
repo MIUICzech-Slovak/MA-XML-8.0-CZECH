@@ -887,8 +887,8 @@ Synchronizujte je nyní."</string>
   <string name="pref_key_rebuild_t9_index_message">Opravit index vyhledávání kontaktů</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovit T9 index</string>
   <string name="pref_key_sim_manage">Správa SIM karet</string>
-  <string name="pref_key_sim_manage1">Nastavit SIM 1</string>
-  <string name="pref_key_sim_manage2">Nastavit SIM 2</string>
+  <string name="pref_key_sim_manage1">Nastavení SIM 1</string>
+  <string name="pref_key_sim_manage2">Nastavení SIM 2</string>
   <string name="pref_rcs_backup_restore_title">Nastavení zálohy a obnovy</string>
   <string name="pref_summary_import_from_account">Kopírování kontaktů z Google a Exchange účtů do mého Xiaomi účtu</string>
   <string name="pref_title_account_import">Import kontaktů</string>

@@ -605,7 +605,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="trans_task">Přenos po síti</string>
   <string name="transfer_done">Soubory přesunuty.</string>
   <string name="transfer_private_data">Přesouvání soukromých souborů z SD karty...</string>
-  <string name="transing">Přenos dat...</string>
+  <string name="transing">Přenos dat</string>
   <string name="trash_box_capacity">koš: %1$s</string>
   <string name="trash_box_link">Přejděte na pan.xiaomi.com a vyprázdněte koš</string>
   <string name="trash_box_message1">Můžete odstranit zbytečné soubory a uvolnit tak místo</string>

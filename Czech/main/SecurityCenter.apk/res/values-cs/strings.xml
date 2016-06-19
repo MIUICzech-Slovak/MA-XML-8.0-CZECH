@@ -1218,7 +1218,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_exception_summary">Zkontrolovat dostupné připojení Wi-Fi sítě</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
-     <string name="activity_title_safepay">Bezpečnost plateb</string>
      <string name="app_check_no_issue">Vypadá to, že je baterie v pořádku. Skvěle!</string>
      <string name="app_check_optimize_title">Optimalizovat aktivity na pozadí</string>
      <string name="app_check_reason_background_cpu">CPU aktivity na pozadí</string>
