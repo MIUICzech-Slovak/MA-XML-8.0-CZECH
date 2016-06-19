@@ -33,7 +33,6 @@
   <string name="activate_popup_confirm_failed_receive_sms">Znovu</string>
   <string name="activate_popup_confirm_failed_send_sms">Znovu</string>
   <string name="activate_popup_confirm_failed_server">Znovu</string>
-  <string name="activate_popup_confirm_upload_diagnosis_info">Odeslat</string>
   <string name="activate_popup_desc_2_intl_sim_cards">Budou odeslány 2 mezinárodní SMS pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
   <string name="activate_popup_desc_2_sim_cards">Budou odeslány 2 mezinárodní SMS pro aktivaci vašich 2 SIM karet a těchto funkcí: %s</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Nelze rozpoznat vaše tel. číslo. Ujistěte se, že vaše SIM karta je aktivní.
@@ -60,13 +59,10 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
   <string name="activate_popup_desc_register_account_intl">Bude odeslána mezinárodní SMS pro aktivaci vašeho Xiaomi účtu</string>
   <string name="activate_popup_desc_sim_card">SMS bude odeslána pro aktivaci vaší SIM karty a těchto funkcí: %s</string>
   <string name="activate_popup_desc_sim_card_downlink">Zadejte číslo vaší SIM karty pro aktivaci těchto funkcí: %s</string>
-  <string name="activate_popup_desc_upload_diagnosis_info">Nelze aktivovat SIM kartu. Zvažte odeslání informací pro diagnostiku problému. (Report ID: %s)</string>
   <string name="activate_popup_desc_voip_privacy">Ochrane soukromí</string>
   <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, přečtěte si o "</string>
-  <string name="activate_popup_link_diagnosis_detail">Která soukromá data budou odeslána?</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Nelze rozpoznat tel.  číslo.</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Nebylo možné odeslat aktivační SMS zprávu</string>
-  <string name="activate_popup_title_diagnosis_detail">Informace o diagnostice</string>
   <string name="activate_popup_title_error_device_id">Nesprávné IMEI</string>
   <string name="activate_popup_title_failed_phone_error">Nesprávné tel. číslo</string>
   <string name="activate_popup_title_failed_query_info">Tel. číslo nebylo nalezeno</string>
@@ -86,8 +82,6 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
   <string name="activate_status_desc_device_id_error">Nesprávné IMEI</string>
   <string name="activate_status_desc_failed_getting_gateway">Načítání SMS brány selhalo</string>
   <string name="activate_status_desc_getting_gateway">Načítání SMS brány</string>
-  <string name="activate_status_desc_getting_sim_info">Načítání informací o SIM kartě</string>
-  <string name="activate_status_desc_getting_sim_info_fail">Nelze načíst informace o SIM kartě</string>
   <string name="activate_status_desc_prepare_sending_sms">Připravit odeslání aktivační SMS</string>
   <string name="activate_status_desc_query_activation_info">Získávání aktivace ze serveru</string>
   <string name="activate_status_desc_query_activation_info_downlink_sms_error">Odesílání aktivační SMS do vašeho zařízení selhalo</string>
@@ -97,15 +91,11 @@ Zadejte vaše telefonní číslo nové SIM karty pro aktivaci %s"</string>
   <string name="activate_status_desc_registering_sim_account_server_error">Chyba serveru při registraci SIM karty</string>
   <string name="activate_status_desc_registering_xiaomi_account">Registrace Xiaomi účtu na serveru</string>
   <string name="activate_status_desc_registering_xiaomi_account_server_error">Chyba serveru při registraci Xiaomi účtu</string>
-  <string name="activate_status_desc_registration">Registrace SIM karty</string>
-  <string name="activate_status_desc_registration_server_error">Chyba serveru při registraci SIM karty</string>
   <string name="activate_status_desc_request_activation_sms">Požadavek na aktivační SMS ze serveru do vašeho zařízení</string>
-  <string name="activate_status_desc_request_activation_sms_phone_error">Zadané telefonní číslo je nesprávné</string>
   <string name="activate_status_desc_request_activation_sms_server_error">Chyba při odesílání požadavku na aktivační SMS ze serveru do vašeho zařízení</string>
   <string name="activate_status_desc_sending_sms">Odesílání aktivační SMS...</string>
   <string name="activate_status_desc_sending_sms_fail">Nelze odeslat aktivační SMS</string>
   <string name="activate_status_desc_sms_sent">Aktivační SMS byla odeslána</string>
-  <string name="activate_status_desc_wait_for_phone_service">Čekání na mobilní signál</string>
   <string name="activate_status_desc_wait_for_sms">Čekání na aktivační SMS</string>
   <string name="activate_status_desc_wait_for_sms_fail">Nelze přijmout aktivační SMS ze serveru</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivační SMS ze serveru přijata</string>
