@@ -1621,7 +1621,6 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="internal_media_format_final_desc">"Vymazání interního úložiště vymaže všechna uložená data! Tato akce se nedá vrátit zpět! Telefon se po dokončení restartuje!"</string>
   <string name="internal_media_format_title">Vymazat Interní úložiště</string>
   <string name="internal_memory">Interní úložiště</string>
-  <string name="internal_storage">Systémové úložiště</string>
   <string name="internal_storage">Interní úložiště</string>
   <string name="invalid_location">Umístění instalace není platné.</string>
   <string name="invalid_size_value">Nepodařilo se určit velikost balíčku.</string>

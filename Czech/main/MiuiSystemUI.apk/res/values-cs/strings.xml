@@ -267,7 +267,7 @@ d. MMMM"</string>
   <string name="status_bar_no_recent_apps">Žádné nové aplikace</string>
   <string name="status_bar_notification_inspect_item_title">Informace o aplikaci</string>
   <string name="status_bar_recent_guide_all">"Přetažením nahoru ukončíte,
-  přetažením dolů uzamknete"</strig>
+přetažením dolů uzamknete"</string>
   <string name="status_bar_recent_guide_bottom">Přetažením dolů uzamknete</string>
   <string name="status_bar_recent_guide_top">Přetažením nahoru ukončíte</string>
   <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostupné</string>
