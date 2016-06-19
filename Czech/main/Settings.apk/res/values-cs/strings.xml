@@ -481,7 +481,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="bluetooth_broadcasting_explaination">"Když je tato funkce zapnutá, váš telefon může komunikovat s ostatními zařízeními v okolí.
 
 Vysílání využívá nízkoenergetické signály Bluetooth."</string>
-  <string name="bluetooth_confirm_passkey_msg">Párování se zařízením:Zkontrolujte, zda zařízení zobrazuje tento přístupový\nklíč: %2$s</string>
+  <string name="bluetooth_confirm_passkey_msg">Párování se zařízením: %1$s Zkontrolujte, zda zařízení zobrazuje tento přístupový\nklíč: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Připojit k síti…</string>
   <string name="bluetooth_connected">Připojeno</string>
   <string name="bluetooth_connected_no_a2dp">Připojeno (žádná média)</string>
@@ -3553,7 +3553,7 @@ Každý uživatel může přijmout aktualizovaná oprávnění aplikací jménem
   <string name="virus_scanner_lib_already_latest">Virová databáze je aktuální</string>
   <string name="virus_scanner_lib_update_failed">Aktualizace vírové databáze selhala!</string>
   <string name="virus_scanner_lib_updating">Aktualizace databáze...</string>
-  <string name="virus_scanner_manual_update">Aktualizovat manuálně</string>
+  <string name="virus_scanner_manual_update">Aktualizováno: %s</string>
   <string name="virus_scanner_provider">Bezpečnost zajišťuje %s</string>
   <string name="virus_scanner_scan">Skenovat</string>
   <string name="virus_scanner_scanning">AntiVirus</string>

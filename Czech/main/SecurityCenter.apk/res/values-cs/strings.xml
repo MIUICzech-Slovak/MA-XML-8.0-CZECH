@@ -685,7 +685,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="pm_root_success_notification_title">ROOT práva povolena</string>
   <string name="positive_confirm">Ok</string>
   <string name="power_20s_enter_mode">Režim %2$s za %1$d sekund</string>
-  <string name="power_20s_shutdown">Zařízení se vypne za %s sekund</string>
+  <string name="power_20s_shutdown">Zařízení se vypne za %d sekund</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Vymazat</string>
   <string name="power_cell">Pohotovostní režim</string>
@@ -1105,7 +1105,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="traffic_protection_label">Upozornění spotřeby dat</string>
   <string name="traffic_protection_next">Další</string>
   <string name="traffic_protection_summary">Nastavte upozornění při dosažení limitu spotřeby dat</string>
-  <string name="traffic_protection_text_hint">Nastavit limit mobilních dat</string>
+  <string name="traffic_protection_text_hint">Nastavit limit mobilních dat pro %s</string>
   <string name="traffic_protection_unknown">Zadat později</string>
   <string name="traffic_protection_use_data">Data povolena</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
