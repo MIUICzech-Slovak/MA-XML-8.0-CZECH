@@ -4120,4 +4120,389 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
      <string name="vpn_settings_summary">Chraňte nastavení VPN heslem uzamčení</string>
      <string name="wifi_scan_notify_text">Pro zlepšení přesnosti polohy, systémové aplikace a služby stále mohou skenovat Wi-Fi sítě. Toto nastavení můžete změnit v LINK_BEGINNastavení skenováníLINK_END.</string>
      <string name="zen_mode_end_time_next_day_summary_format">%s další den</string>
+     <string name="confirm_enable_multi_window_text">UPOZORNĚNÍ: Toto je vysoce experimentální funkce, která prostřednictvím uživatelského rozhraní Nedávné aplikace umožňuje, aby na obrazovce probíhalo několik aktivit současně. Při použití této funkce mohou některé aplikace selhat nebo nemusejí fungovat správně.</string>
+  <string name="confirm_enable_oem_unlock_text">UPOZORNĚNÍ: Pokud bude toto nastavení zapnuto, nebudou v tomto zařízení fungovat funkce ochrany zařízení.</string>
+  <string name="encryption_interstitial_message_password_for_fingerprint">"Kromě odemykání pomocí otisku prstu můžete toto zařízení dále ochránit tak, že před jeho spuštěním bude požadováno heslo. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
+
+Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
+  <string name="encryption_interstitial_message_pattern_for_fingerprint">"Kromě odemykání pomocí otisku prstu můžete toto zařízení dále ochránit tak, že před jeho spuštěním bude požadováno gesto. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
+
+Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
+  <string name="encryption_interstitial_message_pin_for_fingerprint">"Kromě odemykání pomocí otisku prstu můžete toto zařízení dále ochránit tak, že před jeho spuštěním bude požadován kód PIN. Před spuštěním zařízení nemůže přijímat hovory, zprávy ani oznámení, včetně budíků.
+
+Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních."</string>
+  <string name="fullbackup_data_summary">"Automaticky vzdáleně zálohujte data zařízení (jako jsou hesla sítí Wi-Fi a historie volání) a data aplikací (jako jsou nastavení a soubory uložené aplikacemi).
+
+Když zapnete automatické zálohování, data zařízení a aplikací se budou pravidelně ukládat do vzdáleného úložiště. Data aplikací mohou zahrnovat data, která uložila aplikace (v závislosti na nastavení vývojáře), včetně potenciálně citlivých dat, jako jsou kontakty, zprávy a fotky."</string>
+  <string name="fullbackup_erase_dialog_message">Zastavit zálohování dat zařízení (jako jsou hesla sítí Wi-Fi a historie volání) a dat aplikací (jako jsou nastavení a soubory uložené aplikacemi) a vymazat všechny kopie na Disku Google?</string>
+  <string name="internal_storage_sentence">interní úložiště</string>
+  <string name="location_scanning_bluetooth_always_scanning_description">Umožňuje zlepšit přesnost určování polohy tím, že systémové aplikace a služby budou vyhledávat zařízení Bluetooth neustále.</string>
+  <string name="location_scanning_bluetooth_always_scanning_title">Vyhledávání Bluetooth</string>
+  <string name="location_scanning_screen_title">Skenování</string>
+  <string name="location_scanning_wifi_always_scanning_description">Umožňuje zlepšit přesnost určování polohy tím, že systémové aplikace a služby budou vyhledávat sítě Wi-Fi neustále.</string>
+  <string name="location_scanning_wifi_always_scanning_title">Vyhledávání Wi‑Fi</string>
+  <string name="lock_immediately_summary_with_exception">Okamžitě po režimu spánku, pokud odemknutí není udržováno pomocí agenta %1$s</string>
+  <string name="lockpassword_confirm_passwords_dont_match">Hesla nejsou shodná</string>
+  <string name="lockpassword_confirm_your_password_generic">Chcete-li pokračovat, zadejte heslo zařízení.</string>
+  <string name="lockpassword_confirm_your_pattern_generic">Chcete-li pokračovat, zadejte gesto zařízení.</string>
+  <string name="lockpassword_confirm_your_pin_generic">Chcete-li pokračovat, zadejte PIN zařízení.</string>
+  <string name="lockpassword_invalid_password">Nesprávné heslo</string>
+  <string name="lockpassword_invalid_pin">Nesprávný kód PIN</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Příliš mnoho neplatných pokusů. Zkuste to znovu za %d s.</string>
+  <string name="manage_zen_access_title">Přístup při nastavení Nerušit</string>
+  <string name="managing_admin">Spravováno aplikací %s</string>
+  <string name="master_clear_other_users_present">"
+
+V tomto zařízení jsou přítomni další uživatelé.
+"</string>
+  <string name="maximum_memory_use">Maximální využití paměti</string>
+  <string name="memory_avg_desc">Průměrně %1$s</string>
+  <string name="memory_avg_use">Průměr</string>
+  <string name="memory_max_desc">Maximálně %1$s</string>
+  <string name="memory_max_use">Maximum</string>
+  <string name="memory_maximum_usage">Maximální využití</string>
+  <string name="memory_performance">Výkon</string>
+  <string name="memory_settings_title">Paměť</string>
+  <string name="memory_usage">Využití paměti</string>
+  <string name="memory_usage_apps">Paměť používaná aplikacemi</string>
+  <string name="memory_use_running_format">%1$s / %2$s</string>
+  <string name="memory_use_summary">Za poslední 3 hodiny bylo v průměru využito %1$s paměti.</string>
+  <string name="network_reset_not_available">Pro tohoto uživatele resetování sítě není k dispozici</string>
+  <string name="nfc_how_it_works_content">Nastavte platební aplikaci. Poté jen přidržte telefon zadní stranou u terminálu se symbolem bezkontaktních plateb.</string>
+  <string name="nfc_how_it_works_got_it">Rozumím</string>
+  <string name="nfc_how_it_works_title">Platba na terminálu</string>
+  <string name="nfc_payment_app_and_desc">%1$s – %2$s</string>
+  <string name="nfc_payment_default">Výchozí platební aplikace</string>
+  <string name="nfc_payment_default_not_set">Nenastaveno</string>
+  <string name="nfc_payment_favor_default">Vždy</string>
+  <string name="nfc_payment_favor_open">Kromě případů, kdy je spuštěna jiná platební aplikace</string>
+  <string name="nfc_payment_how_it_works">Jak to funguje</string>
+  <string name="nfc_payment_pay_with">Aplikace, která bude použita u terminálu pro platby mobilem:</string>
+  <string name="nfc_payment_use_default">Použít výchozí</string>
+  <string name="night_mode_auto">Automatický</string>
+  <string name="night_mode_no">Světlý</string>
+  <string name="night_mode_summary">%s</string>
+  <string name="night_mode_title">Motiv</string>
+  <string name="night_mode_yes">Tmavý</string>
+  <string name="no_battery_summary">Baterie od posledního úplného nabití nebyla využita</string>
+  <string name="no_data_usage">Nebyla využita žádná data</string>
+  <string name="no_default_apps">Žádné výchozí aplikace</string>
+  <string name="no_memory_use_summary">Za poslední 3 hodiny nebyla využita žádná paměť.</string>
+  <string name="notifications_disabled">Blokováno</string>
+  <string name="notifications_enabled">Normální</string>
+  <string name="notifications_label">Oznámení</string>
+  <string name="notifications_no_peeking">Rychlý náhled zakázán</string>
+  <string name="notifications_priority">Prioritní</string>
+  <string name="notifications_sensitive">Citlivý obsah byl skryt</string>
+  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
+  <string name="notifications_two_items">%1$s / %2$s</string>
+  <string name="process_stats_bg_ram_use">Využití RAM (pozadí)</string>
+  <string name="process_stats_os_cache">Mezipaměti</string>
+  <string name="process_stats_os_kernel">Jádro</string>
+  <string name="process_stats_os_label">OS Android</string>
+  <string name="process_stats_os_native">Nativní</string>
+  <string name="process_stats_os_zram">Z-Ram</string>
+  <string name="process_stats_ram_use">Využití RAM</string>
+  <string name="process_stats_total_duration_percentage">Za dobu %2$s bylo použito %1$s paměti RAM</string>
+  <string name="processes_subtitle">Procesy</string>
+  <string name="opening_paragraph_delete_profile_unknown_company">Tento pracovní profil je spravován pomocí aplikace:</string>
+    <string name="overlay_settings">Vykreslení přes další aplikace</string>
+    <string name="passpoint_content">%1$s – identifikační údaje</string>
+    <string name="passpoint_label">Uloženo pomocí</string>
+    <string name="permit_draw_overlay">Povolit vykreslení přes další aplikace</string>
+    <string name="permit_usage_access">Povolit přístup k údajům o využití</string>
+    <string name="permit_write_settings">Povolit provádění změn nastavení systému</string>
+    <string name="personal_data_section_title">Osobní údaje</string>
+    <string name="power_camera">Fotoaparát</string>
+    <string name="process_dex2oat_label">Optimalizace aplikací</string>
+    <string name="rarely_running">Spuštěno výjimečně (%s)</string>
+    <string name="reset_network_button_text">Obnovit nastavení</string>
+    <string name="reset_network_complete_toast">Nastavení sítí bylo resetováno</string>
+    <string name="reset_network_confirm_title">Resetovat?</string>
+    <string name="reset_network_desc">"Tímto obnovíte nastavení všech sítí, včetně následujících:
+    
+    "připojení Wi-Fi,"
+    "mobilního připojení,"
+    "připojení Bluetooth.</string>
+    <string name="reset_network_final_button_text">Obnovit nastavení</string>
+    <string name="reset_network_final_desc">Chcete resetovat všechna nastavení sítí? Tuto akci nelze vrátit zpět.</string>
+    <string name="reset_network_title">Obnovení nastavení sítě</string>
+    <string name="running_frequency">Frekvence</string>
+    <string name="runtime_permissions_summary_no_permissions_granted">Nebyla udělena žádná oprávnění</string>
+    <string name="runtime_permissions_summary_no_permissions_requested">Nevyžaduje žádná oprávnění</string>
+    <string name="save">Uložit</string>
+    <string name="saved_network">Uloženo uživatelem %1$s</string>
+    <string name="screen_pinning_unlock_none">Při uvolnění uzamknout zařízení</string>
+    <string name="screen_pinning_unlock_password">Před uvolněním požádat o heslo</string>
+    <string name="screen_pinning_unlock_pattern">Před uvolněním požádat o bezpečnostní gesto</string>
+    <string name="screen_pinning_unlock_pin">Před uvolněním požádat o PIN</string>
+    <string name="security_settings_fingerprint_enroll_dialog_delete">Smazat</string>
+    <string name="security_settings_fingerprint_enroll_dialog_name_label">Jméno</string>
+    <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">Kromě odemknutí telefonu můžete svůj otisk prstu použít také k autorizaci nákupů a přístupu aplikací. &lt;annotation id="url"&gt;Dal&amp;#353;&amp;#237; informace&lt;/annotation&gt;</string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Možnost zámku obrazovky byla zakázána. Svůj otisk prstu můžete i nadále používat k autorizaci nákupů a přístupu k aplikacím. &lt;annotation id="url"&gt;Dal&amp;#353;&amp;#237; informace&lt;/annotation&gt;</string>
+    <string name="security_settings_fingerprint_enroll_done">Hotovo</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustrace se zařízením a polohou senzoru otisků prstů</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_message">Najděte senzor otisků prstů na zadní straně telefonu.</string>
+    <string name="security_settings_fingerprint_enroll_find_sensor_title">Najděte senzor</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Kdykoli se zobrazí tato ikona, můžete se identifikovat nebo autorizovat nákup pomocí svého otisku prstu.</string>
+    <string name="security_settings_fingerprint_enroll_finish_title">Otisk byl přidán!</string>
+    <string name="security_settings_fingerprint_enroll_introduction_cancel">Zrušit</string>
+    <string name="security_settings_fingerprint_enroll_introduction_continue">Pokračovat</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">Odemykejte telefon, autorizujte nákupy a přihlašujte se do aplikací pouhým klepnutím na senzor otisků prstů. Dobře zvažte, čí otisky do zařízení přidáte. Tyto akce bude možné provádět pomocí všech přidaných otisků.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_warning">Poznámka: Otisk prstu může být méně bezpečný než silné gesto nebo PIN.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_risk_link_text">Další informace</string>
+    <string name="security_settings_fingerprint_enroll_introduction_title">Odemknutí otiskem prstu</string>
+    <string name="security_settings_fingerprint_enroll_lift_touch_again">Zvedněte prst a poté na senzor klepněte znovu.</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message">Aby bylo možné pomocí otisku prstu odemykat obrazovku a potvrzovat nákupy, bude potřeba provést následující:</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_1">Nastavte záložní metodu zámku obrazovky.</string>
+    <string name="security_settings_fingerprint_enroll_onboard_message_2">přidat otisk prstu.</string>
+    <string name="security_settings_fingerprint_enroll_onboard_title">Nastavení otisku prstu</string>
+    <string name="security_settings_fingerprint_enroll_repeat_message">Lehce pohněte prstem, aby se zaznamenaly všechny části otisku</string>
+    <string name="security_settings_fingerprint_enroll_repeat_title">OK, nyní to zopakujte</string>
+    <string name="security_settings_fingerprint_enroll_setup_screen_lock">Nastavit zámek obrazovky</string>
+    <string name="security_settings_fingerprint_enroll_start_message">Umístěte prst na senzor. Až ucítíte vibraci, zvedněte jej.</string>
+    <string name="security_settings_fingerprint_enroll_start_title">Začínáme!</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">Použijte senzor otisků prstů na zařízení.</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_title">Jejda, to není senzor.</string>
+    <string name="security_settings_fingerprint_preference_title">Otisk prstu</string>
+    <string name="select_sim_for_calls">Volat pomocí</string>
+    <string name="select_sim_for_data">Vyberte SIM kartu pro data</string>
+    <string name="setup_fingerprint_enroll_finish_message">Probuďte a odemkněte zařízení klepnutím na senzor otisků prstů.</string>
+    <string name="setup_fingerprint_enroll_finish_message_secondary">Když se zobrazí tato ikona, můžete použít otisk prstu.</string>
+    <string name="sim_change_data_message">Chcete pro mobilní data namísto SIM karty %2$s použít SIM kartu %1$s?</string>
+    <string name="sim_change_data_title">Změnit SIM kartu pro data?</string>
+    <string name="sim_name_hint">Zadejte název SIM karty</string>
+    <string name="sim_notification_summary">Nastavte dotykem</string>
+    <string name="sim_notification_title">SIM karty byly změněny.</string>
+    <string name="sim_preferred_message">%1$s je jediná SIM karta v zařízení. Chcete tuto SIM kartu použít k mobilnímu datovému připojení, volání a odesílání zpráv SMS?</string>
+    <string name="sim_preferred_title">Změnit preferovanou SIM kartu?</string>
+    <string name="slot_number">(Slot %1$d)</string>
+    <string name="sometimes_running">Spuštěno občas (%s)</string>
+    <string name="sort_avg_use">Řadit podle prům. využití</string>
+    <string name="sort_max_use">Řadit podle max. využití</string>
+    <string name="starting_android">Spouštění systému Android</string>
+    <string name="storage_detail_apps">Aplikace</string>
+    <string name="storage_detail_audio">Zvuk</string>
+    <string name="storage_detail_cached">Data uložená v mezipaměti</string>
+    <string name="storage_detail_dialog_other">"Mezi ostatní soubory patří sdílené soubory uložené aplikacemi, soubory stažené z internetu nebo přes Bluetooth, soubory systému Android apod. 
+    
+    Chcete-li zobrazit celý obsah tohoto úložiště ^1, klepněte na Prozkoumat."</string>
+    <string name="storage_detail_dialog_user">"^1 může mít uložené fotky, hudbu, filmy, aplikace a další data, která v úložišti zabírají ^2. 
+    
+    Chcete-li zobrazit podrobnosti, přepněte na účet uživatele ^1."</string>
+    <string name="storage_detail_explore">Prozkoumat úložiště ^1</string>
+    <string name="storage_detail_images">Obrázky</string>
+    <string name="storage_detail_other">Jiné</string>
+    <string name="storage_detail_videos">Videa</string>
+    <string name="storage_dialog_unmountable">"Toto úložiště ^1 je poškozeno. 
+    
+    Chcete-li toto úložiště ^1 použít, musíte jej nejdříve nastavit."</string>
+    <string name="storage_dialog_unmounted">"Toto úložiště ^1 bylo bezpečně odpojeno, ale je stále k dispozici. 
+    
+    Chcete-li toto úložiště ^1 použít, musíte jej nejdříve připojit."</string>
+    <string name="storage_dialog_unsupported">"Úložiště ^1 není v tomto zařízení podporováno. 
+    
+    Chcete-li toto úložiště ^1 použít s tímto zařízením, musíte jej nejdříve nastavit."</string>
+    <string name="storage_external_title">Přenosné úložiště</string>
+    <string name="storage_format_failure">Formátování úložiště %1$s se nezdařilo</string>
+    <string name="storage_format_success">Úložiště %1$s je naformátováno</string>
+    <string name="storage_internal_forget_confirm">Všechny aplikace, fotky a data uložená v tomto úložišti ^1 budou navždy ztracena.</string>
+    <string name="storage_internal_forget_confirm_title">Zapomenout úložiště ^1?</string>
+    <string name="storage_internal_forget_details">"Chcete-li použít aplikace, fotky nebo data, která jsou v úložišti ^1, vložte jej znovu.
+    
+    Pokud toto zařízení není k dispozici, můžete alternativně zvolit, že má být zapomenuto.
+    
+    Pokud se rozhodnete zařízení zapomenout, veškerá data v zařízení budou navždy ztracena.
+    
+    Aplikace můžete znovu nainstalovat později. Jejich data uložená v tomto zařízení však budou ztracena."</string>
+    <string name="storage_internal_format_details">"Po naformátování budete moci toto úložiště ^1 používat s jinými zařízeními. 
+    
+    Veškerá data v tomto úložišti ^1 budou vymazána. Doporučujeme je nejprve zálohovat. 
+    
+    "Zálohování fotek a jiných médií" 
+    Mediální soubory přesuňte do jiného úložiště v zařízení nebo je pomocí kabelu USB přeneste do počítače. 
+    
+    "Zálohování aplikací" 
+    Všechny aplikace v úložišti ^1 se odinstalují a jejich údaje se vymažou;. Pokud chcete tyto aplikace ponechat, přesuňte je do jiného úložiště v zařízení."</string>
+    <string name="storage_internal_title">Úložiště zařízení</string>
+    
+    <string name="storage_menu_explore">Prozkoumat</string>
+    <string name="storage_menu_forget">Zapomenout</string>
+    <string name="storage_menu_format">Formátovat</string>
+    <string name="storage_menu_format_private">Formátovat jako interní</string>
+    <string name="storage_menu_format_public">Formátovat jako přenosné</string>
+    <string name="storage_menu_migrate">Migrovat data</string>
+    <string name="storage_menu_mount">Připojit</string>
+    <string name="storage_menu_rename">Přejmenovat</string>
+    <string name="storage_menu_set_up">Nastavit</string>
+    <string name="storage_menu_unmount">Odpojit</string>
+    <string name="storage_mount_failure">Připojení úložiště %1$s se nezdařilo</string>
+    <string name="storage_mount_success">Úložiště %1$s je připojeno</string>
+    <string name="storage_rename_title">Přejmenovat úložiště</string>
+    <string name="storage_summary_format">%2$s – využito %1$s</string>
+    <string name="storage_type_external">Externí úložiště</string>
+    <string name="storage_type_internal">Interní úložiště</string>
+    <string name="storage_unmount_failure">Úložiště %1$s nebylo možné bezpečně odpojit</string>
+    <string name="storage_unmount_success">Úložiště %1$s bylo bezpečně odpojeno</string>
+    <string name="storage_usb_settings">Úložiště a USB</string>
+    <string name="storage_used">Využití úložiště</string>
+    <string name="storage_volume_summary">Použito %1$s z %2$s</string>
+    <string name="storage_volume_used">Použito z %1$s</string>
+    <string name="storage_volume_used_total">Použito celkem z %1$s</string>
+    <string name="storage_wizard_format_confirm_body">"Proto je nutné úložiště ^1 zabezpečit pomocí formátování. 
+    
+    Po naformátování bude úložiště ^1 fungovat pouze v tomto zařízení. 
+    
+    "&lt;b&gt;Form&amp;#225;tov&amp;#225;n&amp;#237;m vyma&amp;#382;ete ve&amp;#353;ker&amp;#225; data, kter&amp;#225; jsou v tomto &amp;#250;lo&amp;#382;i&amp;#353;ti ^1 ulo&amp;#382;ena.&lt;/b&gt; Chcete-li ztr&amp;#225;t&amp;#283; dat p&amp;#345;edej&amp;#237;t, doporu&amp;#269;ujeme je z&amp;#225;lohovat.</string>
+    <string name="storage_wizard_format_confirm_next">Vymazat a naformátovat</string>
+    <string name="storage_wizard_format_confirm_public_body">"Tato akce vyžaduje, aby úložiště ^1 bylo naformátováno. 
+    
+    "&lt;b&gt;Form&amp;#225;tov&amp;#225;n&amp;#237;m vyma&amp;#382;ete ve&amp;#353;ker&amp;#225; data z&amp;#160;&amp;#250;lo&amp;#382;i&amp;#353;t&amp;#283; ^1.&lt;/b&gt; Chcete-li p&amp;#345;edej&amp;#237;t ztr&amp;#225;t&amp;#283; dat, doporu&amp;#269;ujeme je z&amp;#225;lohovat.</string>
+    <string name="storage_wizard_format_confirm_public_title">Formátovat jako přenosné úložiště</string>
+    <string name="storage_wizard_format_confirm_title">Formátovat jako interní úložiště</string>
+    <string name="storage_wizard_format_progress_body">Během formátování úložiště ^1 neodpojujte.</string>
+    <string name="storage_wizard_format_progress_title">Formátování úložiště ^1…</string>
+    <string name="storage_wizard_init_external_summary">K přenášení fotek a dalších médií mezi zařízeními.</string>
+    <string name="storage_wizard_init_external_title">Použít jako přenosné úložiště</string>
+    <string name="storage_wizard_init_internal_summary">K ukládání libovolných dat, včetně aplikací a fotek, pouze do tohoto zařízení. Vyžaduje naformátování, které způsobí, že nebude fungovat v jiných zařízeních.</string>
+    <string name="storage_wizard_init_internal_title">Použít jako interní úložiště</string>
+    <string name="storage_wizard_init_title">Nastavte úložiště ^1</string>
+    <string name="storage_wizard_migrate_body">"Do tohoto nového úložiště ^1 můžete přesunout fotky, soubory a některé aplikace. 
+    
+    Přesun bude trvat ^2 a v interním úložišti uvolní ^3. Během přesunu nebudou některé aplikace fungovat."</string>
+    <string name="storage_wizard_migrate_confirm_body">&lt;b&gt;Doba p&amp;#345;esunu: cca ^1. ^3 uvoln&amp;#237; ^2.&lt;/b&gt;</string>
+    <string name="storage_wizard_migrate_confirm_next">Přesunout</string>
+    <string name="storage_wizard_migrate_confirm_title">Přesun dat</string>
+    <string name="storage_wizard_migrate_details">"Během přesunu: 
+    • Neodpojujte ^1. 
+    • Některé aplikace nebudou fungovat správně. 
+    • Udržujte zařízení nabité."</string>
+    <string name="storage_wizard_migrate_later">Přesunout později</string>
+    <string name="storage_wizard_migrate_now">Přesunout</string>
+    <string name="storage_wizard_migrate_progress_title">Probíhá přesun dat…</string>
+    <string name="storage_wizard_migrate_title">Přesuňte data do nového úložiště</string>
+    <string name="storage_wizard_move_confirm_body">"Přesunutí aplikace ^1 a jejích dat do úložiště ^2 bude trvat jen chvíli. Aplikaci bude možné používat až po dokončení přesunu. 
+    
+    Úložiště ^2 během přesunu neodpojujte."</string>
+    <string name="storage_wizard_move_confirm_title">Přesuňte aplikaci ^1</string>
+    <string name="storage_wizard_move_progress_body">"Úložiště ^1 během přesunu nevysouvejte. 
+    
+    Aplikace ^2 bude v tomto zařízení k dispozici až po dokončení přesunu."</string>
+    <string name="storage_wizard_move_progress_cancel">Zrušit přesun</string>
+    <string name="storage_wizard_move_progress_title">Probíhá přesun aplikace ^1…</string>
+    <string name="storage_wizard_ready_external_body">Nyní do úložiště ^1 můžete ukládat fotky a další média.</string>
+    <string name="storage_wizard_ready_internal_body">"Nové úložiště ^1 již funguje. 
+    
+    Chcete-li do tohoto zařízení přesunout fotky, soubory a data aplikací, přejděte do Nastavení &gt; Úložiště."</string>
+    <string name="storage_wizard_ready_title">Úložiště ^1 je připraveno</string>
+    <string name="storage_wizard_slow_body">"Toto zařízení ^1 je pravděpodobně pomalé. 
+    
+    Můžete pokračovat, ale aplikace přesunuté do tohoto umístění budou mít prodlevy a přenosy dat mohou trvat delší dobu. 
+    
+    Zkuste použít rychlejší zařízení ^1, které zajistí vyšší výkon."</string>
+    <string name="summary_range_verbal_combination">%1$s až %2$s</string>
+    <string name="suw_back_button_label">Zpět</string>
+    <string name="suw_more_button_label">Další</string>
+    <string name="suw_next_button_label">Další</string>
+    <string name="system_alert_window_access_title">Vykreslení přes další aplikace</string>
+    <string name="system_alert_window_apps_title">Aplikace</string>
+    <string name="system_alert_window_off">Ne</string>
+    <string name="system_alert_window_on">Ano</string>
+    <string name="system_alert_window_settings">Vykreslení přes další aplikace</string>
+    <string name="system_alert_window_summary" formatted="false">Vykreslení přes další aplikace: povoleno u %d z %d aplikací</string>
+    <string name="system_ui_settings">Zobrazit tuner SystemUI</string>
+    <string name="tap_to_wake">Probudit klepnutím</string>
+    <string name="tap_to_wake_summary">Dvojitým klepnutím kamkoli na obrazovku zařízení probudíte</string>
+    <string name="total_memory">Celková paměť</string>
+    <string name="touch_filtered_warning">Žádost o oprávnění je blokována jinou aplikací. Nastavení proto vaši odpověď nemůže ověřit.</string>
+    <string name="trust_agent_disabled_device_admin">Zakázáno administrátorem</string>
+    <string name="unknown_app">Neznámá aplikace</string>
+    <string name="unlock_disable_frp_warning_content_password">Bez hesla nebudou funkce ochrany zařízení fungovat.</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">Bez hesla nebudou funkce ochrany zařízení fungovat. Ze zařízení budou odstraněny i uložené otisky prstů, a tak nebudete moci telefon odemknout, potvrzovat nákupy ani se přihlašovat do aplikací.</string>
+    <string name="unlock_disable_frp_warning_content_pattern">Bez bezpečnostního gesta nebudou funkce ochrany zařízení fungovat.</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">Bez bezpečnostního gesta nebudou funkce ochrany zařízení fungovat. Ze zařízení budou odstraněny i uložené otisky prstů, a tak nebudete moci telefon odemknout, potvrzovat nákupy ani se přihlašovat do aplikací.</string>
+    <string name="unlock_disable_frp_warning_content_pin">Bez kódu PIN nebudou funkce ochrany zařízení fungovat.</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">Bez kódu PIN nebudou funkce ochrany zařízení fungovat. Ze zařízení budou odstraněny i uložené otisky prstů, a tak nebudete moci telefon odemknout, potvrzovat nákupy ani se přihlašovat do aplikací.</string>
+    <string name="unlock_disable_frp_warning_content_unknown">Bez zámku obrazovky nebudou funkce ochrany zařízení fungovat.</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">Bez zámku obrazovky nebudou funkce ochrany zařízení fungovat. Ze zařízení budou odstraněny i uložené otisky prstů, a tak nebudete moci telefon odemknout, potvrzovat nákupy ani se přihlašovat do aplikací.</string>
+    <string name="unlock_disable_frp_warning_ok">Ano, odstranit</string>
+    <string name="unlock_disable_frp_warning_title">Odstranit ochranu zařízení?</string>
+    <string name="unlock_setup_wizard_fingerprint_details">Po nastavení zámku obrazovky můžete v Nastavení &gt; Zabezpečení nastavit také otisk prstu.</string>
+    <string name="usage_access">Přístup k údajům o využití</string>
+    <string name="usage_access_description">Přístup k údajům o využití umožňuje aplikaci sledovat, které ostatní aplikace používáte, jak často je používáte, a také operátora, nastavení jazyka a další podrobnosti.</string>
+    <string name="usage_type_camera">Fotoaparát</string>
+    <string name="usage_type_flashlight">Svítilna</string>
+    <string name="usb_midi_summary">Umožňuje aplikacím s podporou formátu MIDI spolupracovat se softwarem ke zpracování souborů MIDI prostřednictvím USB.</string>
+    <string name="usb_midi_title">MIDI</string>
+    <string name="usb_use_MIDI">MIDI</string>
+    <string name="user_add_max_count">Maximální počet přidávaných uživatelů: %1$d</string>
+    <string name="user_enable_calling_and_sms_confirm_message">S tímto uživatelem bude sdílena historie hovorů a SMS.</string>
+    <string name="user_enable_calling_and_sms_confirm_title">Zapnout telefonní hovory a SMS?</string>
+    <string name="volte_provisioned_flag_off">Vypnout příznak poskytnutí VoLTE</string>
+    <string name="volte_provisioned_flag_on">Zapnout příznak poskytnutí VoLTE</string>
+    <string name="vpn_disconnect">Odpojit</string>
+    <string name="vpn_disconnect_confirm">Tato síť VPN bude odpojena.</string>
+    <string name="vpn_done">Zavřít</string>
+    <string name="vpn_forget">Zapomenout</string>
+    <string name="vpn_version">Verze %s</string>
+    <string name="webview_license_title">Systémová licence WebView</string>
+    <string name="wifi_alert_lockdown_by_device_owner">Aplikace %1$s, která spravuje vaše zařízení, nepovoluje úpravy ani smazání této sítě Wi-Fi. O další informace požádejte svého administrátora.</string>
+    <string name="wifi_ap_band_config">Vybrat pásmo přístupového bodu</string>
+    <string name="wifi_ap_choose_2G">Pásmo 2,4 GHz</string>
+    <string name="wifi_ap_choose_5G">Pásmo 5 GHz</string>
+    <string name="wifi_automatically_connect_summary">Nechat asistenta Wi‑Fi automaticky se připojit ke kvalitním otevřeným sítím</string>
+    <string name="wifi_automatically_connect_title">Automaticky používat otevřené sítě Wi-Fi</string>
+    <string name="wifi_calling_mode_title">Předvolby volání</string>
+    <string name="wifi_calling_off_explanation">Je-li zapnuto volání přes Wi-Fi, telefon může hovory v závislosti na zadaných nastaveních a na tom, který signál je silnější, směrovat přes sítě Wi-Fi nebo přes sítě operátora. Než tuto funkci zapnete, zeptejte se operátora na možné poplatky a další podrobnosti.</string>
+    <string name="wifi_calling_settings_title">Volání přes Wi-Fi</string>
+    <string name="wifi_connected_no_internet">Připojeno, není k dispozici internet</string>
+    <string name="wifi_disabled_wifi_failure">Selhání připojení Wi-Fi</string>
+    <string name="wifi_menu_remember">Zapamatovat síť</string>
+    <string name="wifi_sap_no_channel_error">V této zemi není pásmo 5 GHz k dispozici</string>
+    <string name="wifi_select_assistant_dialog_title">Zvolit asistenta</string>
+    <string name="wifi_switch_away_when_unvalidated">Pokud síť Wi‑Fi ztratí přístup k internetu, přepnout na mobilní data</string>
+    <string name="work_profile_usage_access_warning">Vypnutí přístupu k informacím o využití pro tuto aplikaci nebrání vašemu správci v měření využití dat aplikacemi ve vašem pracovním profilu.</string>
+    <string name="write_settings">Změny nastavení systému</string>
+    <string name="write_settings_description">Toto oprávnění umožňuje aplikaci měnit nastavení systému.</string>
+    <string name="write_settings_off">Ne</string>
+    <string name="write_settings_on">Ano</string>
+    <string name="write_settings_preference">Oprávnění aplikace ke změnám nastavení systému</string>
+    <string name="write_settings_summary" formatted="false">Aplikace, které mohou měnit nastavení systému: %d z %d</string>
+    <string name="write_settings_title">Smí měnit nastavení systému</string>
+    <string name="write_system_settings">Změny nastavení systému</string>
+    <string name="zen_access_empty_text">O přístup při nastavení Nerušit nepožádaly žádné nainstalované aplikace</string>
+    <string name="zen_access_warning_dialog_summary">Aplikace bude moci zapínat a vypínat režim Nerušit a měnit související nastavení.</string>
+    <string name="zen_access_warning_dialog_title">Povolit aplikaci %1$s přístup k režimu Nerušit?</string>
+    <string name="zen_event_rule_enabled_toast">Automatické pravidlo bylo nastaveno na Nerušit během určitých událostí</string>
+    <string name="zen_event_rule_type_name">Pravidlo pro události</string>
+    <string name="zen_mode_add_rule">Přidat pravidlo</string>
+    <string name="lockpattern_pattern_same_with_owner">Nemělo by být stejné, jako pro Primární profil</string>
+    <string name="lockpattern_pattern_same_with_security_space">Nemělo by být stejné, jako pro Druhý profil</string>
+    <string name="lockpattern_recording_intro_header_second_space">Nakreslete vzor pro Druhý profil:</string>
+    <string name="music_hifi_volume">Hlasitost Hi-Fi</string>
+    <string name="networks_title">Cellular networks</string>
+    <string name="power_optimize">Spořič baterie</string>
+    <string name="provision_back">Zpět</string>
+    <string name="provision_skip">Přeskočit</string>
+    <string name="receiver_clean">Uvolněte místo</string>
+    <string name="second_space">Druhý profil</string>
+    <string name="settings_toggle_position_divider_list">Přepínače nad čarou jsou aktivní</string>
+    <string name="settings_toggle_position_divider_page">%1$d přepínačů nad čarou je aktivních</string>
+    <string name="sim_enabler_need_switch_data_service">Deaktivuje to a přepne na SIM%1$s pro data, pokračovat?</string>
+    <string name="sim_enabler_will_disable_sim_title">Upozornění</string>
+    <string name="status_bar_settings_style">Rozložení přepínačů</string>
+    <string name="status_bar_style_list">Kombinované</string>
+    <string name="status_bar_style_page">Oddělené</string>
+    <string name="storage_internal_unmount_details">Pokud toto úložiště ^1 odpojíte, přestanou fungovat aplikace, které jsou na něm uloženy. Mediální soubory nebudou dostupné, dokud ho opět nepřipojíte." 
+    Toto úložiště ^1 je naformátované tak, aby fungovalo pouze v tomto zařízení."</string>
+    <string name="system_and_device_section_title">Systém a zařízení</string>
+    <string name="uninstall_dlg_msg">Odinstalování vymaže všechna data aplikace.</string>
+    <string name="uninstall_dlg_title">Odinstalovat nyní?</string>
+    <string name="uninstall_with_xspace_app_dlg_msg">Odpovídající klonované aplikace budou spolu odstraněny i s daty.</string>
+    <string name="uninstall_xspace_app_dlg_msg">Odinstalování klonovaných apl. vymaže všechna jejich data.</string>
+    <string name="uninstall_xspace_app_dlg_title">Odinstalovat klonované aplikace?</string>
+    <string name="wifi_no_internet">Nebyl nalezen přístup k internetu, proto nedojde k automatickému opětovnému připojení</string>
+    <string name="wifi_tether_settings_title">Hot-spot</string>
+    <string name="xspace">Klonované aplikace</string>
 </resources>

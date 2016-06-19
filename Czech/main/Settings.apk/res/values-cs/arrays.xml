@@ -819,5 +819,19 @@ Postupujte dle pokynů"</item>
     <string-array name="screen_key_position_action">
          <item>Menu tlačítko vlevo, Zpět vpravo</item>
          <item>Zpět tlačítko vlevo, Menu vpravo</item>
-    </string-array>     
+    </string-array>
+     <string-array name="haptic_feedback_level_texts">
+        <item>Vypnuté</item>
+        <item>Slabé</item>
+        <item>Střední</item>
+        <item>Silné</item>
+     </string-array>
+     <string-array name="status_bar_style_entries">
+        <item>Kombinované</item>
+        <item>Oddělené</item>
+     </string-array>
+     <string-array name="wifi_ssid_type_entries">
+        <item>Připojit automaticky</item>
+        <item>Připojit manuálně</item>
+     </string-array>     
 </resources>

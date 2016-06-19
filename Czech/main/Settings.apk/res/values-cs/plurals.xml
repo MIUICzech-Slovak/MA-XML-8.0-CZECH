@@ -88,5 +88,59 @@
      <plurals name="notification_apps">
          <item quantity="other">%d apl. obsahuje ohrožení soukromí</item>
          <item quantity="one">%d apl. obsahuje ohrožení soukromí</item>
-     </plurals>	
+     </plurals>
+     <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikací může otevírat podporované odkazy</item>
+        <item quantity="one">Jedna aplikace může otevírat podporované odkazy</item>
+        <item quantity="few">%d aplikace mohou otevírat podporované odkazy</item>
+        <item quantity="many">%d aplikace mohou otevírat podporované odkazy</item>
+    </plurals>
+     <plurals name="high_power_count">
+        <item quantity="other">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikací</item>
+        <item quantity="one">Ignorovat optimalizaci výdrže baterie má povoleno jedna aplikace</item>
+        <item quantity="few">Ignorovat optimalizaci výdrže baterie mají povoleno %d aplikace</item>
+        <item quantity="many">Ignorovat optimalizaci výdrže baterie má povoleno %d aplikace</item>
+    </plurals>
+     <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikací použilo paměť během posledních %2$s</item>
+        <item quantity="one">1 aplikace použila paměť během posledních %2$s</item>
+        <item quantity="few">%1$d aplikace použily paměť během posledních %2$s</item>
+        <item quantity="many">%1$d aplikace použilo paměť během posledních %2$s</item>
+    </plurals>
+     <plurals name="permissions_summary">
+        <item quantity="other">Uděleno %d oprávnění</item>
+        <item quantity="one">Uděleno %d oprávnění</item>
+        <item quantity="few">Udělena %d oprávnění</item>
+        <item quantity="many">Uděleno %d oprávnění</item>
+    </plurals>
+      <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d dalších oprávnění</item>
+        <item quantity="one">%d další oprávnění</item>
+        <item quantity="few">%d další oprávnění</item>
+        <item quantity="many">%d dalšího oprávnění</item>
+    </plurals>
+     <plurals name="runtime_permissions_summary">
+        <item quantity="other">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="one">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="few">Bylo uděleno %1$d z %2$d oprávnění</item>
+        <item quantity="many">Bylo uděleno %1$d z %2$d oprávnění</item>
+    </plurals>
+     <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavení %1$d otisků prstu</item>
+        <item quantity="one">Nastavení %1$d otisku prstu</item>
+        <item quantity="few">Nastavení %1$d otisků prstu</item>
+        <item quantity="many">Nastavení %1$d otisku prstu</item>
+    </plurals>
+     <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Na %1$d hodin (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="one">Na hodinu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="few">Na %1$d hodiny (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="many">Na %1$d hodiny (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+    </plurals>
+     <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Na %1$d minut (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="one">Na minutu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+        <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
+    </plurals>	
 </resources>
