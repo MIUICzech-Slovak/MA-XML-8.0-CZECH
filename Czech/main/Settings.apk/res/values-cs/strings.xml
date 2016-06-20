@@ -3067,7 +3067,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_custom_notification">Správa notifikací</string>
   <string name="status_bar_settings_custom_wifi_name">Upravit název Wi-Fi</string>
   <string name="status_bar_settings_enable_notification">Povolit upozornění</string>
-  <string name="status_bar_settings_expandable_under_keyguard">Zapnout na zamyk. obrazovce</string>
+  <string name="status_bar_settings_expandable_under_keyguard">Notif. roletka na zamyk. obrazovce</string>
   <string name="status_bar_settings_long_click_sort">Dlouhým podržením přesunete</string>
   <string name="status_bar_settings_manage_notification">Spravovat upozornění</string>
   <string name="status_bar_settings_no_carrier">Žádný</string>

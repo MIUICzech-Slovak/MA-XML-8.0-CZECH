@@ -1275,8 +1275,8 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="button_text_open_now">Otevřít</string>
      <string name="button_text_update_now">Aktualizovat</string>
      <string name="correction_attention_dialog_message">Nastavování. Počkejte, dokud se nedokončí proces a zkuste to znovu.</string>
-     <string name="deep_clean_disconnect_data_title">Vypnout mobilní data, když je zařízení uzamčeno.</string>
-     <string name="deep_clean_memory_clean_title">Vyčistit cache, když je zařízení uzamčeno.</string>
+     <string name="deep_clean_disconnect_data_title">Vypnout mobilní data po uzamčení</string>
+     <string name="deep_clean_memory_clean_title">Vyčistit cache po uzamčení</string>
      <string name="deep_clean_never_memory_clean">Nikdy</string>
      <string name="deep_save_memory_clean_summary">Vyčistit cache, když je zařízení uzamčeno a zabránit tak aplikacím vybíjet baterii.</string>
      <string name="deep_save_ontime_boot_shutdown_summary">Nastavit čas, kdy se má zařízení zapnout a vypnout</string>
@@ -1392,7 +1392,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="settings_battery_consume_abnormal_summary">Upozornit na rychlé vybíjení baterie</string>
      <string name="settings_battery_consume_abnormal_title">Upozornění na vybíjení baterie</string>
      <string name="settings_battery_over_heat_summary">Upozornit na přehřívání zařízení</string>
-     <string name="settings_battery_over_heat_title">Upozornění přehřívání</string>
+     <string name="settings_battery_over_heat_title">Upozornění na přehřívání</string>
      <string name="settings_category_other">Ostatní nastavení</string>
      <string name="settings_category_overheat">Přehřívání</string>
      <string name="settings_choice_no_notification">Vyp</string>
