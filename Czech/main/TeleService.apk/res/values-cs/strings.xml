@@ -1216,4 +1216,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
      <string name="ringtone_unknown">Neznámé zvonění</string>
      <string name="vibrate_after_connected_summary">Vibrovat při přijetí</string>
      <string name="vibrate_after_connected_title">Vibrovat při spojení</string>
+     <string name="simFdnContacts_empty">Žádné fixní kontakty.</string>
 </resources>

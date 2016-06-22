@@ -1435,4 +1435,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="activity_title_safepay">Bezpečnost plateb</string>
      <string name="convenient_mode">Odblokovat všechny apl. současně</string>
     <string name="convenient_summary">Nevyžadovat heslo, když je odemknuta 1 apl.</string>
+    <string name="button_text_deny">Odmítnout</string>
+   <string name="notification_charging_title">Nabíjení</string>
+   <string name="wakepath_confirm_start_activity">Povolit %1$s otevřít %2$s?</string> 
 </resources>

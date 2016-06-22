@@ -1224,4 +1224,21 @@ Vyberte si z následujících možností:</string>
    <string name="menuMoreDescription">Více</string>
    <string name="force_touch_miprofile">Karta kontaktů</string>
    <string name="force_touch_new_contact">Nový kontakt</string>
+    <string name="callrecordview_menu_save_to_group">Uložit historii hovorů do skupiny</string>
+   <string name="group_copy_fail_toast">Nelze zkopírovat kontakty</string>
+   <string name="group_move_fail_toast">Nelze přesunout kontakty</string>
+   <string name="group_remove_success_toast">Kontakty přesunuty</string>
+   <string name="invalid_contacts_excluded_to_save_to_group">Pouze položky s kontakty budou uloženy do skupiny</string>
+   <string name="invalid_contacts_to_save_to_group">Nelze uložit neznámá čísla</string>
+   <string name="menu_bar_group_batch_copy">Kopírovat do skupiny</string>
+   <string name="menu_bar_group_batch_edit">Vícero kontaktů</string>
+   <string name="menu_bar_group_batch_move">Přesunout do skupiny</string>
+   <string name="menu_bar_group_batch_remove">Vymazat skupinu</string>
+   <string name="photo_labels_group">Profilová fotografie</string>
+   <string name="public_account_name">Veřejný profil</string>
+   <string name="vcard_info_send_error">Nelze odeslat kvůli chybě vCard</string>
+   <string name="qrcode_detail_menu_edit">Upravit QR kód</string>
+   <string name="qrcode_detail_menu_scan">Načíst</string>
+   <string name="qrcode_editor_flash">Aktualizován QR kód</string>
+   <string name="qrcode_editor_flash_failed">Nelze aktualizovat QR kód</string>
 </resources>

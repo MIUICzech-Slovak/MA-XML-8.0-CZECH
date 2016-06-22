@@ -33,4 +33,10 @@
         <item quantity="other">+%d událostí</item>
         <item quantity="one">+1 událost</item>
     </plurals>
+    <plurals name="group_move_success_toast">
+         <item quantity="other">Přesunuto kontaktů: %1$d</item>
+     </plurals>
+     <plurals name="group_copy_success_toast">
+         <item quantity="other">Zkopírováno kontaktů: %1$d</item>
+     </plurals>	
 </resources>
