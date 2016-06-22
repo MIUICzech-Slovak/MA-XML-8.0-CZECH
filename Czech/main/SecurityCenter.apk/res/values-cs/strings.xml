@@ -1433,4 +1433,6 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="power_dialog_cancel">Zrušit</string>
      <string name="power_dialog_ok">OK</string>
      <string name="activity_title_safepay">Bezpečnost plateb</string>
+     <string name="convenient_mode">Odblokovat všechny apl. současně</string>
+    <string name="convenient_summary">Nevyžadovat heslo, když je odemknuta 1 apl.</string>
 </resources>

@@ -1343,9 +1343,9 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="enforce_read_external_title">Chránit úložiště USB</string>
   <string name="enhanced_4g_lte_mode_summary">Vylepšit kvalitu hovorů a zpráv pomocí datového připojení LTE (doporučeno)</string>
   <string name="enhanced_4g_lte_mode_title">Vylepšený režim 4G LTE</string>
-  <string name="enter_password">Chcete-li obsah úložiště dešifrovat, zadejte heslo.</string>
-  <string name="enter_pattern">Chcete-li spustit Android, nakreslete gesto</string>
-  <string name="enter_pin">Chcete-li spustit Android, zadejte PIN</string>
+  <string name="enter_password">Zadejte heslo pro dešifrování zařízení po restartu.</string>
+  <string name="enter_pattern">Zadejte vzor pro dešifrování zařízení po restartu</string>
+  <string name="enter_pin">Zadejte PIN pro dešifrování zařízení po restartu</string>
   <string name="equalizer">Ekvalizér</string>
   <string name="erase_application">Vymazat aplikace</string>
   <string name="erase_application_description">Smaže všechny doinstalované aplikace</string>

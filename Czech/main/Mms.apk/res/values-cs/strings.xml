@@ -402,7 +402,7 @@
   <string name="pref_title_hide_festival">Skrýt záložku Doporučené</string>
   <string name="pref_title_manage_sim_messages">Úložistě na SIM kartě</string>
   <string name="pref_title_miui_card">Odeslat jako MIUI vizitku</string>
-  <string name="pref_title_mms_auto_retrieval">Načítat SMS zprávy automaticky</string>
+  <string name="pref_title_mms_auto_retrieval">Načítat MMS zprávy automaticky</string>
   <string name="pref_title_mms_delete">Limit MMS zpráv</string>
   <string name="pref_title_mms_read_reports">Potvrzení o přečtení</string>
   <string name="pref_title_mms_retrieval_during_roaming">Načítat MMS při roamingu</string>
@@ -630,4 +630,5 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
+   <string name="fake_cell_timeout_hint">Kontrola bezpečnosti selhala</string>
 </resources>
