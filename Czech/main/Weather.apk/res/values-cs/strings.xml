@@ -98,4 +98,5 @@ Zadejte město manuálně"</string>
    <string name="international_details_wind_title">Vítr</string>
    <string name="more_details">Podrobnosti</string>
    <string name="weather_alert">Varování</string>
+   <string name="pressure_connect">%1$s hPa</string>
 </resources>

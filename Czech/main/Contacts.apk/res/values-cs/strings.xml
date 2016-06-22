@@ -1222,4 +1222,6 @@ Vyberte si z následujících možností:</string>
    <string name="expandCloseViewDescription">Zabalit</string>
    <string name="expandOpenViewDescription">Rozbalit</string>
    <string name="menuMoreDescription">Více</string>
+   <string name="force_touch_miprofile">Karta kontaktů</string>
+   <string name="force_touch_new_contact">Nový kontakt</string>
 </resources>

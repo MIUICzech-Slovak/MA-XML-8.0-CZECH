@@ -178,15 +178,13 @@
   <string name="contextmenu_webpage_html">Uložit jako HTML soubor</string>
   <string name="contextmenu_webpage_snapshot">Uložit stránku</string>
   <string name="copy_to_clipboard_failure_message">Kopírování do schránky selhalo</string>
-  <string name="copy_url">kopírovat</string>
-  <string name="create_qr_code">qr kód</string>
+  <string name="copy_url">Kopírovat</string>
+  <string name="create_qr_code">QR kód</string>
   <string name="current_version_pad">Tablet</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Telefon</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
- is about to happen"</string>
-  <string name="custom_head_card_text_incognito">"Only God and you know that
- privacy window​"</string>
+  <string name="custom_head_card_text">" "</string>
+  <string name="custom_head_card_text_incognito">" ​"</string>
   <string name="data_traffic_prompt_change">Přehrávání videí na mobilním připojení může výrazně zvýšit vaše poplatky.</string>
   <string name="data_traffic_prompt_message">Prohlížení webu na mobilním připojení může výrazně zvýšit vaše poplatky.</string>
   <string name="data_traffic_prompt_title">Spotřeba dat</string>
@@ -787,4 +785,9 @@ Chcete opustit tuto stránku?"</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
   <string name="pref_content_block_popups">Blokovat pop-up okna</string>
+  <string name="add_shortcut">Přidat odkaz</string>
+   <string name="add_shortcut_success">Odkaz přidán</string>
+   <string name="save_to">Uložit na</string>
+   <string name="senddesktop">Plochu</string>
+   <string name="sendstartpage">Úvodní stránku</string>
 </resources>
