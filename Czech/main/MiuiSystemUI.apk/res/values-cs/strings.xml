@@ -214,7 +214,7 @@ Použijte síťovou nabíječku."</string>
   <string name="notification_otg_unknow_in">OTG zařízení je připojené</string>
   <string name="notification_otg_unknow_out">OTG zařízení je odpojené</string>
   <string name="notification_template_text">Nové upozornění. Zobrazíte dotykem.</string>
-  <string name="quick_settings_bluetooth_detail_empty_text">6ádná spárovaná zařízení nejsou k dispozici</string>
+  <string name="quick_settings_bluetooth_detail_empty_text">Žádná spárovaná zařízení nejsou k dispozici</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Připojeno</string>
   <string name="quick_settings_connecting">Připojování</string>
