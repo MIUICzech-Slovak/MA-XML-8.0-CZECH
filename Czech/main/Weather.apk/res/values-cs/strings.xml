@@ -27,6 +27,7 @@
   <string name="button_confirm">Povolit</string>
   <string name="button_exit">Ukončit</string>
   <string name="button_not_allow">Zrušit</string>
+  <string name="button_sure_abandon">Zrušit změny?</string>
   <string name="close">Zavřít</string>
   <string name="daily_forcast_drawer_on_bottom">Skrýt</string>
   <string name="daily_forcast_drawer_on_top">%1$s-denní předpověď</string>
@@ -35,6 +36,7 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s později.</string>
   <string name="daily_forcast_whirl_wind">Vichřice</string>
   <string name="daily_forecast_detail_date">d.M.</string>
+  <string name="edit_alert_city_title">Spravovat varování</string>
   <string name="edit_city">Upravit</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Pro načtení informací o počasí a poloze je nutné internetové připojení.</string>
@@ -60,16 +62,24 @@
   <string name="information_manager_wlan">Načíst jen na Wi-Fi</string>
   <string name="install">Instalovat</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
+  <string name="international_details_pressure_title">Tlak</string>
+  <string name="international_details_real_feel_title">"Pocitově "</string>
+  <string name="international_details_title">Podrobnosti</string>
+  <string name="international_details_uv_index_title">UV Index</string>
+  <string name="international_details_wind_connect">%2$s %1$s</string>
+  <string name="international_details_wind_title">Vítr</string>
   <string name="locate_fail_detail_err">"Nelze najít Vaši polohu.
 Zadejte město manuálně"</string>
   <string name="location_management">Města</string>
   <string name="location_tag">Lokalizovat</string>
   <string name="menu_add_city">Přidat nebo odebrat město</string>
   <string name="menu_location">Města</string>
+  <string name="more_details">Podrobnosti</string>
   <string name="network_not_available">Nelze se připojit k síti</string>
   <string name="network_unavailable">Žádná síť</string>
   <string name="no_network_btn">Zkusit znovu</string>
   <string name="open_browser">Otevřít v Prohlížeči</string>
+  <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkost</string>
   <string name="realtime_wind_default_title">Vítr</string>
   <string name="share">Sdílet</string>
@@ -88,15 +98,5 @@ Zadejte město manuálně"</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zítra</string>
-  <string name="button_sure_abandon">Zrušit změny?</string>
-  <string name="edit_alert_city_title">Spravovat varování</string>
-   <string name="international_details_pressure_title">Tlak</string>
-   <string name="international_details_real_feel_title">"Pocitově "</string>
-   <string name="international_details_title">Podrobnosti</string>
-   <string name="international_details_uv_index_title">UV Index</string>
-   <string name="international_details_wind_connect">%2$s %1$s</string>
-   <string name="international_details_wind_title">Vítr</string>
-   <string name="more_details">Podrobnosti</string>
-   <string name="weather_alert">Varování</string>
-   <string name="pressure_connect">%1$s hPa</string>
+  <string name="weather_alert">Varování</string>
 </resources>

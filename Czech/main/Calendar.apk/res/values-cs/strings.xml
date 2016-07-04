@@ -157,6 +157,7 @@
   <string name="hint_description">Popis</string>
   <string name="hint_what">Název události</string>
   <string name="hint_where">Místo</string>
+  <string name="holiday_card_title">Svátky</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
@@ -224,6 +225,7 @@
   <string name="preferences_alerts_ringtone_title">Zvonění</string>
   <string name="preferences_alerts_title">Upozornění</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibrace</string>
+  <string name="preferences_alerts_vibrate_title">Vibrace a zvonění</string>
   <string name="preferences_build_version">Verze sestavení</string>
   <string name="preferences_category_account_title">Účet</string>
   <string name="preferences_category_general_title">Všeobecná</string>
@@ -238,6 +240,7 @@
   <string name="preferences_holidays">Zobrazit svátky</string>
   <string name="preferences_home_tz_default">Europe/Prague</string>
   <string name="preferences_home_tz_title">Domovské č. pásmo</string>
+  <string name="preferences_notification_ringtone_title">Zvuk</string>
   <string name="preferences_reminder_title">Nastavení připomenutí</string>
   <string name="preferences_show_week_num_title">Zobrazovat číslo týdne</string>
   <string name="preferences_solar_terms">Show solar days</string>
@@ -298,9 +301,9 @@
   <string name="select_synced_calendars_title">Kalendáře, které se mají synchronizovat</string>
   <string name="select_visible_calendars_title">Kalendáře, které se mají zobrazit</string>
   <string name="set_as_wallpaper">Nastavit jako tapetu</string>
-  <string name="settings_calendar">Kalendář</string>
   <string name="setting_holiday">Svátky</string>
   <string name="setting_others">Ostatní</string>
+  <string name="settings_calendar">Kalendář</string>
   <string name="show_controls">Zobrazit ovládací prvky</string>
   <string name="show_day_view">Zobrazit den</string>
   <string name="show_newer_events">Dotykem zobrazíte události po období %1$s</string>
@@ -380,7 +383,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="holiday_card_title">Svátky</string>
-   <string name="preferences_alerts_vibrate_title">Vibrace a zvonění</string>
-   <string name="preferences_notification_ringtone_title">Zvuk</string>
 </resources>

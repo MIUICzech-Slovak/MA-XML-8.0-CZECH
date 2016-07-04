@@ -216,8 +216,8 @@
   <string name="homepage_tab_recent">Nedávné</string>
   <string name="if_cancel">Zrušit tuto operaci?</string>
   <string name="image_loading_error">Nelze načíst obrázek</string>
-  <string name="instruction">Zadejte v adresním řádku prohlížeče v PC:</string>
   <string name="installing">Instalace...</string>
+  <string name="instruction">Zadejte v adresním řádku prohlížeče v PC:</string>
   <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí FTP protokolu.</string>
   <string name="just_now">Nyní</string>
   <string name="kilobyteShort">KB</string>
@@ -570,6 +570,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="stay_awake_summary">Zabránit spánku během FTP přenosu</string>
   <string name="stay_awake_title">Zabránit spánku</string>
   <string name="stop_server">Ukončit FTP</string>
+  <string name="storage_cloned_app">Úložiště pro klonované apl.</string>
   <string name="storage_info">Dostupné: %1$s</string>
   <string name="storage_info_detail">Dostupné: %1$s | Celkem: %1$s</string>
   <string name="storage_internal">Interní úložiště</string>
@@ -594,6 +595,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="tab_storage">Úložiště</string>
   <string name="tag_weixin_video">Malá videa</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Alba</string>
   <string name="title_app_tags">Aplikace</string>
   <string name="title_enable_documentsui">Povolte Dokumenty</string>
   <string name="title_expire_video">Brzy vyprší platnost</string>
@@ -654,6 +656,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="storage_cloned_app">Úložiště pro klonované apl.</string>
-  <string name="title_album">Alba</string>
 </resources>

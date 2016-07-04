@@ -61,6 +61,8 @@
   <string name="add_ql_bm_title">Uložit</string>
   <string name="add_quicklink_to_popular">Přidat na Úvodní stránku</string>
   <string name="add_quicklinks">Přidat</string>
+  <string name="add_shortcut">Přidat odkaz</string>
+  <string name="add_shortcut_success">Odkaz přidán</string>
   <string name="add_to_bookmark">Záložka</string>
   <string name="add_to_desk">Přidat na plochu</string>
   <string name="add_to_desk_success">Přidáno na plochu</string>
@@ -468,6 +470,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_confirm_for_exit">Potvrdit ukončení</string>
   <string name="pref_content_auto_light_mode">Automatický jas</string>
   <string name="pref_content_block_float_popups">Blokovat plovoucí okna</string>
+  <string name="pref_content_block_popups">Blokovat pop-up okna</string>
   <string name="pref_content_cloud_speedup">Zrychlit načítání pomocí proxy</string>
   <string name="pref_content_fontsize_setting">Nastavení písma</string>
   <string name="pref_content_homepage">Nastavit domovskou stránku</string>
@@ -611,6 +614,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="save_password_never">Nikdy</string>
   <string name="save_password_notnow">Později</string>
   <string name="save_password_remember">Zapamatovat</string>
+  <string name="save_to">Uložit na</string>
   <string name="save_to_camera">Uložit do galerie</string>
   <string name="save_to_camera_failed">Ukládání selhalo</string>
   <string name="save_to_camera_success">Uloženo</string>
@@ -645,6 +649,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="select_download_device">Vyberte zařízení</string>
   <string name="send_comment_button">Odeslat</string>
   <string name="send_comment_title">Komentář</string>
+  <string name="senddesktop">Plochu</string>
+  <string name="sendstartpage">Úvodní stránku</string>
   <string name="share_page_text">【%1$s】| %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL adresa této stránky bude odeslána na server Xiaomi pro kontrolu její bezpečnosti. Toto nastavení můžete kdykoliv změnit v nastavení prohlížeče.</string>
   <string name="show_security_tip_dialog_title">Podmínky používání</string>
@@ -784,10 +790,4 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
-  <string name="pref_content_block_popups">Blokovat pop-up okna</string>
-  <string name="add_shortcut">Přidat odkaz</string>
-   <string name="add_shortcut_success">Odkaz přidán</string>
-   <string name="save_to">Uložit na</string>
-   <string name="senddesktop">Plochu</string>
-   <string name="sendstartpage">Úvodní stránku</string>
 </resources>

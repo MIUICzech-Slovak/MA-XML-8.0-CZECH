@@ -22,6 +22,7 @@
   <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
   <string name="additional_permissions">Další oprávnění</string>
   <string name="allPerms">Vše</string>
+  <string name="all_permissions">Všechna povolení</string>
   <string name="allow_source_dlg_text">"Aplikace %1$s chce instalovat další aplikace.
   
 Povolit nyní i v budoucnu?"</string>
@@ -65,6 +66,9 @@ Všechna dříve zadaná data uživatelů budou uložena."</string>
 
 Všechna předchozí data uživatele budou uložena."</string>
   <string name="done">Hotovo</string>
+  <string name="grant_confirm_question">Chcete udělit následující povolení? Získáte přístup k:</string>
+  <string name="grant_dialog_button_allow">Povolit</string>
+  <string name="grant_dialog_button_deny">Odmítnout</string>
   <string name="high_risk_perms">Riziková práva</string>
   <string name="install">Instalovat</string>
   <string name="install_confirm_question">"Chcete nainstalovat tuto aplikaci? \nZíská přístup k těmto povolením:"</string>
@@ -217,8 +221,4 @@ Všechna předchozí data uživatele budou uložena."</string>
   <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
   <string name="virus_scan_is_virus">Tato aplikace je virus!</string>
   <string name="waiting_tip">Kontrola může trvat i 1 min.</string>
-  <string name="all_permissions">Všechna povolení</string>
-     <string name="grant_confirm_question">Chcete udělit následující povolení? Získáte přístup k:</string>
-     <string name="grant_dialog_button_allow">Povolit</string>
-     <string name="grant_dialog_button_deny">Odmítnout</string>
 </resources>

@@ -165,6 +165,7 @@
   <string name="fake_cell_alert_hint">Vypadá to, že sms byla odeslána z jiného čísla, než je zobrazeno. Buďte opatrní, pokud SMS vyžaduje přihlašovací údaje nebo platby.</string>
   <string name="fake_cell_checking_hint">Kontrola zabezpečení...</string>
   <string name="fake_cell_safe_hint">Tato zpráva je bezpečná</string>
+  <string name="fake_cell_timeout_hint">Kontrola bezpečnosti selhala</string>
   <string name="fdn_check_failure">Můžete posílat zprávy pouze na vaše povolená čísla.</string>
   <string name="festival">Doporučené</string>
   <string name="festival_continue">OK</string>
@@ -608,9 +609,9 @@ Pokus: %s."</string>
   <string name="unstick_conversation">Zrušit připnutí</string>
   <string name="unsticked_conversation">Připnutí již zrušeno</string>
   <string name="unsupported_media_format">%1$s je v nepodporovaném formátu</string>
-  <string name="user_agreement1">Pozorně si přečtěte všechny podmínky před tím, než začnete používat nebo instalovat další aplikace.</string>
   <string name="url_result_safe">URL je bezpečená</string>
   <string name="url_scanning">Kontrola URL...</string>
+  <string name="user_agreement1">Pozorně si přečtěte všechny podmínky před tím, než začnete používat nebo instalovat další aplikace.</string>
   <string name="user_agreement2">" Podmínky používání"</string>
   <string name="user_agreement3">" a "</string>
   <string name="user_agreement4">Ochrana soukromí</string>
@@ -630,5 +631,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
-   <string name="fake_cell_timeout_hint">Kontrola bezpečnosti selhala</string>
 </resources>

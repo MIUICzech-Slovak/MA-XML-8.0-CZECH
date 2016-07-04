@@ -9,6 +9,7 @@
   <string name="category_brazil_settings_title">Nastavení pro Brazílii</string>
   <string name="category_dev_settings_title">Pro vývojáře</string>
   <string name="category_etws_settings_title">Nastavení systému ETWS</string>
+  <string name="category_india_settings_title">Nastavení pro Indii</string>
   <string name="cb_other_message_identifiers">Zprávy informačních služeb</string>
   <string name="cell_broadcast_settings_not_available">Tento uživatel nemůže měnit nastavení zpráv informačních služeb</string>
   <string name="cmas_amber_alert">Únos dítěte (upozornění systému Amber)</string>
@@ -62,6 +63,8 @@
   <string name="enable_alert_vibrate_title">Vibrace</string>
   <string name="enable_channel_50_alerts_summary">Kanál 50 se v Brazílii používá pro aktuální informace v oblasti</string>
   <string name="enable_channel_50_alerts_title">Zobrazit zprávy na kanálu 50</string>
+  <string name="enable_channel_60_alerts_summary">Kanál 60 se v Indii používá pro aktuální informace o oblasti</string>
+  <string name="enable_channel_60_alerts_title">Zobrazit vysílání kanálu 60</string>
   <string name="enable_cmas_amber_alerts_summary">Zobrazovat mimořádné zprávy o únosech dětí (upozornění AMBER)</string>
   <string name="enable_cmas_amber_alerts_title">Zobrazovat upozornění AMBER</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Zobrazovat upozornění na extrémní ohrožení života a majetku</string>
@@ -92,7 +95,4 @@
   <string name="show_cmas_opt_out_title">Zobrazit dialog pro odhlášení</string>
   <string name="sms_cb_settings">Nastavení zpráv informačních služeb</string>
   <string name="view_details_title">Podrobnosti upozornění</string>
-  <string name="category_india_settings_title">Nastavení pro Indii</string>
-     <string name="enable_channel_60_alerts_summary">Kanál 60 se v Indii používá pro aktuální informace o oblasti</string>
-     <string name="enable_channel_60_alerts_title">Zobrazit vysílání kanálu 60</string>
 </resources>

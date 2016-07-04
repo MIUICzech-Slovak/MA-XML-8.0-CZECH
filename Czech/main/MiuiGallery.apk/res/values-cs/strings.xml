@@ -444,6 +444,7 @@
   <string name="operation_download">Stáhnout fotografii (%s)</string>
   <string name="operation_edit">Upravit</string>
   <string name="operation_enable_auto_upload">Zapnout automatickou synchr. s MiCloud</string>
+  <string name="operation_enter_delete_local">Vymazat zálohované fotografie a videa ze zařízení</string>
   <string name="operation_enter_delte_thumbnail">Vymazat zálohované fotografie a videa ze zařízení</string>
   <string name="operation_failed">Operace selhala.</string>
   <string name="operation_force_top">Připnout</string>
@@ -552,6 +553,7 @@
   <string name="retry_to_create_album">Znovu</string>
   <string name="retry_to_request_qr_code">Znovu</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimalizované fotografie jsou uloženy v zařízení. Dotykem na fotografii stáhnete její originál z MiCloud.</string>
+  <string name="revert">Zpět</string>
   <string name="rise">Teplé</string>
   <string name="rotate">Otočit</string>
   <string name="rotate_tooltip">Potáhnout snímek pro jeho otočení</string>
@@ -611,8 +613,8 @@
   <string name="slimming">Zmenšení...</string>
   <string name="square">Čtverec</string>
   <string name="start_to_use_face_albumset">Album lidí</string>
-  <string name="storage_no_space">"Není volné místo na úložišti."</string>
   <string name="sticker">Nálepka</string>
+  <string name="storage_no_space">"Není volné místo na úložišti."</string>
   <string name="straighten">Vyrovnat</string>
   <string name="straighten_tooltip">Potáhněte snímek pro jeho vyrovnání</string>
   <string name="success_create_quick_icon_on_desk">Vytvořeno</string>
@@ -723,6 +725,4 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
-  <string name="operation_enter_delete_local">Vymazat zálohované fotografie a videa ze zařízení</string>
-     <string name="revert">Zpět</string>
 </resources>

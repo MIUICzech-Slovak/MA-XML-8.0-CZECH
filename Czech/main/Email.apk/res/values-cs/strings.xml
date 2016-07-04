@@ -145,6 +145,7 @@
   <string name="add_attachment">Příloha</string>
   <string name="add_calendar">Upozornit</string>
   <string name="add_cc_label">Přidat kopii/skrytou</string>
+  <string name="add_label">Přidat složku</string>
   <string name="add_pre_message_attachments">Přidat přílohy?</string>
   <string name="add_pre_message_attachments_no">Ne</string>
   <string name="add_pre_message_attachments_yes">Přidat</string>
@@ -316,6 +317,7 @@
   <string name="dialog_change_sync_lookback">Přijaté zprávy před %s budou vymazány. Dotykem změníte.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Není dostatek volného místa pro %s.</string>
+  <string name="dialog_insufficient_space_on_external">Není dostatek volného místa pro stažení přílohy.</string>
   <string name="dialog_insufficient_space_on_internal">Není dostatek volného místa</string>
   <string name="disable_admin_warning">UPOZORNĚNÍ: Deaktivujete-li oprávnění aplikace E-mail spravovat toto zařízení, budou smazány všechny účty aplikace E-mail, které toto oprávnění vyžadují. Společně s těmito účty budou smazány i všechny jejich e-maily, kontakty, události v kalendářích a další údaje.</string>
   <string name="discard">Zahodit</string>
@@ -608,6 +610,7 @@
   <string name="photo_load_failed">Fotografii nelze načíst</string>
   <string name="photo_view_count" formatted="false">%d z %d</string>
   <string name="please_fill_in_your_mailbox_information">Vyplňte prosím vaše %s údaje:</string>
+  <string name="please_fill_in_your_mailbox_information2">Zadejte vaše nastavení:</string>
   <string name="policy_app_blacklist">Blokovat zadané aplikace</string>
   <string name="policy_app_whitelist">Povolit pouze zadané aplikace</string>
   <string name="policy_bluetooth_restricted">Omezit použití připojení Bluetooth</string>
@@ -829,7 +832,4 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="add_label">Přidat složku</string>
-     <string name="dialog_insufficient_space_on_external">Není dostatek volného místa pro stažení přílohy.</string>
-     <string name="please_fill_in_your_mailbox_information2">Zadejte vaše nastavení:</string>
 </resources>

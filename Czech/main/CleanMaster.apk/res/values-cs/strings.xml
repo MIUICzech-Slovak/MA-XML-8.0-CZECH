@@ -220,6 +220,7 @@
   <string name="hot">Populární</string>
   <string name="hot_today">Dnes populární</string>
   <string name="information_setting">Nastavení novinek</string>
+  <string name="install_sucess">%s nainstalováno</string>
   <string name="installed">Nainstalované</string>
   <string name="installing">Instaluje se</string>
   <string name="item_title_process_mode">Vyberte akci</string>
@@ -257,6 +258,7 @@
   <string name="notify_when">Zobrazit upozornění, když nepotřebné soubory dosáhnou 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Povolit</string>
+  <string name="open_app">Otevřít</string>
   <string name="open_browser">Otevřít v prohlížeči</string>
   <string name="optimizecenter_data_support_cm">Poskytuje Clean Master</string>
   <string name="optimizecenter_data_support_tc">Poskytuje Tencent</string>
@@ -391,6 +393,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="install_sucess">%s nainstalováno</string>
-  <string name="open_app">Otevřít</string>
 </resources>

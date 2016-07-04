@@ -5,6 +5,7 @@
   <string name="auto_interval">Auto</string>
   <string name="cancel">Ukončit</string>
   <string name="cancel_international">Zrušit</string>
+  <string name="cancel_lockscreen">Zrušit</string>
   <string name="change_time">Změnit interval</string>
   <string name="day">1 den</string>
   <string name="declaration"/>
@@ -20,6 +21,7 @@
   <string name="minutes_15">15 minut</string>
   <string name="no_long_show">Znovu nezobrazovat</string>
   <string name="ok">OK</string>
+  <string name="ok_enable_network_prov">OK</string>
   <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Souhlasím</string>
@@ -46,6 +48,4 @@
   <string name="theme_applying">Nastavování...</string>
   <string name="wlan_download">Stáhnout pouze přes Wi-Fi</string>
   <string name="wlan_download_cn">Stáhnout pouze přes Wi-Fi</string>
-  <string name="ok_enable_network_prov">OK</string>
-  <string name="cancel_lockscreen">Zrušit</string>  
 </resources>

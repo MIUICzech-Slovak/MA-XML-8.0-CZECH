@@ -1,12 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Dokumenty</string>
+  <string name="button_copy">Kopírovat</string>
+  <string name="button_select">Vybrat</string>
+  <string name="copy_failure_alert_content">Tyto soubory nebyly zkopírovány: %1$s</string>
+  <string name="copy_notification_title">Kopírování souborů</string>
+  <string name="copy_preparing">Připravuje se na kopírování...</string>
+  <string name="copy_remaining">Zbývá: %s</string>
   <string name="create_error">Složku se nepodařilo vytvořit</string>
   <string name="drawer_close">Skrýt kořeny</string>
   <string name="drawer_open">Zobrazit kořeny</string>
   <string name="empty">Žádné položky</string>
   <string name="menu_advanced_hide">Skrýt interní úložiště</string>
   <string name="menu_advanced_show">Zobrazit inter. úložiště</string>
+  <string name="menu_copy">Kopírovat do…</string>
   <string name="menu_create_dir">Vytvořit složku</string>
   <string name="menu_delete">Smazat</string>
   <string name="menu_file_size_hide">Skrýt velikost souboru</string>
@@ -17,11 +24,14 @@
   <string name="menu_save">Uložit</string>
   <string name="menu_search">Hledat</string>
   <string name="menu_select">Vyberte adresář \"^1\"</string>
+  <string name="menu_select_all">Vybrat vše</string>
   <string name="menu_settings">Nastavení</string>
   <string name="menu_share">Sdílet</string>
   <string name="menu_sort">Řadit podle</string>
   <string name="mode_selected_count">Vybráno: %1$d</string>
+  <string name="notification_touch_for_details">Klepnutím zobrazíte podrobné informace</string>
   <string name="query_error">Seznam dokumentů se nepodařilo načíst</string>
+  <string name="retry">Zkusit znovu</string>
   <string name="root_available_bytes">Volné místo: %1$s</string>
   <string name="root_recent">Poslední</string>
   <string name="root_type_apps">Další aplikace</string>
@@ -37,14 +47,4 @@
   <string name="title_save">Uložit do</string>
   <string name="toast_failed_delete">Některé dokumenty nelze smazat</string>
   <string name="toast_no_application">Soubor nelze otevřít</string>
-  <string name="button_copy">Kopírovat</string>
-     <string name="button_select">Vybrat</string>
-     <string name="copy_failure_alert_content">Tyto soubory nebyly zkopírovány: %1$s</string>
-     <string name="copy_notification_title">Kopírování souborů</string>
-     <string name="copy_preparing">Připravuje se na kopírování...</string>
-     <string name="copy_remaining">Zbývá: %s</string>
-     <string name="menu_copy">Kopírovat do…</string>
-     <string name="menu_select_all">Vybrat vše</string>
-     <string name="notification_touch_for_details">Klepnutím zobrazíte podrobné informace</string>
-     <string name="retry">Zkusit znovu</string>
 </resources>

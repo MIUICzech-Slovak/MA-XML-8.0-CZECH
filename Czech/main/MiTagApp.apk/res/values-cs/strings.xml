@@ -72,6 +72,7 @@ se dotknete štítku telefonem"</string>
   <string name="err_nfc_off">Povolte NFC v Nastavení &gt; Bezdrátové připojení a sítě &gt; Další &gt; NFC</string>
   <string name="err_no_enough_space">Na štítku není dostatek místa</string>
   <string name="err_no_nfc">"Vaše zařízení nepodporuje NFC. Tato aplikace nebude fungovat správně."</string>
+  <string name="err_parse_external_data">Tento soubor není podporován</string>
   <string name="err_tag_not_supported">"Vaše zařízení nepodporuje úlohy"</string>
   <string name="err_tag_protected">Zadejte heslo štítku.</string>
   <string name="err_tag_read_only">Nelze zapsat na tento štítek</string>
@@ -211,5 +212,4 @@ Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verze %1$s
 Velikost rozdílového balíčku: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizace!</string>
-  <string name="err_parse_external_data">Tento soubor není podporován</string>
 </resources>

@@ -33,6 +33,7 @@
   <string name="receiver_cancel">Zrušit</string>
   <string name="receiver_clean">Uvolněte místo na úložišti</string>
   <string name="receiver_file_cancel">Přenos souboru od %1$s přerušen</string>
+  <string name="receiver_file_current">Přijímání %2$d od %1$s...</string>
   <string name="receiver_file_current_single">Přijímání %2$d​ od %1$s...</string>
   <string name="receiver_file_num">%2$d od %1$s</string>
   <string name="receiver_in_progress_summary">Musíte počkat na dokončení aktuálního přenosu</string>
@@ -74,5 +75,4 @@
   <string name="sender_wait_queue">Čekání</string>
   <string name="transfer_interrupt">Přenos přerušen</string>
   <string name="transmission_connect">Příjemce nenalezen</string>
-  <string name="receiver_file_current">Přijímání %2$d od %1$s...</string>
 </resources>

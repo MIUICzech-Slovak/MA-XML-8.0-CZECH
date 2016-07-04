@@ -88,6 +88,7 @@
   <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Jas</string>
+  <string name="status_bar_toggle_cast">Přenos</string>
   <string name="status_bar_toggle_data">Data</string>
   <string name="status_bar_toggle_divider">Upravit</string>
   <string name="status_bar_toggle_drive_mode">AUTO</string>
@@ -116,5 +117,4 @@
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="turn_off">Vypnout</string>
   <string name="unknown_caller">Neznámé číslo</string>
-  <string name="status_bar_toggle_cast">Přenos</string>
 </resources>

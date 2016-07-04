@@ -142,6 +142,7 @@ Please check tracking number"</string>
   <string name="payment_failed_common_problems">Při platbě nastala chyba.</string>
   <string name="payment_unknown_status_summary">Zkontrolujte nastavení sítě a zkuste to znovu.</string>
   <string name="payment_unknown_status_title">"Chyba při platbě"</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">Používáním této funkce souhlasíte s našimi %1$s a %2$s.</string>
   <string name="phone_info_divider">" | "</string>
   <string name="provider_tag">Zdroj informací</string>
   <string name="recharge_actual_price">Cena:</string>
@@ -200,5 +201,4 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
   <string name="yellow_page_call_log_title">Seznam hovorů</string>
   <string name="yellow_page_detail_title">Co je to</string>
   <string name="yellow_page_website">Oficiální stránka</string>
-  <string name="phone_event_setting_notice_text_with_contacts_permission">Používáním této funkce souhlasíte s našimi %1$s a %2$s.</string>
 </resources>

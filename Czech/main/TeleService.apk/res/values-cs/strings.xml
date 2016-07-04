@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakt na SIM kartě</string>
+  <string name="accessibility_settings_activity_title">Dostupnost</string>
   <string name="active_phone_fail_nochoice">"Nelze ověřit SIM kartu"</string>
   <string name="active_phone_fail_toast">"Nelze ověřit SIM kartu %1$s"</string>
   <string name="active_phone_sim_absent">Vložte SIM kartu</string>
@@ -16,6 +17,7 @@
   <string name="adding_fdn_contact">Přidávání kontaktu na seznam povolených čísel...</string>
   <string name="additional_cdma_call_settings">Další CDMA nastavení</string>
   <string name="additional_gsm_call_settings">Další nastavení</string>
+  <string name="additional_gsm_call_settings_with_label">Další nastavení (%s)</string>
   <string name="administrative_disable">Administrativní zakázány</string>
   <string name="administrative_enable">Administrativní povoleny</string>
   <string name="advanced_settings">Pokročilé nastavení</string>
@@ -24,6 +26,7 @@
   <string name="advanced_settings_show">▷ Stisk pro Vše zobrazit</string>
   <string name="advertisements_disable">Reklamy zakázány</string>
   <string name="advertisements_enable">Reklamy povoleny</string>
+  <string name="agree_provision">Pokračovat</string>
   <string name="alert_dialog_close">Zavřít profil</string>
   <string name="alert_dialog_dismiss">Zavřít</string>
   <string name="alert_dialog_in_ecm_call">Během tísňového volání není vybraná akce k dispozici</string>
@@ -33,13 +36,16 @@
   <string name="alertdialogtitle">Výsledek...</string>
   <string name="allContactdeleteFailed">Odstranění všech kontaktů ze SIM karty selhalo!</string>
   <string name="allContactdeleteSuccess">Všechny kontakty na SIM kartě byly odstraněny</string>
+  <string name="all_day">Celý den</string>
   <string name="always_enable_mms">Vždy přijímat MMS</string>
   <string name="always_enable_mms_summary">MMS obdržíte vždy, i když jsou datové přenosy zakázány</string>
   <string name="answer_features_setting_category">Nastavení přijmutí</string>
   <string name="answer_state_setting_summary">Nastavení ztišení otočením, senzor přiblížení, atd.</string>
   <string name="answer_state_setting_title">Chování při příchozím hovoru</string>
   <string name="antispam_notification_title">Zjištěné neznámé číslo</string>
+  <string name="antispam_setting">AntiSpam</string>
   <string name="apn_settings">Názvy přístupových bodů (AP)</string>
+  <string name="area_code_preference_be_set_summary">Současná poloha: %s</string>
   <string name="area_code_preference_summary">Auto dial area code</string>
   <string name="areacode_set_default">Default</string>
   <string name="atr_disable">Oblastní přehledy dopravy zakázány</string>
@@ -97,6 +103,7 @@
   <string name="bad_puk2">Zadali jste nesprávně PUK2. Prosím zkuste to znovu.</string>
   <string name="bf_news_settings">Obchodní a finanční zprávy</string>
   <string name="callFailed_cb_enabled">Pokud je zapnuto blokování hovorů, nelze provádět odchozí hovory.</string>
+  <string name="callFailed_cdma_activation">SIM karta aktivovala vaši službu a aktualizovala možnosti roamingu vašeho telefonu</string>
   <string name="callFailed_congestion">Síť je zaneprázdněna</string>
   <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
   <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
@@ -121,10 +128,13 @@
   <string name="callFailed_userBusy">Linka je obsazená.</string>
   <string name="callUnanswered_forwarded">Hovor je přesměrovaný</string>
   <string name="call_advanced_setting_title">Další nastavení</string>
+  <string name="call_barring_incoming">Ppesměrování přích. hovoru</string>
+  <string name="call_barring_outgoing">Ppesměrování odch. hovoru</string>
   <string name="call_barring_sum">Nastavení blokování hlasových hovorů</string>
   <string name="call_description_recording">Nahrávání hovoru...</string>
   <string name="call_forwarding_number_hint">Zadejte prosím číslo pro přesměrování</string>
   <string name="call_forwarding_settings">Přesměrování hovorů</string>
+  <string name="call_forwarding_settings_with_label">Přesměrovávání hovorů (%s)</string>
   <string name="call_ind_services">Call Independent Services</string>
   <string name="call_record_add_numbers">Přidat čísla</string>
   <string name="call_record_auto_always">Všechna čísla</string>
@@ -202,6 +212,7 @@
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Nastavení operátora</string>
+  <string name="cb_psw_dont_match">Hesla se neshodují</string>
   <string name="cb_sms_settings">Nastavení SMS Cell Broadcast</string>
   <string name="cdma_activate_device">Aktivované zařízení</string>
   <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
@@ -221,6 +232,7 @@
   <string name="cell_bc_sms_enable">SMS Cell Broadcast povoleny</string>
   <string name="cell_broadcast_settings">Nouzové vysílání</string>
   <string name="cell_broadcast_sms">SMS Cell Broadcast</string>
+  <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
   <string name="cfb_title">Přesměrovat, pokud je obsazeno</string>
   <string name="cfnrc_title">Přesměrovat, pokud jsem nedostupný</string>
   <string name="cfnrc_title_cta">Přesměrovat, když jsem nedostupný</string>
@@ -691,8 +703,12 @@
   <string name="no_wifi_available">K uskutečnění internetového volání musíte být připojen k Wi-Fi</string>
   <string name="no_wifi_available_title">Chybí Wi-Fi připojení</string>
   <string name="not_a_valid_port">Číslo portu by mělo být od 1000 do 65534</string>
+  <string name="not_activate_sim_card_content_title">Telefon nebyl aktivován</string>
+  <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="not_allowed">Vaše karta SIM nepovoluje připojení k této síti.</string>
   <string name="not_change_default_data">Neměnit</string>
+  <string name="not_sufficient_funds_content_title">Not Enough Funds</string>
+  <string name="not_supported_number_content_title">Není podporováno</string>
   <string name="not_voice_capable">Hlasové volání není podporováno</string>
   <string name="notification_action_end_call">Zavěsit</string>
   <string name="notification_dialing">Vytáčení</string>
@@ -968,7 +984,9 @@ Počet zbývajících pokusů: %d."</string>
   <string name="reverting_settings">Probíhá vrácení předchozích nastavení...</string>
   <string name="rhrpd_unlock_failed">Požadavek na odemknutí UIM HRPD nebyl úspěšný.</string>
   <string name="rhrpd_unlock_success">Požadavek na odemknutí RUIM HRPD byl úspěšný.</string>
+  <string name="ringtone_silent">Žádné</string>
   <string name="ringtone_title">Vyzvánění telefonu</string>
+  <string name="ringtone_unknown">Neznámé zvonění</string>
   <string name="rnw1_unlock_failed">Požadavek na odemknutí UIM sítě 1 nebyl úspěšný.</string>
   <string name="rnw1_unlock_success">Požadavek na odemknutí RUIM sítě 1 byl úspěšný.</string>
   <string name="rnw2_unlock_failed">Požadavek na odemknutí UIM sítě 2 nebyl úspěšný.</string>
@@ -1007,6 +1025,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="simContacts_empty">Na kartě SIM nejsou žádné kontakty.</string>
   <string name="simContacts_emptyLoading">Čtení z karty SIM...</string>
   <string name="simContacts_title">Správa kontaktů na SIM kartě</string>
+  <string name="simFdnContacts_empty">Žádné fixní kontakty.</string>
   <string name="sim_absent">Chybí</string>
   <string name="sim_card_activate">Ověření SIM</string>
   <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
@@ -1155,6 +1174,8 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="username_title">Uživatelské jméno</string>
   <string name="ussdRunning">Spouštění USSD kódu...</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="vibrate_after_connected_summary">Vibrovat při přijetí</string>
+  <string name="vibrate_after_connected_title">Vibrovat při spojení</string>
   <string name="vibrate_on_ring_title">Vibrovat při vyzvánění</string>
   <string name="vm_change_failed">"Nelze změnit číslo hlasové schránky.\nKontaktujte Vašeho operátora, pokud tento problém přetrvává."</string>
   <string name="vm_changed">Číslo hlasové schránky bylo změněno.</string>
@@ -1196,25 +1217,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="accessibility_settings_activity_title">Dostupnost</string>
-     <string name="additional_gsm_call_settings_with_label">Další nastavení (%s)</string>
-     <string name="agree_provision">Pokračovat</string>
-     <string name="all_day">Celý den</string>
-     <string name="antispam_setting">AntiSpam</string>
-     <string name="area_code_preference_be_set_summary">Současná poloha: %s</string>
-     <string name="callFailed_cdma_activation">SIM karta aktivovala vaši službu a aktualizovala možnosti roamingu vašeho telefonu</string>
-     <string name="call_barring_incoming">Ppesměrování přích. hovoru</string>
-     <string name="call_barring_outgoing">Ppesměrování odch. hovoru</string>
-     <string name="call_forwarding_settings_with_label">Přesměrovávání hovorů (%s)</string>
-     <string name="cb_psw_dont_match">Hesla se neshodují</string>
-     <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
-     <string name="not_activate_sim_card_content_title">Telefon nebyl aktivován</string>
-     <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
-     <string name="not_sufficient_funds_content_title">Not Enough Funds</string>
-     <string name="not_supported_number_content_title">Není podporováno</string>
-     <string name="ringtone_silent">Žádné</string>
-     <string name="ringtone_unknown">Neznámé zvonění</string>
-     <string name="vibrate_after_connected_summary">Vibrovat při přijetí</string>
-     <string name="vibrate_after_connected_title">Vibrovat při spojení</string>
-     <string name="simFdnContacts_empty">Žádné fixní kontakty.</string>
 </resources>

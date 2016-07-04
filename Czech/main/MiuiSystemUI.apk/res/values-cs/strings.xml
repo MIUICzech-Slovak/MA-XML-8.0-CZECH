@@ -74,7 +74,7 @@
   <string name="bluetooth_connecting">Připojování...</string>
   <string name="bluetooth_disconnected">Odpojeno</string>
   <string name="bluetooth_disconnecting">Odpojování...</string>
-   <string name="bluetooth_dun_profile_summary_connected">Připojování na DUN Server</string>
+  <string name="bluetooth_dun_profile_summary_connected">Připojování na DUN Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Použití pro Dial-up připojení</string>
   <string name="bluetooth_headset_profile_summary_connected">Připojeno k náhlavní soupravě</string>
   <string name="bluetooth_headset_profile_summary_use_for">Umožňuje připojení náhlavní soupravy</string>

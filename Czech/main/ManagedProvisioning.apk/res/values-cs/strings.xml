@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-   <string name="admin_has_ability_to_monitor_device">Administrátor může sledovat a spravovat nastavení, firemní přístup, aplikace, oprávnění a data přidružená k tomuto zařízení, včetně aktivity v síti a informací o poloze vašeho zařízení.</string>
+  <string name="admin_has_ability_to_monitor_device">Administrátor může sledovat a spravovat nastavení, firemní přístup, aplikace, oprávnění a data přidružená k tomuto zařízení, včetně aktivity v síti a informací o poloze vašeho zařízení.</string>
   <string name="admin_has_ability_to_monitor_profile">Administrátor může sledovat a spravovat nastavení, firemní přístup, aplikace, oprávnění a data přidružená k tomuto profilu, včetně aktivity v síti a informací o poloze vašeho zařízení.</string>
   <string name="cancel_delete_profile">ZRUŠIT</string>
   <string name="cancel_provisioning">ZRUŠIT</string>

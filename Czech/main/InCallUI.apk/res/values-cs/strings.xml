@@ -78,6 +78,7 @@
   <string name="conference_call_single_description" formatted="false">%s atd. celkem %s</string>
   <string name="conference_caller_info_name">"%1$s konferenční hovor</string>
   <string name="conference_caller_name_me">Já</string>
+  <string name="conference_callers_exceeded">Dosaženo max. počtu účastníků</string>
   <string name="contactPhoto">Foto kontaktu</string>
   <string name="contacts_icon_label">Kontakty</string>
   <string name="default_area_code_setting">Výchozí předvolba</string>
@@ -120,6 +121,12 @@
   <string name="incall_error_supp_service_unknown">Nepodporovaná služba.</string>
   <string name="incoming_answer_voice_text">Odpovědět hlasem</string>
   <string name="incoming_call_forwarded_title">Přesměrovaný příchozí hovor</string>
+  <string name="incoming_circle_text_answer">Pusťte</string>
+  <string name="incoming_circle_text_answer_p">Potáhněte</string>
+  <string name="incoming_circle_text_message">Pusťte</string>
+  <string name="incoming_circle_text_message_p">Potáhněte</string>
+  <string name="incoming_circle_text_reject">Pusťte</string>
+  <string name="incoming_circle_text_reject_p">Potáhněte</string>
   <string name="ivr_menu_dialing_msg">Přesměrovávání...</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Stiskněte %s</string>
@@ -128,6 +135,7 @@
   <string name="jeejen_end_call_text">Ukončit hovor</string>
   <string name="jeejen_reject_call_text">Odmítnout</string>
   <string name="jeejen_toggle_dialpad_text">Číselník</string>
+  <string name="keep_wait_call_back">Stále čekat</string>
   <string name="livetalk_left_minute">Zbývá %smin</string>
   <string name="manageConferenceLabel">Upravit konferenční hovory</string>
   <string name="miprofile_stranger_card">Stranger card</string>
@@ -182,6 +190,7 @@
   <string name="onscreen_hold_text">Podržet</string>
   <string name="onscreen_merge_calls_text">Spojit hovory</string>
   <string name="onscreen_mute_text">Ztišit</string>
+  <string name="onscreen_note_calls_text">Poznámka</string>
   <string name="onscreen_note_text">Poznámka</string>
   <string name="onscreen_rcs_text">Zprávy</string>
   <string name="onscreen_swap_calls_text">Přepnout</string>
@@ -206,13 +215,4 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
-  <string name="incoming_circle_text_answer">Pusťte</string>
-     <string name="incoming_circle_text_answer_p">Potáhněte</string>
-     <string name="incoming_circle_text_message">Pusťte</string>
-     <string name="incoming_circle_text_message_p">Potáhněte</string>
-     <string name="incoming_circle_text_reject">Pusťte</string>
-     <string name="incoming_circle_text_reject_p">Potáhněte</string>
-     <string name="keep_wait_call_back">Stále čekat</string>
-     <string name="onscreen_note_calls_text">Poznámka</string>
-     <string name="conference_callers_exceeded">Dosaženo max. počtu účastníků</string>
 </resources>
