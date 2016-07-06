@@ -725,4 +725,17 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
+  <string name="revert">Zpět</string>
+   <string name="main_discard_confirm_message">Efekty nejsou uloženy. Uložit?</string>
+   <string name="main_discard_negative_btn">Zrušit</string>
+   <string name="main_discard_positive_btn">Uložit a ukončit</string>
+   <string name="main_save_error_msg">Při ukládání efektů nastala chyba</string>
+   <string name="renren_description"/>
+   <string name="sub_discard_confirm_message">Uložit úpravy?</string>
+   <string name="sub_discard_negative_btn">Zrušit</string>
+   <string name="sub_discard_positive_btn">Uložit</string>
+   <string name="video_editor_res_download_failed_tips">Nelze stáhnout. Zkontrolujte nastavení sítě</string>
+   <string name="video_editor_res_download_mobil_network_confirm_msg">Stáhnout hudbu přes mobilní data?</string>
+   <string name="video_editor_res_download_mobil_network_confirm_title">Využití mobilních dat</string>
+   <string name="video_editor_res_not_load_dialog_msg">Stáhnout hudbu přes mobilní data (přes 20MB).</string>
 </resources>

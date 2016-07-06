@@ -15,6 +15,6 @@
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Jasno</item>
-        <item quantity="one">Slunečno</item>
+        <item quantity="one">Jasno</item>
      </plurals>
 </resources>

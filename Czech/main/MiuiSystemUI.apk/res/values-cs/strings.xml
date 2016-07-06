@@ -340,4 +340,5 @@ přetažením dolů uzamknete"</string>
   <string name="wifi_remembered">Uloženo</string>
   <string name="wifi_security_none">Žádné</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="accessibility_ime_switch_button">Změna metody vstupu.</string>
 </resources>
