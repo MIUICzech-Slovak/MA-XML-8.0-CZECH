@@ -695,7 +695,6 @@
   <string name="video_editor_more">Více</string>
   <string name="video_editor_not_support_tips">Žádný video soubor není podporován</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_res_not_load_dialog_msg">Pro použití je nutné stáhnout doplňkový balíček</string>
   <string name="video_editor_res_not_load_dialog_title">Nutné stažení</string>
   <string name="video_editor_template_family">Rodina</string>
   <string name="video_editor_template_forbidden_tips">Nelze vykonat, pokud je používána předloha.</string>
