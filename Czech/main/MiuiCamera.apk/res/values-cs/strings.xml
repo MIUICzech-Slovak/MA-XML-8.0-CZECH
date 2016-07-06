@@ -395,6 +395,5 @@
    <string name="pref_skin_beautify_intelligent_title">Inteligentní</string>
    <string name="pref_skin_beautify_slim_title">Chudá</string>
    <string name="pref_skin_beautify_smooth_title">Pokožka</string>
-   <string name="see_qrcode_detals">Podrobnosti o QR kódu</string>
    <string name="simple_mode_button_text_square">Ukončit</string>
 </resources>
