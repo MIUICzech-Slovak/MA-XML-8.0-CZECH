@@ -346,4 +346,5 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
+  <string name="multi_user_mode_backup_message">V režimu vícero uživatelů nelze použít Zálohování. Vypněte tento režim.</string>
 </resources>
