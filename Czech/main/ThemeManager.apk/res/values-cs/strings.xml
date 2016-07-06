@@ -86,7 +86,7 @@
   <string name="loading_resource_detail_fail">Není dostupné mimo Čínu!</string>
   <string name="loading_resource_detail_info">Načítání...</string>
   <string name="lockscreen_magazine_subscribe">Sledující: %1$s</string>
-  <string name="lockscreen_magazine_summary">Získejte každý den nové tapety přímo na vaši zamykací obrazovku</string>
+  <string name="lockscreen_magazine_summary">Své tapety můžete přidat do složky Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/</string>
   <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
   <string name="lockscreen_magazine_system_title">Výchozí</string>
   <string name="lockscreen_magazine_title">Denní balíček tapet</string>
