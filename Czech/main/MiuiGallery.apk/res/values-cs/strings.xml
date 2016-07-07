@@ -724,7 +724,6 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
-  <string name="revert">Zpět</string>
    <string name="main_discard_confirm_message">Efekty nejsou uloženy. Uložit?</string>
    <string name="main_discard_negative_btn">Zrušit</string>
    <string name="main_discard_positive_btn">Uložit a ukončit</string>
