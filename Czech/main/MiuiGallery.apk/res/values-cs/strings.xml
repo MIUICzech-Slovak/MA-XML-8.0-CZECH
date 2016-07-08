@@ -649,7 +649,7 @@
   <string name="unpublish_failed">Odstranění z veřejných alb selhalo.</string>
   <string name="unpublish_succeeded">Album není zveřejněno.</string>
   <string name="unpublishing">Ruší se zvěřejnění...</string>
-  <string name="user_agree">Souhlasí,</string>
+  <string name="user_agree">Souhlasím</string>
   <string name="user_agreement2">" Podmínky používání"</string>
   <string name="user_agreement4">Podmínky používání</string>
   <string name="user_alias_self">Já</string>
