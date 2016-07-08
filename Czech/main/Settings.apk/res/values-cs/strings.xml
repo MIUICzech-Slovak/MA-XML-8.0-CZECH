@@ -1050,7 +1050,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="debug_layout_summary">Zobrazit u klipu ohraničení, okraje atd.</string>
   <string name="debug_log">Záznam debug</string>
   <string name="debug_monitoring_category">Sledování</string>
-  <string name="debug_networking_category">Možnosti siete</string>
+  <string name="debug_networking_category">Možnosti sítě</string>
   <string name="debug_view_attributes">Povolit kontrolu atributu zobrazení</string>
   <string name="default_app">(Výchozí)</string>
   <string name="default_apps_title">Výchozí aplikace</string>

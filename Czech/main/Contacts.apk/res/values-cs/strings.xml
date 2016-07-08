@@ -480,7 +480,7 @@ Chyba: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Najít kontakty</string>
   <string name="hint_more_contact">Pokud existují zdvojené kontakty, můžete je sloučit</string>
-  <string name="hybrid_check_network">Nastavenie siete</string>
+  <string name="hybrid_check_network">Nastavení sítě</string>
   <string name="hybrid_data_error">Nastala chyba</string>
   <string name="hybrid_locating_fail">Nelze vyhledat vaši polohu</string>
   <string name="hybrid_network_unavaliable">Nelze se připojit k síti</string>
