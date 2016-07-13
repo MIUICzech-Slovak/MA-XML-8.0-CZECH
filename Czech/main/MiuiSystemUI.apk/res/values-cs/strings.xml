@@ -341,4 +341,9 @@ přetažením dolů uzamknete"</string>
   <string name="wifi_security_none">Žádné</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="accessibility_ime_switch_button">Změna metody vstupu.</string>
+   <string name="screenshot_delete">Vymazat</string>
+   <string name="screenshot_delete_dlg_msg">Opravdu vymazat tento screenshot?</string>
+   <string name="screenshot_delete_dlg_title">Vymazat</string>
+   <string name="screenshot_dlg_cancel">Zrušit</string>
+   <string name="screenshot_dlg_delete_button">Vymazat</string> 
 </resources>

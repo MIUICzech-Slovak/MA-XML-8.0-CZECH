@@ -736,4 +736,5 @@
    <string name="video_editor_res_download_mobil_network_confirm_msg">Stáhnout hudbu přes mobilní data?</string>
    <string name="video_editor_res_download_mobil_network_confirm_title">Využití mobilních dat</string>
    <string name="video_editor_res_not_load_dialog_msg">Stáhnout hudbu přes mobilní data (přes 20MB).</string>
+   <string name="video_editor_unsupport_audio_file">Nepodporovaný audio soubor</string>
 </resources>
