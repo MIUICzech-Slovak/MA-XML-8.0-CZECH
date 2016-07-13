@@ -634,4 +634,5 @@ Pokus: %s."</string>
   <string name="fake_cell_detection_entry">Zjištěna falešná základní stanice</string>
   <string name="block_support_text"/>
   <string name="force_touch_new_message_title">Nová zpráva</string>
+  <string name="networking_allow_desc_without_mx">Inteligentní zprávy umožňují rozpoznávání neznámých čísel, filtrovat spam, atd. Používáním této služby souhlasíte s Xiaomi %1$s a %2$s.</string>
 </resources>
