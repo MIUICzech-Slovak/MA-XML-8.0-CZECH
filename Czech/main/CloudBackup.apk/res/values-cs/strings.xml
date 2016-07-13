@@ -12,6 +12,7 @@
   <string name="backup_finished_notification_content">Zálohované aplikace, nastavení, atd.</string>
   <string name="backup_now">Zálohovat nyní</string>
   <string name="backup_size">Velikost: %s</string>
+  <string name="backup_size_summary">Velikost: %1$s</string>
   <string name="backup_success">Záloha dokončena</string>
   <string name="backup_successfully">Úspěšně zálohováno</string>
   <string name="backup_to_cloud">Zálohovat</string>
@@ -119,5 +120,4 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="start_recover">Obnovit %s</string>
   <string name="success_open_cloudbackup">Povolena záloha pro rozložení plochy a apl.</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
-  <string name="backup_size_summary">Velikost: %1$s</string>
 </resources>

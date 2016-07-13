@@ -1466,6 +1466,10 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="force_stop">Vynutit ukončení</string>
   <string name="force_stop_dlg_text">Vynucené zastavení může způsobit nepředvídatelné chování aplikace.</string>
   <string name="force_stop_dlg_title">Chcete vynutit zastavení?</string>
+  <string name="force_touch">3D Dotyk</string>
+  <string name="force_touch_demo">Zobrazit ukázku</string>
+  <string name="force_touch_enable">Povolit 3D dotyk</string>
+  <string name="force_touch_enable_tips">Silný stisk ikony ikony na ploše vyvolá nabídku v případě povoleného 3D dotyku.</string>
   <string name="forget">ODSTRANIT</string>
   <string name="forget_password_button_text">Zapomenuté heslo</string>
   <string name="forget_wifi_message">Můžete vypnout automatické připojování k síti a možná budete muset při opětovném připojení znovu zadávat heslo.</string>
@@ -1662,6 +1666,14 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="keyboard_layout_picker_title">Rozložení klávesnice</string>
   <string name="keyboard_settings_category">Klávesnice a metody zadávání</string>
   <string name="keyboard_settings_title">Klávesnice Android</string>
+  <string name="keyguard_left_function_chooser_hint_text">Levý odkaz změněn na %s</string>
+  <string name="keyguard_left_function_chooser_title">Aplikace</string>
+  <string name="keyguard_left_function_title">Vlevo</string>
+  <string name="keyguard_right_function_chooser_hint_text">Pravý odkaz změněn na %s</string>
+  <string name="keyguard_right_function_chooser_title">Aplikace</string>
+  <string name="keyguard_right_function_title">Vpravo</string>
+  <string name="keyguard_shortcut_summary">Nastavit zkratky pro 2 aplikace na zamykací obrazovce</string>
+  <string name="keyguard_shortcut_title">Zkratky na zamykací obrazovce</string>
   <string name="keywords_accounts">účet</string>
   <string name="keywords_all_apps">aplik. stahování systémové aplikace</string>
   <string name="keywords_app">RAM</string>
@@ -1850,12 +1862,16 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
  pro Druhý profil"</string>
   <string name="lockpassword_confirm_passwords_dont_match">Hesla nejsou shodná</string>
   <string name="lockpassword_confirm_pins_dont_match">Kódy PIN nejsou shodné</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Potvrďte své heslo</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Potvrďte svůj vzor</string>
   <string name="lockpassword_confirm_your_password_generic">Chcete-li pokračovat, zadejte heslo zařízení.</string>
   <string name="lockpassword_confirm_your_password_header">Potvrďte heslo</string>
   <string name="lockpassword_confirm_your_pattern_generic">Chcete-li pokračovat, zadejte gesto zařízení.</string>
   <string name="lockpassword_confirm_your_pattern_header">Potvrďte své gesto</string>
   <string name="lockpassword_confirm_your_pin_generic">Chcete-li pokračovat, zadejte PIN zařízení.</string>
   <string name="lockpassword_confirm_your_pin_header">Potvrďte kód PIN</string>
+  <string name="lockpassword_confirm_your_private_password_header">Potvrďte své heslo</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Potvrďte svůj vzor</string>
   <string name="lockpassword_continue_label">Pokračovat</string>
   <string name="lockpassword_illegal_character">Heslo obsahuje neplatný znak.</string>
   <string name="lockpassword_invalid_password">Nesprávné heslo</string>
@@ -3253,7 +3269,9 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="status_bar_settings_notification_led">LED upozornění</string>
   <string name="status_bar_settings_notification_priority">Priorita</string>
   <string name="status_bar_settings_notification_priority_summary">Zobrazit upozornění vždy jako první</string>
+  <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrace</string>
+  <string name="status_bar_settings_notification_vibrate">Vibrace</string>
   <string name="status_bar_settings_show_carrier">Zobrazit operátora</string>
   <string name="status_bar_settings_show_carrier_summary">Zobrazit pouze na zamyk. obrazovce a v roletce</string>
   <string name="status_bar_settings_show_floating_notification">Plovoucí upozornění</string>
@@ -4502,22 +4520,4 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
-  <string name="force_touch">3D Dotyk</string>
-   <string name="force_touch_demo">Zobrazit ukázku</string>
-   <string name="force_touch_enable">Povolit 3D dotyk</string>
-   <string name="force_touch_enable_tips">Silný stisk ikony ikony na ploše vyvolá nabídku v případě povoleného 3D dotyku.</string>
-   <string name="keyguard_left_function_chooser_hint_text">Levý odkaz změněn na %s</string>
-   <string name="keyguard_left_function_chooser_title">Aplikace</string>
-   <string name="keyguard_left_function_title">Vlevo</string>
-   <string name="keyguard_right_function_chooser_hint_text">Pravý odkaz změněn na %s</string>
-   <string name="keyguard_right_function_chooser_title">Aplikace</string>
-   <string name="keyguard_right_function_title">Vpravo</string>
-   <string name="keyguard_shortcut_summary">Nastavit zkratky pro 2 aplikace na zamykací obrazovce</string>
-   <string name="keyguard_shortcut_title">Zkratky na zamykací obrazovce</string>
-   <string name="lockpassword_confirm_your_lock_password_header">Potvrďte své heslo</string>
-   <string name="lockpassword_confirm_your_lock_pattern_header">Potvrďte svůj vzor</string>
-   <string name="lockpassword_confirm_your_private_password_header">Potvrďte své heslo</string>
-   <string name="lockpassword_confirm_your_private_pattern_header">Potvrďte svůj vzor</string>
-   <string name="status_bar_settings_notification_sound">Zvuk</string>
-   <string name="status_bar_settings_notification_vibrate">Vibrace</string>
 </resources>

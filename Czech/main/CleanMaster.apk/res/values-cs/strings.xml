@@ -384,6 +384,7 @@
   <string name="total_clean_text">Vyčištěno</string>
   <string name="traffic_top">TOP 5 apl. s největší spotřebou dat</string>
   <string name="unlike">Ne</string>
+  <string name="update_date_format">dd-MMM-yyyy</string>
   <string name="virus_scan">Antivirus</string>
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Instalační apk: %d</string>
@@ -393,5 +394,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="update_date_format">dd-MMM-yyyy</string>
 </resources>

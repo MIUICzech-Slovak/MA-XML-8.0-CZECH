@@ -250,6 +250,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contacts_unavailable_create_contact">Vytvořit nový kontakt</string>
   <string name="contacts_unavailable_import_contacts">Importovat kontakty ze souboru</string>
   <string name="convenient_service">Služby</string>
+  <string name="copy_number">Kopírovať</string>
   <string name="copy_text">Kopírovat do schránky</string>
   <string name="createContactShortcutSuccessful">Widget kontaktu byl přidán na plochu.</string>
   <string name="create_group_dialog_title">Vytvořit novou skupinu</string>
@@ -1141,7 +1142,11 @@ Synchronizujte je nyní."</string>
   <string name="success_message_import_from_account">Import byl úspěšný</string>
   <string name="summary_kind_title">Souhrn</string>
   <string name="t9_search_guide_pinyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
+  <string name="t9_search_guide_pinyin_title1">Rychlé vyhledání kontaktu stiskem písmen</string>
+  <string name="t9_search_guide_pinyin_title2">Stiskěte 2 nebo 3 pro vyhledání Anna Fialová</string>
   <string name="t9_search_guide_zhuyin">Stiskněte 8 a 2 pro vyhledání Tchýně</string>
+  <string name="t9_search_guide_zhuyin_title1">Rychlé vyhledání kontaktu stiskem písmen</string>
+  <string name="t9_search_guide_zhuyin_title2">Stiskěte 5 nebo 6 pro vyhledání Jaromír Nohavica</string>
   <string name="take_new_photo">Pořídit novou fotografii</string>
   <string name="take_photo">Pořídit fotografii</string>
   <string name="titleJoinContactDataWith">Spojit kontakty</string>
@@ -1241,9 +1246,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat ve Zlatých stránkách</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="copy_number">Kopírovať</string>
-   <string name="t9_search_guide_pinyin_title1">Rychlé vyhledání kontaktu stiskem písmen</string>
-   <string name="t9_search_guide_pinyin_title2">Stiskěte 2 nebo 3 pro vyhledání Anna Fialová</string>
-   <string name="t9_search_guide_zhuyin_title1">Rychlé vyhledání kontaktu stiskem písmen</string>
-   <string name="t9_search_guide_zhuyin_title2">Stiskěte 5 nebo 6 pro vyhledání Jaromír Nohavica</string>
 </resources>

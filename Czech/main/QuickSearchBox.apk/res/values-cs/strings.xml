@@ -50,6 +50,7 @@
   <string name="recently_shortcut_label">Nedávné odkazy</string>
   <string name="remove_from_history">Odebrat z historie hledání</string>
   <string name="remove_from_history_failed">"Odebrání položky z historie se nezdařilo"</string>
+  <string name="search_apps">Vyhledat aplikaci</string>
   <string name="search_group_fold">Skrýt</string>
   <string name="search_group_unfold">Více</string>
   <string name="search_history">Historie vyhledávání</string>
@@ -59,6 +60,7 @@
   <string name="search_sources">Vyhledatelné položky</string>
   <string name="search_sources_summary">Vyberte si, co hledat na telefonu</string>
   <string name="search_suggestion">Tipy</string>
+  <string name="search_videos">Vyhledat video</string>
   <string name="search_widget">Hledat</string>
   <string name="send_secret_code">Odeslat tajný kód</string>
   <string name="show_more">Více</string>
@@ -74,6 +76,4 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="search_apps">Vyhledat aplikaci</string>
-  <string name="search_videos">Vyhledat video</string>
 </resources>

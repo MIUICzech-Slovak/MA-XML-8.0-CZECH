@@ -11,7 +11,9 @@
   <string name="activing_simcard_alone">Ověřování SIM</string>
   <string name="add">Přidat</string>
   <string name="addSimEntries">Přidat kontakt na SIM</string>
+  <string name="add_by_input">Zadat</string>
   <string name="add_fdn_contact">Přidat kontakt na seznam povolených čísel</string>
+  <string name="add_from_contacts">Kontakt</string>
   <string name="add_sip_account">Přidat účet</string>
   <string name="add_vm_number_str">Přidat číslo</string>
   <string name="adding_fdn_contact">Přidávání kontaktu na seznam povolených čísel...</string>
@@ -677,6 +679,7 @@
   <string name="network_settings_query_failed_message">Nebyla nalezena žádná síť.</string>
   <string name="network_settings_sel_sub">Zvolit předplatné</string>
   <string name="network_settings_select_automatic_hint">Nebylo možné se přihlásit k vybrané síti</string>
+  <string name="network_settings_title">Mobilní sítě</string>
   <string name="network_settings_turn_off">Vypnout</string>
   <string name="network_settings_warn_message">Použít pouze manuálně vybranou síť.</string>
   <string name="network_unconnected_message_livetalk">Chyba sítě. Zkuste uskutečnit hovor. Bude změněno vaším operátorem.</string>
@@ -693,6 +696,7 @@
   <string name="no_change">Nebyly provedeny žádné změny.</string>
   <string name="no_internet_available">Chcete-li uskutečnit internetové volání, nejprve zkontrolujte Vaše internetové připojení.</string>
   <string name="no_internet_available_title">Chybí internetové připojení</string>
+  <string name="no_number">Žádné telefonní číslo</string>
   <string name="no_sip_account_found">Nemáte žádné účty pro internetové volání. Chcete jej vytvořit?</string>
   <string name="no_sip_account_found_title">Žádný účet internetového volání</string>
   <string name="no_vm_number">Chybí číslo hlasové schránky</string>
@@ -824,6 +828,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="place_a_call1">Předplatné 1</string>
   <string name="place_a_call2">Předplatné 2</string>
   <string name="place_a_call3">Předplatné 3</string>
+  <string name="please_enter_phone_number">Zadejte telefonní číslo</string>
   <string name="pocket_mode_summary">Zařízení se automaticky uzamkne v kapse</string>
   <string name="pocket_mode_title">Zabránit náhodnému použití</string>
   <string name="port">Port</string>
@@ -1042,6 +1047,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="sim_unknown">Neznámá</string>
   <string name="sim_unlock_failed">Požadavek na odemknutí SIM nebyl úspěšný.</string>
   <string name="sim_unlock_success">Požadavek na odemknutí SIM byl úspěšný.</string>
+  <string name="sim_useless">SIM nedostupná</string>
   <string name="sip_account_list">Účty internetové telefonie</string>
   <string name="sip_accounts">Účty internetové telefonie (SIP)</string>
   <string name="sip_accounts_title">Účty</string>
@@ -1217,10 +1223,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="no_number">Žádné telefonní číslo</string>
-  <string name="sim_useless">SIM nedostupná</string>
-  <string name="network_settings_title">Mobilní sítě</string>
-  <string name="add_by_input">Zadat</string>
-   <string name="add_from_contacts">Kontakt</string>
-   <string name="please_enter_phone_number">Zadejte telefonní číslo</string>
 </resources>

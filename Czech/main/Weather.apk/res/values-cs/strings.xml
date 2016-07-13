@@ -20,6 +20,7 @@
   <string name="activity_weathermain_locationg">Získávání polohy...</string>
   <string name="activity_weathermain_locationg_error">Zjištění polohy selhalo</string>
   <string name="add_city">Přidat město</string>
+  <string name="alert_warning">Varování</string>
   <string name="app_name">Počasí</string>
   <string name="button_abandon">Zrušit změny</string>
   <string name="button_add_city">Přidat město</string>
@@ -82,6 +83,8 @@ Zadejte město manuálně"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkost</string>
   <string name="realtime_wind_default_title">Vítr</string>
+  <string name="retry">Znovu</string>
+  <string name="set">Nastavení</string>
   <string name="share">Sdílet</string>
   <string name="share_btn_cancel">Zrušit</string>
   <string name="share_btn_confirm">Sdílet</string>
@@ -95,14 +98,11 @@ Zadejte město manuálně"</string>
   <string name="sunrise">Východ slunce</string>
   <string name="sunset">Západ slunce</string>
   <string name="title_share_link">Sdílet URL</string>
+  <string name="unit">Jednotky</string>
+  <string name="unit_temperature">Teplota</string>
+  <string name="unit_wind">Rychlost větru</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zítra</string>
   <string name="weather_alert">Varování</string>
-  <string name="alert_warning">Varování</string>
-   <string name="retry">Znovu</string>
-   <string name="set">Nastavení</string>
-   <string name="unit">Jednotky</string>
-   <string name="unit_temperature">Teplota</string>
-   <string name="unit_wind">Rychlost větru</string>
 </resources>

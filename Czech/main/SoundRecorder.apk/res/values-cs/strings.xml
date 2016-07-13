@@ -27,6 +27,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="duration_format_hour">%s hod.</string>
   <string name="duration_format_minute">%s min.</string>
   <string name="duration_format_second">%s sek.</string>
+  <string name="empty_recognition_tip">Prázdné</string>
   <string name="error_app_internal">Vnitřní chyba aplikace</string>
   <string name="error_app_internal_title">Chyba záznamníku</string>
   <string name="error_file_access">Soubor neexistuje nebo je poškozen</string>
@@ -102,6 +103,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="rename_duplicate">Název již existuje, zadejte jiný.</string>
   <string name="rename_no_more_tip">Znovu se neptat</string>
   <string name="retry">Znovu</string>
+  <string name="runtime_permission_ungranted">Nelze použít záznamník, protože nemá potřebná povolení.</string>
   <string name="search_app">Záznamník</string>
   <string name="search_enable_earpiece_title">Použít přijímač na přehrání zvuku</string>
   <string name="search_led_indicator">Upozornění na zamyk. obrazovce</string>
@@ -136,6 +138,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="runtime_permission_ungranted">Nelze použít záznamník, protože nemá potřebná povolení.</string>
-   <string name="empty_recognition_tip">Prázdné</string>
 </resources>

@@ -54,6 +54,9 @@
   <string name="continue_update_negative_btn">Pokračovat</string>
   <string name="continue_update_positive_btn">Zastavit</string>
   <string name="daily_build">Denní sestavení</string>
+  <string name="dialog_reboot_message">Bude probíhat aktualizace MIUI. Tento proces může trvat 5-20 minut. Vyvarujte se restartu nebo vypnutí zařízení během procesu aktualizace!</string>
+  <string name="dialog_reboot_title">Aktualizace systému</string>
+  <string name="dialog_reboot_yes">Aktualizovat</string>
   <string name="download_again">Stáhnout znovu</string>
   <string name="download_cancel">Zrušit</string>
   <string name="download_current_rom">Stáhnout poslední verzi ROM</string>
@@ -255,7 +258,4 @@ Nelze odeslat váš názor názor"</string>
   <string name="welcom_message">Dokončeno</string>
   <string name="welcom_title">Vítejte v MIUI 7</string>
   <string name="worst_update">Nejhorší aktualizace</string>
-  <string name="dialog_reboot_message">Bude probíhat aktualizace MIUI. Tento proces může trvat 5-20 minut. Vyvarujte se restartu nebo vypnutí zařízení během procesu aktualizace!</string>
-  <string name="dialog_reboot_title">Aktualizace systému</string>
-   <string name="dialog_reboot_yes">Aktualizovat</string> 
 </resources>
