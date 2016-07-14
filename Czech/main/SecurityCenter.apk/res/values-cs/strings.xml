@@ -240,7 +240,7 @@
   <string name="cancel">Zrušit</string>
   <string name="cancel_button">Zrušit</string>
   <string name="captive_portal_exception_title">Připojit na veřejnou síť</string>
-  <string name="charging_text_battery_full_time">Naposledy nabito</string>
+  <string name="charging_text_battery_full_time">"Naposledy nabito "</string>
   <string name="charging_text_battery_nearly_full">Skoro nabito</string>
   <string name="charging_text_battery_perfect">Nabito</string>
   <string name="charging_text_time_calculating">Výpočet času nabíjení...</string>
