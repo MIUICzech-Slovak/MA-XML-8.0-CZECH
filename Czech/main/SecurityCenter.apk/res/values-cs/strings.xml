@@ -711,7 +711,7 @@ Mimo špičku: %1$s zbývá | %2$s využito"</string>
   <string name="notification_battery_over_heat_summary">Zjistěte, co způsobuje přehřívání a ochlaďte tak zařízení.</string>
   <string name="notification_battery_over_heat_title">Aktuální teplota je %d℃</string>
   <string name="notification_button_text_of_low_memory">Vyčistit</string>
-  <string name="notification_charging_title">Nabíjení</string>
+  <string name="notification_charging_title">"Nabíjení "</string>
   <string name="notification_content_title">Využito %1$s při uzamknutém zařízení</string>
   <string name="notification_exit_power_save_mode">Vypnuto Šetření baterie</string>
   <string name="notification_exit_power_save_mode_subtitle">Baterie %s nabita.</string>
