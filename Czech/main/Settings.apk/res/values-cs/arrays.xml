@@ -717,6 +717,7 @@ Postupujte dle pokynů"</item>
         <item>Dětský režim</item>
         <item>Soukromé soubory</item>
         <item>Zámek aplikací</item>
+        <item>Druhý profil</item>
     </string-array>
     <string-array name="broadcast_locales">
          <item>SK</item> 	
