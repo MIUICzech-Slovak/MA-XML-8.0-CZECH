@@ -4524,6 +4524,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="fingerprint_lock_second">Odblokovat Druhý profil</string>
   <string name="permission_manage_global_build_title">Ostatní povolení</string>
    <string name="permission_settings_summary">Spravovat povolení pro polohu, úložiště, hovory, zprávy, a kontakty.</string>
-   <string name="permission_settings_title">Povolení aplikací</string>
+   <string name="permission_settings_title">Povolení aplikace</string>
    <string name="google_backup_enable">Povolit zálohování</string>
 </resources>
