@@ -209,4 +209,37 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_content">Odinstalace klonované aplikace vymaže všechna její data.</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
+  <string name="add_finger_print">Přidat otisk</string>
+   <string name="back">Zpět</string>
+   <string name="delete_fingerprint">Vymazat otisk</string>
+   <string name="delete_fingerprint_desc">Otisk pro Druhý profil bude odstraněn spolu s heslem</string>
+   <string name="delete_phone_fingerprint">Vymazat otisk pro Druhý profil</string>
+   <string name="finger_print_num">Otisk %d</string>
+   <string name="finger_print_of_use">Použít otisk</string>
+   <string name="fingerprint_removal_failed">Nelze vymazat otisk</string>
+   <string name="lock_screen_open_second_space">Otevřít Druhý profil ze zamykací obrazovky</string>
+   <string name="need_set_second_space_desc">Přidejte nejprve heslo pro Druhý profil a až potom otisk</string>
+   <string name="need_set_second_space_pwd_first">Nejprve nastavte heslo pro Druhý profil</string>
+   <string name="no_match_repate_scanner">Nelze rozpoznat, zkuste to znovu</string>
+   <string name="notification_recommend_title">Top 12 aplikací pro Druhý profil</string>
+   <string name="please_diff_finger_print">Ujistěte se, že používáte různé otisky pro První a Druhý profil./nJinak nebude možné otevřít Druhý profil přímo ze zamykací obrazovky.</string>
+   <string name="repeat_scanner_fingerprint">Přidat znovu</string>
+   <string name="scanner_fingerprint_error_tips_desc">Nelze rozpoznat. Přidat otisk pro Druhý profil?</string>
+   <string name="scanner_fingerprint_error_tips_title">Nelze rozpoznat</string>
+   <string name="scanner_fingerprint_tips_desc">Vybrat existující otisk pro vstup do Druhého profilu. Nebude možné jej použít v Prvním profilu.</string>
+   <string name="scanner_fingerprint_tips_title">Otevřít Druhý profil použitím otisku prstu</string>
+   <string name="scanner_second_space_fingerprint">Naskenovat otisk pro Druhý profil</string>
+   <string name="second_owner_finger_print">Otisk pro Druhý profil</string>
+   <string name="second_space_finger_printf_desc">Přidat otisk speciálně pro vstup do Druhého profilu</string>
+   <string name="second_space_finger_printf_title">Otisk pro Druhý profil</string>
+   <string name="select_existed_fingerprint">Vybrat otisk prstu</string>
+   <string name="setting_finger_print_sub_title">Ujistěte se, že používáte různé otisky pro První a Druhý profil</string>
+   <string name="setting_finger_print_title">Přidat otisk pro Druhý profil</string>
+   <string name="setting_fingerprint_title">Přidat heslo pro Druhý profil</string>
+   <string name="start_input_finger_print">Přidat otisk prstu</string>
+   <string name="start_new_fingerprint">Přidat nový otisk prstu</string>
+   <string name="start_new_fingerprint_tips">"Použít otisk Druhého profilu
+  pro přístup do Druhého profilu ze zamykací obrazovky"</string>
+   <string name="sure_to_use">Potvrdit</string>
+   <string name="xspace_install_failed">Nelze vytvořit</string>
 </resources>
