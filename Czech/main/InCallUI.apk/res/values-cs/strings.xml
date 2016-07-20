@@ -215,4 +215,5 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
+  <string name="do_not_support_video_calls_by_remote">Video hovor není podporován druhým zařízením</string>
 </resources>

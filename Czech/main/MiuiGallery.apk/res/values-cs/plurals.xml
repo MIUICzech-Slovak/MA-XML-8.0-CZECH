@@ -261,4 +261,12 @@
         <item quantity="other">Stahování %1$d fotografií (%2$dMB) selhalo, zkusit znovu?</item>
         <item quantity="one">Stahování fotografie (%2$dMB) selhalo, zkusit znovu?</item>
      </plurals>
+     <plurals name="fast_share_auto_render_failed">
+         <item quantity="other">Přeskočeno vykreslení %1$d fotografií</item>
+         <item quantity="one">Přeskočeno vykreslení 1 fotografie</item>
+     </plurals>	 
+     <plurals name="picker_skip_unavailable_images">
+         <item quantity="other">Přeskočeno %d fotografií, které nejsou v zařízení.</item>
+         <item quantity="one">Přeskočena 1 fotografie, která není v zařízení.</item>
+     </plurals>	 
 </resources>
