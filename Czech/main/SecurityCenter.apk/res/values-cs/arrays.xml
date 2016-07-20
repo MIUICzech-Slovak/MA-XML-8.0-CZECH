@@ -116,8 +116,6 @@
     <string-array name="traffic_sort_type">
         <item>Využití 2G/3G</item>
         <item>Využití Wi-Fi</item>
-        <item>Celková spotřeba dat</item>
-	<item>Mi Data plan</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Nastavit automaticky</item>
@@ -126,7 +124,6 @@
     <string-array name="traffic_type">
         <item>využito 2G/3G\u0020</item>
         <item>využito Wi-Fi\u0020</item>
-        <item>celkem\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>Včera\u0020</item>

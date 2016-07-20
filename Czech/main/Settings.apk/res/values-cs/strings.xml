@@ -4522,4 +4522,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="fingerprint_lock_first">Odblokovat První profil</string>
   <string name="fingerprint_lock_second">Odblokovat Druhý profil</string>
+  <string name="permission_manage_global_build_title">Ostatní povolení</string>
+   <string name="permission_settings_summary">Spravovat povolení pro polohu, úložiště, hovory, zprávy, a kontakty.</string>
+   <string name="permission_settings_title">Povolení aplikací</string>
 </resources>
