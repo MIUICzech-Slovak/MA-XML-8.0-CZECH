@@ -740,4 +740,7 @@
   <string name="custom_select_title_quickly_share">Rychlé sdílení</string>
   <string name="fast_share_auto_render">Vylepšit</string>
   <string name="fast_share_auto_render_finish">Vylepšeno</string>
+  <string name="album_show_local_only">Zobrazit pouze lokální alba</string>
+   <string name="delete_from_cloud">Vymazat položky z cloudového alba</string>
+   <string name="projection_device_connection_failed">Připojení k TV selhalo</string>
 </resources>

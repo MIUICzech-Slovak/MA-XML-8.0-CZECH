@@ -409,5 +409,5 @@
    <string name="privacy_appdata_chrome_history_des">Historie webstránek</string>
    <string name="search_history">Historie vyhledávání</string>
    <string name="sms">SMS/MMS</string>
-   <string name="start_downloading_app">Stáhnout: %1$s</string>
+   <string name="start_downloading_app">Stahování: %1$s</string>
 </resources>

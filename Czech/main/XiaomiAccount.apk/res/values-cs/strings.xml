@@ -85,7 +85,7 @@
   <string name="continue_action">Pokračovat</string>
   <string name="cta_declaration_agree_and_continue">Souhlasím</string>
   <string name="cta_declaration_exit">Ukončit</string>
-  <string name="cta_declaration_ignore">Odmítnout</string>
+  <string name="cta_declaration_ignore">Znovu se neptat</string>
   <string name="cta_declaration_message">"Pro přihlášení se k vašemu Xiaomi účtu je nutné internetové připojení, vyhledání vašeho zařízení a povolení MiCloud. Pro zálohu vašich dat, tato aplikace vyžaduje přístup k vašim kontaktům, SMS a MMS zprávám, historii hovorů a nahrávkám. Tato data nepoužíváme k žádným komerčním účelům a nejsou poskytována třetí straně."</string>
   <string name="cta_declaration_title">Podmínky používání</string>
   <string name="current_location_title">Aktuální poloha</string>
