@@ -743,4 +743,11 @@
   <string name="album_show_local_only">Zobrazit pouze lokální alba</string>
    <string name="delete_from_cloud">Vymazat položky z cloudového alba</string>
    <string name="projection_device_connection_failed">Připojení k TV selhalo</string>
+   <string name="crop_and_rotate">Přizpůsobit</string>
+   <string name="move_to_other_albums_tip">Synchronizace alba s MiCloud bude vypnuta, když jej přesunete do ostatních alb. Přesunout album nyní?</string>
+   <string name="operation_move_to_other_albums">Přesunout do ostatních alb</string>
+   <string name="operation_remove_from_other_albums">Odebrat z ostatních alb</string>
+   <string name="remove_from_other_albums_tip">Synchronizace alba s MiCloud by měla být zapnuta, když jej odeberete z ostatních alb. Odebrat album nyní?</string>
+   <string name="turn_off_and_move">Vypnout a přesunout</string>
+   <string name="turn_on_and_remove">Zapnout a odebrat</string>  
 </resources>

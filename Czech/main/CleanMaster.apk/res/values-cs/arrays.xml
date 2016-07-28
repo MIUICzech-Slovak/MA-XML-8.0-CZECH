@@ -56,4 +56,7 @@
      <string-array name="long_add_app_menu">
          <item>Přidat apl. do výjimek</item>
       </string-array>
+      <string-array name="low_memory_clean_menu">
+         <item>Vyčistit</item>
+     </string-array>	
 </resources>

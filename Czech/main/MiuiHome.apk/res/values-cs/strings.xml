@@ -272,4 +272,6 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
+  <string name="children_mode_tips_message">V dětském režimu nelze vybrat žádnou aplikaci.</string>
+   <string name="children_mode_tips_title">Vyberte aplikaci</string>
 </resources>
