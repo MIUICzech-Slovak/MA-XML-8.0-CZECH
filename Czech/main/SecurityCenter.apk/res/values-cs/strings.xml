@@ -1444,4 +1444,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
   <string name="pm_root_success_notification_infomation">Ujistěte se, že rozumíte rizikům ohledně používání ROOT práv</string>
   <string name="settings_title_payment_security">Nastavení bezpečnosti plateb</string>
+  <string name="next_step_button">Další</string>
 </resources>

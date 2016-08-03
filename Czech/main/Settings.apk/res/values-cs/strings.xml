@@ -4526,4 +4526,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="permission_settings_summary">Spravovat povolení pro polohu, úložiště, hovory, zprávy, a kontakty.</string>
    <string name="permission_settings_title">Povolení aplikace</string>
    <string name="google_backup_enable">Povolit zálohování</string>
+   <string name="lattice_smartcover_title">Děrovaný kryt</string>
 </resources>
