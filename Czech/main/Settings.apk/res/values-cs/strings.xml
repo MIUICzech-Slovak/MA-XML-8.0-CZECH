@@ -1368,12 +1368,12 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="erase_external_storage_description">Smazat všechna data v interním úložišti USB, například hudbu a fotografie.</string>
   <string name="erase_internal_storage">Vymazat interní úložiště</string>
   <string name="erase_internal_storage_description">Formát interního úložiště vymaže všechny soubory, jako např. fotky a hudbu.</string>
-  <string name="erase_optional">Volitelné vymazání</string>
+  <string name="erase_optional">Volitelné</string>
   <string name="erase_personal_data">Osobní data</string>
   <string name="erase_personal_data_description">Včetně účtů, kontaktů, seznamu hovorů a ostatních dat.</string>
   <string name="erase_sd_data">Formátovat SD kartu</string>
   <string name="erase_sd_data_description">Formátování vymaže všechny soubory na SD kartě</string>
-  <string name="erase_sure">Vymazat</string>
+  <string name="erase_sure">Důležité</string>
   <string name="error_apn_empty">Název přístupového bodu (APN) nesmí být prázdný.</string>
   <string name="error_mcc_not3">Pole MCC musí obsahovat alespoň 3 číslice.</string>
   <string name="error_mnc_not23">Pole MNC musí obsahovat 2 nebo 3 číslice.</string>
@@ -2427,7 +2427,7 @@ Zvolte Váš operační systém:"</string>
   <string name="permission_detail_info">Zobrazit podrobnosti práv</string>
   <string name="permission_detail_info_summary">Všechna práva: Bezp. %1$d, Soukromé %2$d, Ostatní %3$d</string>
   <string name="permission_manage">Správa práv</string>
-  <string name="permission_manage_summary">Automatický start, soukromí, bezpečnost.</string>
+  <string name="permission_manage_summary">Spravovat oprávnění a bezpečnost</string>
   <string name="permission_manage_title">%s podrobnosti práv</string>
   <string name="permission_manager">Povolení</string>
   <string name="permission_mgr">Povolení</string>
