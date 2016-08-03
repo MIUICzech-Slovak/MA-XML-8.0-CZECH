@@ -374,5 +374,9 @@ Zkontrolujte také složku SPAM."</string>
   <string name="user_avatar_uploading">Nahrávání...</string>
   <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se odstraní, pokud budete pokračovat).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Některé položky nebyly synchronizovány."</string>
+  <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
+  <string name="notify_network_restricted_content_bg_network">Přístup Xiaomi účtu k internetu na pozadí je zakázán. Dotykem povolíte.</string>
+   <string name="notify_network_restricted_content_hidden_state">Aktivita Xiaomi účtu na pozadí je zakázána. Dotykem povolíte.</string>
+   <string name="notify_network_restricted_content_mobile_network">Přístup Xiaomi účtu k internetu je zakázán. Dotykem povolíte.</string>
+   <string name="notify_network_restricted_title">Xiaomi účet nemá povolení pro přístup k internetu</string>
 </resources>

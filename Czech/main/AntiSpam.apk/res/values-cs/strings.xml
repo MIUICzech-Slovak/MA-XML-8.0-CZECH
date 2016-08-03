@@ -344,4 +344,9 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="mark_courier">Blokovat nahlášené kurýry</string>
+   <string name="mark_courier_block">Nahlásit jako kurýra</string>
+   <string name="mark_courier_block_large">Kurýr</string>
+   <string name="mark_courier_time_setting">Blokovat čísla, které byly nahlášena jako kurýr</string>
+   <string name="mark_number_courier">Kurýr</string>
 </resources>

@@ -877,8 +877,8 @@ Synchronizujte je nyní."</string>
   <string name="photo_fragment">Fotografie</string>
   <string name="photo_labels_group">Profilová fotografie</string>
   <string name="photo_load_failed">Nelze načíst fotografii</string>
-  <string name="pick_new_photo">Vybrat z Galerie</string>
-  <string name="pick_photo">Vybrat z Galerie</string>
+  <string name="pick_new_photo">Vybrat z %s</string>
+  <string name="pick_photo">Vybrat z %s</string>
   <string name="pickerNewContactHeader">Vytvořit nový kontakt</string>
   <string name="pickerNewContactText">Vytvořit nový kontakt</string>
   <string name="picker_all_list_empty">Žádné kontakty</string>
@@ -1247,4 +1247,6 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nic není vybráno</string>
   <string name="fraud_more_indemnity">Více</string>
+  <string name="contact_detail_calllog_empty">Žádná historie hovorů</string>
+  <string name="gallery">Galerie</string>
 </resources>
