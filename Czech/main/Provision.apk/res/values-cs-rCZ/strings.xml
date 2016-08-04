@@ -49,4 +49,6 @@
   <string name="title_fingerprint">Přidat otisk prstu</string>
   <string name="user_agreement">Podmínky používání</string>
   <string name="welcome">Vítejte</string>
+  <string name="content_description_complete">Hotovo</string>
+  <string name="content_description_start">Spustit</string>
 </resources>
