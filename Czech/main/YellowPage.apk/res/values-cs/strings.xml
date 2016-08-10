@@ -206,4 +206,6 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
    <string name="mark_number_check_most_choice">(Nejčastější volba)</string>
    <string name="mark_number_feedback_not_number">Není to číslo %s</string>
    <string name="mark_number_feedback_personal_number">Je to soukromé číslo</string>
+   <string name="mark_number_delete_confirm_message">Odstranit označení %s ?</string>
+   <string name="mark_number_delete_confirm_title">Odstranit označení</string>
 </resources>

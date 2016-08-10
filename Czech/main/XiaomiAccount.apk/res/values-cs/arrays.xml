@@ -55,4 +55,8 @@
         <item>Jaké je jméno vaší tchýně?</item>
         <item>Kdy má tchýně narozeniny?</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+         <item>Muž</item>
+         <item>Žena</item>
+     </string-array>
 </resources>

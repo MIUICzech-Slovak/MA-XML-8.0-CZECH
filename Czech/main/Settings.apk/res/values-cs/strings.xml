@@ -4527,4 +4527,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="permission_settings_title">Povolení aplikace</string>
    <string name="google_backup_enable">Povolit zálohování</string>
    <string name="lattice_smartcover_title">Děrovaný kryt</string>
+    <string name="screenshot">Screenshot</string>
+   <string name="screenshot_three_gesture">Přejeďte třemi prsty po displeji dolů, pro zhotovení screenshotu</string>
+   <string name="tether_share_qrcode_title">Sdílet QR kód</string>
 </resources>

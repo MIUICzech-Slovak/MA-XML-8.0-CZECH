@@ -117,4 +117,8 @@
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="turn_off">Vypnout</string>
   <string name="unknown_caller">Neznámé číslo</string>
+  <string name="screenshot_gesture_detect_alert_button">Jděte do nastavení screenshotu</string>
+   <string name="screenshot_gesture_detect_alert_dont_again">Znovu nezobrazovat</string>
+   <string name="screenshot_gesture_detect_alert_msg">Povolit zhotovení screenshotu třemi prsty?</string>
+   <string name="screenshot_gesture_detect_alert_title">Screenshot třemi prsty</string>
 </resources>
