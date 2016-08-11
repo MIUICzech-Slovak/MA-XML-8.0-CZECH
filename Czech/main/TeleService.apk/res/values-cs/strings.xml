@@ -23,7 +23,6 @@
   <string name="administrative_disable">Administrativní zakázány</string>
   <string name="administrative_enable">Administrativní povoleny</string>
   <string name="advanced_settings">Pokročilé nastavení</string>
-  <string name="advanced_settings_container">Rozšířené nastavení</string>
   <string name="advanced_settings_hide">▽ Stisk pro Vše skrýt</string>
   <string name="advanced_settings_show">▷ Stisk pro Vše zobrazit</string>
   <string name="advertisements_disable">Reklamy zakázány</string>
@@ -291,10 +290,8 @@
   <string name="default_areacode">Default area code</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Výchozí vyzvánění (%1$s)</string>
-  <string name="default_port">5060</string>
   <string name="default_preference_summary">Nenastaveno</string>
   <string name="default_sim_setting">Výchozí SIM jako:</string>
-  <string name="default_transport">UDP</string>
   <string name="delete">Vymazat</string>
   <string name="deleteAllSimEntries">Vymazat všechny kontakty na SIM</string>
   <string name="deleteSimContacts">Mazání kontaktů na SIM</string>
@@ -358,7 +355,6 @@
   <string name="disable_pin_ok">Kód PIN karty SIM je ZAKÁZÁN.</string>
   <string name="disable_sim_pin">Zakázat kód PIN karty SIM</string>
   <string name="disconnect_data_confirm">Mobilní data budou dočasně odpojena. Pokračovat?</string>
-  <string name="display_name">DisplayName</string>
   <string name="display_name_summary">Stejné jako jméno</string>
   <string name="display_name_title">Zobrazované jméno</string>
   <string name="domain_address_title">Server</string>
@@ -780,7 +776,6 @@ Může to trvat i 5 min."</string>
   <string name="other_settings">Další nastavení hovorů</string>
   <string name="other_settings_category">Ostatní</string>
   <string name="overseas_roaming_setting">Mezinárodní roaming</string>
-  <string name="password">Heslo</string>
   <string name="password_changed">Heslo je úspěšně změněno</string>
   <string name="password_title">Heslo</string>
   <string name="pause_prompt_no">Ne</string>
@@ -831,7 +826,6 @@ Počet zbývajících pokusů: %d."</string>
   <string name="please_enter_phone_number">Zadejte telefonní číslo</string>
   <string name="pocket_mode_summary">Zařízení se automaticky uzamkne v kapse</string>
   <string name="pocket_mode_title">Zabránit náhodnému použití</string>
-  <string name="port">Port</string>
   <string name="port_title">Číslo portu</string>
   <string name="preference_auto_ip_summary_disable">Deaktivováno</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>

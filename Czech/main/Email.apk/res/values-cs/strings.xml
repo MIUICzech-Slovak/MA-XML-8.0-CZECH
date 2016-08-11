@@ -3,7 +3,6 @@
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Heslo</string>
   <string name="SMTP_username_text">Jméno</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">"Toto uživatelské jméno již používáte pro účet „%s“</string>
   <string name="account_duplicate_dlg_title">Duplicitní účet</string>
   <string name="account_name_toast">Tento název již existuje</string>
@@ -284,7 +283,6 @@
   <string name="contextmenu_send_mail">Odeslat e-mail</string>
   <string name="contextmenu_sharelink">Sdílet odkaz</string>
   <string name="contextmenu_sms_dot">SMS...</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Přesunuto do složky %1$s</string>
   <string name="conversation_item_mark_read">Přečteno</string>
   <string name="conversation_item_mark_unread">Nepřečteno</string>
@@ -822,7 +820,6 @@
   <string name="wait_for_manual_sync_body">"Tento účet není nastaven na automatickou synchronizaci.
 Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". Chcete-li v účtu nastavit automatickou synchronizaci pošty, dotkněte se položky - Změnit nastavení synchronizace.</string>
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
-  <string name="wait_help_context">čekejte</string>
   <string name="widget_all_mail">Všechny zprávy</string>
   <string name="widget_large_unread_count">%d</string>
   <string name="widget_other_views">Ostatní</string>
