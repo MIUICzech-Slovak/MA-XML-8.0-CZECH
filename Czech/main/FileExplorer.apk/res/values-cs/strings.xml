@@ -660,4 +660,12 @@ Bylo přičteno dalších %1$s"</string>
   <string name="force_touch_search">Vyhledat</string>
   <string name="phone_storage_info_str">Dostupné: %1$s | Celkem: %2$s</string>
   <string name="select_volume">Vyberte místo uložení</string>
+  <string name="download">Stáhnout</string>
+   <string name="download_fail">Nelkze stáhnout</string>
+   <string name="flow_setting">Nastavení</string>
+   <string name="hot_app">Populární apl</string>
+   <string name="install_fail">Nelze nainstalovat</string>
+   <string name="only_wifi">Stáhnout po připojení na Wi-Fi</string>
+   <string name="open_app">Otevřít</string>
+   <string name="recent_show">Nedávné</string>
 </resources>

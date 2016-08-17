@@ -4536,4 +4536,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="show_connected_devices_title">Připojení zařízení</string>
    <string name="tether_devices_management_title">Spravovat zařízení</string>
    <string name="tether_settings_disabled">Přenosný Hot-spot je deaktivován</string>
+   <string name="search_empty">Nic nebylo nalezeno</string>
+   <string name="forbidden_switch_apn_string">Vybrané nastavení APN se neshoduje se současným typem sítě</string>
 </resources>
