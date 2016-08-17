@@ -256,6 +256,10 @@ Nelze odeslat váš názor názor"</string>
   <string name="weekly_build">Týdenní verze</string>
   <string name="welcom_button">OK</string>
   <string name="welcom_message">Dokončeno</string>
-  <string name="welcom_title">Vítejte v MIUI 7</string>
+  <string name="welcom_title">Vítejte v MIUI 8</string>
   <string name="worst_update">Nejhorší aktualizace</string>
+  <string name="notification_uncrypt_summary_hm">Dotykem restartujete zařízení.</string>
+   <string name="notification_uncrypt_title_hm">Restartujte pro aktualizaci</string>
+   <string name="notification_uncrypting">Dekódování aktualizace</string>
+   <string name="uncrypt_title">Dekódování (%s)</string>
 </resources>

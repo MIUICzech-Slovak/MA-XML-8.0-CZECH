@@ -659,4 +659,5 @@ Bylo přičteno dalších %1$s"</string>
    <string name="force_touch_clean">Vyčistit</string>
   <string name="force_touch_search">Vyhledat</string>
   <string name="phone_storage_info_str">Dostupné: %1$s | Celkem: %2$s</string>
+  <string name="select_volume">Vyberte místo uložení</string>
 </resources>

@@ -268,5 +268,17 @@
      <plurals name="picker_skip_unavailable_images">
          <item quantity="other">Přeskočeno %d fotografií, které nejsou v zařízení.</item>
          <item quantity="one">Přeskočena 1 fotografie, která není v zařízení.</item>
-     </plurals>	 
+     </plurals>	
+     <plurals name="picker_no_network_retry_image_confirm_message">
+         <item quantity="other">Nelze stáhnout %1$d fotografií, připojte se k síti a zkuste to znovu</item>
+         <item quantity="one">Nelze stáhnout fotografii, připojte se k síti a zkuste to znovu</item>
+     </plurals>
+     <plurals name="picker_no_network_retry_origin_confirm_message">
+         <item quantity="other">Nelze stáhnout %1$d fotografií (%2$dMB), připojte se k síti a zkuste to znovu</item>
+         <item quantity="one">Nelze stáhnout fotografii (%2$dMB), připojte se k síti a zkuste to znovu</item>
+     </plurals>
+     <plurals name="add_to_album_cloud_photo_count_tip">
+         <item quantity="other">Přidáno %d cloud fotografií, deaktivujte \"Zorazit pouze lokální alba\" pro jejich zobrazení.</item>
+         <item quantity="one">Přidána %d cloud fotografie, deaktivujte \"Zorazit pouze lokální alba\" pro jejich zobrazení.</item>
+     </plurals>  
 </resources>

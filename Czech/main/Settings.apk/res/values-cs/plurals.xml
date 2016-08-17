@@ -142,5 +142,9 @@
         <item quantity="one">Na minutu (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="few">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
         <item quantity="many">Na %1$d minuty (tedy do %2$s) přepnout do režimu Pouze budíky</item>
-    </plurals>	
+    </plurals>
+    <plurals name="connected_devices_number">
+         <item quantity="other">Zařízení: %d</item>
+         <item quantity="one">Zařízení: %d</item>
+     </plurals>		
 </resources>

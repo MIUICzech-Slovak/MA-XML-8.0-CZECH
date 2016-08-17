@@ -749,5 +749,10 @@
    <string name="operation_remove_from_other_albums">Odebrat z ostatních alb</string>
    <string name="remove_from_other_albums_tip">Zapněte synchronizaci s MiCloud pro přesunutí položek z Ostatních alb. Přesunout nyní?</string>
    <string name="turn_off_and_move">Vypnout a přesunout</string>
-   <string name="turn_on_and_remove">Zapnout a přesunout</string>  
+   <string name="turn_on_and_remove">Zapnout a přesunout</string> 
+   <string name="add_to_album_tip">Cloud fotografie</string>
+   <string name="picker_no_network_message">Síť není dostupná. Připojte se k síti a zkuste to znovu.</string>
+   <string name="set_as_wallpaper_description">Tento obrázek je pouze náhled, chcete stáhnout fotografii v plném rozlišení?</string>
+   <string name="set_as_wallpaper_title">Nastavit jako tapetu</string>
+   <string name="share_app_is_launching">Spouští se aplikace</string> 
 </resources>
