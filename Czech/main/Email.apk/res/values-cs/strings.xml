@@ -829,4 +829,12 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="yes">Ano</string>
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="ad_merge">Reklamy a oznámení</string>
+   <string name="quick_reply_hint_reply_only_from">Rychlá odpověď (pouze odesílateli)</string>
+   <string name="ser_resp_err_map_landing_more_failure">Příliš mnoho neúspěšných pokusů o přihlášení</string>
+   <string name="ser_resp_err_map_landing_too_frequently">Příliš mnoho pokusů o přihlášení</string>
+   <string name="ser_resp_err_map_mailbox_locked">Účet je chráněn heslem</string>
+   <string name="ser_resp_err_map_mailbox_not_open">Žádný účet</string>
+   <string name="ser_resp_err_map_max_connections">Příliš mnoho pokusů o připojení</string>
+   <string name="topic_merge">Spojit téma</string>
 </resources>

@@ -2,9 +2,9 @@
 <resources>
   <string name="Accounts_settings_title">Účty</string>
   <string name="aaid_info">"
- Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
+ Reklamní identifikátor je permanentní ID vašeho zařízení. Výrobci ho používají pro výběr reklam, které mohou být pro vás zajímavé.
  
- If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
+ Pokud vyberete nepoužívat přizpůsobené reklamy, jejich počet se nesníží, ale nebudou cílené přímo pro vás."</string>
   <string name="about_settings">Informace o zařízení</string>
   <string name="about_settings_summary">Zobrazí právní informace, stav a verzi softwaru</string>
   <string name="ac_enable_summary">Pro otevření aplikací bude vyžadováno heslo</string>
@@ -103,7 +103,7 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="active_input_method_subtypes">Aktivní metody vstupu</string>
   <string name="activity_not_found">Aplikace není v telefonu nainstalována.</string>
   <string name="activity_picker_label">Vybrat aktivitu</string>
-  <string name="ad_service">Ad services</string>
+  <string name="ad_service">Reklamní služby</string>
   <string name="adb_keys_warning_message">Zrušit přístup k ladění USB ze všech počítačů, které jste v minulosti autorizovali?</string>
   <string name="adb_warning_message">Ladění prostřednictvím rozhraní USB je určeno pouze pro účely vývoje. Použijte je ke kopírování dat mezi počítačem a zařízením, instalaci aplikací do zařízení bez upozornění a čtení dat protokolů.</string>
   <string name="adb_warning_title">Povolit ladění USB?</string>
@@ -2714,7 +2714,7 @@ Zvolte Váš operační systém:"</string>
   <string name="remove_managed_profile_label">Odstranit pracovní profil</string>
   <string name="repeat">Opakovat</string>
   <string name="repeat_title">Opakovat</string>
-  <string name="reset_aaid">Reset advertising identifier</string>
+  <string name="reset_aaid">Obnovit reklamní identifikátor</string>
   <string name="reset_app_preferences">Obnovit nastavení apl.</string>
   <string name="reset_app_preferences_button">Obnovit aplikace</string>
   <string name="reset_app_preferences_desc">"Toto obnoví všechna nastavení pro:
@@ -3783,7 +3783,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="use_location_title">Poloha a vyhledávání</string>
   <string name="use_nuplayer">Použít NuPlayer (experimentální)</string>
   <string name="use_nuplayer_summary">Namísto přehrávače AwesomePlayer použít NuPlayer</string>
-  <string name="use_personalized_ad_service">Personalized ads</string>
+  <string name="use_personalized_ad_service">Přizpůsobené reklamy</string>
   <string name="use_system_language_to_select_input_method_subtypes">Použít systémový jazyk</string>
   <string name="use_this_wlan">Použít tuto Wi-Fi</string>
   <string name="user_account_title">Účet pro obsah</string>
