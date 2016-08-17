@@ -515,4 +515,6 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
+  <string name="local_page_song_download">Lokální</string>
+  <string name="local_page_song_favorite">Oblíbené</string>  
 </resources>
