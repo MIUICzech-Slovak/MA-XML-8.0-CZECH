@@ -14,6 +14,6 @@ For more info visit:
 - [CZECH&SLOVAK MIUI Fansite](http://miuios.cz)  
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-MIUI Android Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
+Translation XML check http://translators.xiaomi.eu/XML_MIUI8-Czech-cs.html
 
 MIUI Translation: contact@miuios.cz
