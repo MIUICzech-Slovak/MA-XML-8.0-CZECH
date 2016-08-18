@@ -1,7 +1,6 @@
-XML_MIUI-v6
-===========
+<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
 
-MIUI-v6 translation for all supported devices. MIUI Translation: **Kynio**
+MIUI-v8 translation for all supported devices. MIUI Translation: **Kynio**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
