@@ -4541,4 +4541,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="search_force_touch">3D Touch</string>
    <string name="single_key_use">Režim jediného tlačítka</string>
    <string name="single_key_use_summary">Použít tlačítko Domů, místo ostatních dvou tlačítek</string>
+   <string name="long_press_volume_down">Dlouhé podržení hlasitosti dolů</string>
 </resources>

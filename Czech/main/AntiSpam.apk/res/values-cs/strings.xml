@@ -349,4 +349,5 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
    <string name="mark_courier_block_large">Kurýr</string>
    <string name="mark_courier_time_setting">Blokovat čísla, které byly nahlášena jako kurýr</string>
    <string name="mark_number_courier">Kurýr</string>
+   <string name="dlg_add_blacklist_title">Přidat do černé listiny</string>
 </resources>

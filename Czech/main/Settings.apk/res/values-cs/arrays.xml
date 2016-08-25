@@ -922,4 +922,9 @@ Postupujte dle pokynů"</item>
         <item>zm</item>
         <item>zw</item>
     </string-array>
+    <string-array name="long_press_volume_down_action">
+         <item>Žádné</item>
+         <item>Rychlá fotografie (vyberte režim ve fotoaparátu)</item>
+         <item>Městská doprava</item>
+     </string-array>	
 </resources>

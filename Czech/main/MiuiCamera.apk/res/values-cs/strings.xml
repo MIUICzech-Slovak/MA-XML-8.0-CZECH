@@ -405,4 +405,8 @@
    <string name="button_normal_video_title">Videokamera</string>
    <string name="simple_mode_button_text_groupshot">Vypnout</string>
    <string name="pref_camera_groupshot_mode_title">Skupina</string>
+   <string name="title_snap_double_confirm">Potvrďte znovu</string>
+   <string name="snap_cancel">Zrušit</string>
+   <string name="snap_confirmed">Potvrdit</string>
+   <string name="message_snap_double_confirm">Současný režim dlouhého podržení tlačítka hlasitosti dolů, je NFC. Chcete potvrdit tuto změnu?</string>
 </resources>
