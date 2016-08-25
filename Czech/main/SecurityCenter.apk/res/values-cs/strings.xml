@@ -1529,4 +1529,10 @@ Remaining data includes data that has been rolled over from the previous month."
  <string name="toast_network_eror">Nelze se připojit k síti</string>
  <string name="unlike">Ne, děkuji.</string>
 <string name="use_immediately">Použít</string>
+<string name="card_main_private_space_action">Vytvořit</string>
+   <string name="card_main_private_space_summary">Používání Druhého profilu je stejné, jako mít dva telefony.</string>
+   <string name="card_main_private_space_title">Druhý profil</string>
+   <string name="card_main_xspace_action">Vytvořit</string>
+   <string name="card_main_xspace_summary">Používejte dva účty pro kteroukoliv apl.</string>
+   <string name="card_main_xspace_title">Klonované apl.</string>
 </resources>
