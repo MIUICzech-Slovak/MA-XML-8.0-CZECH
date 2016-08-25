@@ -4538,4 +4538,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="tether_settings_disabled">Přenosný Hot-spot je deaktivován</string>
    <string name="search_empty">Nic nebylo nalezeno</string>
    <string name="forbidden_switch_apn_string">Vybrané nastavení APN se neshoduje se současným typem sítě</string>
+   <string name="search_force_touch">3D Touch</string>
+   <string name="single_key_use">Režim jediného tlačítka</string>
+   <string name="single_key_use_summary">Použít tlačítko Domů, místo ostatních dvou tlačítek</string>
 </resources>

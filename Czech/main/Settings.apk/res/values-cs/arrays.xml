@@ -341,6 +341,7 @@ Postupujte dle pokynů"</item>
         <item>Spustit Hlasový asistent</item>
         <item>Spustit Google Now</item>
         <item>Ukončit otevřenou aplikaci</item>
+	<item>Rychlé vyhledání</item>
         <item>Zobrazit Menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">

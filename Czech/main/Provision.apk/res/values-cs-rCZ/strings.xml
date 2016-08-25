@@ -51,4 +51,7 @@
   <string name="welcome">Vítejte</string>
   <string name="content_description_complete">Hotovo</string>
   <string name="content_description_start">Spustit</string>
+  <string name="app_name">Provision</string>
+   <string name="content_description_language_picker">Výběr jazyka</string>
+   <string name="content_description_miui_version">MIUI 8</string>
 </resources>
