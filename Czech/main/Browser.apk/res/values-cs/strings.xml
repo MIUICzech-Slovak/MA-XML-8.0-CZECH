@@ -807,4 +807,13 @@ Chcete opustit tuto stránku?"</string>
    <string name="no_app_open_document">Nebyla nalezena apliakce pro tuto akci</string>
    <string name="save_file">Uložit %s soubor</string>
    <string name="view_document_downloaded_files">Zobrazit stažené aplikace ve Správci stahování</string>
+   <string name="isreplace">Soubor již existuje, přepsat?</string>
+   <string name="not_allowed_open">Nelze použít Prohlížeč</string>
+   <string name="replace">Přepsat</string>
+   <string name="video_download_finding_address">Vyhledávání adresy</string>
+   <string name="video_manager_action_bar_end_view">Videa</string>
+   <string name="video_subtitle_last_message1">Zbývá méně, než 1 min</string>
+   <string name="video_subtitle_prefix1">Shlédnuto</string>
+   <string name="video_subtitle_prefix2">"Shlédnuto "</string>
+   <string name="video_unknown_duration">Neznámé</string>
 </resources>

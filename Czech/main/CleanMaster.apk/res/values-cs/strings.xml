@@ -425,4 +425,16 @@
    <string name="low_memory_warning_dialog_msg">Není volné místo v úložišti. Musíte nejprve vyčistit nějaké soubory.</string>
    <string name="low_memory_warning_dialog_ok_button">Vyčistit</string>
    <string name="low_memory_warning_dialog_title">Úložiště je plné</string>
+   <string name="ad_install_success_dialog_lunch">Otevřít</string>
+   <string name="ad_install_success_dialog_title">Nainstalováno %1$s. Otevřít?</string>
+   <string name="btn_text_quick_cleanup_apk">Vymazat vybrané APK %1$s</string>
+   <string name="btn_text_quick_cleanup_appdata">Vymazat vybraná data %1$s</string>
+   <string name="btn_text_quick_cleanup_large_file">Vymazat vybrané soubory %1$s</string>
+   <string name="btn_text_quick_cleanup_video">Vymazat vybraná videa %1$s</string>
+   <string name="deep_clean_completed_tips">Vyčištěno</string>
+   <string name="deep_clean_uninstall_completed_tips">Odinstalováno</string>
+   <string name="deepclean_empty">Vše se zdá být v pořádku</string>
+   <string name="deepclean_install_info_desc2">Odinstalujte apl. pro uvolnění místa</string>
+   <string name="hint_clean_select_items">Mazání duplicit...</string>
+   <string name="scanning">Kontrola...</string>
 </resources>

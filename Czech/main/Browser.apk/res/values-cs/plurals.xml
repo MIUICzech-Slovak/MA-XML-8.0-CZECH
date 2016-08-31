@@ -45,4 +45,8 @@
         <item quantity="other">Vymazáno (%1$d).</item>
         <item quantity="one">Vymazáno (%1$d)</item>
     </plurals>
+    <plurals name="video_subtitle_last_message">
+         <item quantity="other">Zbývá %d min</item>
+         <item quantity="one">Zbývá 1 min</item>
+     </plurals>	
 </resources>

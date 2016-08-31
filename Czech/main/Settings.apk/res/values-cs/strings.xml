@@ -4528,7 +4528,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="google_backup_enable">Povolit zálohování</string>
    <string name="lattice_smartcover_title">Děrovaný kryt</string>
     <string name="screenshot">Screenshot</string>
-   <string name="screenshot_three_gesture">Přejeďte třemi prsty po displeji dolů, pro zhotovení screenshotu</string>
+   <string name="screenshot_three_gesture">Třemi prsty dolů pro screenshot</string>
    <string name="tether_share_qrcode_title">Sdílet QR kód</string>
    <string name="max_cpu2_info">"2 jádra "</string>
    <string name="no_connected_devices">Žádná připojená zařízení</string>
@@ -4542,4 +4542,13 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="single_key_use">Režim jediného tlačítka</string>
    <string name="single_key_use_summary">Použít tlačítko Domů, místo ostatních dvou tlačítek</string>
    <string name="long_press_volume_down">Dlouhé podržení hlasitosti dolů</string>
+   <string name="auto_upload_debug_log_summary">Diagnostická data mohou obsahovat informace o používání vašeho zařízení, operačním systému a aplikacích. Tato data budou použita pro analýzu vašeho problému v systému.</string>
+   <string name="auto_upload_debug_log_title">Odeslat diagnostická data automaticky</string>
+   <string name="preferred_app_settings_not_selected">Žádné</string>
+   <string name="tether_and_hotspot_title">Tethering a hot-spot</string>
+   <string name="user_experience_program">Sdílení statistik</string>
+   <string name="user_experience_program_summary">Pomozte vylepšit MIUI odesíláním anonymních dat o používání zařízení</string>
+   <string name="user_experience_program_title">Sdílené statistik</string>
+   <string name="has_screenshot_sound">Zvuk Screenshotu</string>
+   <string name="screenshot_three_gesture_summary">Ostatní gesta třemi prsty budou deaktivována</string>
 </resources>

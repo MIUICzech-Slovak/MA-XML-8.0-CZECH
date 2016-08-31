@@ -754,5 +754,15 @@
    <string name="picker_no_network_message">Síť není dostupná. Připojte se k síti a zkuste to znovu.</string>
    <string name="set_as_wallpaper_description">Tento obrázek je pouze náhled, chcete stáhnout fotografii v plném rozlišení?</string>
    <string name="set_as_wallpaper_title">Nastavit jako tapetu</string>
-   <string name="share_app_is_launching">Spouští se aplikace</string> 
+   <string name="share_app_is_launching">Spouští se aplikace</string>
+   <string name="disable_auto_upload_tip">Nové a vymazané fotografie nebudou synchronizovány s MiCloud. Toto album bude přesunuto do \"Ostatní alba\"."</string>
+   <string name="disable_auto_upload_title">Vypnout synchr. s MiCloud</string>
+   <string name="doodle_big_size">Velké</string>
+   <string name="doodle_middle_size">Střední</string>
+   <string name="doodle_small_size">Malé</string>
+   <string name="doodle_super_big_size">Obrovské</string>
+   <string name="enable_auto_upload_tip">Toto album bude odebráno z \"Ostatní alba\" pokud ho povolíte.</string>
+   <string name="enable_auto_upload_title">Zapnout synchr. s MiCloud</string>
+   <string name="operation_disable_auto_upload">Vypnout synchr. s MiCloud</string>
+   <string name="operation_enable_auto_upload">Zapnout synchr. s MiCloud</string> 
 </resources>
