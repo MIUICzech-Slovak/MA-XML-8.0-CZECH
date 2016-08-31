@@ -837,4 +837,5 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="ser_resp_err_map_mailbox_not_open">Žádný účet</string>
    <string name="ser_resp_err_map_max_connections">Příliš mnoho pokusů o připojení</string>
    <string name="topic_merge">Spojit téma</string>
+   <string name="compose_paste_address_oob">Vložený text je příliš dlouhý</string>
 </resources>
