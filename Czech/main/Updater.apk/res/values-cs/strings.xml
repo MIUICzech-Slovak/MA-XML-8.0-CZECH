@@ -158,7 +158,7 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
   <string name="recovery_failed_notification_msg">Nelze spustit MiRecovery</string>
   <string name="recovery_failed_title">Aktualizace selhala</string>
   <string name="recovery_power_not_enough_msg">Baterie má méně, než 30% energie. Pro pokračování v instalaci aktualizace připojte nabíječku.</string>
-  <string name="recovery_power_not_enough_msg_plugged">Baterie musí být nabita alespoň na 15% a více.</string>
+  <string name="recovery_power_not_enough_msg_plugged">Baterie musí být nabita alespoň na 30% a více.</string>
   <string name="recovery_power_not_enough_title">Slabá baterie</string>
   <string name="repeat">Znovu</string>
   <string name="root_acquired">Povolit ROOT práva</string>
