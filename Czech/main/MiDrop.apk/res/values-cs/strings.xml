@@ -19,7 +19,7 @@
   <string name="notif_receive_cancel">Nepřenesené soubory: %1$s</string>
   <string name="notif_receive_lockscreen">Zobrazit podrobnosti</string>
   <string name="notif_receive_progress">Přijímání: %1$s…</string>
-  <string name="notif_receive_success">Přijaté: %1$s</string>
+  <string name="notif_receive_success">Přijato od: %1$s</string>
   <string name="notif_send_cancel">Přenos souboru do %1$s přerušen</string>
   <string name="notif_send_cancel_multi">Přenos souboru do %1$s+%2$ přerušen</string>
   <string name="notif_send_progress">Odesílání souboru do %1$s...</string>

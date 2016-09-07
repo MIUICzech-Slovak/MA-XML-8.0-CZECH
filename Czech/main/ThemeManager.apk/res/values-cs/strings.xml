@@ -388,4 +388,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
   <string name="resource_data_empty">Prázdné</string>
+  <string name="forcetouch_featured">Doporučené</string>
+   <string name="forcetouch_free_themes">Zdarma</string>
+   <string name="forcetouch_offline">Lokální</string>  
 </resources>

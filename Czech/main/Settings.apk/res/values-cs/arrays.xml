@@ -926,5 +926,11 @@ Postupujte dle pokynů"</item>
          <item>Žádné</item>
          <item>Rychlá fotografie (vyberte režim ve fotoaparátu)</item>
          <item>Městská doprava</item>
+     </string-array>
+     <string-array name="anr_record_interval_entries">
+         <item>10 s</item>
+         <item>20 s</item>
+         <item>30 s</item>
+         <item>1 min</item>
      </string-array>	
 </resources>
