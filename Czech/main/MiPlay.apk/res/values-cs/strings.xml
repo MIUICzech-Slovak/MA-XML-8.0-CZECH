@@ -34,4 +34,7 @@
   <string name="enable_wifi_btn">Povolit</string>
    <string name="enable_wifi_message">Povolte Wi-Fi pro vyhledávání zařízení v blízkosti.</string>
    <string name="enable_wifi_title">Povolit Wi-Fi</string>
+    <string name="noti_projection_status_desc_on">Zrcadlení obrazovky je zap.</string>
+  <string name="noti_projection_status_title">MiPlay Bezdrátový Displej</string>  
+
 </resources>

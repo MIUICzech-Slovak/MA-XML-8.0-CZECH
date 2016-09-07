@@ -4551,4 +4551,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="user_experience_program_title">Sdílené statistik</string>
    <string name="has_screenshot_sound">Zvuk Screenshotu</string>
    <string name="screenshot_three_gesture_summary">Ostatní gesta třemi prsty budou deaktivována</string>
+    <string name="instruction_title">Pokyny</string>  
 </resources>
