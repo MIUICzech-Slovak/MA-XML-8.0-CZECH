@@ -25,5 +25,11 @@
          <item>Hlas</item>
          <item>Rozhovor</item>
          <item>HD</item>
-     </string-array>	
+     </string-array>
+     <string-array name="record_scenes_summaries">
+         <item>Nahrávat 2 kanály, přehrávat stereo ve sluchátkách</item>
+         <item>Dejte mikrofon blíže ke zdroji zvuku pro lepší kvalitu nahrávky</item>
+         <item>Dejte telefon doprostřed mezi dvě osoby</item>
+         <item>Maximální efektivní vzdálenost od mikrofonu je 10 m.</item>
+     </string-array>		
 </resources>
