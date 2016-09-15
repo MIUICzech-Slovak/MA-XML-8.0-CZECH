@@ -4585,6 +4585,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
    <string name="switch_screen_button_order">Přepnout pořadí tlačítek</string>
    <string name="switch_screen_button_order_desc">Gesto posunutí dolů pro skrytí tlačítek</string>
-   <string name="instruction_title">Pokyny</string>  
    <string name="personal_section_title">Osobní</string>
 </resources>
