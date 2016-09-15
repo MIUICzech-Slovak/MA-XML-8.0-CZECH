@@ -110,4 +110,12 @@
   <string name="yellow_page_sms_send_failed">Odesílání SMS zprávy selhalo.</string>
   <string name="yellow_page_sms_sending">Odesílání...</string>
   <string name="yellow_page_unable_send_sms">Nelze odeslat SMS zprávu.</string>
+  <string name="cta_button_continue">Povolit</string>
+   <string name="cta_button_quit">Ukončit</string>
+   <string name="cta_check_reminder">Znovu se neptat</string>
+   <string name="cta_message_license">Používáním tohoto produktu souhlasíte s našimi Podmínkami používání a Ochranou soukromí.</string>
+   <string name="cta_message_permission">Tato aplikace vyžaduje %2$s pro její správné fungování.</string>
+   <string name="cta_permission_and"> a </string>
+   <string name="cta_permission_delimiter">, </string>
+   <string name="cta_title">Podmínky používání</string>  
 </resources>

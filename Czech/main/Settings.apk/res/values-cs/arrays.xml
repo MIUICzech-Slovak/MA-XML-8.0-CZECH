@@ -932,5 +932,9 @@ Postupujte dle pokynů"</item>
          <item>20 s</item>
          <item>30 s</item>
          <item>1 min</item>
-     </string-array>	
+     </string-array>
+     <string-array name="screen_button_style">
+         <item>Pro leváky</item>
+         <item>Pro praváky</item>
+     </string-array>		
 </resources>

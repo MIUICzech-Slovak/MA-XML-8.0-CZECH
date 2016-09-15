@@ -1217,4 +1217,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="call_background_default">Výchozí obrázek</string>
+   <string name="call_background_lock_wallpaper">Tapeta zamyk. obrazovky</string>
+   <string name="call_background_setting">Pozadí při hovoru</string> 
 </resources>

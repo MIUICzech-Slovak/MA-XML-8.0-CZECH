@@ -838,4 +838,12 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="ser_resp_err_map_max_connections">Příliš mnoho pokusů o připojení</string>
    <string name="topic_merge">Spojit téma</string>
    <string name="compose_paste_address_oob">Vložený text je příliš dlouhý</string>
+   <string name="account_setup_options_mail_window_1quarter">Minulý čtvrtrok</string>
+   <string name="drawer_contacts">Kontakty</string>
+   <string name="general_preference_str_auto_translation">Rychlý překlad</string>
+   <string name="general_preference_str_auto_translation_prompt">Zkopírujte text, který chcete přeložit.</string>
+   <string name="translation_loading">Načítání...</string>
+   <string name="translation_no_result">Nic nebylo nalezeno</string>
+   <string name="translation_query_failure">Selhalo</string>
+   <string name="translation_technology_support">Technická podpora od PowerWord</string>
 </resources>

@@ -418,7 +418,7 @@
    <string name="deepclean_normal_item_summary_empty">Vše se zdá být v pořádku</string>
    <string name="deepclean_normal_title">Auto. čištění</string>
    <string name="deepclean_size_summary_not_enough">Není dostatek volného místa</string>
-   <string name="low_memory_clean_dialog_msg">Nejprve vyčistěte %1$s souborů</string>
+   <string name="low_memory_clean_dialog_msg">Nejprve vyčistěte 100 MB souborů</string>
    <string name="low_memory_clean_dialog_ok_button">OK</string>
    <string name="low_memory_clean_dialog_title">Dochází volné místo</string>
    <string name="low_memory_warning_dialog_cancel_button">Zrušit</string>
