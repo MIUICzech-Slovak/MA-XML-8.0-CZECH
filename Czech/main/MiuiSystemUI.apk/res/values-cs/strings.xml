@@ -177,7 +177,7 @@ Použijte síťovou nabíječku."</string>
   <string name="long_screenshot_out_of_memory_error">Selhalo, jelikož je obrázek přiliš vělký.</string>
   <string name="long_screenshot_processing">Zpracovávání...</string>
   <string name="long_screenshot_stop">Zastavit</string>
-  <string name="long_screenshot_top_msg">Shotovení dlouhého screenshotu...</string>
+  <string name="long_screenshot_top_msg">Zhotovení dlouhého screenshotu...</string>
   <string name="managed_profile_foreground_toast">Používáte pracovní profil</string>
   <string name="mdb_entering">Přistupování k MDB</string>
   <string name="mdb_restore_cancel">Zrušit</string>
