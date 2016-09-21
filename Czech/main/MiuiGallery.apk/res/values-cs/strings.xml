@@ -204,7 +204,7 @@
   <string name="delete_album_msg_format">Smazat \"%2$s\" album %1$s%3$s?</string>
   <string name="delete_album_success">Album smazáno.</string>
   <string name="delete_finish_format">%d smazáno</string>
-  <string name="delete_from_album">Od \"%s\" alba na všech zařízeních</string>
+  <string name="delete_from_album">Od \"%s\" alba a MiCloud</string>
   <string name="delete_from_album_no_account">z \"%s\" alba</string>
   <string name="delete_from_all_devices">Ze všech zařízení</string>
   <string name="delete_from_devices">Všechna zařízení, která se automaticky synchronizují</string>
@@ -770,4 +770,6 @@
    <string name="image_not_found">Obrázel nelze najít</string>
    <string name="video_editor_loading_warning_msg">Při úpravě videa nejsou něktreré funkce dostupné, kvůli chybě dekódování</string>
    <string name="video_editor_loading_warning_title">Chyba dekódování</string>
+    <string name="album_show_local_only_summary">Povolte pro zobrazení a vymazání fotografií pouze ve vašem zařízení</string>
+   <string name="delete_from_all_devices_and_cloud">ze všech zařízení a MiCloud</string>
 </resources>

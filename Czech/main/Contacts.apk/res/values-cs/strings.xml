@@ -1098,8 +1098,8 @@ Synchronizujte je nyní."</string>
   <string name="smart_group_company_label">Podle firmy</string>
   <string name="smart_group_company_unavailable">Neznámá firma</string>
   <string name="smart_group_frequency_1">Poslední měsíc</string>
-  <string name="smart_group_frequency_2">Poslední 3 měsíce</string>
-  <string name="smart_group_frequency_3">Posledních 6 měsíců</string>
+  <string name="smart_group_frequency_2">1 až 3 měsíce</string>
+  <string name="smart_group_frequency_3">3 až 6 měsíců</string>
   <string name="smart_group_frequency_4">Nekontaktováni 6 měsíců</string>
   <string name="smart_group_frequency_label">Naposledy kontaktováni</string>
   <string name="smart_group_label">Inteligentní skupiny</string>
