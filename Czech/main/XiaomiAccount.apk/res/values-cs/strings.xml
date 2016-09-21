@@ -67,7 +67,7 @@
   <string name="bind_sina_weibo">Autorizovat Sina Weibo</string>
   <string name="bind_sns_description">Přihlásit se s %s.</string>
   <string name="bind_weibo_description">Najít kontakty, přátele a ostatní informace přímo z Vašeho účtu</string>
-  <string name="binded">Účet přidán</string>
+  <string name="binded">Připojeno</string>
   <string name="binded_description" formatted="false">"%s přidán. 
  Vyplňte svůj profil %s."</string>
   <string name="button_unbind">Odhlásit se</string>
@@ -414,4 +414,6 @@ Zkontrolujte také složku SPAM."</string>
    <string name="verify_phone_title">Ověřit telefonní číslo</string>
    <string name="passport_trying_read_verify_code_sms">Získávání ověřovacího kódu...</string>
    <string name="passport_vcode_sms_send_prompt">Odeslat ověřovací kód na %s</string>
+   <string name="delete_bank_card_message">Pro ochranu vašeho soukromí, bude karta odstraněna, když se odhlásíte.</string>
+   <string name="delete_bank_card_title">Odstranění vaší platební karty</string>
 </resources>

@@ -107,4 +107,6 @@ Zadejte město manuálně"</string>
   <string name="weather_alert">Varování</string>
   <string name="global_aqi"/>
   <string name="hide_topic">Skrýt</string>
+  <string name="common_loading_text">Načítání...</string>
+   <string name="refresh_fail">Nelze se připojit k síti</string>
 </resources>

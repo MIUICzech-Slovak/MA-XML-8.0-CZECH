@@ -936,5 +936,13 @@ Postupujte dle pokynů"</item>
      <string-array name="screen_button_style">
          <item>Pro leváky</item>
          <item>Pro praváky</item>
+     </string-array>
+     <string-array name="privacy_password_function_specfication_names">
+         <item>Zprávy</item>
+         <item>Fotografie</item>
+         <item>Soubor</item>
+         <item>Poznámky</item>
+         <item>Zámek aplikací</item>
+         <item>Dětský režim</item>
      </string-array>		
 </resources>

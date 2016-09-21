@@ -273,4 +273,6 @@
   <string name="widget_global_search">Vyhledávání</string>
   <string name="children_mode_tips_message">V dětském režimu nelze vybrat žádnou aplikaci.</string>
    <string name="children_mode_tips_title">Vyberte aplikaci</string>
+   <string name="notification_installed">Nainstalováno</string>
+   <string name="notification_open_button">Otevřít</string>
 </resources>

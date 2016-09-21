@@ -772,4 +772,13 @@
    <string name="video_editor_loading_warning_title">Chyba dekódování</string>
     <string name="album_show_local_only_summary">Povolte pro zobrazení a vymazání fotografií pouze ve vašem zařízení</string>
    <string name="delete_from_all_devices_and_cloud">ze všech zařízení a MiCloud</string>
+   <string name="secret_album_password_update_dialog_cancel">Zrušit</string>
+   <string name="secret_album_password_update_dialog_msg">Galerie bude využívat ochranu soukromí heslem.</string>
+   <string name="secret_album_password_update_dialog_ok">OK</string>
+   <string name="secret_album_password_update_dialog_title">Aktualizovat heslo</string>
+   <string name="secret_album_set_pc_password_dialog_msg">Ochrana soukromí heslem chrání vaše apl, fotografie, poznámky, tajné složky, atd.</string>
+   <string name="secret_album_set_pc_password_dialog_ok">Nastavit heslo</string>
+   <string name="secret_album_set_pc_password_dialog_title">Nastavit nové heslo</string>
+   <string name="secret_album_set_pc_password_first_use_msg">Ochrana soukromí heslem chrání vaše apl, fotografie, poznámky, tajné složky, atd</string>
+   <string name="secret_album_set_pc_password_first_use_title">Ochrana soukromí heslem</string>
 </resources>

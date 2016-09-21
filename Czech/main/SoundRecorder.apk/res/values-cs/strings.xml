@@ -142,4 +142,6 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
    <string name="btn_clear_records">Vymazat nahrávky (%d)</string>
    <string name="choose_call_records_count">Položek: %d</string>
    <string name="clear_records">Vymazat synchr. nahrávky</string>
+   <string name="low_battery_error_confirm">OK</string>
+   <string name="low_battery_error_title">Slabá baterie</string>
 </resources>

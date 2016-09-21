@@ -186,7 +186,7 @@
          <item quantity="one">Mazání %d viru</item>
      </plurals>
      <plurals name="optimize_result_button_add_score">
-         <item quantity="other">+%d bodů</item>
-         <item quantity="one">+%d bodů</item>
+         <item quantity="other">+%d</item>
+         <item quantity="one">+%d</item>
      </plurals>
 </resources>
