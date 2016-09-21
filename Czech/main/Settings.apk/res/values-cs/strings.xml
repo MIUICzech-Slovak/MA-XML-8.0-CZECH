@@ -4578,12 +4578,13 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="pref_volume_launch_camera_summary">Stiskněte 2x tlačítko hlasitosti dolů, pro spuštění fotoaparátu.</string>
    <string name="pref_volume_launch_camera_title">Rychlý fotoaparát</string>
    <string name="screen_button">Tlačítka na displeji</string>
-   <string name="screen_button_tips">Hidden key decline</string>
-   <string name="status_bar_screen_button_desc">Gesto posunutí pro skrytí tlačítek.</string>
+   <string name="screen_button_tips">Posuňte dolů pro skrytí tlačítek na displeji</string>
+   <string name="status_bar_screen_button_desc">Gesto posunutí dolů skryje tlačítka na displeji.</string>
    <string name="status_bar_screen_button_key_can_hide">Tlačítka na displeji se mohou skrývat.</string>
-   <string name="suspension_ball_enable">Switch suspension ball</string>
-   <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
+   <string name="suspension_ball_enable">Dotykový asistent</string>
+   <string name="suspension_ball_enable_desc">Povoliz/Zakázat dotykového asistenta gestem</string>
    <string name="switch_screen_button_order">Přepnout pořadí tlačítek</string>
    <string name="switch_screen_button_order_desc">Gesto posunutí dolů pro skrytí tlačítek</string>
    <string name="personal_section_title">Osobní</string>
+   <string name="input_password_hint_text">Zadejte heslo</string>
 </resources>

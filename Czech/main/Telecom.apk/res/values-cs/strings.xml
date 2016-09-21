@@ -44,4 +44,5 @@
   <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volání</string>
   <string name="voice_report_unknown_num">Neznámé číslo</string>
+  <string name="can_not_dial_vt_while_voice_prompt">Nelze uskutečnit video hovor při hlasovém hovoru</string>
 </resources>
