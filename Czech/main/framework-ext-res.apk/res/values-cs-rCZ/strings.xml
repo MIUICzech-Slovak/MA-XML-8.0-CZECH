@@ -123,5 +123,5 @@
    <string name="screenshot_gesture_detect_alert_title">Screenshot třemi prsty</string>
    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dotkněte se znovu pro ukončení</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pro deaktivaci této funkce, stiskněte tlačítko hlasitosti dolů.</string>
-   <string name="status_bar_toggle_edit">Upravit</string>
+   <string name="status_bar_toggle_edit">Další</string>
 </resources>
