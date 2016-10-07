@@ -64,10 +64,6 @@
         <item>1 den</item>
         <item>Maximum</item>
     </string-array>
-    <string-array name="entries_date_type_rightvalue">
-        <item>Přijaté</item>
-        <item>Odeslané</item>
-    </string-array>
     <string-array name="wild_msg_sync_options">
          <item>Synchr. všechny SMS</item>
          <item>Synchr. SMS ze zvolených SIM karet</item>

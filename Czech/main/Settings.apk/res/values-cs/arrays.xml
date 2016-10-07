@@ -234,15 +234,6 @@
         <item>Bílá</item>
         <item>Purpurová</item>
     </string-array>
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
-    </string-array>
     <string-array name="led_freq_entries">
         <item>2 sekundy</item>
         <item>3 sekundy</item>
@@ -680,13 +671,6 @@ Postupujte dle pokynů"</item>
         <item>2 min.</item>
         <item>5 min.</item>
     </string-array>
-    <string-array name="lock_screen_secure_after_timeout_values">
-         <item>0</item>
-         <item>30000</item>
-         <item>60000</item>
-         <item>120000</item>
-         <item>300000</item>
-     </string-array>    
     <string-array name="fluency_mode_entries">
         <item>Vypnout animace systému</item>
         <item>Povolit animace systému</item>

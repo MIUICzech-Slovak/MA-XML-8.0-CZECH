@@ -212,7 +212,6 @@ Pokračovat v odesílání?"</string>
   <string name="dialog_printing_hide">Skrýt</string>
   <string name="dialog_printing_ok">OK</string>
   <string name="dialog_title_bpp_not_ready">Služba není k dispozici</string>
-  <string name="get_default_value">Načíst výchozí hodnotu</string>
   <string name="number_of_copies">Nastavit počet kopií</string>
   <string name="orientation">Orientace</string>
   <string name="pages_per_sheet">Počet stránek na list</string>
