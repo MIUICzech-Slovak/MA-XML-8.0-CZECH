@@ -527,7 +527,7 @@ To může ovlivnit výkon rueteru, zkuste vymazat mezipaměť."</string>
     <string name="client_device_not_found">"Nelze najít zařízení"</string>
     <string name="client_download_smarthome_apk_title">Mi Home </string>
     <string name="client_download_smarthome_apk_under_non_wifi">Použít mobilní datové připojení ke stažení oficiálnílní Mi Home aplikace.</string>
-    <string name="client_download_smarthome_apk_under_wifi">Získat co nejvíc z vašich zařízení typu Mi pomocí oficiálnílní Home aplikace/string>
+    <string name="client_download_smarthome_apk_under_wifi">Získat co nejvíc z vašich zařízení typu Mi pomocí oficiálnílní Home aplikace</string>
     <string name="client_fail_to_call_smarthome_for_offline">Přístroj je v režimu offline. Obnovit a zkusit znovu.</string>
     <string name="client_failed_to_call_for_obsolete_smarthome_app">Aktalizujte  Mi Home aplikaci a zkuste to znovu</string>
     <string name="client_failed_to_call_smarthome">"Nelze získat přístup k Mi Home aplikaci"</string>
