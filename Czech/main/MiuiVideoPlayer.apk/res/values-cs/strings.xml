@@ -16,10 +16,10 @@
   <string name="ads_control">Nastavení reklamy</string>
   <string name="ads_control_desc">Zobrazit reklamu při spuštění aplikace</string>
   <string name="airkan_control_device_des">Můžete ovládat přehrávání pomocí tlačítek v dolní části</string>
-  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_device_xiaomi_phone">Mi</string>
   <string name="airkan_playing">hrají</string>
   <string name="airkan_playing_to">" na "</string>
-  <string name="airkan_tips">"Přehrát na MiBox nebo Xiaomi TV"</string>
+  <string name="airkan_tips">"Přehrát na MiBox nebo Mi TV"</string>
   <string name="airkan_video_playing">přehrává</string>
   <string name="airkan_video_playing_in">Video se přehrává...</string>
   <string name="alert_dialog_download_btn_hide">Skrýt</string>
@@ -166,7 +166,7 @@
   <string name="local_media_empty_sub_title">Stáhnout a přehrát offline</string>
   <string name="local_media_empty_title">Žádné</string>
   <string name="local_video">Místní</string>
-  <string name="login_tip_content">Přihlaste se Vaším Xiaomi účtem pro aktualizace Vašich oblíbených seriálů.</string>
+  <string name="login_tip_content">Přihlaste se Vaším Mi účtem pro aktualizace Vašich oblíbených seriálů.</string>
   <string name="login_tip_title">Přihlásit</string>
   <string name="media_name_comment">%s komentář</string>
   <string name="memory_mode_desc">Save memory usage</string>
@@ -176,7 +176,7 @@
   <string name="mine_info_account_summary_none">Not login</string>
   <string name="mine_info_account_title">Account information</string>
   <string name="minute"> Min</string>
-  <string name="mipush_setting">Xiaomi push</string>
+  <string name="mipush_setting">Mi push</string>
   <string name="month">"."</string>
   <string name="my_favorite">Oblíbené</string>
   <string name="my_local_favorite">Local tarred</string>
@@ -186,7 +186,7 @@
   <string name="myfavorite_onlylocal">Oblíbené</string>
   <string name="negative_comment">Slabý komentář</string>
   <string name="netease">NetEase</string>
-  <string name="no_login_xiaomi_account">Přihlaste se svým Xiaomi účtem pro odeslání komentářů.</string>
+  <string name="no_login_xiaomi_account">Přihlaste se svým Mi účtem pro odeslání komentářů.</string>
   <string name="no_longer_tips">Znovu nezobrazovat</string>
   <string name="no_sdcard_no_download">No enough storage, fail to request download.</string>
   <string name="not_login">Odhlášeno</string>
@@ -417,8 +417,8 @@
   <string name="waiting_to_download">Čekání</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">Komentovat</string>
-  <string name="xiaomi_account_type_unsupported">Systém nepodporuje Xiaomi účet.</string>
-  <string name="xiaomi_user">Xiaomi uživatel</string>
+  <string name="xiaomi_account_type_unsupported">Systém nepodporuje Mi účet.</string>
+  <string name="xiaomi_user">Mi uživatel</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
 </resources>

@@ -156,7 +156,7 @@
   <string name="pref_summary_hide_festival">Skrýt záložku Doporučené</string>
   <string name="pref_summary_manage_sim_messages">Správa zpráv uložené na SIM kartě</string>
   <string name="pref_summary_mx_feedback">"Pomozte zlepšit MIUI! 
-Nahlaste chyby a odešlete Váš názor přímo do Xiaomi."</string>
+Nahlaste chyby a odešlete Váš názor přímo do Mi."</string>
   <string name="pref_summary_notification_body_enabled">Zobrazit zprávu na zamykací obrazovce a v notifikační liště</string>
   <string name="pref_summary_show_recent_contacts">Zobrazovat seznam často používaných kontaktů při vytváření nové zprávy</string>
   <string name="pref_system_title">Systém</string>

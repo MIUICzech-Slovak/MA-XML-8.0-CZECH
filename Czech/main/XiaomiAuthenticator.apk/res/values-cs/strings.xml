@@ -8,7 +8,7 @@
   <string name="activation_page_btn_txt">Aktivovat</string>
   <string name="activation_page_info">Přihlásit se na account.xiaomi.com</string>
   <string name="add_account_menu_item">Přidat</string>
-  <string name="app_name">Xiaomi Generátor</string>
+  <string name="app_name">Mi Generátor</string>
   <string name="app_name_lockpattern">Odemykací vzor</string>
   <string name="app_name_short">Generátor</string>
   <string name="authenticator_invalid_tip">Můžete zavřít aplikaci nebo vygenerovat další ověřovací kód</string>
@@ -33,7 +33,7 @@
   <string name="correct_enter_password">Správné heslo</string>
   <string name="correct_enter_update_password">Heslo je správné</string>
   <string name="counter_pin">Generovat kód</string>
-  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaše údaje byly importovány se zastaralé aplikace Xiaomi Authenticator. Nyní můžete kliknutím níže odinstalovat její starší verzi.</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaše údaje byly importovány se zastaralé aplikace Mi Authenticator. Nyní můžete kliknutím níže odinstalovat její starší verzi.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Importování proběhlo úspěšně</string>
   <string name="decoding_exception">Výjimka dekódování</string>
   <string name="details_patternforgotten">"Znovu aktivovat:
@@ -57,9 +57,9 @@ Přihlaste se na account.xiaomi.com a potvrďte aktivaci"</string>
   <string name="how_it_works_menu_item">Jak to funguje</string>
   <string name="howitworks_page_enter_code_details">Při zobrazení výzvy na zadání kódu, získáte příslušný kód pomocí této aplikace.</string>
   <string name="howitworks_page_enter_code_title">"Pokud se přihlašujete na novém počítači, zadejte ověřovací kód z telefonu."</string>
-  <string name="howitworks_page_enter_password_details">"Pokud jste na novém počítači nebo mobilním zařízení, Xiaomi vás vyzve k zadání speciálního kódu pro ověření."</string>
+  <string name="howitworks_page_enter_password_details">"Pokud jste na novém počítači nebo mobilním zařízení, Mi vás vyzve k zadání speciálního kódu pro ověření."</string>
   <string name="howitworks_page_enter_password_title">"Pro přihlášení zadejte své heslo."</string>
-  <string name="howitworks_page_verify_device_details">"Můžete také zvolit možnost, kdy si Xiaomi zapamatuje váš počítač a nebude se znovu ptát na ověřovací kód při přihlášení."</string>
+  <string name="howitworks_page_verify_device_details">"Můžete také zvolit možnost, kdy si Mi zapamatuje váš počítač a nebude se znovu ptát na ověřovací kód při přihlášení."</string>
   <string name="howitworks_page_verify_device_title">"Přihlášení proběhlo úspěšně."</string>
   <string name="install_button">Instalovat</string>
   <string name="install_dialog_message">Pokud chcete skenovat čárový kód obsahující klíč, musíte nainstalovat čtečku čárových kódů ZXing.</string>
@@ -100,13 +100,13 @@ Přihlaste se na account.xiaomi.com a potvrďte aktivaci"</string>
   <string name="ok_button">OK</string>
   <string name="open_camera_exception_dialog_content">Problém s kamerou, restartujte své zařízení</string>
   <string name="open_camera_exception_dialog_title">camera malfunction</string>
-  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_page_url">http://code.Mi.com/p/Mi-authenticator/</string>
   <string name="opensource_preference_title">Open-source projekt</string>
   <string name="original_pattern_tip">Zadejte odemykací vzor</string>
   <string name="password_error">Heslo není správné</string>
   <string name="password_forget">Zapomenuté heslo?</string>
   <string name="password_hint">Přihlašovací jméno</string>
-  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_page_url">http://www.Mi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Zásady soukromí</string>
   <string name="progress_loading">Zpracovávání...</string>
   <string name="remove_Xiaomi_account_dialog_message">"Odstraněním tohoto účtu přijdete o možnost vytvářet kódy, ale k vypnutí dvoufázového ověření totožnosti nedojde. Tato skutečnost vám může bránit v přihlašování k účtu. Před odstraněním: vypněte dvoufázové ověření totožnosti nebo se přesvědčte, zda máte alternativní způsob vytváření kódů."</string>
@@ -128,7 +128,7 @@ Přihlaste se na account.xiaomi.com a potvrďte aktivaci"</string>
   <string name="success_reset_password">Heslo obnoveno</string>
   <string name="success_set_password">Heslo nastaveno</string>
   <string name="summary_lockpattern">Vyžadovat odemykací vzor pro MiCredity</string>
-  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_page_url">http://m.Mi.com/tospage</string>
   <string name="terms_preference_title">Smluvní podmínky</string>
   <string name="timesync_about_feature_preference_title">O této funkci</string>
   <string name="timesync_about_feature_screen_details">Pokud stisknete tlačítko „Synchronizovat“, aplikace Authenticator se jednou pokusí synchronizovat své interní hodiny se servery Google. Čas a datum zařízení se tímto nezmění. Během synchronizace interních hodin se servery Google, nepřenáší aplikace Authenticator žádné osobní údaje a informace o účtu. Proč tohle všechno? Aplikace Authenticator generuje kódy pro ověření ve dvou krocích na základě 1) aktuálního času a 2) tajného kódu, který zná aplikace a server. Když se aplikace Authenticator a server neshodují s aktuálním časem, kód vygenerovaný aplikací nemusí být při pokusu o přihlášení přijat. Aplikace Authenticator primárně používá nastavení data a času zařízení a ve většině případů budete moci generovat platné kódy tím, že zkontrolujete, zda je nastavení času, data a časového pásma nastaveno správně. Pokud však vznikne nesoulad mezi časy, můžete se při řešení těchto problémů setkat s problémy (hlavně v případě, když používáte čas a časové pásmo poskytované sítí).</string>
@@ -170,6 +170,6 @@ Možnosti:"</string>
   <string name="welcome_page_alert"/>
   <string name="welcome_page_details">"- Ochrana před nepovoleným přihlášením
 - Zabraňte ztrátě nebo odcizení vašeho zařízení
-- Slouží na generování ověřovacího kódu pro dvoufázové přihlašování ke Xiaomi účtu"</string>
-  <string name="welcome_page_title">Ochrana přihlášení Xiaomi účtu</string>
+- Slouží na generování ověřovacího kódu pro dvoufázové přihlašování ke Mi účtu"</string>
+  <string name="welcome_page_title">Ochrana přihlášení Mi účtu</string>
 </resources>

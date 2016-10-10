@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">Záloha není dokončena. Chcete ukončit zálohování?</string>
-  <string name="account_contact_backup_info">Data (Xiaomi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
+  <string name="account_contact_backup_info">Data (Mi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
   <string name="account_login">Přihlásit se</string>
-  <string name="account_summary">Zálohování Gmailu, Emailu a účtu Xiaomi</string>
+  <string name="account_summary">Zálohování Gmailu, Emailu a účtu Mi</string>
   <string name="already_enable_encrypt">Zapnout šifrování</string>
   <string name="app_name">Zálohování</string>
   <string name="apps_and_data_item_desc">Apl. a data</string>
@@ -90,8 +90,8 @@
   <string name="enable_encrypt_fail">Nelze zapnout šifrování</string>
   <string name="enable_encrypt_indicator">Záloha není zašifrována, klepněte pro zapnutí.</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">"Systém bude šifrovat místní zálohy na základě účtu Xiaomi, musíte se přihlásit do svého účtu Xiaomi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
-  <string name="enable_encrypt_summery2">"Nové zálohy budou šifrovány. Musíte se přihlásit do svého účtu Xiaomi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
+  <string name="enable_encrypt_summery1">"Systém bude šifrovat místní zálohy na základě účtu Mi, musíte se přihlásit do svého účtu Mi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
+  <string name="enable_encrypt_summery2">"Nové zálohy budou šifrovány. Musíte se přihlásit do svého účtu Mi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
   <string name="enable_encrypt_title">Zapnout šifrování</string>
   <string name="enable_encrypt_xiaomi_account">Tato záloha byla vytvořena účtem %1$s. Odstraňte prosím současný účet a přihlaste se na %2$s pro obnovení Vašich dat.</string>
   <string name="err_authentication_failed">Chyba autorizace</string>
@@ -116,7 +116,7 @@
   <string name="guarded_mode_dialog_backup_message">Záloha není povolena v režimu Návštěvník.</string>
   <string name="guarded_mode_dialog_title">Režim Návštěvník</string>
   <string name="guarded_mode_dialog_transfer_message">Přenos není povolen v režimu Návštěvník.</string>
-  <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Xiaomi"</string>
+  <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Mi"</string>
   <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku, pokud již existuje záloha</string>
   <string name="import_from_xiaomi_account_hint_title">Pro zálohování kontaktů používejte MiTalk</string>
   <string name="local_app_name">Záloha</string>
@@ -132,7 +132,7 @@
   <string name="local_select_sysdata">Systémová data</string>
   <string name="local_select_userapp">Aplikace</string>
   <string name="local_select_video">Videa</string>
-  <string name="miliao_account_guide">Účet MiTalk byl povýšen na účet Xiaomi\n Užijte si všechny dostupné online služby</string>
+  <string name="miliao_account_guide">Účet MiTalk byl povýšen na účet Mi\n Užijte si všechny dostupné online služby</string>
   <string name="miliao_account_login">Přihlásit k MiTalk</string>
   <string name="mms_title">Multimediální zprávy</string>
   <string name="multi_select_title">Vybrané položky: %1$s</string>
@@ -183,7 +183,7 @@
   <string name="sc_internal_server_error">Vnitřní chyba serveru</string>
   <string name="sc_network_unavailable">Chyba připojení k síti</string>
   <string name="sc_others">Program výjimka</string>
-  <string name="sc_precondition_failed">Váš účet Xiaomi není spojen s žádným e-mailem</string>
+  <string name="sc_precondition_failed">Váš účet Mi není spojen s žádným e-mailem</string>
   <string name="sc_request_timeout">Vypršel časový limit žádosti</string>
   <string name="sc_service_unavailable">Služba není k dispozici</string>
   <string name="sc_unaccess_password_file">Neukládejte podrobnosti hesla k Wi-Fi</string>
@@ -209,9 +209,9 @@
   <string name="state_mounting">Přístup na úložiště routeru...</string>
   <string name="state_waiting">Čeká na zálohování...</string>
   <string name="succeed">Dokončeno</string>
-  <string name="summary_err_backup_encrypting">Přihlaste se ke svému Xiaomi účtu.</string>
+  <string name="summary_err_backup_encrypting">Přihlaste se ke svému Mi účtu.</string>
   <string name="summary_err_backup_no_network">Nebylo možné se připojit k síti</string>
-  <string name="summary_err_restore_encrypting">Nebylo možné obnovit. Ujistěte se, že tato záloha byla vytvořena s vašim Xiaomi účtem.</string>
+  <string name="summary_err_restore_encrypting">Nebylo možné obnovit. Ujistěte se, že tato záloha byla vytvořena s vašim Mi účtem.</string>
   <string name="summary_err_restore_no_network">Nebylo možné se připojit k síti</string>
   <string name="system_backup">Záloha</string>
   <string name="system_backup_info">Nastavení systému a plochy</string>

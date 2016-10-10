@@ -2,7 +2,7 @@
 <resources>
   <string name="access_denied">Přístup zamítnut</string>
   <string name="account">Účet</string>
-  <string name="account_related">Zařízení je propojeno s Xiaomi účtem (%s). Připojte se k síti pro ověření zařízení.</string>
+  <string name="account_related">Zařízení je propojeno s Mi účtem (%s). Připojte se k síti pro ověření zařízení.</string>
   <string name="activate">Aktivovat</string>
   <string name="activate_finddevice">Připojte se k síti pro aktivaci zařízení</string>
   <string name="activate_number_change_dialog_message">Vyberte telefonní číslo pro aktivaci. Toto číslo se zobrazí volanému přes MiVoice.</string>
@@ -131,17 +131,17 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="micloud_battery_low_notification_title">Slabá baterie</string>
   <string name="micloud_buy_member">Účet</string>
   <string name="micloud_check_sim_notify_text">"Zřejmě byla změněna SIM karta. Přihlaste se
-do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
+do vašeho Mi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znovu aktivovat MiCloud</string>
   <string name="micloud_check_sim_title">"Zřejmě bola změněna SIM karta. Přihlaste se
-do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
+do vašeho Mi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_confusion_account_hint">Změny, které provedete v tomto zařízení se budou synchronizovat do všech vašich zařízení. Pro ochranu vašeho účtu doporučujeme deaktivovat synchr. pro ostatní zařízení, pokud je nepoužíváte.</string>
   <string name="micloud_confusion_account_name">"Účet: "</string>
-  <string name="micloud_confusion_account_notify_text">Váš Xiaomi účet byl změněn z jiného zařízení.</string>
+  <string name="micloud_confusion_account_notify_text">Váš Mi účet byl změněn z jiného zařízení.</string>
   <string name="micloud_confusion_account_notify_title">Ověřit účet</string>
-  <string name="micloud_confusion_account_question">Patří vám Xiaomi účet %s?</string>
-  <string name="micloud_confusion_account_title">Xiaomi účet ID</string>
-  <string name="micloud_confusion_alert_message">Informace o vašem Xiaomi účtu byly změněny z %s.</string>
+  <string name="micloud_confusion_account_question">Patří vám Mi účet %s?</string>
+  <string name="micloud_confusion_account_title">Mi účet ID</string>
+  <string name="micloud_confusion_alert_message">Informace o vašem Mi účtu byly změněny z %s.</string>
   <string name="micloud_confusion_alert_negative">Později</string>
   <string name="micloud_confusion_alert_positive">Podrobnosti</string>
   <string name="micloud_confusion_alert_title">Jiné zařízení mění váš účet</string>
@@ -163,7 +163,7 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_confusion_setting_question">Deaktivujte synchr. pro ostatní zařízení propojené s vašim účtem.</string>
   <string name="micloud_confusion_setting_title">Příliš mnoho zařízení</string>
   <string name="micloud_confusion_toast_confirm">Zařízení je ověřeno</string>
-  <string name="micloud_confusion_toast_deny">Přihlásit se do Xiaomi účtu</string>
+  <string name="micloud_confusion_toast_deny">Přihlásit se do Mi účtu</string>
   <string name="micloud_confusion_yes">Ano</string>
   <string name="micloud_detail_battery_low_message">Slabá baterie. Připojte telefon k nabíječce a synchr.</string>
   <string name="micloud_detail_battery_low_title">Slabá baterie</string>
@@ -228,9 +228,9 @@ do vašeho Xiaomi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_main_memory_low_message">Pro synchr. vymažte něco z MiCloud.</string>
   <string name="micloud_main_memory_low_title">Není dostatek volného místa na interním úložišti</string>
   <string name="micloud_main_message_not_synced">%s nesynchr.</string>
-  <string name="micloud_main_multi_user_error_message">"Přihlásili jste se stejným Xiaomi účtom, jako na primárním profilu. Pokud chcete zálohovat data:
+  <string name="micloud_main_multi_user_error_message">"Přihlásili jste se stejným Mi účtom, jako na primárním profilu. Pokud chcete zálohovat data:
 
-1.Použijte jiný Xiaomi účet
+1.Použijte jiný Mi účet
 2.Přeneste svá data do primárního profilu"</string>
   <string name="micloud_main_multi_user_error_title">MiCloud pozastaven</string>
   <string name="micloud_main_network_abnormal">Nelze se připojit k síti</string>
@@ -286,7 +286,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_notif_content_depend_wifi">Připojte se k Wi-Fi pro synchr.</string>
   <string name="micloud_notif_content_master_depend_wifi">Připojte se na Wi-Fi síť.</string>
   <string name="micloud_notif_content_memory_low">Není dostatek místa na úložišti.</string>
-  <string name="micloud_notif_content_multi_user_error">Přihlásili jste se stejným Xiaomi účtom, jako na primárním profilu.</string>
+  <string name="micloud_notif_content_multi_user_error">Přihlásili jste se stejným Mi účtom, jako na primárním profilu.</string>
   <string name="micloud_notif_content_sync_finish">Účet</string>
   <string name="micloud_notif_content_sync_not_finish">Podrobnosti</string>
   <string name="micloud_notif_content_sync_with_off">Dotykem synchr. vaše zařízení.</string>
@@ -303,7 +303,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_other_product_price">Cena ostatních produktů:</string>
   <string name="micloud_proceed">Pokračovat</string>
   <string name="micloud_request_permission_confirm">OK</string>
-  <string name="micloud_request_permission_content">MiCloud vyžaduje povolení pro synchr. dat. Povolte MiCloud přístup ke kontaktům, kalendáři, Xiaomi účtu, SIM kartě, historii hovorů a SMS.</string>
+  <string name="micloud_request_permission_content">MiCloud vyžaduje povolení pro synchr. dat. Povolte MiCloud přístup ke kontaktům, kalendáři, Mi účtu, SIM kartě, historii hovorů a SMS.</string>
   <string name="micloud_request_permission_title">MiCloud vyžaduje povolení</string>
   <string name="micloud_sec_dspt">a sdílejte s přáteli.</string>
   <string name="micloud_setting_antispam_summary">Výjimky a blokovaná tel. čísla.</string>
@@ -361,10 +361,10 @@ Využito %s | Zbývá %s"</string>
 
 Tuto službu můžete aktivovat nebo zakázat v Nastavení."</string>
   <string name="mx_dspt_provision_privacy">"Tato služba vyžaduje vaše telefonní číslo. Bude odeslána mezinárodní SMS pro aktivaci.
-Tato funkce zašifruje a odešle vaše číslo na server Xiaomi."</string>
+Tato funkce zašifruje a odešle vaše číslo na server Mi."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Tato funkce vyžaduje vaše telefonní číslo. Váš operátor může zpoplatnit dvě odeslané SMS zprávy pro aktivování této funkce.
 
-Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
+Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="mx_dspt_provision_privacy_no_sim">Tato funkce vyžaduje vaše tel. číslo. Pokud vložíte SIM kartu do telefonu, bude odeslána SMS pro aktivaci této služby.</string>
   <string name="mx_sub_dspt_provision">Cloud zprávy</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetové volání</string>
@@ -440,7 +440,7 @@ Odeslané ID vašeho zařízení na server Xiaomi bude zašifrováno."</string>
   <string name="sync_sub_dspt">Odešle se SMS pro aktivaci služby</string>
   <string name="sync_sub_dspt_provision">Zobrazte a spravujte vaše data kdekoliv</string>
   <string name="sync_sub_int_dspt">Bude odeslána mezinárodní SMS pro aktivaci služby</string>
-  <string name="title_reg">Vytvořit Xiaomi účet</string>
+  <string name="title_reg">Vytvořit Mi účet</string>
   <string name="total_space_upgraded_to">Celkem: %s</string>
   <string name="trying_to_connect_to_network">Připojování k síti...</string>
   <string name="unactivated_user">Není aktivován</string>

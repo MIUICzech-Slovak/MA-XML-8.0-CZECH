@@ -23,7 +23,7 @@
   <string name="access_control_no_back_footer">Stiskněte [icon] pro ukončení</string>
   <string name="access_control_password_title">Povolit heslo</string>
   <string name="access_control_recording_intro_header">Nakreslete odemykací kombinaci</string>
-  <string name="access_control_reset_by_account">Pro odblokování se přihlaste na Váš Xiaomi účet</string>
+  <string name="access_control_reset_by_account">Pro odblokování se přihlaste na Váš Mi účet</string>
   <string name="accessibility_captioning_title">Popisky</string>
   <string name="accessibility_enable">Povolit přístup</string>
   <string name="accessibility_feature_state_off">Vypnuto</string>
@@ -70,11 +70,11 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="accessibility_toggle_speak_password_preference_title">Vyslovovat hesla</string>
   <string name="account_add">Přidat</string>
   <string name="account_autostar_label">Autom. spuštění</string>
-  <string name="account_contact_backup_info">Data (Xiaomi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
+  <string name="account_contact_backup_info">Data (Mi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
   <string name="account_list">Vše</string>
   <string name="account_login">Přihlásit se</string>
   <string name="account_settings">Účty</string>
-  <string name="account_summary">" (Gmail, E-mail a Xiaomi účet)"</string>
+  <string name="account_summary">" (Gmail, E-mail a Mi účet)"</string>
   <string name="account_sync_settings_title">Synchronizace</string>
   <string name="activate_miui_screensaver">Spořič displeje během spánku</string>
   <string name="activating">Aktivuji...</string>
@@ -919,7 +919,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav baterie, sítě a další údaje</string>
-  <string name="dialog_content_login">Aktualizace vyžaduje Xiaomi účet, chcete se přihlásit?</string>
+  <string name="dialog_content_login">Aktualizace vyžaduje Mi účet, chcete se přihlásit?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte zálohování a odinstalování aplikací</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položek: %2$d</string>
   <string name="dialog_msg_load_cleanup_engine_error">Nástroj pro čištění je poškozen. Je nutné přeinstalovat ROM!</string>
@@ -932,7 +932,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dialog_title_font_size">Velikost písma</string>
   <string name="dialog_title_hdmi_color_calibration">Nastavení barev</string>
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
-  <string name="dialog_title_login">Přihlásit na Xiaomi účet</string>
+  <string name="dialog_title_login">Přihlásit na Mi účet</string>
   <string name="dialog_title_stop_virus_scan">Zastavit</string>
   <string name="dialog_title_uninstall_apps">Odinstalovat</string>
   <string name="dialog_yes">Ano</string>
@@ -942,7 +942,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="dirac_mode_general">Běžná</string>
   <string name="dirac_mode_in_ear">Sluchátka</string>
   <string name="dirac_mode_off">Dirac vypnutý</string>
-  <string name="dirac_mode_piston_100">Xiaomi sluchátka</string>
+  <string name="dirac_mode_piston_100">Mi sluchátka</string>
   <string name="dirac_switch_summary">Vždy použít MiSound při přehrávání zvuku z reproduktoru</string>
   <string name="dirac_switch_title">MiSound</string>
   <string name="disable_encrypt_title">Vypnout šifrování</string>
@@ -1062,8 +1062,8 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="enable_encrypt_fail">Nelze zapnout šifrování</string>
   <string name="enable_encrypt_indicator">Záloha není zašifrována, klepněte pro zapnutí.</string>
   <string name="enable_encrypt_ok">OK</string>
-  <string name="enable_encrypt_summery1">"Systém bude šifrovat místní zálohy na základě účtu Xiaomi, musíte se přihlásit do svého účtu Xiaomi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
-  <string name="enable_encrypt_summery2">"Nové zálohy budou šifrovány. Musíte se přihlásit do svého účtu Xiaomi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
+  <string name="enable_encrypt_summery1">"Systém bude šifrovat místní zálohy na základě účtu Mi, musíte se přihlásit do svého účtu Mi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
+  <string name="enable_encrypt_summery2">"Nové zálohy budou šifrovány. Musíte se přihlásit do svého účtu Mi při odstraňování dat, nebo při používání jiných aplikací pro obnovení zálohy."</string>
   <string name="enable_encrypt_title">Zapnout šifrování</string>
   <string name="enable_encrypt_xiaomi_account">Tato záloha byla vytvořena účtem %1$s. Odstraňte prosím současný účet a přihlaste se na %2$s pro obnovení Vašich dat.</string>
   <string name="enable_opengl_traces_title">Povolit trasování OpenGL</string>
@@ -1334,7 +1334,7 @@ Některé aplikace nemusejí fungovat, dokud je vývojáři neaktualizují."</st
   <string name="ime_security_warning">Prostřednictvím této vstupní metody zadávání dat lze shromažďovat zadaný text včetně osobních údajů, jako jsou hesla a čísla platebních karet. Metoda je poskytována aplikací %1$s. Chcete tuto metodu zadávání dat použít?</string>
   <string name="immediately_destroy_activities">Neukládat aktivity</string>
   <string name="immediately_destroy_activities_summary">Rušit všechny činnosti, jakmile je uživatel zavře</string>
-  <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Xiaomi"</string>
+  <string name="import_from_xiaomi_account_hint1">1.Nainstalujte MiTalk a přihlaste se.\n http://www.miliao.com\n\n3. Přejděte na nastavení MiTalk a a zvolte "Zálohovat na účet Mi"</string>
   <string name="import_from_xiaomi_account_hint2">Poznámka: Přejděte k dalšímu kroku, pokud již existuje záloha</string>
   <string name="import_from_xiaomi_account_hint_title">Pro zálohování kontaktů používejte MiTalk</string>
   <string name="ims_reg_required_off">Vyžaduje se vypnutí registrace IMS</string>
@@ -1660,7 +1660,7 @@ Aktuálně jste přihlášeni do následujících účtů:
   <string name="menu_text_networkassistants">Spotřeba dat</string>
   <string name="menu_text_power_manager">Baterie</string>
   <string name="menu_use_uss">Použít USS (jedinečnou velikost sady)</string>
-  <string name="miliao_account_guide">Účet MiTalk byl povýšen na účet Xiaomi\n Užijte si všechny dostupné online služby</string>
+  <string name="miliao_account_guide">Účet MiTalk byl povýšen na účet Mi\n Užijte si všechny dostupné online služby</string>
   <string name="miliao_account_login">Přihlásit k MiTalk</string>
   <string name="miracast_PC2THOR_streaming_on">Miracast je nedostupný, protože se už vysílá z PC</string>
   <string name="miracast_add_sink_title">Přidat Wi-Fi displej</string>
@@ -2157,10 +2157,10 @@ Musíte změnit toto nastavení před smazáním tohoto profilu."</string>
   <string name="privacy_settings_title">Zálohování a obnovení dat</string>
   <string name="private_gallery_need_to_unlock">Je vyžadováno heslo:</string>
   <string name="private_gallery_recording_intro_header">Nakreslete vzor odemknutí:</string>
-  <string name="private_gallery_reset_by_account">Pro obnovení vašeho hesla se přihlaste na váš Xiaomi účet</string>
+  <string name="private_gallery_reset_by_account">Pro obnovení vašeho hesla se přihlaste na váš Mi účet</string>
   <string name="private_sms_need_to_unlock">Vložte heslo pro soukromé SMS</string>
   <string name="private_sms_recording_intro_header">Nakreslete vzor pro uzamknutí heslem</string>
-  <string name="private_sms_reset_by_account">Přihlaste se na Xiaomi účet pro zrušení hesla soukromých SMS</string>
+  <string name="private_sms_reset_by_account">Přihlaste se na Mi účet pro zrušení hesla soukromých SMS</string>
   <string name="process_kernel_label">OS Android</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">Poskytovatel %1$s se používá.</string>
@@ -2366,7 +2366,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="sc_internal_server_error">Vnitřní chyba serveru</string>
   <string name="sc_network_unavailable">Chyba připojení k síti</string>
   <string name="sc_others">Program výjimka</string>
-  <string name="sc_precondition_failed">Váš účet Xiaomi není spojen s žádným e-mailem</string>
+  <string name="sc_precondition_failed">Váš účet Mi není spojen s žádným e-mailem</string>
   <string name="sc_request_timeout">Vypršel časový limit žádosti</string>
   <string name="sc_service_unavailable">Služba není k dispozici</string>
   <string name="sc_unaccess_password_file">Neukládejte podrobnosti hesla k Wi-Fi</string>
@@ -2688,9 +2688,9 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="suffix_virus_count_bottom">Celkem</string>
   <string name="suffix_virus_count_top">Rizika</string>
   <string name="sum_carrier_select">Vybrat síťového operátora</string>
-  <string name="summary_err_backup_encrypting">Přihlaste se ke svému Xiaomi účtu.</string>
+  <string name="summary_err_backup_encrypting">Přihlaste se ke svému Mi účtu.</string>
   <string name="summary_err_backup_no_network">Nebylo možné se připojit k síti</string>
-  <string name="summary_err_restore_encrypting">Nebylo možné obnovit. Ujistěte se, že tato záloha byla vytvořena s vašim Xiaomi účtem.</string>
+  <string name="summary_err_restore_encrypting">Nebylo možné obnovit. Ujistěte se, že tato záloha byla vytvořena s vašim Mi účtem.</string>
   <string name="summary_err_restore_no_network">Nebylo možné se připojit k síti</string>
   <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Kontrolovat aplikace před instalací</string>
@@ -2806,7 +2806,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="toast_app_no_residual_on_sdcard">"Aplikace nemá žádné soubory na úložišti"</string>
   <string name="toast_garbage_cleanup_success">Čištění dokončeno</string>
   <string name="toast_garbage_list_empty">Vše je pořádku!</string>
-  <string name="toast_need_login">Přihlaste se Xiaomi účtem</string>
+  <string name="toast_need_login">Přihlaste se Mi účtem</string>
   <string name="toast_removed_from_white_list">Odebráno z ignorovaných</string>
   <string name="toast_shortcut_install">Zástupce je vytvořen</string>
   <string name="toast_shortcut_uninstall">Zástupce je odstraněn</string>
@@ -3372,7 +3372,7 @@ Chcete tuto možnost povolit všem aplikacím, které chtějí vyhledávat sít�
   <string name="wifi_share">Sdílet chráněnou síť Wi-Fi</string>
   <string name="wifi_share_action_turn_off">Ukončit sdílení Wi-Fi</string>
   <string name="wifi_share_action_turn_on">Sdílet veřejnou Wi-Fi síť</string>
-  <string name="wifi_share_action_turn_on_summary">Přihlaste se svým Xiaomi účtem</string>
+  <string name="wifi_share_action_turn_on_summary">Přihlaste se svým Mi účtem</string>
   <string name="wifi_share_add">Sdílet moji veřejnou Wi-Fi síť</string>
   <string name="wifi_share_add_summary">"Když sdílíte Vaši veřejnou Wi-Fi síť,
 můžete použít jinou síť"</string>
@@ -3480,7 +3480,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="wps_connect_summary">Ujistěte se, zda Váš router podporuje WPS</string>
   <string name="wps_connect_title">Připojit pomocí WPS</string>
   <string name="wrong_pin_code_pukked">Zadali jste nesprávný kód PIN SIM karty. Nyní musíte za účelem odemknutí zařízení kontaktovat svého operátora.</string>
-  <string name="xiaomi_account">Xiaomi účet</string>
+  <string name="xiaomi_account">Mi účet</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiKredity</string>

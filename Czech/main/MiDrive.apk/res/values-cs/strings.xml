@@ -34,7 +34,7 @@
   <string name="big5_title">BIG5</string>
   <string name="bind_account">Připojení k MiDrive účtu</string>
   <string name="bind_account_summary">Jestliže už máte MiDrive účet, můžete ho přidat pro načítání Vašich osobních dat</string>
-  <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Xiaomi účtem nebo MiDrive účtem</string>
+  <string name="binded_accout_description">Účty jsou propojeny, můžete se přihlásit buď Mi účtem nebo MiDrive účtem</string>
   <string name="binded_accout_title">MiDrive účet</string>
   <string name="byteShort">B</string>
   <string name="can_not_send_with_too_many">Nelze odeslat takové množství souborů</string>
@@ -651,7 +651,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="weixin_not_installed">WeChat není nainstalován</string>
   <string name="weixin_sticker_tag_str">WeChat stickers</string>
   <string name="wifi_state">Stav Wi-Fi</string>
-  <string name="xiaomi_account">Xiaomi účet</string>
+  <string name="xiaomi_account">Mi účet</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>

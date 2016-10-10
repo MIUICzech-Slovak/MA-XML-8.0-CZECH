@@ -87,7 +87,7 @@
   <string name="non_system_app_select">Stažené aplikace</string>
   <string name="nonsystemapp_description">Popis chyby</string>
   <string name="packaging_dialog_content">Generuje se hlášení, čekejte prosím\u2026</string>
-  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybě bude odeslán na Xiaomi server.</string>
+  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybě bude odeslán na Mi server.</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamatovat nastavení</string>
   <string name="power_consuming_problem1">Zvýšená spotřeba energie po poslední aktualizaci</string>
   <string name="power_consuming_problem2">Používání této aplikace zvyšuje spotřebu energie</string>
@@ -110,8 +110,8 @@
   <string name="status_msg_pending_upload">Odesílání %d chyb...</string>
   <string name="submit_dialog_cancel">Zrušit</string>
   <string name="submit_dialog_confirm">Odeslat</string>
-  <string name="submit_dialog_content">Vaše hlášení bude odesláno na server Xiaomi.</string>
-  <string name="submit_dialog_not_wifi_content">Vaše hlášení bude odesláno na server Xiaomi ihned po připojení k Wi-Fi.</string>
+  <string name="submit_dialog_content">Vaše hlášení bude odesláno na server Mi.</string>
+  <string name="submit_dialog_not_wifi_content">Vaše hlášení bude odesláno na server Mi ihned po připojení k Wi-Fi.</string>
   <string name="submit_dialog_title">Odeslat hlášení</string>
   <string name="suggestion_description">Napište návrh na novou funkci (v angličtině)...</string>
   <string name="suggestion_problem1">Doufám, že přidáte tuto funkci nebo...</string>

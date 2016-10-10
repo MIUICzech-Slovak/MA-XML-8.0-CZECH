@@ -27,7 +27,7 @@
   <string name="other_settings_location">Přístup k poloze</string>
   <string name="other_settings_location_summary">Povolit mapám a ostatním aplikacím používat vaši polohu GPS</string>
   <string name="other_settings_user_experience">Zpětná vazba</string>
-  <string name="other_settings_user_experience_summary">Pomožte Xiaomi zlepšovat produkty a služby odesíláním anonymních diagnostik a statistik</string>
+  <string name="other_settings_user_experience_summary">Pomožte Mi zlepšovat produkty a služby odesíláním anonymních diagnostik a statistik</string>
   <string name="other_settings_user_experience_summary1">Ochrany soukromí</string>
   <string name="pref_title_data_slot">Preferovaná datová SIM karta</string>
   <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
@@ -39,7 +39,7 @@
   <string name="sim_card_detecting">Vyhledávání SIM karty...</string>
   <string name="sim_card_detecting_title">Zkontrolovat SIM kartu</string>
   <string name="sim_card_detection">SIM karta nebyla nalezena</string>
-  <string name="sim_card_detection_info">Pro vytvoření Xiaomi účtu je vyžadována SIM karta.</string>
+  <string name="sim_card_detection_info">Pro vytvoření Mi účtu je vyžadována SIM karta.</string>
   <string name="sim_dectection_next">Pokračovat</string>
   <string name="sim_redetection">Zkontr. SIM</string>
   <string name="skip_underline">Přeskočit</string>

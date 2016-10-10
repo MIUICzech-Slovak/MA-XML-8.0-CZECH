@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_detail">"Xiaomi účet:
+  <string name="account_detail">"Mi účet:
     %1$s"</string>
   <string name="app_name">Platby</string>
   <string name="balance_payment">%1$s MiKreditů</string>
@@ -29,7 +29,7 @@
   <string name="bankcall_phone_debit_hint">Zajistěte stabilní internet. připojení</string>
   <string name="bankcall_province">Provincie</string>
   <string name="bankcall_saved_card_info">%1$s - karta č. %2$s</string>
-  <string name="bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+  <string name="bankcall_xiaomi_company">Mi Corporation (Beijing)</string>
   <string name="btn_agree">Souhlasím</string>
   <string name="btn_back">Zpět</string>
   <string name="btn_call">Hovor</string>
@@ -83,7 +83,7 @@
   <string name="detail_recharge_order">Číslo objednávky navýšení</string>
   <string name="detail_recharge_time">Čas</string>
   <string name="detail_recharge_title">Záznamy o navýšení</string>
-  <string name="error_account_changed_summary">Váš Xiaomi účet byl aktualizován. 
+  <string name="error_account_changed_summary">Váš Mi účet byl aktualizován. 
 Zkontrolujte si svoje údaje a zkuste to znovu.</string>
   <string name="error_account_changed_title">Účet aktualizován</string>
   <string name="error_auth_summary">Ověření účtu selhalo, zkuste to znovu</string>
@@ -102,7 +102,7 @@ Zkontrolujte Vaše nastavení data a zkuste to znovu."</string>
   <string name="forget_password">Zapomněl jsem heslo</string>
   <string name="frozen">(Zmrazeno)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s MiKreditů z poukázky %1$s</string>
-  <string name="giftcard_define_detail">Použijte tyto kupóny jako MiKredity. Můžete získat kredity v různých Xiaomi soutěžích.</string>
+  <string name="giftcard_define_detail">Použijte tyto kupóny jako MiKredity. Můžete získat kredity v různých Mi soutěžích.</string>
   <string name="giftcard_denom">MiKreditů</string>
   <string name="giftcard_denom_available">MiKreditů dostupných</string>
   <string name="giftcard_denom_frozen">MiKreditů zmrazených</string>
@@ -164,7 +164,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="lockscreen_forgot_pattern_button_text">Zapomněl jsem vzor</string>
   <string name="login">Přihlásit</string>
   <string name="memu_refresh">Obnovit</string>
-  <string name="mibi_license_message">Xiaomi MiKredity. Klepnutím na OK souhlasíte s %1$s.</string>
+  <string name="mibi_license_message">Mi MiKredity. Klepnutím na OK souhlasíte s %1$s.</string>
   <string name="mibi_license_message_span">Podmínky používání MiKreditů</string>
   <string name="mibi_license_title">Podmínky používání MiKreditů</string>
   <string name="mili_center">MiKredity</string>
@@ -199,7 +199,7 @@ prvně a nemohou být použité po vypršení platnosti"</string>
   <string name="partner_giftcard_payment">%1$s MiKreditů (Jen pro %2$s)</string>
   <string name="password_error">Zadejte heslo</string>
   <string name="password_forget">Zapomněli jste?</string>
-  <string name="password_hint">Heslo Xiaomi účtu:</string>
+  <string name="password_hint">Heslo Mi účtu:</string>
   <string name="pay_record_empty">Žádné platby</string>
   <string name="pay_record_typeall">Vše</string>
   <string name="payment_actionbar_title">Potvrdit</string>

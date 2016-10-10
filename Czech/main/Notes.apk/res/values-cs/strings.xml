@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_account_desc">Poznámky se mohou synchronizovat s Vaším účtem Xiaomi. Chcete se přihlásit?</string>
+  <string name="add_account_desc">Poznámky se mohou synchronizovat s Vaším účtem Mi. Chcete se přihlásit?</string>
   <string name="alarm_bar_title">Upozornění</string>
   <string name="alert_action_edit_anyway">Pokračovat</string>
   <string name="alert_edit_action_delete">Odstranit</string>
@@ -31,7 +31,7 @@
   <string name="empty_folder_hint">"Žádná složka"</string>
   <string name="empty_note_mark_privacy_error">Prázdná poznámka nemůže být soukromá</string>
   <string name="enable_sync">Synchr.</string>
-  <string name="enable_sync_desc">Poznámky se mohou synchronizovat s Vaším Xiaomi účtem %1$s, synchronizovat?</string>
+  <string name="enable_sync_desc">Poznámky se mohou synchronizovat s Vaším Mi účtem %1$s, synchronizovat?</string>
   <string name="error_contact_not_exist">Kontakt neexistuje</string>
   <string name="error_note_empty_for_clock">Nelze nastavit hodiny na prázdné poznámce</string>
   <string name="error_note_empty_for_send_to_desktop">Nelze poslat prázdnou poznámku na plochu</string>

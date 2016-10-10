@@ -85,13 +85,13 @@
 	    "position": 6
         },
         {
-            "title":"Xiaomi.eu",
+            "title":"Mi.eu",
             "url":"http://xiaomi.eu/",
             "thumbnail":"thumb_xiaomi.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Xiaomi.eu",
+	    "displayName": "Mi.eu",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 7
@@ -231,13 +231,13 @@
 	    "position": 6
         },
         {
-            "title":"Xiaomi.eu",
+            "title":"Mi.eu",
             "url":"http://xiaomi.eu/",
             "thumbnail":"thumb_xiaomi.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Xiaomi.eu",
+	    "displayName": "Mi.eu",
 	    "isDelete": true,
 	    "movable": true,
 	    "position": 7

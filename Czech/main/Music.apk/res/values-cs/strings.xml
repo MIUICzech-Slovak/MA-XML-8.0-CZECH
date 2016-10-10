@@ -106,7 +106,7 @@
   <string name="download_auto_message">Skladby, které označíte jako oblíbené, budou automaticky stáhnuty po připojení k Wi-Fi síti.</string>
   <string name="download_auto_network_settings">Nastavení stahování</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">Vaše zkušební doba vypršela. Vyberte jinou kvalitu stahované hudby.</string>
-  <string name="download_auto_quality_alert_sub_title_for_login">Pro aktivaci tohoto nastavení se přihlaste svým Xiaomi účtem.</string>
+  <string name="download_auto_quality_alert_sub_title_for_login">Pro aktivaci tohoto nastavení se přihlaste svým Mi účtem.</string>
   <string name="download_auto_quality_alert_title">Kvalita stahované hudby</string>
   <string name="download_auto_settings">Nastavení stahování</string>
   <string name="download_auto_settings_summary">Tato nastavení se vztahují pouze na skladby, které označíte jako oblíbené</string>
@@ -151,7 +151,7 @@
   <string name="eq_preset_select">Zvolit předvolbu</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Ekvalizér</string>
-  <string name="error_forbidden">Synchr. byla deaktivována kvůli problémům s vašim Xiaomi účtem.</string>
+  <string name="error_forbidden">Synchr. byla deaktivována kvůli problémům s vašim Mi účtem.</string>
   <string name="error_not_acceptable">Synchr. byla deaktivována.</string>
   <string name="error_title">Nelze synchronizovat</string>
   <string name="error_unauthorized">Synchr. byla deaktivována kvůli problémům s přihlášením.</string>
@@ -230,7 +230,7 @@
   <string name="local_music_empty_goto_online">Žádné skladby</string>
   <string name="local_music_is_not_available">Žádné skladby</string>
   <string name="local_tracks_short">Lokální Hudba</string>
-  <string name="login_first">Přihlaste ke svému Xiaomi účtu</string>
+  <string name="login_first">Přihlaste ke svému Mi účtu</string>
   <string name="lrc_search_failed">"Texty nebyly nalezeny!"</string>
   <string name="lrc_searching">Hledání textů...</string>
   <string name="lyric">Text</string>
@@ -252,8 +252,8 @@
   <string name="miuishare_account_login_cancel">Zrušit</string>
   <string name="miuishare_account_login_confirmation">Vyžadované přihlášení</string>
   <string name="miuishare_account_login_ok">Přihlásit se</string>
-  <string name="miuishare_account_need_activate">Sdílení Weibo vyžaduje, aby byl Váš Weibo účet propojen s Xiaomi účtem, které momentálně není aktivní. Přejete si aktivovat nyní?</string>
-  <string name="miuishare_account_need_login">Zdieľanie Weibo vyžaduje, aby byl Váš Weibo účet propojen s Xiaomi účtem, který je přihlášen. Přihlásit se na sdílení nyní?</string>
+  <string name="miuishare_account_need_activate">Sdílení Weibo vyžaduje, aby byl Váš Weibo účet propojen s Mi účtem, které momentálně není aktivní. Přejete si aktivovat nyní?</string>
+  <string name="miuishare_account_need_login">Zdieľanie Weibo vyžaduje, aby byl Váš Weibo účet propojen s Mi účtem, který je přihlášen. Přihlásit se na sdílení nyní?</string>
   <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">Žádná síť na sdílení</string>
   <string name="miuishare_publish">Poslat</string>

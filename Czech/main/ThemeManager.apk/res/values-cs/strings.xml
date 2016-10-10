@@ -53,7 +53,7 @@
   <string name="gift_owned">Lokální</string>
   <string name="gift_present">Darovat</string>
   <string name="gift_present_dlg_anonymous">Anonymní dar</string>
-  <string name="gift_present_dlg_input_hint">Xiaomi ID / tel. číslo</string>
+  <string name="gift_present_dlg_input_hint">Mi ID / tel. číslo</string>
   <string name="gift_present_dlg_no_fee">Odesílání darů není zpoplatněno</string>
   <string name="gift_present_dlg_present_max_limit">Toto téma bylo darováno %1$s krát (max. počet).</string>
   <string name="gift_present_dlg_share">Generovat kód a odeslat</string>
@@ -61,7 +61,7 @@
   <string name="gift_present_fail_dlg_title">Nelze odeslat jako dar</string>
   <string name="gift_present_success_dlg_content">Po doručení daru bude této osobě odeslána SMS.</string>
   <string name="gift_present_success_dlg_title">dar odeslán</string>
-  <string name="gift_present_success_no_sms_dlg_content">Historie darů je zobrazena ve vašem Xiaomi účtu.</string>
+  <string name="gift_present_success_no_sms_dlg_content">Historie darů je zobrazena ve vašem Mi účtu.</string>
   <string name="gift_presented">Odesláno</string>
   <string name="gift_purchase_success_dlg_content">Bylo zakoupeno %1$s jako dar. Pro odeslání jděte do témat ve vašem účtu.</string>
   <string name="gift_purchase_success_dlg_title">Zakoupený dar</string>
@@ -111,7 +111,7 @@
   <string name="resource_account_abnormal_state">Chyba účtu: Zkuste to znovu později.</string>
   <string name="resource_account_fail_to_add">Přidávání účtu selhalo.</string>
   <string name="resource_account_login">Přihlásit</string>
-  <string name="resource_account_login_before_action">Musíte se nejprve přihlásit Vaším Xiaomi účtem.</string>
+  <string name="resource_account_login_before_action">Musíte se nejprve přihlásit Vaším Mi účtem.</string>
   <string name="resource_account_login_title">Přihlásit</string>
   <string name="resource_account_switch">Přepnout</string>
   <string name="resource_alarm_default">Budík</string>
@@ -207,7 +207,7 @@
   <string name="resource_expand_full_text">Rozbalit</string>
   <string name="resource_failed_to_load_list">Načítání seznamu selhalo</string>
   <string name="resource_get_auth_checking">Kontrola autorizace...</string>
-  <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikován na tomto telefonu s Vaším Xiaomi účtem. Na jeden účet je možné přihlásit maximálně 10 zařízení za rok. Vložte jiný Xiaomi účet.</string>
+  <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhled nemůže být aplikován na tomto telefonu s Vaším Mi účtem. Na jeden účet je možné přihlásit maximálně 10 zařízení za rok. Vložte jiný Mi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizace zařízení pro tento účet přesáhla limit</string>
   <string name="resource_get_auth_has_been_undercarriaged">Toto téma je nedostupné</string>
   <string name="resource_get_auth_not_official">Témata mimo oficiální obchod nejsou podporována</string>
@@ -379,7 +379,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
   <string name="title_system_audio_resource">Systémová zvonění</string>
   <string name="title_system_wallpaper_resource">Systémové tapety</string>
-  <string name="to_activate_the_account">Aktivovat Xiaomi účet.</string>
+  <string name="to_activate_the_account">Aktivovat Mi účet.</string>
   <string name="wallpaper_crop">Ořezat</string>
   <string name="wallpaper_decoded_error">Nepodařilo se dešifrovat!</string>
   <string name="wallpaper_loading_text">Načítá se...</string>

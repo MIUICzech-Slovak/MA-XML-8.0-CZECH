@@ -23,8 +23,8 @@
   <string name="add_organization">Přidat organizaci</string>
   <string name="add_to_my_contacts">Přidat do Mých kontaktů</string>
   <string name="add_wait">Přidat pauzu</string>
-  <string name="add_xiaomi_account_dialog_btn">Použít účet Xiaomi</string>
-  <string name="add_xiaomi_account_dialog_msg">Pro co největší pohodlí zvažte používání účtu Xiaomi na synchronizaci a zálohu Vašich kontaktů.</string>
+  <string name="add_xiaomi_account_dialog_btn">Použít účet Mi</string>
+  <string name="add_xiaomi_account_dialog_msg">Pro co největší pohodlí zvažte používání účtu Mi na synchronizaci a zálohu Vašich kontaktů.</string>
   <string name="add_xiaomi_account_dialog_title">Zvolit účet synchr.</string>
   <string name="aggregation_suggestion_edit_dialog_message">Přepnout do úpravy zvoleného kontaktu? Dosud zadané informace budou zkopírovány.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Upravit vybrané kontakty</string>
@@ -448,13 +448,13 @@ Chyba: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Přesunout</string>
   <string name="import_to_xiaomi_account_progress_finish">Přesun kompletní</string>
   <string name="import_to_xiaomi_account_progress_message">Přesouvání...</string>
-  <string name="import_to_xiaomi_account_progress_title">Přesunout kontakty do Xiaomi účtu</string>
-  <string name="import_to_xiaomi_account_title">Opravdu chcete přesunout zvolené kontakty do vašeho Xiaomi účtu?</string>
+  <string name="import_to_xiaomi_account_progress_title">Přesunout kontakty do Mi účtu</string>
+  <string name="import_to_xiaomi_account_title">Opravdu chcete přesunout zvolené kontakty do vašeho Mi účtu?</string>
   <string name="import_vcard_description">Importovat kontakty z SD karty</string>
   <string name="import_weibo_dialog_title">Import kontaktu z sina weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Kontakty byly aktualizovány: žádné odpovídající kontakty</string>
   <string name="import_weibo_error_no_network">Kontakty byly aktualizovány: chyba sítě</string>
-  <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu Xiaomi nebyla nalezena žádná čísla</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Kontakty byly aktualizovány: v účtu Mi nebyla nalezena žádná čísla</string>
   <string name="import_weibo_error_unknown">Kontakty byly aktualizovány: neznámá chyba</string>
   <string name="import_weibo_error_user_cancel">Kontakty byly aktualizovány: zrušeno uživatelem</string>
   <string name="import_weibo_fetch_followers">Získávání Sina Weibo přátel...</string>
@@ -612,7 +612,7 @@ Chyba: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Titul</string>
   <string name="noAccounts">Aby bylo možné vytvořit skupiny, musí výt vytvořen účet</string>
   <string name="noContactHelpTextAccountsInfo">Synchronizujte Google nebo Exchange kontakty.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví data zálohována na účtu Xiaomi</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví data zálohována na účtu Mi</string>
   <string name="noContacts">Žádné kontakty</string>
   <string name="noContactsHelpText">"Nemáte žádné kontakty k zobrazení.
 
@@ -738,9 +738,9 @@ Synchronizujte je nyní."</string>
   <string name="pref_key_rebuild_t9_index_message">Opravit index vyhledávání kontaktů</string>
   <string name="pref_key_rebuild_t9_index_title">Obnovit T9 index</string>
   <string name="pref_key_sim_manage">Správa SIM karet</string>
-  <string name="pref_summary_import_from_account">Kopírování kontaktů z Google a Exchange účtů do mého Xiaomi účtu</string>
+  <string name="pref_summary_import_from_account">Kopírování kontaktů z Google a Exchange účtů do mého Mi účtu</string>
   <string name="pref_title_account_import">Kopírování z účtu</string>
-  <string name="pref_title_import_from_account">Kopírování do Xiaomi účtu</string>
+  <string name="pref_title_import_from_account">Kopírování do Mi účtu</string>
   <string name="preference_auto_ip_summary_disable">Není povoleno</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_auto_ip_title">Auto IP</string>
