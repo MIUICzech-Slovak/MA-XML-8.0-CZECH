@@ -185,4 +185,7 @@ http://www.miuios.cz/rom
    <string name="dlg_title_password_reset">Aktualizovat heslo</string>
    <string name="dlg_title_set_password">Nastavit heslo</string>
    <string name="dlg_title_use_privacy_password">Použít heslo ochrany soukromí</string>
+   <string name="alert_message_restore">Nelze otevřít tuto poznámku. Obnovte ji přes její úpravu.</string>
+   <string name="alert_title_restore">Obnovit poznámku</string>
+   <string name="pref_title_show_root_folder_in_homepage">Zobrazit rychlé poznámky na ploše</string>
 </resources>

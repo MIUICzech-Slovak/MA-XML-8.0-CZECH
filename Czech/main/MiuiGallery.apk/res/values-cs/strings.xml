@@ -781,4 +781,8 @@
    <string name="secret_album_set_pc_password_dialog_title">Nastavit nové heslo</string>
    <string name="secret_album_set_pc_password_first_use_msg">Ochrana soukromí heslem chrání vaše apl, fotografie, poznámky, tajné složky, atd</string>
    <string name="secret_album_set_pc_password_first_use_title">Ochrana soukromí heslem</string>
+   <string name="secret_album_password_first_use_msg">Heslo Ochrany soukromí chrání vaše fotografie, poznámky, tajné složky, atd.</string>
+   <string name="secret_album_password_first_use_title">Ochrana soukromí heslem</string>  
+   <string name="secret_album_password_update_first_user_dialog_msg">Heslo Ochrany soukromí chrání vaše fotografie, poznámky, tajné složky, atd.</string>
+   <string name="secret_album_password_update_first_user_dialog_title">Nastavit heslo</string>
 </resources>

@@ -4624,4 +4624,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="privacy_password_visible_pattern">Zobrazit vzor</string>
    <string name="setting_privacy_password">Nastavit heslo ochrany soukromí</string>
    <string name="use_privacy_password_immediate">Použít</string>
+   <string name="security_encryption_progress_dialog_open">Dešifrování...</string>
 </resources>
