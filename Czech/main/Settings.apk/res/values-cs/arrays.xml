@@ -699,6 +699,7 @@ Postupujte dle pokynů"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>Zámek displeje</item>
+	<item>Ochrana soukromí</item>    
         <item>Dětský režim</item>
         <item>Soukromé soubory</item>
         <item>Zámek aplikací</item>
