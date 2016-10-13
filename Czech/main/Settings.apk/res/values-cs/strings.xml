@@ -4642,6 +4642,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="bootloader_status_locked_summary">Nelze nahrát rom z miuios.cz</string>
    <string name="bootloader_status_summary">Zkontrolovat stav bootloaderu.</string>
    <string name="bootloader_status_unlocked">Odemčen</string>
-   <string name="bootloader_status_unlocked_info">Můžete nahrát ROM z miuios.cz/rom</string>  
+   <string name="bootloader_status_unlocked_info">Bootloader je odemčen.</string>  
   <string name="bootloader_unlock_webhome">http://en.miui.com/unlock</string>
 </resources>
