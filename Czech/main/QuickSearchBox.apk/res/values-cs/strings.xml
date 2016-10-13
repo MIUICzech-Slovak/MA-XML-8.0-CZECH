@@ -79,9 +79,7 @@
   <string name="hot_words"/>
   <string name="application_desc">Aplikace</string>
   <string name="applications_search_label">Apl.</string>
-  <string name="swipe_up_summary">Potažení nahoru pro vyhledávání</string>
+  <string name="swipe_up_summary">Potáhněte nahoru pro Vyhledávání</string>
   <string name="swipe_up_title">Přetažením nahoru otevřít</string>
   <string name="entrance_setting">Otevírání vyhledávání</string>
-   <string name="swipe_up_summary">Potáhněte nahoru pro Vyhledávání</string>
-   <string name="swipe_up_title">Potáhněte nahoru</string>
 </resources>
