@@ -673,4 +673,5 @@ Bylo přičteno dalších %1$s"</string>
    <string name="set_pattern_msg">Nastavte své heslo znovu. Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
    <string name="unlock_pattern_msg">Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
    <string name="unlock_pattern_title">Nové heslo</string>
+   <string name="user_message_text">Zprávy</string>
 </resources>

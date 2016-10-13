@@ -82,18 +82,18 @@
   <string name="contactPhoto">Foto kontaktu</string>
   <string name="contacts_icon_label">Kontakty</string>
   <string name="default_area_code_setting">Výchozí předvolba</string>
-  <string name="description_image_button_answer">Potáhněte nahoru pro přijmutí</string>
+  <string name="description_image_button_answer">Přijmout</string>
   <string name="description_image_button_dialpad">Číselník</string>
   <string name="description_image_button_eight">osm</string>
   <string name="description_image_button_five">pět</string>
   <string name="description_image_button_four">čtyři</string>
   <string name="description_image_button_hangup">Konec</string>
-  <string name="description_image_button_message_enter">Potáhněte nahoru pro SMS odpověď</string>
+  <string name="description_image_button_message_enter">Odpovědět SMS</string>
   <string name="description_image_button_message_exit">Skrýt zprávy</string>
   <string name="description_image_button_nine">devět</string>
   <string name="description_image_button_one">jedna</string>
   <string name="description_image_button_pound">libra</string>
-  <string name="description_image_button_reject">Potáhněte nahoru pro odemknutí</string>
+  <string name="description_image_button_reject">Odmítnout</string>
   <string name="description_image_button_seven">sedm</string>
   <string name="description_image_button_six">šest</string>
   <string name="description_image_button_star">hvězdička</string>
@@ -217,4 +217,5 @@
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
   <string name="do_not_support_video_calls_by_remote">Video hovor není podporován druhým zařízením</string>
   <string name="sip_call_not_support_record">SIP hovor nepodporuje nahrávání</string>
+  <string name="description_image_button_video_answer">Video hovor</string>
 </resources>

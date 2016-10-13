@@ -1651,7 +1651,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="auto_task_edit_adandon_button_text">Zrušit</string>
    <string name="auto_task_edit_choose_condition_title">Vyberte podmínky</string>
    <string name="auto_task_edit_choose_new_operation">Přidat akci</string>
-   <string name="auto_task_edit_choose_operation_title">Vybrat akci</string>
+   <string name="auto_task_edit_choose_operation_title">Vyberte akci</string>
    <string name="auto_task_edit_condition_summary">Např., \"O 23:00\"</string>
    <string name="auto_task_edit_condition_title">Přidat podmínku</string>
    <string name="auto_task_edit_my_custom_task">Název</string>
