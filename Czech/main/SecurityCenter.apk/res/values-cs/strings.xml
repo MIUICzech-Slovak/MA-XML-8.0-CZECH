@@ -1582,7 +1582,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="auto_task_dialog_button_close">Hotovo</string>
    <string name="auto_task_edit_abandon_change">Zrušit změny?</string>
    <string name="auto_task_edit_activity_title">Moje automatické úlohy</string>
-   <string name="auto_task_edit_adandon_button_text">Zrušit</string>
+   <string name="auto_task_edit_adandon_button_text">Neuložit</string>
    <string name="auto_task_edit_choose_condition_title">Vyberte podmínky</string>
    <string name="auto_task_edit_choose_new_operation">Přidat akci</string>
    <string name="auto_task_edit_choose_operation_title">Vyberte akci</string>
