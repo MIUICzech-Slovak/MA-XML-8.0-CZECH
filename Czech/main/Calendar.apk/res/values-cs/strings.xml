@@ -398,4 +398,5 @@
    <string name="no_visiable_calendar_select_account">Vybrat účet</string>
    <string name="no_visiable_calendar_title">Vyberte účet kalendáře</string>
    <string name="template_week_num">Týden %1$s</string>
+   <string name="widget_get_weather_info">Získat info o počasí</string>
 </resources>

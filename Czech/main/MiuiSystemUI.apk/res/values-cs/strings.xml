@@ -352,4 +352,5 @@ přetažením dolů uzamknete"</string>
   <string name="nav_guide_message">Můžete použít gesta na zobrazení/skrytí navigačních tlačítek.</string>
   <string name="nav_guide_ok">Nastavení</string>
   <string name="nav_guide_title">Skrýt navigační tlačítka</string>
+  <string name="list_delimeter">", "</string>
 </resources>

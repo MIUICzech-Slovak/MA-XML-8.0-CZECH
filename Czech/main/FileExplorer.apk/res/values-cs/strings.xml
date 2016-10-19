@@ -674,4 +674,6 @@ Bylo přičteno dalších %1$s"</string>
    <string name="unlock_pattern_msg">Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
    <string name="unlock_pattern_title">Nové heslo</string>
    <string name="user_message_text">Zprávy</string>
+   <string name="sort_size_asc">Od nejmenšího</string>
+   <string name="sort_size_desc">Od největšího</string>  
 </resources>
