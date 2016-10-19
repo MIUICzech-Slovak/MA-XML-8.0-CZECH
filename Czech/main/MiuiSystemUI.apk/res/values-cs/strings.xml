@@ -348,4 +348,8 @@ přetažením dolů uzamknete"</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="accessibility_assistant">Dotykový asistent</string>
   <string name="status_bar_volte_label">HD</string>
+  <string name="nav_guide_cancel">Ignorovat</string>
+  <string name="nav_guide_message">Můžete použít gesta na zobrazení/skrytí navigačních tlačítek.</string>
+  <string name="nav_guide_ok">Nastavení</string>
+  <string name="nav_guide_title">Skrýt navigační tlačítka</string>
 </resources>

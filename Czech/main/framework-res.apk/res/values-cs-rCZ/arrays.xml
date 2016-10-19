@@ -53,4 +53,25 @@
         <item>Pokus o psaní MMS</item>
         <item>Spustit se při startu</item>
     </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+         <item>Zkuste to znovu</item>
+         <item></item>
+         <item></item>
+         <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+         <item></item>
+         <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+         <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+         <item>Přikryjte celý senzor a stiskněte jej silněji</item>
+         <item>Příliš rychle! Nelze rozpoznat otisk prstu</item>
+         <item>Trochu pohněte s prstem a zkuste to znovu</item>
+         <item>Zvedněte prst a přiložte jej znovu na senzor</item>
+         <item>Podržte prst na senzoru trochu déle</item>
+         <item></item>
+         <item></item>
+     </string-array>	
 </resources>
