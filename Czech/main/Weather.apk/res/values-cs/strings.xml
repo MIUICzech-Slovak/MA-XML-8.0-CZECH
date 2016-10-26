@@ -109,4 +109,5 @@ Zadejte město manuálně"</string>
   <string name="hide_topic">Skrýt</string>
   <string name="common_loading_text">Načítání...</string>
    <string name="refresh_fail">Nelze se připojit k síti</string>
+    <string name="change_alert">Zkontrolujte nastavení sítě a zkuste to znovu</string>
 </resources>

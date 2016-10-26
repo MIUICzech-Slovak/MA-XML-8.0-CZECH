@@ -392,5 +392,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="forcetouch_free_themes">Zdarma</string>
   <string name="forcetouch_offline">Lokální</string>  
   <string name="purchased_list_current">MIUI 8</string>
-  <string name="purchased_list_legacy">Staré témata</string> 
+  <string name="purchased_list_legacy">Staré témata</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Zvonění je nastaveno stejně pro SIM 1 i SIM 2.</string>
+   <string name="multi_sim_ringtone_settings_dialog_ok">Rozumím</string>
+   <string name="multi_sim_ringtone_settings_dialog_remind_never">Znovu nezobrazovat</string>
+   <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>   
 </resources>
