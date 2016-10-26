@@ -82,4 +82,21 @@
   <string name="swipe_up_summary">Potáhněte nahoru pro Vyhledávání</string>
   <string name="swipe_up_title">Přetažením nahoru otevřít</string>
   <string name="entrance_setting">Otevírání vyhledávání</string>
+  <string name="permission_prompt_detail">Vyhledat filmy, knihy, hudbu, a mnohem více.</string>
+   <string name="permission_prompt_start">Povolit</string>
+   <string name="permission_prompt_started_info">Povoleno globální vyhledávání</string>
+   <string name="permission_prompt_title">Chcete více?</string>
+   <string name="switch_application">Aplikace</string>
+   <string name="switch_browser">Prohlížeč</string>
+   <string name="switch_contacts">Kontakty</string>
+   <string name="switch_file">Soubory</string>
+   <string name="switch_mms">Správy</string>
+   <string name="switch_notes">Zprávy</string>
+   <string name="switch_online">Online</string>
+   <string name="switch_prompt_ignore">Ignorovat</string>
+   <string name="switch_prompt_set">Zobrazit možnosti</string>
+   <string name="switch_prompt_title">Nemůžete najít %s?</string>
+   <string name="switch_prompt_title_default">Nemůžete najít co hledáte?</string>
+   <string name="switch_setting">Nastavení</string>
+   <string name="top_clicked">Časté položky</string> 
 </resources>

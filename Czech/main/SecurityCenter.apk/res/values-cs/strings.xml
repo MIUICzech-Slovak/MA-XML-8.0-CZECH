@@ -1630,5 +1630,21 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="auto_task_notify_task_canceled_summary">Můžete uskutečnit hovory</string>
    <string name="auto_task_notify_task_canceled_title">Úloha je zrušena</string>
    <string name="auto_task_notify_task_continue_do">Spustit úlohu</string>
-   <string name="auto_task_notify_task_count_down">Autoatická úloha se spustí za 5 sekund</string>  
+   <string name="auto_task_notify_task_count_down">Autoatická úloha se spustí za 5 sekund</string> 
+   <string name="card_main_overscroll_tips">Bezpečnost je v nejlepším</string>
+   <string name="handle_bar_summary_wifi_unknown">Neznáme</string>
+   <string name="sp_button_text_ignore_alert_title">Ignorovat tuto kontrolu?</string>
+   <string name="sp_empty_title_sign_exception">Dlouhým podržením prstu na položce, přidáte výjimku.</string>
+   <string name="sp_settings_check_item_summary_sign_exception">Spravovat výjimky podpisů</string>
+   <string name="sp_settings_check_item_summary_virus_exception">Spravovat výjimky virů</string>
+   <string name="sp_settings_check_item_title_root">ROOT</string>
+   <string name="sp_settings_check_item_title_sign_exception">Výjimky podpisů</string>
+   <string name="sp_settings_check_item_title_update">Aktualizace systému</string>
+   <string name="sp_settings_check_item_title_virus_exception">Výjimky virů</string>
+   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
+   <string name="sp_settings_group_title_check_item">Zkontrolovat nastavení položek</string>
+   <string name="toast_add_virus_white_list_no_need_repeat">Tato výjimka virů již existuje!</string>
+   <string name="uninstall_app_dialog_msg">Odinstalace vymaže všechna data aplikace.</string>
+   <string name="uninstall_app_dialog_title">Odinstalovat?</string>
+   <string name="uninstall_app_done">Odinstalováno</string> 
 </resources>
