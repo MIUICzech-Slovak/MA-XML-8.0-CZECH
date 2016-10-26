@@ -1486,7 +1486,7 @@ Tato funkce pomáhá chránit data ve ztracených nebo ukradených zařízeních
   <string name="free_wifi_connect_summary">Toto Wi-Fi připojení je poskytováno %1$s. Připojte se.</string>
   <string name="free_wifi_connect_title">Dostupná Wi-Fi</string>
   <string name="free_wifi_connected">Připojit k veřejné Wi-Fi</string>
-  <string name="free_wifi_connected_count">Připojených: %1$s</string>
+  <string name="free_wifi_connected_count">Připojených: %1$d</string>
   <string name="free_wifi_connected_time">Doba připojení: %1$s</string>
   <string name="free_wifi_connecting">Připojování...</string>
   <string name="free_wifi_login_again">Přihlásit znovu</string>
