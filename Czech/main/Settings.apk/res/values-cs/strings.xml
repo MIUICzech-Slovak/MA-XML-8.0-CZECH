@@ -4643,4 +4643,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="bootloader_status_unlocked">Odemčen</string>
    <string name="bootloader_status_unlocked_info">Bootloader je odemčen.</string>  
   <string name="bootloader_unlock_webhome">http://en.miui.com/unlock</string>
+  <string name="batch_delete_saved_networks">Vymazat všechny vybrané sítě</string>
+   <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, sluchátka a ostatní nastavení zvuku</string>
+   <string name="music_hd_title">HD Sound</string>
 </resources>

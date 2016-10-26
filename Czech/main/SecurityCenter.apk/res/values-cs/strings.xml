@@ -1710,4 +1710,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="virus_scan">Kontrola virů</string>
    <string name="white_list_risk_app_header">Nebezpečné apl.: %d</string>
    <string name="white_list_trojan_header">Viry: %d</string> 
+   <string name="sp_settings_exception_count_zero">Žádné položky</string>
+   <string name="sp_toast_removed_from_sign_white_list">Odebráno z výjimek. Položka bude zkontrolována příště.</string>
 </resources>

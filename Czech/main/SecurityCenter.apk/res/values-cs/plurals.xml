@@ -222,4 +222,8 @@
          <item quantity="other">%d​ rizik, opravit nyní</item>
          <item quantity="one">%d riziko, opravit nyní</item>
      </plurals>
+     <plurals name="sp_settings_exception_count">
+         <item quantity="other">%d položek</item>
+         <item quantity="one">1 položka</item>
+     </plurals>
 </resources>
