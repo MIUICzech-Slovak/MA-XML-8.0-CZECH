@@ -141,7 +141,7 @@
   <string name="battery_desc_voice">Využití baterie hlasovými hovory</string>
   <string name="battery_desc_wifi">Využití baterie modulem Wi-Fi</string>
   <string name="battery_estimate_charge_time_title">Čas nabíjení</string>
-  <string name="battery_estimate_usage_time_title">Čas používání</string>
+  <string name="battery_estimate_usage_time_title">Zbývající čas</string>
   <string name="battery_health_left_battery_text">Zbývající baterie</string>
   <string name="battery_health_status_text">Stav baterie</string>
   <string name="battery_health_temperature_text">Teplota baterie</string>
