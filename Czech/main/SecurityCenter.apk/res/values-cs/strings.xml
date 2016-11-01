@@ -1669,7 +1669,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="hints_cleanning_done">Kontrola dokončena</string>
    <string name="hints_scan_progress">Dokončeno: %d</string>
    <string name="hints_scan_result_phone_safe">Vše je v pořádku</string>
-   <string name="hints_scanning">Konstrola...</string>
+   <string name="hints_scanning">Kontrola...</string>
    <string name="hot">Populární</string>
    <string name="hot_today">Popular today</string>
    <string name="long_click_dialog_summary">Zachovat výsledky v seznamu, pro jejich přidání do výjimek.</string>
