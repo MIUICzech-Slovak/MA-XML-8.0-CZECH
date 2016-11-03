@@ -1239,4 +1239,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="dialpad_two">2</string>
    <string name="dialpad_wxyz">WXYZ</string>
    <string name="dialpad_zero">0</string>
+   <string name="home_screen_shortcut">Odkaz na domácí obrazovce</string>
 </resources>

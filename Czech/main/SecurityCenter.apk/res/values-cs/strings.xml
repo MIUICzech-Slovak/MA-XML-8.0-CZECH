@@ -1712,4 +1712,14 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="white_list_trojan_header">Viry: %d</string> 
    <string name="sp_settings_exception_count_zero">Žádné položky</string>
    <string name="sp_toast_removed_from_sign_white_list">Odebráno z výjimek. Položka bude zkontrolována příště.</string>
+   <string name="auto_task_edit_step1">1.</string>
+   <string name="auto_task_edit_step2">2.</string>
+   <string name="main_alert_message_open_traffic_ctrl">Doporučujeme omezit spotřebu dat</string>
+   <string name="main_open_traffic_ctrl_button">Omezit spotřebu dat</string>
+   <string name="pref_traffic_manage_title">Spotřeba dat</string>
+   <string name="antivirus_monitor_btn_text_clean_risk">Vymazat nebezpečné apl.</string>
+   <string name="antivirus_monitor_btn_text_clean_virus">Vymazat viry</string>
+   <string name="antivirus_monitor_clean_tips">Vymazáno %s</string>
+   <string name="antivirus_monitor_risk_advice">Tato aplikace není bezpečná, vymažte ji.</string>
+   <string name="antivirus_monitor_virus_advice">Tato aplikace může obsahovat vir, vymažte ji.</string>
 </resources>

@@ -4646,4 +4646,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="batch_delete_saved_networks">Vymazat všechny vybrané sítě</string>
    <string name="music_audio_effect_optimize_summary_with_hd">Dirac, HD Sound, sluchátka a ostatní nastavení zvuku</string>
    <string name="music_hd_title">HD Sound</string>
+   <string name="auto_disable_screenbuttons_rotation_summary">Pokud je vaše zařízení naležato, navigační tlačítka budou blokována</string>
+   <string name="auto_disable_screenbuttons_rotation_title">Blokovat navigační tlačítka v řežimu naležato</string>
+   <string name="storage_wizard_format_confirm_third_body">^1 je formátováno</string>
 </resources>

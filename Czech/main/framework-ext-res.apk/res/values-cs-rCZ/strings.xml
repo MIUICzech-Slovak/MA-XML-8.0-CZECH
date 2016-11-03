@@ -124,4 +124,15 @@
    <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dotkněte se znovu pro ukončení</string>
     <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pro deaktivaci této funkce, stiskněte tlačítko hlasitosti dolů.</string>
    <string name="status_bar_toggle_edit">Další</string>
+   <string name="user_switching_dialog_text">Přepínání...</string>
+    <string name="xspace_resolver_activity_title">Vybrat apl.</string>  
+   <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
+   <string name="button_text_cancel">Zrušit</string>
+   <string name="button_text_delete">Vymazat</string>
+   <string name="button_text_delete_timer">Vymazat (%d)</string>
+   <string name="button_text_next_step">Další</string>
+   <string name="button_text_next_step_timer">Další (%d)</string>
+   <string name="package_delete_confirm_step_1">Vymazat %s?</string>
+   <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu celého systému.</string>
+   <string name="package_delete_confirm_step_3">Po vymazaní nebudete moci tuto aplikaci znovu otevřít.</string>
 </resources>

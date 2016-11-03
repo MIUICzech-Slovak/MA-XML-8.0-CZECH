@@ -281,4 +281,12 @@
          <item quantity="other">Přidáno %d cloud fotografií, deaktivujte \"Zorazit pouze lokální alba\" pro jejich zobrazení.</item>
          <item quantity="one">Přidána %d cloud fotografie, deaktivujte \"Zorazit pouze lokální alba\" pro jejich zobrazení.</item>
      </plurals>  
+     <plurals name="number_of_images_synced">
+         <item quantity="other">%1$d fotografií</item>
+         <item quantity="one">1 fotografie</item>
+     </plurals>
+     <plurals name="number_of_videos_synced">
+         <item quantity="other">%1$d videí</item>
+         <item quantity="one">1 video</item>
+     </plurals>
 </resources>

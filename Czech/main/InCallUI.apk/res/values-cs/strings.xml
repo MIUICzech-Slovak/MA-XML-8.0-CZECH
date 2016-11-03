@@ -236,4 +236,6 @@
    <string name="dialpad_two">2</string>
    <string name="dialpad_wxyz">WXYZ</string>
    <string name="dialpad_zero">0</string>
+   <string name="notification_action_earpiece">Sluchátko</string>
+   <string name="notification_action_speaker">Reproduktor</string>
 </resources>

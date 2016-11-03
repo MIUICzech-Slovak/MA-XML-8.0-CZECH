@@ -395,7 +395,7 @@ Zkontrolujte také složku SPAM."</string>
    <string name="first_login_time">První pokus přihlášení: %s</string>
    <string name="local_device">(toto zařízení)</string>
    <string name="login_check_find_device">Získávání info o zabezpečení...</string>
-   <string name="login_check_find_device_failed_title">Nelze zkontrolovat stav vyhledávání zařízení</string>
+   <string name="login_check_find_device_failed_title">Nelze zkontrolovat zabezpečení zařízení</string>
    <string name="login_find_device_bind">Toto zařízení je spojené s existujícím Mi účtem (%s).</string>
    <string name="login_guard_prompt">Vyžadovat ověření telefonního čísla při následujícím přihlášení se ke Mi účtu na neznámém zařízení nebo aplikaci.</string>
     <string name="miui_provision_find_status_text">"Toto zařízení je spojené s existujícím Mi účtem (%1$s), zadejte heslo pro ověření tohoto zařízení.
