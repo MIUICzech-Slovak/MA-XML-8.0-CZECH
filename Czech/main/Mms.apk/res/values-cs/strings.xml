@@ -651,4 +651,5 @@ Pokus: %s."</string>
    <string name="audio_message_expired">Táto hlasová správa expirovala.</string>
   <string name="audio_message_mx_offline">Nelze stáhnout audio. Cloudové zprávy jsou nedostupné.</string>
    <string name="audio_sim_card_mismatching">Žádné datové připojení nebo nesprávná SIM karta. Vložte SIM kartu ze které byla odeslána zpráva a připojte se k síti.</string> 
+<string name="from_pkg_name">"Z aplikace: "</string>
 </resources>
