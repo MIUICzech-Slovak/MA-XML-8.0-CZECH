@@ -437,4 +437,5 @@
    <string name="deepclean_install_info_desc2">Odinstalujte apl. pro uvolnění místa</string>
    <string name="hint_clean_select_items">Mazání duplicit...</string>
    <string name="scanning">Kontrola...</string>
+   <string name="empty_title_photos">Žádné fotografie</string>
 </resources>

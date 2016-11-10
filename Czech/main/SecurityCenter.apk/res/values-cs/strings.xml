@@ -1722,4 +1722,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="antivirus_monitor_clean_tips">Vymazáno %s</string>
    <string name="antivirus_monitor_risk_advice">Tato aplikace není bezpečná, vymažte ji.</string>
    <string name="antivirus_monitor_virus_advice">Tato aplikace může obsahovat vir, vymažte ji.</string>
+   <string name="keywords_powercenter_powerrank">Spotřeba baterie</string>
+   <string name="old_sdk_deny_warning">Aplikace není kompatibilní s posledním Android API. Zakázání práv může způsobit nesprávné fungování této aplikace.</string>
+   <string name="resource_powercenter_powerrank">Baterie a výkon</string>
 </resources>
