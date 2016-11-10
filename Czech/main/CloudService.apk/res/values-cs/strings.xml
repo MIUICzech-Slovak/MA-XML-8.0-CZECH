@@ -485,5 +485,13 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="recommend_open_all_sync">Synchr. vše</string>
   <string name="short_cut_desc">Přidat MiCloud ikonu na plochu?</string>
   <string name="some_sync_item_close">%d jsou vyp.</string>
-  <string name="sync_item_title">Synchr. položky</string>  
+  <string name="sync_item_title">Synchr. položky</string>
+  <string name="micloud_wipe_data_confirm_label">Odstranit data z MiCloud</string>
+   <string name="micloud_wipe_data_confirm_title">Odstranit položky synchr. s MiCloud z telefonu po odhlášení?</string>
+   <string name="micloud_wipe_data_remove">Odstranit</string>
+   <string name="micloud_wipe_data_retain">Ponechat</string>
+   <string name="wipe_data_dialog_button_check_sync">Zkontrolovat synchr.</string>
+   <string name="wipe_data_dialog_msg">%s nebyly synchronizovány a zůstanou ve Vašem zařízení.</string>
+   <string name="wipe_data_dialog_msg_and_on">" a nějaké další položky"</string>
+   <string name="wipe_data_dialog_title">Některé položky nebyly synchr.</string>  
 </resources>

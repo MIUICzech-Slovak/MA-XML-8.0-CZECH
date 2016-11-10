@@ -16,4 +16,32 @@
         <item quantity="other">Fotografií: %d</item>
         <item quantity="one">Fotografií: %d</item>
     </plurals>
+    <plurals name="dirty_callog_count">
+         <item quantity="other">%d seznam hovorů</item>
+         <item quantity="one">%d seznam hovorů</item>
+     </plurals>
+     <plurals name="dirty_wlan_count">
+         <item quantity="other">%d Wi-Fi sítí</item>
+         <item quantity="one">%d Wi-Fi síť</item>
+     </plurals>
+     <plurals name="dirty_recorder_count">
+         <item quantity="other">%d nahrávek</item>
+         <item quantity="one">%d nahrávka</item>
+     </plurals>
+     <plurals name="dirty_music_count">
+         <item quantity="other">%d skladeb</item>
+         <item quantity="one">%d skladba</item>
+     </plurals>
+     <plurals name="dirty_browser_count">
+         <item quantity="other">%d položek prohlížeče</item>
+         <item quantity="one">%d položka prohlížeče</item>
+     </plurals>
+     <plurals name="dirty_calendar_count">
+         <item quantity="other">%d položek kalendáře</item>
+         <item quantity="one">%d položka kalendáře</item>
+     </plurals>
+     <plurals name="dirty_blocklist_count">
+         <item quantity="other">%d černé listiny</item>
+         <item quantity="one">%d černá listina</item>
+     </plurals>
 </resources>
