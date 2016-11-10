@@ -1026,7 +1026,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="simFdnContacts_empty">Žádné fixní kontakty.</string>
   <string name="sim_absent">Chybí</string>
   <string name="sim_card_activate">Ověření SIM</string>
-  <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
+  <string name="sim_card_summary_no_sim_card">Žádná SIM karta</string>
   <string name="sim_cards_network_mode_changed_summary">Zobrazit nastavení SMS a Hovoru</string>
   <string name="sim_cards_network_mode_changed_title">Zjištěna nová SIM karta</string>
   <string name="sim_contact_name">Jméno</string>
@@ -1240,4 +1240,25 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="dialpad_wxyz">WXYZ</string>
    <string name="dialpad_zero">0</string>
    <string name="home_screen_shortcut">Odkaz na domácí obrazovce</string>
+   <string name="account_changed_title">Účet změněn</string>
+   <string name="autoip_summary_more">, %d celkem</string>
+   <string name="call_log">Seznam hovorů</string>
+   <string name="confirm">Potvrdit</string>
+   <string name="dialog_call_ordinary_telephone">Běžný hovor (%ds)</string>
+   <string name="enable_button_text">Další</string>
+   <string name="general_remove">Odstranit</string>
+   <string name="internation_remain_minutes">(nebo %1$s %2$s mezinárodní hovor)</string>
+   <string name="keep_wait_call_back">Čekat</string>
+  <string name="menu_add_numbers">Přidat číslo</string>
+  <string name="please_connect_network_message">Připojte se k síti</string>
+   <string name="please_connect_network_title">Žádná síť</string>
+   <string name="please_login_mi_accout">Přihlásit</string>
+   <string name="propmpt_dialog_do_not_ask">Znovu nezobrazovat</string>
+   <string name="propmpt_dialog_network_failed_title">Call timeout</string>
+   <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+   <string name="propmpt_dialog_not_activate_sim_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
+   <string name="propmpt_dialog_not_activate_sim_title">telefonní číslo není ověřeno</string>
+   <string name="setting">Nastavení</string>
+   <string name="undefined_setting">Žádné</string>
+   <string name="verify_failed">Chyba ověření</string>
 </resources>

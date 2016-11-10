@@ -135,4 +135,5 @@
    <string name="package_delete_confirm_step_1">Vymazat %s?</string>
    <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu celého systému.</string>
    <string name="package_delete_confirm_step_3">Po vymazaní nebudete moci tuto aplikaci znovu otevřít.</string>
+   <string name="translation_more">Více</string>
 </resources>

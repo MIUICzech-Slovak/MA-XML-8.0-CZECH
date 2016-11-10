@@ -4649,4 +4649,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="auto_disable_screenbuttons_rotation_summary">Pokud je vaše zařízení naležato, navigační tlačítka budou blokována</string>
    <string name="auto_disable_screenbuttons_rotation_title">Blokovat navigační tlačítka v řežimu naležato</string>
    <string name="storage_wizard_format_confirm_third_body">^1 je formátováno</string>
+   <string name="approve_title">Ověření</string>
 </resources>

@@ -17,4 +17,8 @@
         <item quantity="other">Nahrané hovory: %d</item>
         <item quantity="one">1 nahraný hovor</item>
     </plurals>
+    <plurals name="remove_numbers_confirm">
+         <item quantity="other">Čísla (%d) budou smazána.</item>
+         <item quantity="one">%d číslo bude smazáno.</item>
+     </plurals>	
 </resources>
