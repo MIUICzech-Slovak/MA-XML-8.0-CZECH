@@ -4653,4 +4653,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="smallwindow_smartcover_title">Průhledný přední flip</string>
    <string name="smartcover_lock_or_unlock_screen_tittle">Smartcover zamykání/odemykání</string>
    <string name="smartcover_sensitive_summary">Zamkněte/Odemkněte obrazovku pomocí přední části flipu</string>
+   <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Dotkněte se tlačítka na hodinkách pro odemknutí.</string>
+   <string name="bluetooth_unlock_confirm_device_text_for_miband2">Dotkněte se tlačítka na náramku pro odemknutí.</string> 
 </resources>

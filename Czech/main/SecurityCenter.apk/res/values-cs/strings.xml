@@ -1621,7 +1621,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="auto_task_operation_vibration">Vibrace</string>
    <string name="auto_task_operation_wifi">Wi-Fi</string>
    <string name="card_main_gamebooster_summary">Zrychlit a zlepšit odezvu při hrách.</string>
-   <string name="card_main_gamebooster_title">Odezva při hraní her</string>
+   <string name="card_main_gamebooster_title">Zrychlení her</string>
    <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
    <string name="summary_auto_update">MIUI zvolí co nejlepší čas pro stažení a nainstalování aktualizací.</string>
    <string name="title_auto_update">Aktualizovat automaticky</string>    

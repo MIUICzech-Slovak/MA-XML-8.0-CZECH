@@ -846,4 +846,19 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="translation_no_result">Nic nebylo nalezeno</string>
    <string name="translation_query_failure">Selhalo</string>
    <string name="translation_technology_support">Technická podpora od PowerWord</string>
+   <string name="account_setting_message_body_load_complete">Celá zpráva</string>
+   <string name="account_setting_message_body_load_head_abstract">Popis zprávy</string>
+   <string name="account_setting_message_body_load_head_only">Jen hlavička</string>
+   <string name="account_setting_message_body_load_text">Jen tělo zprávy</string>
+   <string name="attachment_size_exceed_limit">Velikost překročila limit serveru</string>
+   <string name="conversation_quick_button_approve">Souhlasím</string>
+   <string name="conversation_quick_button_disapprove">Nesouhlasím</string>
+   <string name="conversation_quick_button_received">Přijato</string>
+   <string name="first_quick_default_reply">Klepněte na tento odkaz, potom \"%s\" bude odeslána všem adresátům.</string>
+   <string name="menu_contact_edit">Upravit</string>
+   <string name="message_body_load_set_description">Velikost pro nové zprávy, když jsou aktivní mobilní data.</string>
+   <string name="remind_attachment_size_limit">Vaše zprávy by měly být menší, než %s MB</string>
+   <string name="send_mail">Odeslat</string>
+   <string name="sending_quick_reply">Odesílání zprávy \"%s\"</string>
+   <string name="youfuli">Reklama</string>
 </resources>
