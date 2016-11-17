@@ -676,6 +676,4 @@ Bylo přičteno dalších %1$s"</string>
    <string name="user_message_text">Zprávy</string>
    <string name="sort_size_asc">Od nejmenšího</string>
    <string name="sort_size_desc">Od největšího</string>
-   <string name="force_touch_clean">Vyčistit</string>
-   <string name="force_touch_search">Vyhledat soubory</string>  
 </resources>
