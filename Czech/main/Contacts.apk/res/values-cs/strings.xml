@@ -390,7 +390,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="editContactNameExpandOpenDescription">Rozbalit jméno</string>
   <string name="editGroupDescription">Upravit skupinu</string>
   <string name="edit_contact">Upravit kontakt</string>
-  <string name="edit_contact_card_title">Upravit kontakt</string>
+  <string name="edit_contact_card_title">Vyberte položky ke sdílení</string>
   <string name="edit_contact_photo">Upravit obrázek kontaktu</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>

@@ -675,5 +675,9 @@ Bylo přičteno dalších %1$s"</string>
    <string name="unlock_pattern_title">Nové heslo</string>
    <string name="user_message_text">Zprávy</string>
    <string name="sort_size_asc">Od nejmenšího</string>
-   <string name="sort_size_desc">Od největšího</string>  
+   <string name="sort_size_desc">Od největšího</string>
+   <string name="category_installed_app">Nainstalované apl.</string>
+   <string name="create_shortcut_success">Odkaz přidán</string>
+   <string name="setting_shortcut">Přidat odkaz na plochu</string>
+   <string name="shortcut_exists">Odkaz již existuje</string>  
 </resources>

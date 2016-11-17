@@ -418,4 +418,8 @@ Zkontrolujte také složku SPAM."</string>
    <string name="delete_bank_card_title">Odstranění vaší platební karty</string>
    <string name="io_error_title">Potvrďte vaši síť</string>
     <string name="passport_barcode_add_account_prompt">Pro připojení účtu načtěte QR kód znovu po přihlášení.</string>
+    <string name="oauth_get_scopes_failed">Nelze získat info o účtu</string>
+   <string name="oauth_getting_scopes">Ověření účtu...</string>
+   <string name="oauth_scopes_intro">%2$s získá tato povolení: %3$s</string>
+   <string name="oauth_title">Přihlaste se s Mi účtem</string>  
 </resources>

@@ -466,7 +466,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="add_short_cut">Zvětšit</string>
   <string name="added_successfully">Zvětšené</string>
   <string name="all_sync_item_open">Všechny položky jsou povoleny</string>
-  <string name="cloud_storage_full">Cloudové úložiště</string>
+  <string name="cloud_storage_full">Cloudové úložiště je plné</string>
   <string name="cloud_storage_is_full">Plný</string>
   <string name="due_date_format">dd.MM.yyyy</string>
   <string name="find_device_service_summary">Vyhledejte vaše zařízení a zablokujte jej v případě ztráty.</string>
@@ -474,7 +474,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="find_device_service_title">Vyhledat zařízení</string>
   <string name="member_due_date">Platné do %s</string>
   <string name="micloud_sync_off">Synchr. s MiCloud deaktivována</string>
-  <string name="network_unconnected">Není připojení k internetu</string>
+  <string name="network_unconnected">Nelze se připojit k síti</string>
   <string name="one_sync_item_close">%d je vyp.</string>
   <string name="open_micloud_sync">Povolit synchr. s MiCloud</string>
   <string name="other_sync_item">Ostatní položky</string>
