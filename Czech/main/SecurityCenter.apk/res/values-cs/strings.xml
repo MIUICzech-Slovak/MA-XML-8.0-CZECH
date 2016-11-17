@@ -1661,7 +1661,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="clear_garbage">Vyčistěte odpad pro uvolnění místa</string>
    <string name="clear_immediately">Vyčistit</string>
    <string name="close">Zavřít</string>
-   <string name="empty_title_garbage_virus_white_list">Zachovat výsledky v seznamu, pro jejich přeskočení v budoucí kontrole</string>
+   <string name="empty_title_garbage_virus_white_list">Podržte prst na položce pro její přeskočení v budoucí kontrole</string>
    <string name="flow_rank_title">Spotřeba dat</string>
    <string name="garbage_clean_detail">Podrobnosti</string>
    <string name="go_to">Pokračovat</string>
@@ -1672,7 +1672,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="hints_scanning">Kontrola...</string>
    <string name="hot">Populární</string>
    <string name="hot_today">Popular today</string>
-   <string name="long_click_dialog_summary">Zachovat výsledky v seznamu, pro jejich přidání do výjimek.</string>
+   <string name="long_click_dialog_summary">Podržte prst na položce pro přidání do výjimek.</string>
    <string name="long_click_dialog_title">Upozornění</string>
    <string name="network_not_available">Nelze se připojit k síti</string>
    <string name="news_change">Změnit</string>

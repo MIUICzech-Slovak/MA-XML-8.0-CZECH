@@ -2055,7 +2055,7 @@ V tomto zařízení jsou přítomni další uživatelé.
   <string name="menu_restore">Obnovit výchozí</string>
   <string name="menu_save">Uložit</string>
   <string name="menu_show_percentage">Zobrazit procenta</string>
-  <string name="menu_show_system">Zobrazit systém</string>
+  <string name="menu_show_system">Zobrazit systémové</string>
   <string name="menu_stats_last_unplugged">Při posledním odpojení pro %1$s</string>
   <string name="menu_stats_refresh">Aktualizovat</string>
   <string name="menu_stats_total">Využití baterie celkem</string>
