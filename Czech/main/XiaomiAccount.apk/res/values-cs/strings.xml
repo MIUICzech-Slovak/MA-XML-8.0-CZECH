@@ -417,4 +417,5 @@ Zkontrolujte také složku SPAM."</string>
    <string name="delete_bank_card_message">Pro ochranu vašeho soukromí, bude karta odstraněna, když se odhlásíte.</string>
    <string name="delete_bank_card_title">Odstranění vaší platební karty</string>
    <string name="io_error_title">Potvrďte vaši síť</string>
+    <string name="passport_barcode_add_account_prompt">Pro připojení účtu načtěte QR kód znovu po přihlášení.</string>
 </resources>

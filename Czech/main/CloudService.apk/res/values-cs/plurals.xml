@@ -44,4 +44,16 @@
          <item quantity="other">%d černé listiny</item>
          <item quantity="one">%d černá listina</item>
      </plurals>
+     <plurals name="sync_items_close">
+         <item quantity="other">%d jsou vypnuty</item>
+         <item quantity="one">%d je vypnuto</item>
+     </plurals>
+     <plurals name="items_unsynced">
+         <item quantity="other">Čeká na synchr.: %d</item>
+         <item quantity="one">Čeká na synchr.: %d</item>
+     </plurals>
+     <plurals name="items_waiting_to_sync">
+         <item quantity="other">Čeká na synchr.: %d</item>
+         <item quantity="one">Čeká na synchr.: %d</item>
+     </plurals>	
 </resources>

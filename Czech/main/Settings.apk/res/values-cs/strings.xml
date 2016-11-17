@@ -784,7 +784,6 @@ Vysílání využívá nízkoenergetické signály Bluetooth."</string>
   <string name="children_mode_title">Dětský režim</string>
   <string name="choose_assist_title">Výběr pomocí aplikace</string>
   <string name="choose_profile">Výběr profilu</string>
-  <string name="choose_smartcover_type">Vyberte typ krytu</string>
   <string name="choose_timezone">Vybrat časové pásmo</string>
   <string name="choose_voice_input_title">Výběr hlasového vstupu</string>
   <string name="cleaner">Čistič</string>
@@ -2297,7 +2296,6 @@ Zvolte Váš operační systém:"</string>
   <string name="no_updates_warning2">"Buďte pohodě, budete upozorněni na novou verzi."</string>
   <string name="noise_suppression">Potlačení hluku</string>
   <string name="normal_date_format">Regionální (%s)</string>
-  <string name="normal_smartcover_title">Neprůhledný přední kryt</string>
   <string name="not_installed">Není nainstalováno</string>
   <string name="notification_app_settings_button">Nastavení oznámení</string>
   <string name="notification_breathing_light_color_title">Barva LED nového upozornění</string>
@@ -3185,7 +3183,6 @@ Zbývá:"</string>
   <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">IMEI</string>
   <string name="small_font">Malá</string>
-  <string name="smallwindow_smartcover_title">Průhledný přední kryt</string>
   <string name="smartcover_sensitive_title">Smartcover režim</string>
   <string name="sms_application_title">Výchozí aplikace SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Chcete pro zprávy SMS místo aplikace %s používat aplikaci %s?</string>
@@ -4520,7 +4517,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="permission_settings_summary">Spravovat povolení pro polohu, úložiště, hovory, zprávy, a kontakty.</string>
    <string name="permission_settings_title">Povolení aplikace</string>
    <string name="google_backup_enable">Povolit zálohování</string>
-   <string name="lattice_smartcover_title">Děrovaný kryt</string>
     <string name="screenshot">Screenshot</string>
    <string name="screenshot_three_gesture">Třemi prsty dolů pro screenshot</string>
    <string name="tether_share_qrcode_title">Sdílet QR kód</string>
@@ -4650,4 +4646,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="auto_disable_screenbuttons_rotation_title">Blokovat navigační tlačítka v řežimu naležato</string>
    <string name="storage_wizard_format_confirm_third_body">^1 je formátováno</string>
    <string name="approve_title">Ověření</string>
+   <string name="choose_smartcover_type">Vyberte typ pouzdra</string>
+   <string name="full_transparent_smarrcover_title">Průhledný přední flip</string>
+   <string name="lattice_smartcover_title">Dirkovaný přední flip</string>
+   <string name="normal_smartcover_title">Neprůhledný přední flip</string>
+   <string name="smallwindow_smartcover_title">Průhledný přední flip</string>
+   <string name="smartcover_lock_or_unlock_screen_tittle">Smartcover zamykání/odemykání</string>
+   <string name="smartcover_sensitive_summary">Zamkněte/Odemkněte obrazovku pomocí přední části flipu</string>
 </resources>
