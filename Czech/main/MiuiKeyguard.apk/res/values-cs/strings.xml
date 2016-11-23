@@ -69,4 +69,6 @@
   <string name="lock_wallpaper_see_more">Zjistit více &gt;</string>  
   <string name="fingerprint_enter_second_psw_msg">Zadejte heslo Druhého profilu po restartu, aby bylo možné použít váš otisk prstu</string>
    <string name="fingerprint_enter_second_psw_title">Zadejte heslo Druhého profilu</string>
+   <string name="fingerprint_add_text">Rozpoznávání otisku prstu bylo aktualizováno. Přidejte otisk prstu znovu.</string>
+  <string name="fingerprint_add_title">Přidat otisk</string>  
 </resources>
