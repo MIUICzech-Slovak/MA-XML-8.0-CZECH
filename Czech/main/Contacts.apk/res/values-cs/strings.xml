@@ -1251,4 +1251,6 @@ Vyberte si z následujících možností:</string>
   <string name="gallery">Galerie</string>
   <string name="search_input_hint">Můžete vyhledat telefonní číslo nebo služby</string>
   <string name="cloud_antispam_marked">Označené</string>
+  <string name="tomorrow">Zítra</string>
+  <string name="yesterday">Včera</string>
 </resources>

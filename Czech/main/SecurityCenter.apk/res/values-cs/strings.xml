@@ -469,8 +469,8 @@ For more info check the message you received from your service provider"</string
   <string name="hints_need_regular_scan">Kontrolovat zařízení pravidelně</string>
   <string name="hints_power_percent_title">Baterie</string>
   <string name="hints_remember_choice">Zapamatovat</string>
-  <string name="hints_risk_apk_list_item_summary">Riziko (Apk)</string>
-  <string name="hints_risk_app_list_item_summary">Riziko (Apl)</string>
+  <string name="hints_risk_apk_list_item_summary">apk</string>
+  <string name="hints_risk_app_list_item_summary">apk</string>
   <string name="hints_risk_descx_title">Popis rizika:</string>
   <string name="hints_risk_name_title">Riziko:</string>
   <string name="hints_scan_result_risk">Má rizika</string>
@@ -479,9 +479,9 @@ For more info check the message you received from your service provider"</string
   <string name="hints_scanning_text">Kontrola...</string>
   <string name="hints_scanning_virus_by_cloud">Kontrola cloudu...</string>
   <string name="hints_unknown_virus_name">Neznámý</string>
-  <string name="hints_virus_apk_list_item_summary">Vir(Apk)</string>
+  <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (Apk)</string>
-  <string name="hints_virus_app_list_item_summary">Vir (Apl)</string>
+  <string name="hints_virus_app_list_item_summary">apk</string>
   <string name="hints_virus_app_summary">%s (Apl)</string>
   <string name="hints_virus_descx_title">Popis Viru:</string>
   <string name="hints_virus_lib_update_default_summary">Naposledy aktualizováno: neznámo</string>

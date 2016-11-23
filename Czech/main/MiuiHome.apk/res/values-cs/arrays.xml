@@ -26,6 +26,7 @@
         <item>Widgety</item>
         <item>Tapety</item>
         <item>Efekty</item>
+	<item>Buňky</item>
     </string-array>
     <string-array name="gadget_weather_image">
         <item>Jasno</item>
