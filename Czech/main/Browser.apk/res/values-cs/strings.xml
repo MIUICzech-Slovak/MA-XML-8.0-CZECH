@@ -819,4 +819,9 @@ Chcete opustit tuto stránku?"</string>
    <string name="add_favorites_to">Přidat oblíbené do</string>
    <string name="isReplacePage">Soubor již existuje. Chcete jej přepsat?</string>
    <string name="low_memory_toast">Nelze použít Prohlížeč z důvodu nízké RAM</string>
+   <string name="actionbar_textselection_title">Výběr textu</string>
+   <string name="autofill_keyboard_accessory_content_description">Dostupné návrhy</string>
+   <string name="permission_alert_window">Pro použití této funkce povolte vyskakovací okna.</string>
+   <string name="permission_unknown">Neznámé nastavení</string>
+   <string name="updating_chrome">Aktualizace Chrome...</string>
 </resources>
