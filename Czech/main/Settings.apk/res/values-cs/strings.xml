@@ -1312,7 +1312,7 @@ Toto nastavení ovlivní všechny uživatele tohoto zařízení."</string>
   <string name="enable_service_password_reason">Protože zapnutí služby %1$s má vliv na šifrování dat, je třeba, abyste potvrdili své heslo.</string>
   <string name="enable_service_pattern_reason">Protože zapnutí služby %1$s má vliv na šifrování dat, je třeba, abyste potvrdili své gesto.</string>
   <string name="enable_service_pin_reason">Protože zapnutí služby %1$s má vliv na šifrování dat, je třeba, abyste potvrdili svůj kód PIN.</string>
-  <string name="enable_service_title">Služba vykoná tyto akce:</string>
+  <string name="enable_service_title">Použít %1$s?</string>
   <string name="enable_snapshot_screenlock">Rychlé pořízení fotografie</string>
   <string name="enable_terminal_summary">Aktivovat terminálovou aplikaci pro místní přístup k prostředí shell</string>
   <string name="enable_terminal_title">Místní terminál</string>
@@ -4692,4 +4692,12 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="reset_second_space_passwd_confirm">Pokračovat</string>
    <string name="reset_second_space_passwd_detail">Zadejte heslo Mi účtu použité pro první profil.</string>
    <string name="resetting_second_space_passwd">Obnova hesla Druhého profilu</string>
+   <string name="miui_enable_service_title">Služba vykoná tyto akce:</string>
+   <string name="privacy_password_bind_account">Přidat Mi účet</string>
+   <string name="privacy_password_bind_account_immediate">Přidat</string>
+   <string name="privacy_password_enter_privacy">Zadejte heslo ochrany soukromí</string>
+   <string name="privacy_password_never_remind">Znovu se neptat</string>
+   <string name="privacy_password_remind_bind_notlogin_account">Přidejte Mi účet pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
+   <string name="privacy_password_remind_bindaccont_message">Přidejte Mi účet (%s) pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
+   <string name="privacy_password_remind_bindaccount_title">Přidat Mi účet</string>
 </resources>

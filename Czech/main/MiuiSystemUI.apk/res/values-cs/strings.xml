@@ -353,4 +353,5 @@ přetažením dolů uzamknete"</string>
   <string name="nav_guide_ok">Nastavení</string>
   <string name="nav_guide_title">Skrýt navigační tlačítka</string>
   <string name="list_delimeter">", "</string>
+  <string name="long_screenshot_top_msg_manual">Zkuste ořezat screenshot a stiskněte tlačítko pro dokončení</string>
 </resources>
