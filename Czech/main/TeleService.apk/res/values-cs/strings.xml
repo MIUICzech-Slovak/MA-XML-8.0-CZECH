@@ -1261,4 +1261,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="setting">Nastavení</string>
    <string name="undefined_setting">Žádné</string>
    <string name="verify_failed">Chyba ověření</string>
+   <string name="autoip_phone">Auto. IP vytáčení</string>
 </resources>

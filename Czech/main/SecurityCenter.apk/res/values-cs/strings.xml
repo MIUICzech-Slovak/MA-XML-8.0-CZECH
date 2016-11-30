@@ -1732,4 +1732,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="sp_background_risk_type_sign">Neoficiální aplikace je spuštěna</string>
    <string name="sp_background_risk_type_virus">Aplikace s virem je spuštěna</string>
    <string name="sp_background_risk_type_wifi">Wi-Fi síť je nebezpečná</string>
+   <string name="btn_text_optimize_extend_battery_time">Přidat %s</string>
+   <string name="quick_optimize_suggest_battery_consume_too_fast">Baterie se nepřiměřeně rychle vybíjí</string>
+   <string name="quick_optimize_suggest_battery_over_heat">Zařízení se přehřívá</string>
 </resources>

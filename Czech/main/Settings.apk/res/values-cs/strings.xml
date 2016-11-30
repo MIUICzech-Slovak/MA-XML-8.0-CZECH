@@ -4687,4 +4687,9 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="turn_off_keyguard_password_confirm_msg">Opravdu chcete deaktivovat heslo zamykání?</string>
    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nebude možné použít otisk prstu pro zrušení hesla</string>
    <string name="turn_on_keyguard_password">Povolit heslo na zamykací obrazovce</string> 
+    <string name="reset_second_space_passwd">Obnovit heslo pro Druhý profil</string>
+   <string name="reset_second_space_passwd_cancel">Zrušit</string>
+   <string name="reset_second_space_passwd_confirm">Pokračovat</string>
+   <string name="reset_second_space_passwd_detail">Zadejte heslo Mi účtu použité pro první profil.</string>
+   <string name="resetting_second_space_passwd">Obnova hesla Druhého profilu</string>
 </resources>

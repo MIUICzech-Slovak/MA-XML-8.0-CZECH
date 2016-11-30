@@ -98,5 +98,26 @@
    <string name="switch_prompt_title">Nemůžete najít %s?</string>
    <string name="switch_prompt_title_default">Nemůžete najít co hledáte?</string>
    <string name="switch_setting">Nastavení</string>
-   <string name="top_clicked">Časté položky</string> 
+   <string name="top_clicked">Časté položky</string>
+   <string name="recent_apps_filter">Skryté aplikace, které nepoužíváte.</string>
+   <string name="recent_close_content">"Vypnout tuto funkci nyní?
+  Můžete to změnit v nastavení - Nainstalované aplikace - Vyhledávání"</string>
+   <string name="recent_close_title">Vypnout funkce</string>
+   <string name="recent_delete_content">"Skrýt tyto apl. nyní?
+  Můžete to změnit v nastavení - Nainstalované aplikace - Vyhledávání"</string>
+   <string name="recent_delete_negative">Zrušit</string>
+   <string name="recent_delete_positive">OK</string>
+   <string name="recent_delete_title">Skrýt aplikace</string>
+   <string name="recent_edit">Upravit</string>
+   <string name="recent_edit_done">Dokončit</string>
+   <string name="recent_filter_functions">Vypnuté funkce</string>
+   <string name="recent_function">Funkce</string>  
+   <string name="search_button">Vyhledávání</string>
+   <string name="update_check">Zkontrolovat aktualizace</string>
+   <string name="update_right_now">Aktualizace</string>
+   <string name="update_title">Dostupná aktualizace</string>
+   <string name="update_version_alpha">Alpha</string>
+   <string name="update_version_dev">Beta</string>
+   <string name="update_version_stable">Stable</string>
+   <string name="updated_title">MIUI je aktualizováno</string> 
 </resources>

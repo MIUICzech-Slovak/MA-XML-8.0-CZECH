@@ -422,4 +422,5 @@ Zkontrolujte také složku SPAM."</string>
    <string name="oauth_getting_scopes">Ověření účtu...</string>
    <string name="oauth_scopes_intro">%2$s získá tato povolení: %3$s</string>
    <string name="oauth_title">Přihlaste se s Mi účtem</string>  
+   <string name="guest_account_label">Účet Mi Hosta</string>
 </resources>
