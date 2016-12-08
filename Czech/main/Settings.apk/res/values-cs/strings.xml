@@ -4700,4 +4700,15 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="privacy_password_remind_bind_notlogin_account">Přidejte Mi účet pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
    <string name="privacy_password_remind_bindaccont_message">Přidejte Mi účet (%s) pro možnost obnovy vašeho hesla, až jej zapomenete.</string>
    <string name="privacy_password_remind_bindaccount_title">Přidat Mi účet</string>
+   <string name="block_list_connected_devices">Připojená zařízení</string>
+   <string name="block_list_diaglog_cancle">Zrušit</string>
+   <string name="block_list_diaglog_ok">OK</string>
+   <string name="block_list_dialog_content">Tato akce odpojí “%s” od zařízení a přidá jej na černou listinu</string>
+   <string name="block_list_dialog_title">Odpojit nyní?</string>
+   <string name="block_list_no_device">Žádné zařízení</string>
+   <string name="block_list_remove_dialog_content">Toto zařízení “%s” se může připojit na váš hotspot</string>
+   <string name="block_list_remove_dialog_title">Odebrat “%s” z černé listiny</string>
+   <string name="block_list_summary">Zobrazit zařízení, která nemají povolení připojit se k vašemu hotspotu</string>
+   <string name="block_list_title">Černá listina</string>
+   <string name="tether_devices_max_number">Limit připojených zařízení</string> 
 </resources>

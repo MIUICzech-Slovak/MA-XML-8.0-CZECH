@@ -1287,7 +1287,7 @@ Dlouhodobý poslech hlasitého zvuku může poškodit sluch."</string>
   <string name="usb_mtp_notification_title">USB na přenos souborů</string>
   <string name="usb_notification_message">Klepnutím zobrazíte další možnosti.</string>
   <string name="usb_ptp_notification_title">USB na přenos fotek</string>
-  <string name="usb_supplying_notification_title">Připojené zařízení se nabíjí přes USB</string>
+  <string name="usb_supplying_notification_title">Nabíjení přes USB</string>
   <string name="use_a_different_app">Použít jinou aplikaci</string>
   <string name="user_creation_account_exists">Povolit aplikaci %1$s vytvořit nového uživatele s účtem %2$s?</string>
   <string name="user_creation_adding">Povolit aplikaci %1$s vytvořit nového uživatele s účtem %2$s? (Uživatel s tímto účtem již existuje.)</string>
