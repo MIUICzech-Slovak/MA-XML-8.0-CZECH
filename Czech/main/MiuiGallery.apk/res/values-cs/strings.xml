@@ -201,7 +201,7 @@
   <string name="default_album_name">Nové album</string>
   <string name="delete"> Vymazat</string>
   <string name="delete_album_failed">Smazání alba neúspěšné.</string>
-  <string name="delete_album_msg_format">Smazat \"%2$s\" album %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Vymazat \"%2$s\" album %1$s%3$s?</string>
   <string name="delete_album_success">Album smazáno.</string>
   <string name="delete_finish_format">%d smazáno</string>
   <string name="delete_from_album">Od \"%s\" alba a MiCloud</string>
@@ -586,8 +586,9 @@
   <string name="set_face_group_toast_msg_new_user">Dlouze podržte náhled. Lidé mohou být spojeni nebo ignorováni.</string>
   <string name="set_face_group_toast_msg_old_user">Dlouze podržte náhled. Lidé mohou být rozděleni na rodinu, přátele, spolužáky, atd.</string>
   <string name="set_face_group_toast_title_new_user">Doporučené</string>
-  <string name="set_face_group_toast_title_old_user">Lidé mohou být nastaveny do skupin</string>
+  <string name="set_face_group_toast_title_old_user">Lidé mohou být nastaveni do skupin</string>
   <string name="set_face_image">Nastavit novou osobu</string>
+  <string name="empty_recommend_back">Zpět</string>
   <string name="set_group">Nastavit skupinu</string>
   <string name="shadow">Stíny</string>
   <string name="share">Sdílet</string>

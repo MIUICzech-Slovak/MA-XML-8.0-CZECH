@@ -4670,7 +4670,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="launcher_title">Launcher</string>
    <string name="lock_screen_cells_title">Uzamknout buňky</string>
    <string name="lock_screen_signature_summary">Podpis bude zobrazen na zamykací obrazovce</string>
-   <string name="lock_screen_signature_title">Podpis na zamknuté obrazovce</string>
+   <string name="lock_screen_signature_title">Podpis na zamykací obrazovce</string>
    <string name="manage_fingerprint_text">Správa otisků</string>
    <string name="master_clear_apply_step_1">Obnovení do továrního nastavení vymaže všechna vaše data včetně fotografií, hudby, poznámek. Ujistěte se, že máte vše zálohováno.</string>
    <string name="master_clear_apply_step_2">Ujistěte se, že máte vše zálohováno. Všechna data budou vymazána.</string>
