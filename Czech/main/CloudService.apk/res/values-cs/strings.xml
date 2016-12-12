@@ -133,7 +133,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="micloud_check_sim_notify_text">"Zřejmě byla změněna SIM karta. Přihlaste se
 do vašeho Mi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znovu aktivovat MiCloud</string>
-  <string name="micloud_check_sim_title">"Zřejmě bola změněna SIM karta. Přihlaste se
+  <string name="micloud_check_sim_title">"Zřejmě byla změněna SIM karta. Přihlaste se
 do vašeho Mi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_confusion_account_hint">Změny, které provedete v tomto zařízení se budou synchronizovat do všech vašich zařízení. Pro ochranu vašeho účtu doporučujeme deaktivovat synchr. pro ostatní zařízení, pokud je nepoužíváte.</string>
   <string name="micloud_confusion_account_name">"Účet: "</string>
