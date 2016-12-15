@@ -424,4 +424,6 @@
   <string name="xiaomi_user">Mi uživatel</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="vp_start_error_msg">Toto video nelze přehrát</string>
+   <string name="vp_video_create_video_error_info">Spuštění přehrávače selhalo.</string>
 </resources>

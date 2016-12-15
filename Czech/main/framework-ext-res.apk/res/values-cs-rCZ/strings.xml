@@ -137,4 +137,6 @@
    <string name="package_delete_confirm_step_3">Po vymazaní nebudete moci tuto aplikaci znovu otevřít.</string>
    <string name="translation_more">Více</string>
    <string name="configure_input_methods">Vybrat klávesnici</string>
+   <string name="status_bar_toggle_battery_saver">Šetření baterie</string>
+   <string name="status_bar_toggle_nfc">NFC</string>
 </resources>

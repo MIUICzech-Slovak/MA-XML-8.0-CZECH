@@ -359,4 +359,7 @@ přetažením dolů uzamknete"</string>
    <string name="divider_menu_swap_task">Zaměnit</string>
    <string name="no_multi_window_app">Žádná aplikace s podporou Multi-Window</string>
    <string name="not_support_multi_window">Současná aplikace nepodporuje Multi-Window</string>
+   <string name="dock_forced_resizable">App may not work with split-screen.</string>
+    <string name="dock_non_resizeble_failed_to_dock_text">App does not support split-screen.</string>
+    <string name="recents_launch_error_message">Could not start %s.</string>
 </resources>

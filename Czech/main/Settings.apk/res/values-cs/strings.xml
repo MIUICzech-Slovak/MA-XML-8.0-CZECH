@@ -4713,4 +4713,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="tether_devices_max_number">Limit připojených zařízení</string> 
    <string name="block_list_mtk_dialog_content">Tato akce odpojí “%s” od tohoto zařízení</string>
    <string name="block_list_qcom_dialog_content">Tato akce odpojí “%s” od tohoto zařízení a přidá jej na černou listinu</string>
+     <string name="status_bar_settings_app_notification_preferences">Nastavení aplikace</string>
+
 </resources>
