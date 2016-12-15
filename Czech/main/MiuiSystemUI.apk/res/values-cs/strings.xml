@@ -354,4 +354,9 @@ přetažením dolů uzamknete"</string>
   <string name="nav_guide_title">Skrýt navigační tlačítka</string>
   <string name="list_delimeter">", "</string>
   <string name="long_screenshot_top_msg_manual">Zkuste ořezat screenshot a stiskněte tlačítko pro dokončení</string>
+  <string name="divider_menu_close">Zavřít</string>
+   <string name="divider_menu_select_apps">Vybrat</string>
+   <string name="divider_menu_swap_task">Zaměnit</string>
+   <string name="no_multi_window_app">Žádná aplikace s podporou Multi-Window</string>
+   <string name="not_support_multi_window">Současná aplikace nepodporuje Multi-Window</string>
 </resources>
