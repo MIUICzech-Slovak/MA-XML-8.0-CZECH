@@ -801,4 +801,10 @@
    <string name="face_recommend">Doporučení</string>
    <string name="more_face">Více lidí, kteří vypadají jako</string>
    <string name="remind_face_recommend_confirm">Potvrdit</string>
+   <string name="operation_remove_face">Odstranit</string>
+   <string name="remove_from_album_message">Tato fotografie zde znovu zobrazena nebude</string>
+   <string name="remove_from_album_title">Odstranit z tohoto alba</string>
+   <string name="remove_from_current_album">Odstranit z tohoto alba</string>
+   <string name="remove_to_album_title">Spojit s</string>
+   <string name="remove_to_other_album">Spojit s jinou osobou</string>
 </resources>

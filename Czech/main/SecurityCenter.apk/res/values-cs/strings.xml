@@ -1745,4 +1745,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="virus_update_success">Aktualizováno</string>
    <string name="virus_update_tips_title">Připojte se k Wi-Fi</string>
    <string name="virus_wait_network_dialog_message">Připojte se k Wi-Fi pro stažení databáze</string>
+   <string name="skin_change_close_btn_text">Nastavit jako výchozí pozadí</string>
+   <string name="skin_change_close_toast">Změna bude aplikována při dalším otevření aplikace Optimalizace</string>  
 </resources>
