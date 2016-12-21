@@ -463,7 +463,7 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
   <string name="add_cloud_storage">Zvětšit úložiště</string>
-  <string name="add_short_cut">Zvětšit</string>
+  <string name="add_short_cut">Přidat</string>
   <string name="added_successfully">Zvětšené</string>
   <string name="all_sync_item_open">Všechny položky jsou povoleny</string>
   <string name="cloud_storage_full">Cloudové úložiště je plné</string>

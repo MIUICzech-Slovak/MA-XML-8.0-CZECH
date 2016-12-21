@@ -270,5 +270,11 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_switch">Xunlei stahování</string>
    <string name="download_status_continue">Obnovit</string>
    <string name="download_status_fail">Znovu</string>
-   <string name="download_status_paused">Pauza</string>  
+   <string name="download_status_paused">Pauza</string>
+   <string name="info_flow_only_load_wifi">Načíst doporučené pouze přes Wi-Fi</string>
+   <string name="info_flow_setting">Nastavení obsahu</string>
+   <string name="info_flow_show">Zobrazit doporučený obsah</string>
+   <string name="dialog_title_recommend">Deaktivovat doporučený obsah</string>
+   <string name="dialog_msg_recommend">Nebude možné zobrazit doporučené zdroje. Je to funkce jen pro Čínu a je doporučeno ji vypnout.</string>
+   <string name="dialog_btn_cancel">Zrušit</string>  
 </resources>
