@@ -398,4 +398,5 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
    <string name="multi_sim_ringtone_settings_dialog_remind_never">Znovu nezobrazovat</string>
    <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>   
     <string name="add_resource_detail_fail">Nelze přidat zdroje</string>
+  <string name="third_party_pickers_activity_title">Přidat %1$s</string>
 </resources>
