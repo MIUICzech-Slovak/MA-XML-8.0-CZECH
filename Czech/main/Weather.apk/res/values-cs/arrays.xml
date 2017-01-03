@@ -37,7 +37,7 @@
         <item>Vysoký</item>
         <item>Velmi vysoký</item>
     </string-array>
-    <string-array name="wind_direction">
+    <string-array name="wind_direction_simple">
         <item>S</item>
         <item>SV</item>
         <item>V</item>
@@ -95,5 +95,22 @@
          <item>Decin</item>
          <item>Prerov</item>
          <item>Jablonec nad Nisou</item>
+     </string-array>
+     <string-array name="wind_direction">
+         <item>Severní</item>
+         <item>Severovýchodní</item>
+         <item>Východní</item>
+         <item>Jihovýchodní</item>
+         <item>Jižní</item>
+         <item>Jihozápadní</item>
+         <item>Západní</item>
+         <item>Severozápadní</item>
+     </string-array>	
+     <string-array name="wind_unit_detail">
+         <item>Beaufortova stupnice</item>
+         <item>Kilometry za hodinu (km/h)</item>
+         <item>Metry za sekundu (m/s)</item>
+         <item>Míle za hodinu (mph)</item>
+         <item>Uzly (kn)</item>
      </string-array>	
 </resources>

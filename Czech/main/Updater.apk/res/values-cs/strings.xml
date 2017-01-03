@@ -275,4 +275,11 @@ Nelze odeslat váš názor názor"</string>
    <string name="notification_delay_update_no_update">Aktualizace nebyla nainstalována</string>
    <string name="notification_delay_update_shutdown">Zařízení bylo v noci vypnuté.</string>
    <string name="toast_delay_update_tonight">Vaše zařízení se aktualizuje mezi 2:00 až 5:00 ráno</string>
+   <string name="alpha_apply">Odhlášení z BETA testování</string>
+   <string name="alpha_cancel">Odhlásit se z BETA testování</string>
+   <string name="alpha_cancel_cancel">Zrušit</string>
+   <string name="alpha_cancel_confirm">Odhlásit?</string>
+   <string name="alpha_cancel_ok">OK</string>
+   <string name="alpha_no_network">Připojte se k síti</string>
+   <string name="menu_title_apply_for_alpha">Odhlásit se z BETA testování</string>
 </resources>

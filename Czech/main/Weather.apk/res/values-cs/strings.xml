@@ -32,8 +32,7 @@
   <string name="close">Zavřít</string>
   <string name="daily_forcast_drawer_on_bottom">Skrýt</string>
   <string name="daily_forcast_drawer_on_top">%1$s-denní předpověď</string>
-  <string name="daily_forcast_no_stable_direction">Bezvětří</string>
-  <string name="daily_forcast_no_wind">&lt;12 km/h</string>
+  <string name="daily_forcast_no_stable_direction">Vánek</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s později.</string>
   <string name="daily_forcast_whirl_wind">Vichřice</string>
   <string name="daily_forecast_detail_date">d.M.</string>
@@ -111,4 +110,6 @@ Zadejte město manuálně"</string>
    <string name="refresh_fail">Nelze se připojit k síti</string>
     <string name="change_alert">Zkontrolujte nastavení sítě a zkuste to znovu</string>
     <string name="activity_main_update_time_expire">Neaktuální data</string>
+    <string name="information_manager_extension">Rozšířená předpověď</string>
+   <string name="other">Ostatní</string>
 </resources>
