@@ -1740,7 +1740,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="msg_update_up">Skrýt</string>
    <string name="pref_title_manual_check_virus_db_update">Zkontrolovat aktualizace</string>
    <string name="virus_already_update">Definice virů jsou aktuální</string>
-   <string name="virus_dp_update_title">Aktualizace definice virl</string>
+   <string name="virus_dp_update_title">Aktualizace definice virů</string>
    <string name="virus_update_fail">Nelze aktualizovat</string>
    <string name="virus_update_success">Aktualizováno</string>
    <string name="virus_update_tips_title">Připojte se k Wi-Fi</string>
