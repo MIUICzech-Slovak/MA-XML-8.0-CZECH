@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">Záloha není dokončena. Chcete ukončit zálohování?</string>
+  <string name="abort_restore_confirm">Obnova není dokončena. Opravdu chcete odstranit?</string>
   <string name="account_contact_backup_info">Data (Mi, Gmail a E-mail. Účty a kontakty budou uložené společně.)</string>
   <string name="account_login">Přihlásit se</string>
   <string name="account_summary">Zálohování Gmailu, Emailu a účtu Mi</string>
@@ -347,5 +348,4 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
-  <string name="abort_restore_confirm">Obnova není dokončena. Opravdu chcete odstranit?</string>
 </resources>

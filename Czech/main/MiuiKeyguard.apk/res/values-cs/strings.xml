@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enter_lock_wallpaper">Dotykem otevřete galerii tapet</string>
   <string name="click_to_enter_text">Dotykem odemkněte</string>
   <string name="confirm_pin_msg">Zadejte PIN znovu</string>
   <string name="default_lockscreen_unlock_hint_text">Posuňte nahoru</string>
@@ -14,6 +15,10 @@
   <string name="experimental_validate_username">Jméno</string>
   <string name="experimental_validate_warning">Děkujeme za pomoc vylepšení MIUI!</string>
   <string name="find_device_turn_off_flight_mode">Deaktivovat režim letadlo</string>
+  <string name="fingerprint_add_text">Rozpoznávání otisku prstu bylo aktualizováno. Přidejte otisk prstu znovu.</string>
+  <string name="fingerprint_add_title">Přidat otisk</string>
+  <string name="fingerprint_enter_second_psw_msg">Zadejte heslo Druhého profilu po restartu, aby bylo možné použít váš otisk prstu</string>
+  <string name="fingerprint_enter_second_psw_title">Zadejte heslo Druhého profilu</string>
   <string name="fingerprint_lockout_msg">Počkejte 1 minutu a zkuste znovu odemknout otiskem prstu.</string>
   <string name="fingerprint_not_identified_msg">Zadejte své heslo k odemknutí.</string>
   <string name="fingerprint_not_identified_title">Zadejte své heslo</string>
@@ -35,6 +40,7 @@
   <string name="left_action_default_hint_text">MiRemote</string>
   <string name="lock_screen_date">EEEE d. MMMM</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+  <string name="lock_wallpaper_see_more">Zjistit více &gt;</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostní vzor byl dokončen</string>
@@ -65,10 +71,4 @@
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="accessibility_enter_lock_wallpaper">Dotykem otevřete galerii tapet</string>
-  <string name="lock_wallpaper_see_more">Zjistit více &gt;</string>  
-  <string name="fingerprint_enter_second_psw_msg">Zadejte heslo Druhého profilu po restartu, aby bylo možné použít váš otisk prstu</string>
-   <string name="fingerprint_enter_second_psw_title">Zadejte heslo Druhého profilu</string>
-   <string name="fingerprint_add_text">Rozpoznávání otisku prstu bylo aktualizováno. Přidejte otisk prstu znovu.</string>
-  <string name="fingerprint_add_title">Přidat otisk</string>  
 </resources>

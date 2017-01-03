@@ -109,6 +109,7 @@
   <string name="record_file_location_format">Klepněte pro zobrazení souboru %s</string>
   <string name="reduce_af">Snížit citlivost</string>
   <string name="regional_band">Rozsah frekvence (vymaže stanice)</string>
+  <string name="runtime_permission_ungranted">Nelze nahrávat, protože apl. nemá potřebná práva</string>
   <string name="search_dialog_title">Vyhledat stanice</string>
   <string name="sel_band_menu">Vyberte </string>
   <string name="set">OK</string>
@@ -162,5 +163,4 @@
   <string name="using_recorder_dialog_message">FM rádio vyžaduje povolení ohledně používání nahrávání, pro jeho správné fungování.</string>
   <string name="using_recorder_dialog_title">Povolení přístupu</string>
   <string name="view_stations_list">Zobrazit seznam stanic</string>
-  <string name="runtime_permission_ungranted">Nelze nahrávat, protože apl. nemá potřebná práva</string>
 </resources>

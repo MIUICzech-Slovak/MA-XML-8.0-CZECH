@@ -22,6 +22,8 @@
   <string name="button_cancel">Zrušit</string>
   <string name="button_delete">Vymazat</string>
   <string name="button_next">Další</string>
+  <string name="can_not_backup_in_lite_mode">Nelze zálohovat Zjednodušený režim</string>
+  <string name="can_not_restore_in_lite_mode">Nelze obnovit Zjednodušený režim</string>
   <string name="cancel_recover_settings">Zrušit</string>
   <string name="click_try_to_restore_again">Zkuste to znovu</string>
   <string name="cloud_app_backup_success">Aplikace zálohovány</string>
@@ -120,6 +122,4 @@ Poznámka: Nastavení doinstalovaných aplikací nebude zálohováno na MiCloud.
   <string name="start_recover">Obnovit %s</string>
   <string name="success_open_cloudbackup">Povolena záloha pro rozložení plochy a apl.</string>
   <string name="wait_icon_download">Stahování ikony aplikace</string>
-  <string name="can_not_backup_in_lite_mode">Nelze zálohovat Zjednodušený režim</string>
-   <string name="can_not_restore_in_lite_mode">Nelze obnovit Zjednodušený režim</string>
 </resources>

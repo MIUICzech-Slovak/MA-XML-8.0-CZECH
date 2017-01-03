@@ -72,6 +72,7 @@
   <string name="clean_title">Odstranit z koše soubory starší než 30 dní</string>
   <string name="clean_trash_box">Vyprázdnit koš</string>
   <string name="click_to_switch_volume">Dotykem sem přepnete mezi interním úložištěm a SD kartou</string>
+  <string name="click_to_switch_volume_pad">Dotykem přepnete mezi interním úložištěm a SD kartou</string>
   <string name="close">Zavřít</string>
   <string name="compress_fail">Vytváření .zip souboru selhalo, již existuje!</string>
   <string name="compress_fail_unknown">Nelze zabalit. Není dostatek volného místa na úložišti nebo nastala neznámá chyba.</string>
@@ -143,6 +144,8 @@
   <string name="disk_available">"Dostupné: "</string>
   <string name="disk_total">"Celkem: "</string>
   <string name="dlg_error_unmount_text">"Nelze odebrat USB úložiště. Zkuste to znovu."</string>
+  <string name="download">Stáhnout</string>
+  <string name="download_fail">Nelkze stáhnout</string>
   <string name="download_failed">Stahování selhalo!</string>
   <string name="download_link_completed">Sdílím %1$s přes MiDrive. Klikněte na odkaz níže: </string>
   <string name="downloaded_sticker_str">Staženo</string>
@@ -185,10 +188,13 @@
   <string name="file_too_large">Soubor je příliš velký</string>
   <string name="files">Soubory</string>
   <string name="finished">Dokončeno</string>
+  <string name="flow_setting">Nastavení</string>
   <string name="folder_exist">Složka již existuje</string>
   <string name="folder_name_empty">Název složku nesmí být prázdný</string>
   <string name="folder_name_illegal">Nesprávný název složky</string>
   <string name="folder_name_invalid">Název složky nesmí obsahovat tyto znaky: /\\:*?&lt;&gt;</string>
+  <string name="force_touch_clean">Vyčistit</string>
+  <string name="force_touch_search">Vyhledat</string>
   <string name="forward_to_web_recycle_prompt">\"%1$s\" Klepněte zde pro otevření koše v Cloudu</string>
   <string name="found_router">Router je připojen</string>
   <string name="found_usb">USB úložiště je připojeno</string>
@@ -213,8 +219,10 @@
   <string name="homepage_tab_category">Kategorie</string>
   <string name="homepage_tab_file_view">Úložiště</string>
   <string name="homepage_tab_recent">Nedávné</string>
+  <string name="hot_app">Populární apl</string>
   <string name="if_cancel">Zrušit tuto operaci?</string>
   <string name="image_loading_error">Nelze načíst obrázek</string>
+  <string name="install_fail">Nelze nainstalovat</string>
   <string name="installing">Instalace...</string>
   <string name="instruction">Zadejte v adresním řádku prohlížeče v PC:</string>
   <string name="instruction_pre">Slouží k přenosu souborů mezi telefonem a PC pomocí FTP protokolu.</string>
@@ -392,6 +400,8 @@ and never miss the cool new ones!"</string>
   <string name="oauth_failed_tip">Nebylo mořné autorizovat</string>
   <string name="oauth_success_tip">Autorizace úspěšná</string>
   <string name="online_not_support">Momentálně nelze zobrazit tento soubor online.</string>
+  <string name="only_wifi">Stáhnout po připojení na Wi-Fi</string>
+  <string name="open_app">Otevřít</string>
   <string name="open_changed_file_message">"Soubory, které chcete otevřít, se změnily, možnosti jsou:
 1. Stáhnout (aktualizovat lokální soubor)
 2. Nahrát (aktualizovat soubor v Cloudu)"</string>
@@ -456,6 +466,7 @@ and never miss the cool new ones!"</string>
   <string name="phone_storage_doc_title">"Dokum.: "</string>
   <string name="phone_storage_free_title">"Dostupné: "</string>
   <string name="phone_storage_image_title">"Obrázky: "</string>
+  <string name="phone_storage_info_str">Dostupné: %1$s | Celkem: %2$s</string>
   <string name="phone_storage_other_title">"Ostatní: "</string>
   <string name="phone_storage_size_tip">Zobrazení dostupného místa na úložiště se může lišit od zobrazení kapacity v systému.</string>
   <string name="phone_storage_total">"Celkem "</string>
@@ -475,6 +486,7 @@ and never miss the cool new ones!"</string>
   <string name="pull_to_signin">Potáhněte dolů pro podepsání se a získání dalšího volného místa.</string>
   <string name="qq_not_installed">QQ není nainstalováno</string>
   <string name="quota_info">MiDrive: %1$s dostupné, %2$s celkem</string>
+  <string name="recent_show">Nedávné</string>
   <string name="release_to_signin">Uvolněte pro podepsání se.</string>
   <string name="remote_video_no_network">Nelze se připojit k síti. Zkontrolujte své nastavení a zkuste to znovu.</string>
   <string name="rename_alert">Pokud změníte příponu tohoto souboru, nebude možné jej otevřít.</string>
@@ -536,6 +548,7 @@ and never miss the cool new ones!"</string>
   <string name="select_image">Fotografie</string>
   <string name="select_music">Skladby</string>
   <string name="select_video">Videa</string>
+  <string name="select_volume">Vyberte místo uložení</string>
   <string name="send_to_midrive_failed_message">MiDrive nepodporuje tento obsah.</string>
   <string name="send_to_qq">Odeslat na QQ</string>
   <string name="send_to_weixin">Odeslat na WeChat</string>
@@ -543,6 +556,9 @@ and never miss the cool new ones!"</string>
   <string name="server_control_charset">Kódování přenosu</string>
   <string name="server_control_settings">Nastavení</string>
   <string name="server_error">Chyba serveru, zkuste to znovu. (Chyba %s)</string>
+  <string name="set_pattern">Heslo bylo aktualizováno</string>
+  <string name="set_pattern_btn">Nastavit</string>
+  <string name="set_pattern_msg">Nastavte své heslo znovu. Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
   <string name="share_box">Sdíleno</string>
   <string name="share_box_receive">Přijato</string>
   <string name="share_box_send">Odesláno</string>
@@ -620,6 +636,8 @@ Bylo přičteno dalších %1$s"</string>
   <string name="ui_main_toast_favorite_added">Označeno</string>
   <string name="ui_main_toast_favorite_removed">Oblíbené odstraněny</string>
   <string name="ui_main_toast_operation_failed">Odstranění oblíbených %1$s selhalo</string>
+  <string name="unlock_pattern_msg">Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
+  <string name="unlock_pattern_title">Nové heslo</string>
   <string name="unmount_inform_text">USB úložiště bude odpojeno.</string>
   <string name="upload_failed">Nahrávání selhalo!</string>
   <string name="upload_file_toolarge_message">"%1$d souborů větších než 300MB nemůže být odesláno. Prosím zkontrolujte Správce přenosu pro více informací."</string>
@@ -655,22 +673,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-   <string name="force_touch_clean">Vyčistit</string>
-  <string name="force_touch_search">Vyhledat</string>
-  <string name="phone_storage_info_str">Dostupné: %1$s | Celkem: %2$s</string>
-  <string name="select_volume">Vyberte místo uložení</string>
-  <string name="download">Stáhnout</string>
-   <string name="download_fail">Nelkze stáhnout</string>
-   <string name="flow_setting">Nastavení</string>
-   <string name="hot_app">Populární apl</string>
-   <string name="install_fail">Nelze nainstalovat</string>
-   <string name="only_wifi">Stáhnout po připojení na Wi-Fi</string>
-   <string name="open_app">Otevřít</string>
-   <string name="recent_show">Nedávné</string>
-   <string name="click_to_switch_volume_pad">Dotykem přepnete mezi interním úložištěm a SD kartou</string>
-   <string name="set_pattern">Heslo bylo aktualizováno</string>
-   <string name="set_pattern_btn">Nastavit</string>
-   <string name="set_pattern_msg">Nastavte své heslo znovu. Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
-   <string name="unlock_pattern_msg">Ochrana soukromí heslem chrání i vaše fotografie a SMS.</string>
-   <string name="unlock_pattern_title">Nové heslo</string>
 </resources>

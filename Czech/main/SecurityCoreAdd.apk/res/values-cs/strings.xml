@@ -6,8 +6,10 @@
 Zprávy budou zobrazeny jen ve Druhém profilu."</string>
   <string name="PrivacyContactDes2">"Pokud jste používali soukromé zprávy v Primárním profilu,
 bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
+  <string name="add_finger_print">Přidat otisk</string>
   <string name="appData">Nainstalované apl.</string>
   <string name="app_name">Security Core Component</string>
+  <string name="back">Zpět</string>
   <string name="cancelClosePassword">Nevypínejte</string>
   <string name="cancel_button">Zrušit</string>
   <string name="changePassword">Změnit heslo</string>
@@ -47,6 +49,9 @@ bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
   <string name="deleteAll">Vymazat vše</string>
   <string name="deleteDataConfirm">Všechny položky budou vymazány</string>
   <string name="deleteDataDes">Nebyly vybrány položky na přesunutí. Nebude možné je znovu obnovit.</string>
+  <string name="delete_fingerprint">Vymazat otisk</string>
+  <string name="delete_fingerprint_desc">Otisk pro Druhý profil bude odstraněn spolu s heslem</string>
+  <string name="delete_phone_fingerprint">Vymazat otisk pro Druhý profil</string>
   <string name="delete_src_file">Vymazat soubory</string>
   <string name="delete_src_photo">Vymazat fotografie</string>
   <string name="dir_switch_out_all_photos">Galerie Druhého profilu</string>
@@ -66,6 +71,9 @@ bude tato funkce automaticky aktivní i ve Druhém profilu."</string>
   <string name="err_unknown">Neznámá chyba</string>
   <string name="err_volume_not_enough">Nedostatek místa na úložišti</string>
   <string name="exit_private_space">Přepnout</string>
+  <string name="finger_print_num">Otisk %d</string>
+  <string name="finger_print_of_use">Použít otisk</string>
+  <string name="fingerprint_removal_failed">Nelze vymazat otisk</string>
   <string name="goToSecondSpacce">Přejít do Druhého profilu</string>
   <string name="go_on_import">Pokračovat v importování</string>
   <string name="guide_contact_sub_title_desc">Kontakty přidané do Druhého profilu budou soukromé.
@@ -93,19 +101,24 @@ Můžete je i znovu stáhnout."</string>
   <string name="loading_apps">Načítání aplikací...</string>
   <string name="loading_space">Načítání...</string>
   <string name="loading_success">Načítání dokončeno</string>
+  <string name="lock_screen_open_second_space">Otevřít Druhý profil ze zamykací obrazovky</string>
   <string name="messageData">Zprávy</string>
   <string name="msg_switch_file">Vymazat tyto soubory z Primárního profilu po jejich přenesení?</string>
   <string name="msg_switch_photo">Vymazat tyto fotografie z Primárního profilu po jejich přenesení?</string>
   <string name="needSetKeyguardFirst">Nastavit heslo Primárního profilu</string>
   <string name="needSetKeyguardFirstDes">Nastavte heslo Primárního profilu ještě před tím, než nastavíte heslo pro Druhý profil</string>
+  <string name="need_set_second_space_desc">Přidejte nejprve heslo pro Druhý profil a až potom otisk</string>
+  <string name="need_set_second_space_pwd_first">Nejprve nastavte heslo pro Druhý profil</string>
   <string name="newSecondSpace">Povolit Druhý profil</string>
   <string name="next_setp">Další</string>
+  <string name="no_match_repate_scanner">Nelze rozpoznat, zkuste to znovu</string>
   <string name="normal_app">Primární profil</string>
   <string name="not_support_multiple_users">Vícero profilů není podporováno</string>
   <string name="notificationSetPassword">Nastavit heslo</string>
   <string name="notificationSetPasswordDes">Chraňte data Druhého profilu</string>
   <string name="notificationSummary">Přepněte profil z roletky</string>
   <string name="notificationTitle">Přepnout z roletky</string>
+  <string name="notification_recommend_title">Top 12 aplikací pro Druhý profil</string>
   <string name="notification_setting_second_space">Nastavte Druhý profil</string>
   <string name="notification_setting_second_space_desc">Přidejte heslo Druhého profilu a přeneste data</string>
   <string name="ok_button">OK</string>
@@ -115,6 +128,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="otherSettings">Ostatní nastavení</string>
   <string name="passWordGuardSummary">Přejděte do Druhého profilu ze zamykací obrazovky použitím hesla</string>
   <string name="passwordProtect">Heslo</string>
+  <string name="please_diff_finger_print">Ujistěte se, že používáte různé otisky pro První a Druhý profil./nJinak nebude možné otevřít Druhý profil přímo ze zamykací obrazovky.</string>
   <string name="privacyContactsSummary">Zobrazit soukromé položky ve Druhém profilu</string>
   <string name="privacyContactsTitle">Soukromé zprávy a kontakty</string>
   <string name="private_sms_show_sub_title">Zprávy budou sdíleny mezi oběma profily​</string>
@@ -124,12 +138,25 @@ Můžete je i znovu stáhnout."</string>
   <string name="removeSuccess">Vymazáno</string>
   <string name="remove_second_space_msg">Všechna data profilu budou vymazána bez možnosti jejich obnovení. Chcete pokračovat?</string>
   <string name="removingSpace">Mazání...</string>
+  <string name="repeat_scanner_fingerprint">Přidat znovu</string>
   <string name="restore_normal_show">Nezobrazovat soukromé zprávy</string>
   <string name="restore_show_desc">Nezobrazovat soukromé zprávy v Druhém profilu. Stále budou dostupné v Primárním profilu.</string>
   <string name="restore_show_toast">Nezobrazovat soukromé zprávy</string>
   <string name="retain_src_file">Ponechat soubory</string>
   <string name="retain_src_photo">Ponechat fotografie</string>
+  <string name="scanner_fingerprint">Skenování otisku...</string>
+  <string name="scanner_fingerprint_enter_second">"Skenovat otisk Druhého profilu
+  pro přístup do Druhého profilu ze zamykací obrazovky"</string>
+  <string name="scanner_fingerprint_error_tips_desc">Nelze rozpoznat. Přidat otisk pro Druhý profil?</string>
+  <string name="scanner_fingerprint_error_tips_title">Nelze rozpoznat</string>
+  <string name="scanner_fingerprint_tips_desc">Vybrat existující otisk pro vstup do Druhého profilu. Nebude možné jej použít v Prvním profilu.</string>
+  <string name="scanner_fingerprint_tips_title">Otevřít Druhý profil použitím otisku prstu</string>
+  <string name="scanner_second_space_fingerprint">Naskenovat otisk pro Druhý profil</string>
   <string name="secondSpace">Druhý profil</string>
+  <string name="second_owner_finger_print">Otisk pro Druhý profil</string>
+  <string name="second_space_finger_printf_desc">Přidat otisk speciálně pro vstup do Druhého profilu</string>
+  <string name="second_space_finger_printf_title">Otisk pro Druhý profil</string>
+  <string name="select_existed_fingerprint">Vybrat otisk prstu</string>
   <string name="serNameSummary">Druhý profil</string>
   <string name="setSecondSpacePassword">Nastavit heslo pro Druhý profil</string>
   <string name="setSecondSpacePasswordGuide">Nastavit heslo pro Druhý profil</string>
@@ -138,6 +165,9 @@ Můžete je i znovu stáhnout."</string>
   <string name="setSuccess">Heslo nastaveno</string>
   <string name="set_space_pwd_detail">Můžete vstoupit do Druhého profilu použitím hesla</string>
   <string name="set_space_pwd_suc">Přidáno heslo pro Druhý profil</string>
+  <string name="setting_finger_print_sub_title">Ujistěte se, že používáte různé otisky pro První a Druhý profil</string>
+  <string name="setting_finger_print_title">Přidat otisk pro Druhý profil</string>
+  <string name="setting_fingerprint_title">Přidat heslo pro Druhý profil</string>
   <string name="setting_is_show_text_contacts">Nastavit soukromé kontakty a zprávy</string>
   <string name="settings_cross_notification_summary">Dostávat upozornění z Druhého profilu</string>
   <string name="settings_cross_notification_title">Upozornění</string>
@@ -156,8 +186,13 @@ Můžete je i znovu stáhnout."</string>
   <string name="spaceSetting">Nastavení</string>
   <string name="startSet">Nastavit</string>
   <string name="startTransfer">Přenést</string>
+  <string name="start_input_finger_print">Přidat otisk prstu</string>
+  <string name="start_new_fingerprint">Přidat nový otisk prstu</string>
+  <string name="start_new_fingerprint_tips">"Použít otisk Druhého profilu
+  pro přístup do Druhého profilu ze zamykací obrazovky"</string>
   <string name="start_setting_guide_desc_title">Pár věcí je nutné nastavit</string>
   <string name="summary_switch_apps_settings">Vyberte apl. použité v Druhém profilu</string>
+  <string name="sure_to_use">Potvrdit</string>
   <string name="switchDataSummary">Přenést položky mezi profily</string>
   <string name="switch_apps_settings">Nastavení apl.</string>
   <string name="switch_data_app">Přenést položky do Druhého profilu</string>
@@ -201,6 +236,7 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_description">Klonování apl. umožní jejich oddělené používání. Klonované aplikace budou mít svou ikonu na ploše.</string>
   <string name="xspace_header">Klonované aplikace</string>
   <string name="xspace_install_completed">Ikona přidána na plochu</string>
+  <string name="xspace_install_failed">Nelze vytvořit</string>
   <string name="xspace_installing">Instalace...</string>
   <string name="xspace_introduce">Doporučené</string>
   <string name="xspace_label">Klonované aplikace</string>
@@ -209,40 +245,4 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_content">Odinstalace klonované aplikace vymaže všechna její data.</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
-  <string name="add_finger_print">Přidat otisk</string>
-   <string name="back">Zpět</string>
-   <string name="delete_fingerprint">Vymazat otisk</string>
-   <string name="delete_fingerprint_desc">Otisk pro Druhý profil bude odstraněn spolu s heslem</string>
-   <string name="delete_phone_fingerprint">Vymazat otisk pro Druhý profil</string>
-   <string name="finger_print_num">Otisk %d</string>
-   <string name="finger_print_of_use">Použít otisk</string>
-   <string name="fingerprint_removal_failed">Nelze vymazat otisk</string>
-   <string name="lock_screen_open_second_space">Otevřít Druhý profil ze zamykací obrazovky</string>
-   <string name="need_set_second_space_desc">Přidejte nejprve heslo pro Druhý profil a až potom otisk</string>
-   <string name="need_set_second_space_pwd_first">Nejprve nastavte heslo pro Druhý profil</string>
-   <string name="no_match_repate_scanner">Nelze rozpoznat, zkuste to znovu</string>
-   <string name="notification_recommend_title">Top 12 aplikací pro Druhý profil</string>
-   <string name="please_diff_finger_print">Ujistěte se, že používáte různé otisky pro První a Druhý profil./nJinak nebude možné otevřít Druhý profil přímo ze zamykací obrazovky.</string>
-   <string name="repeat_scanner_fingerprint">Přidat znovu</string>
-   <string name="scanner_fingerprint_error_tips_desc">Nelze rozpoznat. Přidat otisk pro Druhý profil?</string>
-   <string name="scanner_fingerprint_error_tips_title">Nelze rozpoznat</string>
-   <string name="scanner_fingerprint_tips_desc">Vybrat existující otisk pro vstup do Druhého profilu. Nebude možné jej použít v Prvním profilu.</string>
-   <string name="scanner_fingerprint_tips_title">Otevřít Druhý profil použitím otisku prstu</string>
-   <string name="scanner_second_space_fingerprint">Naskenovat otisk pro Druhý profil</string>
-   <string name="second_owner_finger_print">Otisk pro Druhý profil</string>
-   <string name="second_space_finger_printf_desc">Přidat otisk speciálně pro vstup do Druhého profilu</string>
-   <string name="second_space_finger_printf_title">Otisk pro Druhý profil</string>
-   <string name="select_existed_fingerprint">Vybrat otisk prstu</string>
-   <string name="setting_finger_print_sub_title">Ujistěte se, že používáte různé otisky pro První a Druhý profil</string>
-   <string name="setting_finger_print_title">Přidat otisk pro Druhý profil</string>
-   <string name="setting_fingerprint_title">Přidat heslo pro Druhý profil</string>
-   <string name="start_input_finger_print">Přidat otisk prstu</string>
-   <string name="start_new_fingerprint">Přidat nový otisk prstu</string>
-   <string name="start_new_fingerprint_tips">"Použít otisk Druhého profilu
-  pro přístup do Druhého profilu ze zamykací obrazovky"</string>
-   <string name="sure_to_use">Potvrdit</string>
-   <string name="xspace_install_failed">Nelze vytvořit</string>
-   <string name="scanner_fingerprint">Skenování otisku...</string>
-   <string name="scanner_fingerprint_enter_second">"Skenovat otisk Druhého profilu
-  pro přístup do Druhého profilu ze zamykací obrazovky"</string>  
 </resources>

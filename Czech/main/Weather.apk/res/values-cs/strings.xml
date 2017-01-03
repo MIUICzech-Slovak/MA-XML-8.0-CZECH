@@ -16,6 +16,7 @@
   <string name="activity_main_refresh_fail">Nebylo možné se připojit k síti</string>
   <string name="activity_main_time_format">dd.MM.</string>
   <string name="activity_main_update_time">Aktualizováno: %1$s</string>
+  <string name="activity_main_update_time_expire">Neaktuální data</string>
   <string name="activity_main_update_time_right_now">Nyní</string>
   <string name="activity_weathermain_locationg">Získávání polohy...</string>
   <string name="activity_weathermain_locationg_error">Zjištění polohy selhalo</string>
@@ -29,7 +30,9 @@
   <string name="button_exit">Ukončit</string>
   <string name="button_not_allow">Zrušit</string>
   <string name="button_sure_abandon">Zrušit změny?</string>
+  <string name="change_alert">Zkontrolujte nastavení sítě a zkuste to znovu</string>
   <string name="close">Zavřít</string>
+  <string name="common_loading_text">Načítání...</string>
   <string name="daily_forcast_drawer_on_bottom">Skrýt</string>
   <string name="daily_forcast_drawer_on_top">%1$s-denní předpověď</string>
   <string name="daily_forcast_no_stable_direction">Vánek</string>
@@ -41,7 +44,9 @@
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Pro načtení informací o počasí a poloze je nutné internetové připojení.</string>
   <string name="first_start_network_title">Upozornění na připojení</string>
+  <string name="global_aqi"/>
   <string name="gps_hint">Současná poloha</string>
+  <string name="hide_topic">Skrýt</string>
   <string name="hourly_forcast_now">Nyní</string>
   <string name="hourly_forecast_title">Hodinová předpověď</string>
   <string name="indices_desc_feel">Pocitově %1$s °C</string>
@@ -58,6 +63,7 @@
   <string name="indices_title_sport">Sport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Viditelnost</string>
+  <string name="information_manager_extension">Rozšířená předpověď</string>
   <string name="information_manager_information">Onformace o počasí</string>
   <string name="information_manager_wlan">Načíst jen na Wi-Fi</string>
   <string name="install">Instalovat</string>
@@ -79,9 +85,11 @@ Zadejte město manuálně"</string>
   <string name="network_unavailable">Žádná síť</string>
   <string name="no_network_btn">Zkusit znovu</string>
   <string name="open_browser">Otevřít v Prohlížeči</string>
+  <string name="other">Ostatní</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkost</string>
   <string name="realtime_wind_default_title">Vítr</string>
+  <string name="refresh_fail">Nelze se připojit k síti</string>
   <string name="retry">Znovu</string>
   <string name="set">Nastavení</string>
   <string name="share">Sdílet</string>
@@ -104,12 +112,4 @@ Zadejte město manuálně"</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zítra</string>
   <string name="weather_alert">Varování</string>
-  <string name="global_aqi"/>
-  <string name="hide_topic">Skrýt</string>
-  <string name="common_loading_text">Načítání...</string>
-   <string name="refresh_fail">Nelze se připojit k síti</string>
-    <string name="change_alert">Zkontrolujte nastavení sítě a zkuste to znovu</string>
-    <string name="activity_main_update_time_expire">Neaktuální data</string>
-    <string name="information_manager_extension">Rozšířená předpověď</string>
-   <string name="other">Ostatní</string>
 </resources>

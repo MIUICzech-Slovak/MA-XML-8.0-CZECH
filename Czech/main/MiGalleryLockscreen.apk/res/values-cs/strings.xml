@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Denní tapeta</string>
+  <string name="apply">Použít</string>
   <string name="at_least_one">Vyberte alespoň jednu kategorii</string>
   <string name="auto_interval">Auto</string>
   <string name="cancel">Ukončit</string>
@@ -11,12 +12,18 @@
   <string name="declaration"/>
   <string name="declaration_lockscreen_title">Povolit denní tapetu zamyk. obr.</string>
   <string name="declaration_title">Podmínky používání</string>
+  <string name="dislike">Vymazat</string>
+  <string name="from_migallerylockscreen">" "</string>
   <string name="hour_1">1 hodina</string>
   <string name="hour_3">3 hodiny</string>
+  <string name="like">Líbí se</string>
+  <string name="liked">Líbí se</string>
   <string name="lockscreen_magazine_subscribe">Uživatelů: %1$s</string>
+  <string name="lockscreen_magazine_summary">Kategorie</string>
   <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
   <string name="lockscreen_magazine_system_title">Výchozí</string>
   <string name="lockscreen_magazine_title">Denní tapeta zamykací obrazovky</string>
+  <string name="lockscreen_wallpaper_changed">Tapeta změněna</string>
   <string name="minutes_15">15 minut</string>
   <string name="no_long_show">Znovu nezobrazovat</string>
   <string name="ok">OK</string>
@@ -24,9 +31,16 @@
   <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Souhlasím</string>
+  <string name="platform_unavailable_qq">Nainstalujte QQ</string>
+  <string name="platform_unavailable_qzone">Nainstalujte Qzone</string>
+  <string name="platform_unavailable_wechat">Nainstalujte wechat</string>
+  <string name="platform_unavailable_wechatmoment">Nainstalujte wechat</string>
+  <string name="platform_unavailable_weibo">Nainstalujte weibo</string>
   <string name="resource_apply">Použít</string>
   <string name="resource_no_network_text">Nelze se připojit k síti.</string>
   <string name="setting_head">Nastavení</string>
+  <string name="settings">Nastavení</string>
+  <string name="share">Sdílet</string>
   <string name="sst_favor_desc">Oblíbené tapety</string>
   <string name="sst_favor_title">Oblíbené</string>
   <string name="sst_grid_view_select_all">Vše</string>
@@ -47,18 +61,4 @@
   <string name="theme_applying">Nastavování...</string>
   <string name="wlan_download">Stáhnout pouze přes Wi-Fi</string>
   <string name="wlan_download_cn">Stáhnout pouze přes Wi-Fi</string>
-  <string name="apply">Použít</string>
-   <string name="dislike">Vymazat</string>
-   <string name="from_migallerylockscreen">" "</string>
-   <string name="like">Líbí se</string>
-   <string name="liked">Líbí se</string>
-   <string name="lockscreen_magazine_summary">Kategorie</string>
-   <string name="lockscreen_wallpaper_changed">Tapeta změněna</string>
-   <string name="platform_unavailable_qq">Nainstalujte QQ</string>
-   <string name="platform_unavailable_qzone">Nainstalujte Qzone</string>
-   <string name="platform_unavailable_wechat">Nainstalujte wechat</string>
-   <string name="platform_unavailable_wechatmoment">Nainstalujte wechat</string>
-   <string name="platform_unavailable_weibo">Nainstalujte weibo</string>
-   <string name="settings">Nastavení</string>
-   <string name="share">Sdílet</string>
 </resources>

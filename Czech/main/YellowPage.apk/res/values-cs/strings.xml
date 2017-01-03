@@ -97,13 +97,20 @@ Please check tracking number"</string>
   <string name="expresss_inquiry_frequently_used_logistics">Common</string>
   <string name="login_before_use">Před navýšením se musíte přihlásit.</string>
   <string name="login_ok">Přihlásit</string>
+  <string name="mark_number_check_choose_others">Vybrat jiné</string>
+  <string name="mark_number_check_dialog_title">Označit číslo</string>
+  <string name="mark_number_check_most_choice">(Nejčastější volba)</string>
   <string name="mark_number_custom_dialog_maintitle">Souhlasíte nebo chcete upravit označení?</string>
   <string name="mark_number_custom_mark_deleted">Označení odebráno</string>
+  <string name="mark_number_delete_confirm_message">Odstranit označení %s ?</string>
+  <string name="mark_number_delete_confirm_title">Odstranit označení</string>
   <string name="mark_number_dialog_maintitle">Označit jako spam a odeslat</string>
   <string name="mark_number_dialog_subtitle">Označeno %2$d lidmi jako %1$s.</string>
   <string name="mark_number_feedback">Nahlásit</string>
   <string name="mark_number_feedback_hint">Zadejte svůj názor</string>
   <string name="mark_number_feedback_invalid_hint">Zadejte správný údaj</string>
+  <string name="mark_number_feedback_not_number">Není to číslo %s</string>
+  <string name="mark_number_feedback_personal_number">Je to soukromé číslo</string>
   <string name="mark_number_feedback_success">Názor odeslán, číslo bude ověřeno.</string>
   <string name="mark_number_marked_maintitle">Upravit</string>
   <string name="mark_number_marked_subtitle">Označeno jako %s</string>
@@ -200,11 +207,4 @@ Mějte na paměti, že žádná banka nebo jiné společnosti se vás nesmí pt�
   <string name="yellow_page_call_log_title">Seznam hovorů</string>
   <string name="yellow_page_detail_title">Co je to</string>
   <string name="yellow_page_website">Oficiální stránka</string>
-   <string name="mark_number_check_choose_others">Vybrat jiné</string>
-   <string name="mark_number_check_dialog_title">Označit číslo</string>
-   <string name="mark_number_check_most_choice">(Nejčastější volba)</string>
-   <string name="mark_number_feedback_not_number">Není to číslo %s</string>
-   <string name="mark_number_feedback_personal_number">Je to soukromé číslo</string>
-   <string name="mark_number_delete_confirm_message">Odstranit označení %s ?</string>
-   <string name="mark_number_delete_confirm_title">Odstranit označení</string>
 </resources>

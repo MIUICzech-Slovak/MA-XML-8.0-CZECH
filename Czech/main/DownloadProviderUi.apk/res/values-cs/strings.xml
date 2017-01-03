@@ -45,6 +45,7 @@
   <string name="deselect_all">Zrušit výběr</string>
   <string name="deselect_subfile_all">Odznačit</string>
   <string name="determine">Potvrdit</string>
+  <string name="dialog_btn_cancel">Zrušit</string>
   <string name="dialog_btn_ok_disabled_net">Nastavení sítě</string>
   <string name="dialog_cannot_resume">Stahování přerušeno. Nemůže být obnoveno.</string>
   <string name="dialog_confirm_delete_checkbox_message">Vymazat i uložený soubor</string>
@@ -58,10 +59,12 @@
   <string name="dialog_insufficient_space_on_external">Nelze dokončit stahování. Není dostatek místa na externím úložišti.</string>
   <string name="dialog_media_not_found">Nelze stáhnout. Externí médium není k dispozici.</string>
   <string name="dialog_msg_disabled_net">%1$s zakázaná stahování v aktuální síti.</string>
+  <string name="dialog_msg_recommend">Nebude možné zobrazit doporučené zdroje. Je to funkce jen pro Čínu a je doporučeno ji vypnout.</string>
   <string name="dialog_queued_body">Tento soubor je již ve frontě pro stažení.</string>
   <string name="dialog_title_disabled_net">Přístup k internetu</string>
   <string name="dialog_title_not_available">Stahování neúspěšné</string>
   <string name="dialog_title_queued_body">Soubor zatím není k dispozici</string>
+  <string name="dialog_title_recommend">Deaktivovat doporučený obsah</string>
   <string name="disable">Deaktivovat</string>
   <string name="display_expire_netiv1">Měsíčně</string>
   <string name="do_not_support_url">Tento typ URL není podporován</string>
@@ -99,6 +102,9 @@
   <string name="download_share_dialog">Sdílet prostřednictvím</string>
   <string name="download_speed">Rychlost stahování:</string>
   <string name="download_spend_time">Čas</string>
+  <string name="download_status_continue">Obnovit</string>
+  <string name="download_status_fail">Znovu</string>
+  <string name="download_status_paused">Pauza</string>
   <string name="download_success">Kompletní</string>
   <string name="download_title">Stahování</string>
   <string name="download_title_sorted_by_date">Stažené - podle data</string>
@@ -128,6 +134,9 @@
   <string name="high_speed_channel">High speed channel data</string>
   <string name="hint">Upozornění</string>
   <string name="immediately_a_renewal">Prodloužit</string>
+  <string name="info_flow_only_load_wifi">Načíst doporučené pouze přes Wi-Fi</string>
+  <string name="info_flow_setting">Nastavení obsahu</string>
+  <string name="info_flow_show">Zobrazit doporučený obsah</string>
   <string name="input_valid_address">Zadejte cestu k souboru</string>
   <string name="install">Instalovat</string>
   <string name="installing">Instalování...</string>
@@ -268,13 +277,4 @@ Tato funkce není mimo Čínu doporučena"</string>
   <string name="xunlei_open_info">Stáhnout tento soubor přes MIUI správce stahování?</string>
   <string name="xunlei_speed_service">Xunlei stahování</string>
   <string name="xunlei_switch">Xunlei stahování</string>
-   <string name="download_status_continue">Obnovit</string>
-   <string name="download_status_fail">Znovu</string>
-   <string name="download_status_paused">Pauza</string>
-   <string name="info_flow_only_load_wifi">Načíst doporučené pouze přes Wi-Fi</string>
-   <string name="info_flow_setting">Nastavení obsahu</string>
-   <string name="info_flow_show">Zobrazit doporučený obsah</string>
-   <string name="dialog_title_recommend">Deaktivovat doporučený obsah</string>
-   <string name="dialog_msg_recommend">Nebude možné zobrazit doporučené zdroje. Je to funkce jen pro Čínu a je doporučeno ji vypnout.</string>
-   <string name="dialog_btn_cancel">Zrušit</string>  
 </resources>

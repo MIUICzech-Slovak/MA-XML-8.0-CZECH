@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Kalkulačka</string>
+  <string name="app_name_danfa">Mi Kalkulačka</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">Kopírovat</string>
   <string name="cal_edit_mode">Režim úpravy</string>
@@ -18,9 +19,11 @@
   <string name="convertion_unit_volume">Konverze objemu</string>
   <string name="convertion_unit_weight">Konverze hmotnosti</string>
   <string name="currency_update_time_format">Aktualizováno %s</string>
+  <string name="dateformat">dd.MM.yyyy</string>
   <string name="error">Chyba</string>
   <string name="error_fomrat">Chyba formátu</string>
   <string name="from_unit_en">kilometry za hodinu</string>
+  <string name="home_title_calculator">Kalkulačka</string>
   <string name="item_title_aa_payment">Rozdělit účet</string>
   <string name="item_title_area_conversion">Plocha</string>
   <string name="item_title_calculator">Kalkulačka</string>
@@ -79,6 +82,15 @@
   <string name="mortgage_years_amount">Hypoteční období</string>
   <string name="network_confirm_content">Výpočet daní, kurzů měn a hypotéky vyžaduje stahování dat z internetu.</string>
   <string name="network_confirm_title">Je vyžadováno připojení k internetu</string>
+  <string name="preference_about_calculator">O kalkulačce</string>
+  <string name="preference_check_update_title">Zkontrolovat aktualizace</string>
+  <string name="preference_settings">Nastavení</string>
+  <string name="preference_use_degress_summary">Nahradit radiány s úhly v goniometrických funkcích</string>
+  <string name="preference_use_degress_title">Použití úhlů</string>
+  <string name="tax_annual_bonus_number">Bonus</string>
+  <string name="tax_city_error">Zadejte vaše město</string>
+  <string name="tax_last_salary_hint">Zadejte vaše příjmy</string>
+  <string name="tax_last_salary_number">Příjmy</string>
   <string name="title_bar">Konverze délky</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
@@ -182,16 +194,4 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Rok %s</string>
   <string name="wf_word_figure">Finanční znaky</string>
-  <string name="dateformat">dd.MM.yyyy</string>
-  <string name="home_title_calculator">Kalkulačka</string>
-   <string name="tax_last_salary_hint">Zadejte vaše příjmy</string>
-   <string name="tax_last_salary_number">Příjmy</string>
-   <string name="tax_city_error">Zadejte vaše město</string>
-   <string name="tax_annual_bonus_number">Bonus</string>
-   <string name="preference_about_calculator">O kalkulačce</string>
-   <string name="preference_check_update_title">Zkontrolovat aktualizace</string>
-   <string name="preference_settings">Nastavení</string>
-   <string name="preference_use_degress_summary">Nahradit radiány s úhly v goniometrických funkcích</string>
-   <string name="preference_use_degress_title">Použití úhlů</string>
-    <string name="app_name_danfa">Mi Kalkulačka</string>
 </resources>

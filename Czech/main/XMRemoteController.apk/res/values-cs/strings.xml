@@ -256,6 +256,8 @@
   <string name="match_mibox_third">    · Párování ostatních zařízení Mi automaticky</string>
   <string name="match_name_power">Zapnout</string>
   <string name="match_number_default">Zařízení reagovalo?</string>
+  <string name="match_power_confirm_tip_frame">%1$s reagoval?</string>
+  <string name="match_power_main_tip_frame">%1$s reagoval?</string>
   <string name="match_stb_intro_left">Left-top boxes transmit direction</string>
   <string name="match_stb_intro_ok">Spusťte set-top box pro stanovení klíče</string>
   <string name="match_stb_intro_up">Launch set-top boxes direction keys</string>
@@ -326,6 +328,7 @@
   <string name="notification_str1">Taiwan "</string>
   <string name="notification_str2">" Půl hodiny později</string>
   <string name="notification_title">Připomenutí</string>
+  <string name="num_keys">Čísla</string>
   <string name="office">Kancelář</string>
   <string name="open">Zap</string>
   <string name="open_close">Zapnout</string>
@@ -475,6 +478,8 @@ Zkontrolujte i SPAM."</string>
   <string name="play_on_tv">Přehrát na TV</string>
   <string name="please_enter">Nesmí být prázdné</string>
   <string name="power">Zapínání</string>
+  <string name="power_off">Vypnul se</string>
+  <string name="power_on">Zapnul se</string>
   <string name="press_to_continue_match">Pokračovat</string>
   <string name="press_to_match">Spustit</string>
   <string name="privacy_agree">OK</string>
@@ -630,9 +635,4 @@ Zkontrolujte i SPAM."</string>
   <string name="wind_speed_medium">střední</string>
   <string name="wind_sweep">dosah</string>
   <string name="yes">Ano</string>
-  <string name="num_keys">Čísla</string>
-   <string name="power_off">Vypnul se</string>
-   <string name="power_on">Zapnul se</string>
-   <string name="match_power_confirm_tip_frame">%1$s reagoval?</string>
-   <string name="match_power_main_tip_frame">%1$s reagoval?</string>  
 </resources>

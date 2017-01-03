@@ -3,6 +3,7 @@
   <string name="account_info">Můj účet</string>
   <string name="account_name_not_login">Přihlásit se</string>
   <string name="account_unactivated">Účet není aktivován.</string>
+  <string name="add_resource_detail_fail">Nelze přidat zdroje</string>
   <string name="all_resources">Vše</string>
   <string name="app_name">Témata</string>
   <string name="apply_default_font_tip">Ponechat současné písmo?</string>
@@ -45,6 +46,9 @@
   <string name="fail_to_add_account">Přidávání účtu selhalo.</string>
   <string name="favorite_list">Oblíbené</string>
   <string name="favorite_list_format">Oblíbené %1$s</string>
+  <string name="forcetouch_featured">Doporučené</string>
+  <string name="forcetouch_free_themes">Zdarma</string>
+  <string name="forcetouch_offline">Lokální</string>
   <string name="gift_anonymous">Anonymní</string>
   <string name="gift_count_format">%1$s</string>
   <string name="gift_operation_fail_dlg_abandon">Zrušit</string>
@@ -93,6 +97,10 @@
   <string name="lockscreen_wallpaper">Tapeta zámku</string>
   <string name="lockstyle_personal_settings">Přizpůsobit</string>
   <string name="mi_wallpaper">Mi-tapeta</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Zvonění je nastaveno stejně pro SIM 1 i SIM 2.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Rozumím</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">Znovu nezobrazovat</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>
   <string name="my_gifts">Dary</string>
   <string name="my_gifts_purchased">Zakoupeno</string>
   <string name="my_gifts_received">Přijato</string>
@@ -106,7 +114,9 @@
   <string name="provision_second_title">Vyberte si jednu z pěti výchozích témat</string>
   <string name="provision_title">Vyberte téma</string>
   <string name="purchased_list">Zakoupeno</string>
+  <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_format">Zakoupeno %1$s</string>
+  <string name="purchased_list_legacy">Staré témata</string>
   <string name="reload">Znovu</string>
   <string name="resource_account_abnormal_state">Chyba účtu: Zkuste to znovu později.</string>
   <string name="resource_account_fail_to_add">Přidávání účtu selhalo.</string>
@@ -160,6 +170,7 @@
   <string name="resource_comment_upload_not_logined">Musíte se nejprve přihlásit</string>
   <string name="resource_comment_upload_success">Komentář je odeslán! Zobrazí se až po jeho schválení.</string>
   <string name="resource_continue">Další</string>
+  <string name="resource_data_empty">Prázdné</string>
   <string name="resource_default">Výchozí zvonění</string>
   <string name="resource_default_name">Zdroj</string>
   <string name="resource_delete">Vymazat</string>
@@ -374,6 +385,7 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="theme_user_agreement_remind_summary">Použít při dalším spuštění</string>
   <string name="theme_user_agreement_title">Prohlášení</string>
   <string name="theme_yes">Ano</string>
+  <string name="third_party_pickers_activity_title">Přidat %1$s</string>
   <string name="title_component">Upravit téma</string>
   <string name="title_my_audio_resource">Moje zvonění</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
@@ -387,16 +399,4 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastavit jako zámek obrazovky</string>
   <string name="wallpaper_settings">Nastavení tapety</string>
-  <string name="resource_data_empty">Prázdné</string>
-  <string name="forcetouch_featured">Doporučené</string>
-  <string name="forcetouch_free_themes">Zdarma</string>
-  <string name="forcetouch_offline">Lokální</string>  
-  <string name="purchased_list_current">MIUI 8</string>
-  <string name="purchased_list_legacy">Staré témata</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Zvonění je nastaveno stejně pro SIM 1 i SIM 2.</string>
-   <string name="multi_sim_ringtone_settings_dialog_ok">Rozumím</string>
-   <string name="multi_sim_ringtone_settings_dialog_remind_never">Znovu nezobrazovat</string>
-   <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>   
-    <string name="add_resource_detail_fail">Nelze přidat zdroje</string>
-  <string name="third_party_pickers_activity_title">Přidat %1$s</string>
 </resources>

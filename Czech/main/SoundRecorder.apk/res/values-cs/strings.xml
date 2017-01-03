@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="alert_message_clear_records">Vymazat vybrané nahrávky?</string>
   <string name="alert_message_delete_record">Vymazat zvolenou nahrávku?</string>
   <string name="alert_message_delete_record_title">Vymazat nahrávku</string>
   <string name="app_name">Záznamník</string>
   <string name="back">Zpět</string>
+  <string name="btn_clear_records">Vymazat nahrávky (%d)</string>
   <string name="button_queue_for_wifi">Přes Wi-Fi</string>
   <string name="button_start_now">Stáhnout</string>
   <string name="call_record">Nahrávka hovoru</string>
+  <string name="choose_call_records_count">Položek: %d</string>
+  <string name="clear_records">Vymazat synchr. nahrávky</string>
   <string name="cloud_record">Nahrávka v Cloudu (%d)</string>
   <string name="cloud_record_open">Synchr. nahrávky</string>
   <string name="cloud_record_tip">Synchr. nahrávky s MiCloud.</string>
@@ -39,6 +43,8 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="fm_record">Nahrávání FM rádia (%d)</string>
   <string name="invalid_argument">Neplatný argument</string>
   <string name="low_battery_error">Baterie má méně než 5%. Nahrávání bylo zastaveno a uloženo, aby nedošlo ke ztrátě nahrávky. Pro pokračování nahrávání připojte nabíječku.</string>
+  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_title">Slabá baterie</string>
   <string name="mark_point_list_title">Označit</string>
   <string name="message_file_size_error">Nahrávka dosáhla maximální délku nahrávání podporovanou pro %s</string>
   <string name="new_record_name">Nová nahrávka</string>
@@ -138,10 +144,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="alert_message_clear_records">Vymazat vybrané nahrávky?</string>
-   <string name="btn_clear_records">Vymazat nahrávky (%d)</string>
-   <string name="choose_call_records_count">Položek: %d</string>
-   <string name="clear_records">Vymazat synchr. nahrávky</string>
-   <string name="low_battery_error_confirm">OK</string>
-   <string name="low_battery_error_title">Slabá baterie</string>
 </resources>

@@ -109,10 +109,20 @@
   <string name="preparing_sd">Příprava SD karty...</string>
   <string name="previous">Zpět</string>
   <string name="qr_code_details">"QR kód: "</string>
+  <string name="recognition_error_download_cancel">Později</string>
+  <string name="recognition_error_download_data_msg">Rozpoznávání vizitek potřebuje stáhnout doplněk o velikosti okolo 15 MB.</string>
+  <string name="recognition_error_download_fail">Stahování doplňku selhalo</string>
+  <string name="recognition_error_download_msg">Rozpoznávání vizitek potřebuje stáhnout doplněk o velikosti okolo 15 MB.</string>
+  <string name="recognition_error_download_no_network">Stahování selhalo. Zkontrolujte nastavení sítě.</string>
+  <string name="recognition_error_download_ok">Stáhnout</string>
+  <string name="recognition_error_download_success">Doplněk stažen</string>
+  <string name="recognition_error_download_title">Je nutný doplněk</string>
+  <string name="recognition_error_downloading">Stahování doplňku...</string>
   <string name="recognize">Skenovat</string>
   <string name="recognize_fail">Nelze načíst kód</string>
   <string name="scan_fail">Nelze načíst kód</string>
   <string name="scan_result">Výsledek</string>
+  <string name="sdk_not_ready">Příprava SDK. Zkuste znovu později.</string>
   <string name="secure_access_web_url">Otevřít web</string>
   <string name="see_app_details">Zobrazit podrobnosti</string>
   <string name="settings">Nastavení</string>
@@ -149,14 +159,4 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnost: "</string>
   <string name="wifi_ssid">"SSID: "</string>
-  <string name="sdk_not_ready">Příprava SDK. Zkuste znovu později.</string>
-  <string name="recognition_error_download_cancel">Později</string>
-   <string name="recognition_error_download_data_msg">Rozpoznávání vizitek potřebuje stáhnout doplněk o velikosti okolo 15 MB.</string>
-   <string name="recognition_error_download_fail">Stahování doplňku selhalo</string>
-   <string name="recognition_error_download_msg">Rozpoznávání vizitek potřebuje stáhnout doplněk o velikosti okolo 15 MB.</string>
-   <string name="recognition_error_download_no_network">Stahování selhalo. Zkontrolujte nastavení sítě.</string>
-   <string name="recognition_error_download_ok">Stáhnout</string>
-   <string name="recognition_error_download_success">Doplněk stažen</string>
-   <string name="recognition_error_download_title">Je nutný doplněk</string>
-   <string name="recognition_error_downloading">Stahování doplňku...</string> 
 </resources>

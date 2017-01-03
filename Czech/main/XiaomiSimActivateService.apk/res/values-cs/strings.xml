@@ -13,11 +13,15 @@
   <string name="activate_feature_mx_and_voip">MiZprávy</string>
   <string name="activate_feature_register_xiaomi_account">Nastavení Mi účtu</string>
   <string name="activate_feature_verify_mx_token">Ověření Mi účtu</string>
+  <string name="activate_history_canceled_overview">Aktivace SIM karty byla zrušena. Aktivace je spuštěna \"%1$s\".</string>
   <string name="activate_history_cancelled">Zrušeno</string>
+  <string name="activate_history_multisim_canceled_overview">Aktivace SIM karty %2$d byla zrušena. Aktivace je spuštěna \"%1$s\".</string>
   <string name="activate_history_multisim_overview">Aktivace pro SIM kartu %3$d %1$s. Spuštěno \"%2$s\".</string>
+  <string name="activate_history_multisim_success_overview">Aktivace SIM karty %2$d úspěšná. Aktivace je spuštěna \"%1$s\".</string>
   <string name="activate_history_overview">Aktivace pro SIM kartu %1$s. Spuštěno \"%2$s\".</string>
   <string name="activate_history_sms">SMS byla odeslána během akrivace.</string>
   <string name="activate_history_success">Úspěšné</string>
+  <string name="activate_history_success_overview">Aktivace SIM karty úspěšná. Aktivace je spuštěna \"%1$s\".</string>
   <string name="activate_history_title">Aktivace SIM karty</string>
   <string name="activate_phone_cancel_notif_title">Aktivace SIM karty zrušena</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktivace SIM karty %s zrušena</string>
@@ -112,8 +116,4 @@ ID zařízení musí být platné IMEI nebo MAC adresa. Bez platného ID nebudou
   <string name="sync_notification_title_format">Synchronizace: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="activate_history_canceled_overview">Aktivace SIM karty byla zrušena. Aktivace je spuštěna \"%1$s\".</string>
-   <string name="activate_history_multisim_canceled_overview">Aktivace SIM karty %2$d byla zrušena. Aktivace je spuštěna \"%1$s\".</string>
-   <string name="activate_history_multisim_success_overview">Aktivace SIM karty %2$d úspěšná. Aktivace je spuštěna \"%1$s\".</string>
-   <string name="activate_history_success_overview">Aktivace SIM karty úspěšná. Aktivace je spuštěna \"%1$s\".</string>
 </resources>

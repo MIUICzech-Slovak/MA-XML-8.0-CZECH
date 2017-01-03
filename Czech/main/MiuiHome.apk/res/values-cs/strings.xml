@@ -48,6 +48,8 @@
   <string name="children_folder_title">Rodičovská kontrola</string>
   <string name="children_mode_exit">Ukončit</string>
   <string name="children_mode_tips">Vraťte se do nastavení pro správu dostupných aplikací.</string>
+  <string name="children_mode_tips_message">V dětském režimu nelze vybrat žádnou aplikaci.</string>
+  <string name="children_mode_tips_title">Vyberte aplikaci</string>
   <string name="choose_wallpaper">Vyberte tapetu</string>
   <string name="chooser_wallpaper">Vybrat tapetu z</string>
   <string name="cloud_app_restore_title">V pořadí</string>
@@ -76,6 +78,7 @@
   <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sobě pro úpravu plochy</string>
   <string name="editing_mode_title">Vybráno: %1$d</string>
   <string name="editing_mode_title_empty">Vyberte položky</string>
+  <string name="editing_set_screen_layout_cells">Vyberte efekt rozložení</string>
   <string name="editing_set_transition_effect_tips">Efekty</string>
   <string name="editing_set_wallpaper_tips">Tapeta</string>
   <string name="editing_tips">Přidat nebo odebrat Widget</string>
@@ -147,6 +150,7 @@
   <string name="invalid_contact_shortcut">Neplatný zástupce kontaktu</string>
   <string name="is_setting_wallpaper_message">Nastavování tapety...</string>
   <string name="is_system_wallpaper_message">Nelze vymazat systémové soubory</string>
+  <string name="launcher_not_exist">Launcher přestal pracovat, zkuste to znovu.</string>
   <string name="like">Líbí se</string>
   <string name="liked">Líbí se</string>
   <string name="loading_desktop">Načítání launcheru...</string>
@@ -175,6 +179,8 @@
   <string name="multi_selecting_tips">Dotkněte se ikon</string>
   <string name="no_detail_page">Žádné podrobnosti</string>
   <string name="normal_wallpaper">Tapeta</string>
+  <string name="notification_installed">Nainstalováno</string>
+  <string name="notification_open_button">Otevřít</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na této ploše již není místo.</string>
   <string name="permdesc_install_shortcut">Povoluje aplikaci přidat zástupce bez zásahu uživatele.</string>
@@ -212,6 +218,7 @@
   <string name="recommend_apps_switch_title">Doporučené apl.</string>
   <string name="recommend_apps_tips">Tato funkce vyžaduje internetové připojení pro její správnou funkčnost. Pro zakázání funkce se dotkněte názvu této složky.</string>
   <string name="reset_scene_prompt">Scéna bude obnovena do výchozího stavu</string>
+  <string name="screen_locked_toast">Rozložení plochy je uzamčeno</string>
   <string name="screen_number">Plocha: %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikací</string>
   <string name="select_all">Vše</string>
@@ -235,6 +242,7 @@
   <string name="status_pending">Čeká</string>
   <string name="title_select_live_folder">Vybrat složku</string>
   <string name="title_select_shortcut">Vybrat zástupce</string>
+  <string name="toast_screen_icons_misplaced">Obnovit ze staré databáze. Některé ikony mohou změnit své umístění.</string>
   <string name="toggle_select_title">Zvolit přepínač</string>
   <string name="toggle_title">Přepínač</string>
   <string name="transformation_type_classic">Klasický</string>
@@ -271,12 +279,4 @@
   <string name="widget_favorite_contacts_style">Rozměr</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhledávání</string>
-  <string name="children_mode_tips_message">V dětském režimu nelze vybrat žádnou aplikaci.</string>
-   <string name="children_mode_tips_title">Vyberte aplikaci</string>
-   <string name="notification_installed">Nainstalováno</string>
-   <string name="notification_open_button">Otevřít</string>
-   <string name="editing_set_screen_layout_cells">Vyberte efekt rozložení</string>
-   <string name="toast_screen_icons_misplaced">Obnovit ze staré databáze. Některé ikony mohou změnit své umístění.</string>
-   <string name="launcher_not_exist">Launcher přestal pracovat, zkuste to znovu.</string>
-   <string name="screen_locked_toast">Rozložení plochy je uzamčeno</string>
 </resources>

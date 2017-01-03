@@ -123,6 +123,7 @@
   <string name="download_start">Spuštěno stahování...</string>
   <string name="download_while_playing_summary">"Automaticky stáhnout skladby poslouchané online"</string>
   <string name="download_while_playing_title">Poslouchat během stahování</string>
+  <string name="editmode_menu_share">Sdílet</string>
   <string name="empty_page_no_album">Žádná alba</string>
   <string name="empty_page_no_artist">Žádní umělci</string>
   <string name="empty_page_no_document">Žádné dokumenty</string>
@@ -229,6 +230,8 @@
   <string name="local_music_empty">Lokální playlist je prázdný</string>
   <string name="local_music_empty_goto_online">Žádné skladby</string>
   <string name="local_music_is_not_available">Žádné skladby</string>
+  <string name="local_page_song_download">Lokální</string>
+  <string name="local_page_song_favorite">Oblíbené</string>
   <string name="local_tracks_short">Lokální Hudba</string>
   <string name="login_first">Přihlaste ke svému Mi účtu</string>
   <string name="lrc_search_failed">"Texty nebyly nalezeny!"</string>
@@ -270,6 +273,7 @@
   <string name="monthly_price">MiKredity</string>
   <string name="more">Více</string>
   <string name="more_about_artist">Více o %s</string>
+  <string name="more_add_song_list">Přidat</string>
   <string name="more_online_artist">Více</string>
   <string name="more_online_billboard">Více</string>
   <string name="more_online_fm">Více</string>
@@ -279,6 +283,7 @@
   <string name="more_online_suggest">Více</string>
   <string name="more_settings">Více nastavení</string>
   <string name="more_settings_summary">Nastavení stahování, spánku, mobilních dat atd.</string>
+  <string name="more_share">Sdílet</string>
   <string name="multichoice">Vybrat</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_filter">Filtrovat audio soubory</string>
@@ -333,6 +338,7 @@
   <string name="notification_recommend_title">Reklamní upozornění</string>
   <string name="notification_setting">Nastavení upozornění</string>
   <string name="notification_title_no_song">Zjistěte, co ostatní poslouchají!</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Vymazat playlist?</string>
   <string name="nowplaying_menu_item_delete">Vymazat</string>
   <string name="ok">OK</string>
   <string name="one_month">1 měsíc</string>
@@ -515,10 +521,4 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
-  <string name="local_page_song_download">Lokální</string>
-  <string name="local_page_song_favorite">Oblíbené</string>
-  <string name="editmode_menu_share">Sdílet</string>
-  <string name="more_share">Sdílet</string>
-  <string name="more_add_song_list">Přidat</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Vymazat playlist?</string>
 </resources>

@@ -161,6 +161,7 @@
   <string name="close_dial_pad">Zavřít číselník</string>
   <string name="close_dial_pad_description">Zavřít číselník</string>
   <string name="cloud_antispam_mark">Spam</string>
+  <string name="cloud_antispam_marked">Označené</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
   <string name="cloud_recommend_msg">Dotykem synchr. kontakty s MiCloud.</string>
   <string name="cloud_state_disabled">Synchr. s MiCloud je vypnuta</string>
@@ -197,6 +198,7 @@
   <string name="contact_detail_action_item_nocalllog">Žádná historie</string>
   <string name="contact_detail_calllog_call_note_tips">Poznámka o hovoru</string>
   <string name="contact_detail_calllog_call_record_tips">Nahrávka hovoru</string>
+  <string name="contact_detail_calllog_empty">Žádná historie hovorů</string>
   <string name="contact_detail_menu_delete_miprofile">Vymazat kartu</string>
   <string name="contact_detail_miprofile_accept">Vyměnit si karty kontaktu</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Nelze se vyměnit karty kontaktu</string>
@@ -447,9 +449,11 @@ Chyba: \"%s\""</string>
   <string name="force_touch_miprofile">Karta kontaktů</string>
   <string name="force_touch_new_contact">Nový kontakt</string>
   <string name="foundTooManyContacts">Nalezeno více než %d</string>
+  <string name="fraud_more_indemnity">Více</string>
   <string name="frequentList">Často používaní</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Celé jméno</string>
+  <string name="gallery">Galerie</string>
   <string name="generic_no_account_prompt">Mějte svoje kontakty v bezpečí i když ztratíte telefon: synchronizujte je online.</string>
   <string name="generic_no_account_prompt_title">Přidat účet</string>
   <string name="ghostData_company">Společnost</string>
@@ -1031,6 +1035,7 @@ Synchronizujte je nyní."</string>
   <string name="search_import_from_other_phone">Contacts;Import;other phone</string>
   <string name="search_import_from_sdcard">Contacts;Import;sdcard</string>
   <string name="search_import_from_sim">Contacts;Import;SIM card</string>
+  <string name="search_input_hint">Můžete vyhledat telefonní číslo nebo služby</string>
   <string name="search_key_photo_word">Assign;contact;photos;Contacts</string>
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>
@@ -1164,6 +1169,7 @@ Synchronizujte je nyní."</string>
   <string name="toast_making_personal_copy">Vytvářím osobní kopii</string>
   <string name="toast_text_copied">Text zkopírován</string>
   <string name="today">Dnes</string>
+  <string name="tomorrow">Zítra</string>
   <string name="transfer_accounts">Přenést účty</string>
   <string name="type_incoming">Příchozí hovor</string>
   <string name="type_missed">Zmeškaný hovor</string>
@@ -1245,12 +1251,6 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Přidáno na plochu</string>
   <string name="yellowpage_search_the_yellowpage">Vyhledat ve Zlatých stránkách</string>
   <string name="yellowpage_user_profile">Profil</string>
-  <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="fraud_more_indemnity">Více</string>
-  <string name="contact_detail_calllog_empty">Žádná historie hovorů</string>
-  <string name="gallery">Galerie</string>
-  <string name="search_input_hint">Můžete vyhledat telefonní číslo nebo služby</string>
-  <string name="cloud_antispam_marked">Označené</string>
-  <string name="tomorrow">Zítra</string>
   <string name="yesterday">Včera</string>
+  <string name="zero_items_selected">Nic není vybráno</string>
 </resources>

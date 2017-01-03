@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Letadlo</string>
+  <string name="accessibility_assistant">Dotykový asistent</string>
   <string name="accessibility_back">Zpět</string>
   <string name="accessibility_battery_level">Zbývá %d procent</string>
   <string name="accessibility_bluetooth_connected">Bluetooth připojen</string>
@@ -141,10 +142,15 @@ Další použití datového připojení se může projevit na výši vašeho vy�
   <string name="disable_notification_summary">Nezobrazovat upozornění pro tyto apl.</string>
   <string name="disable_notification_title">Skrýt upozornění</string>
   <string name="dismount_storage">Ne</string>
+  <string name="divider_menu_close">Zavřít</string>
+  <string name="divider_menu_select_apps">Vybrat</string>
+  <string name="divider_menu_swap_task">Zaměnit</string>
   <string name="dlg_confirm_kill_storage_users_text">Pokud zapnete USB úložiště, některé spuštěné aplikace mohou přestat reagovat.</string>
   <string name="dlg_confirm_kill_storage_users_title">Zapnout USB úložiště</string>
   <string name="dlg_error_title">USB operace nedokončena</string>
   <string name="dlg_ok">OK</string>
+  <string name="dock_forced_resizable">Aplikace nemusí fungovat s Multi-Window.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">Aplikace nepodporuje Multi-Window.</string>
   <string name="drive_mode_tip">Režim AUTO je aktivovaný, jeďte opatrně..!</string>
   <string name="enable_power_save_mode">Povolit Šetření baterie</string>
   <string name="expanded_confirm_disable_notification">Potvrdit</string>
@@ -172,12 +178,14 @@ Další použití datového připojení se může projevit na výši vašeho vy�
 Použijte síťovou nabíječku."</string>
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Zobrazit</string>
+  <string name="list_delimeter">", "</string>
   <string name="lockscreen_carrier_default">Bez signálu</string>
   <string name="long_screenshot_not_support_msg">Aplikace nepodporuje dlouhý screenshot.</string>
   <string name="long_screenshot_out_of_memory_error">Selhalo, jelikož je obrázek přiliš vělký.</string>
   <string name="long_screenshot_processing">Zpracovávání...</string>
   <string name="long_screenshot_stop">Zastavit</string>
   <string name="long_screenshot_top_msg">Zhotovení dlouhého screenshotu...</string>
+  <string name="long_screenshot_top_msg_manual">Zkuste ořezat screenshot a stiskněte tlačítko pro dokončení</string>
   <string name="managed_profile_foreground_toast">Používáte pracovní profil</string>
   <string name="mdb_entering">Přistupování k MDB</string>
   <string name="mdb_restore_cancel">Zrušit</string>
@@ -191,11 +199,21 @@ Použijte síťovou nabíječku."</string>
   <string name="media_projection_remember_text">Znovu nezobrazovat</string>
   <string name="megabyte_per_second">MB/s</string>
   <string name="mount_storage">Ano</string>
+  <string name="nav_guide_cancel">Ignorovat</string>
+  <string name="nav_guide_message">Můžete použít gesta na zobrazení/skrytí navigačních tlačítek.</string>
+  <string name="nav_guide_ok">Nastavení</string>
+  <string name="nav_guide_title">Skrýt navigační tlačítka</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">Žádná aplikace s podporou Multi-Window</string>
   <string name="no_notification_tips">Žádné notifikace</string>
   <string name="no_weather_description">Získat info o počasí &gt;</string>
+  <string name="not_support_multi_window">Současná aplikace nepodporuje Multi-Window</string>
   <string name="notification_header_title">Upozornění</string>
   <string name="notification_hidden_text">Obsah je skrytý</string>
+  <string name="notification_low_battery_action_btn">Povolit</string>
+  <string name="notification_low_battery_need_charge">Baterie je téměř vybitá.</string>
+  <string name="notification_low_battery_open_save_mode">Povolit šetření baterie</string>
+  <string name="notification_low_battery_title">Slabá baterie: %d%%</string>
   <string name="notification_manager">Spravovat upozornění</string>
   <string name="notification_manager_des">Filtrovat a spravovat upozornění</string>
   <string name="notification_otg_gamestick_in">Herní ovladač je připojený</string>
@@ -227,6 +245,7 @@ Použijte síťovou nabíječku."</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_lock_text">Uzamknout</string>
   <string name="recent_task_unlock_text">Odemknout</string>
+  <string name="recents_launch_error_message">Nelze spustit %s.</string>
   <string name="reject_call">Odmítnutí</string>
   <string name="return_to_incall_screen">Stiskněte pro návart k hovoru</string>
   <string name="save_mode_btn_ok">OK</string>
@@ -289,6 +308,7 @@ přetažením dolů uzamknete"</string>
   <string name="status_bar_settings_signal_meter_disconnected">Žádné připojení k internetu</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi připojeno</string>
   <string name="status_bar_style_settings">Nastavení</string>
+  <string name="status_bar_volte_label">HD</string>
   <string name="task_access_locked_app_msg">Obsah aplikace je ukrytý.</string>
   <string name="title_usb_accessory">USB příslušenství</string>
   <string name="torch_activity_hint">Svítilnu můžete také zapnout podržením tlačítka Domů v zamykací obrazovce</string>
@@ -346,25 +366,4 @@ přetažením dolů uzamknete"</string>
   <string name="wifi_remembered">Uloženo</string>
   <string name="wifi_security_none">Žádné</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="accessibility_assistant">Dotykový asistent</string>
-  <string name="status_bar_volte_label">HD</string>
-  <string name="nav_guide_cancel">Ignorovat</string>
-  <string name="nav_guide_message">Můžete použít gesta na zobrazení/skrytí navigačních tlačítek.</string>
-  <string name="nav_guide_ok">Nastavení</string>
-  <string name="nav_guide_title">Skrýt navigační tlačítka</string>
-  <string name="list_delimeter">", "</string>
-  <string name="long_screenshot_top_msg_manual">Zkuste ořezat screenshot a stiskněte tlačítko pro dokončení</string>
-  <string name="divider_menu_close">Zavřít</string>
-   <string name="divider_menu_select_apps">Vybrat</string>
-   <string name="divider_menu_swap_task">Zaměnit</string>
-   <string name="no_multi_window_app">Žádná aplikace s podporou Multi-Window</string>
-   <string name="not_support_multi_window">Současná aplikace nepodporuje Multi-Window</string>
-   <string name="dock_forced_resizable">Aplikace nemusí fungovat s Multi-Window.</string>
-   <string name="dock_non_resizeble_failed_to_dock_text">Aplikace nepodporuje Multi-Window.</string>
-   <string name="recents_launch_error_message">Nelze spustit %s.</string>
-   <string name="notification_low_battery_action_btn">Povolit</string>
-   <string name="notification_low_battery_need_charge">Baterie je téměř vybitá.</string>
-   <string name="notification_low_battery_open_save_mode">Povolit šetření baterie</string>
-   <string name="notification_low_battery_title">Slabá baterie: %d%%</string>
-
 </resources>

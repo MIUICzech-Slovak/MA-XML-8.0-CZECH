@@ -2,12 +2,17 @@
 <resources>
   <string name="app_name">MiPlay</string>
   <string name="cancel">Zrušit</string>
+  <string name="enable_wifi_btn">Povolit</string>
+  <string name="enable_wifi_message">Povolte Wi-Fi pro vyhledávání zařízení v blízkosti.</string>
+  <string name="enable_wifi_title">Povolit Wi-Fi</string>
   <string name="media_feature_projection">Zrcadlit obrazovku</string>
   <string name="media_status_error">Chyba</string>
   <string name="media_status_started">Připojeno</string>
   <string name="media_status_starting">Připojování...</string>
   <string name="media_status_stopped">Zastaveno</string>
   <string name="media_status_stopping">Zastavování...</string>
+  <string name="noti_projection_status_desc_on">Zrcadlení obrazovky je zap.</string>
+  <string name="noti_projection_status_title">MiPlay Bezdrátový Displej</string>
   <string name="prjection_title">Bezdrátový displej</string>
   <string name="search_for_devices">Obnovit</string>
   <string name="wifi_display_autonomous_go">Povolit automatické spuštění</string>
@@ -31,10 +36,4 @@
   <string name="wifi_display_status_in_use">Používá se</string>
   <string name="wifi_display_status_not_available">Nedostupné</string>
   <string name="wifi_display_wps_config">WPS nastavení</string>
-  <string name="enable_wifi_btn">Povolit</string>
-   <string name="enable_wifi_message">Povolte Wi-Fi pro vyhledávání zařízení v blízkosti.</string>
-   <string name="enable_wifi_title">Povolit Wi-Fi</string>
-    <string name="noti_projection_status_desc_on">Zrcadlení obrazovky je zap.</string>
-  <string name="noti_projection_status_title">MiPlay Bezdrátový Displej</string>  
-
 </resources>

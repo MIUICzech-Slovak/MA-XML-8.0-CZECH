@@ -3,6 +3,7 @@
   <string name="app_label">HTML Viewer</string>
   <string name="app_name_which_call">Aplikace: %s</string>
   <string name="app_version_which_call">Verze: %s</string>
+  <string name="ime_privacy_policy">Zvolte klávesnici</string>
   <string name="license_host_unreachable">Nelze se připojit k síti. Pro zobrazení jděte na %s</string>
   <string name="loading">Načítání...</string>
   <string name="mibi_license">Podmínky používání MiKreditů</string>
@@ -17,5 +18,4 @@
   <string name="settings_safetylegal_activity_title">Bezpečnostní informace</string>
   <string name="settings_safetylegal_activity_unreachable">Nemáte připojení k internetu. Pro zobrazení této informace navštivte %s z vašeho PC připojeného k internetu.</string>
   <string name="settings_safetylegal_title">Bezpečnostní informace</string>
-  <string name="ime_privacy_policy">Zvolte klávesnici</string>
 </resources>

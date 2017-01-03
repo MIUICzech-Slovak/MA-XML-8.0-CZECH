@@ -77,6 +77,7 @@
   <string name="close_callwait">Zakázat</string>
   <string name="customizer_mode_user_define_name">Vlastní</string>
   <string name="dlg_add_blacklist">Přidat toto číslo na černou listinu?</string>
+  <string name="dlg_add_blacklist_title">Přidat do černé listiny</string>
   <string name="dlg_add_blacklist_warn_conflict_content">%1$s %2$s již existuje ve výjimkách. Chcete pokračovat?</string>
   <string name="dlg_add_blacklist_warn_conflict_title">Již existuje</string>
   <string name="dlg_add_keyword">Klíčová slova</string>
@@ -141,6 +142,10 @@
   <string name="mark_agent_block">Označeno jako prodejce</string>
   <string name="mark_agent_block_large">Zprostředkovatel</string>
   <string name="mark_agent_time_setting">Blokovat čísla prodejců vícekrát nahlášená</string>
+  <string name="mark_courier">Blokovat nahlášené kurýry</string>
+  <string name="mark_courier_block">Nahlásit jako kurýra</string>
+  <string name="mark_courier_block_large">Kurýr</string>
+  <string name="mark_courier_time_setting">Blokovat čísla, které byly nahlášena jako kurýr</string>
   <string name="mark_fraud">Podvodník</string>
   <string name="mark_fraud_block">Označeno jako podvodník</string>
   <string name="mark_fraud_block_large">Podvodník</string>
@@ -150,6 +155,7 @@
   <string name="mark_harass_block_large">Obtěžuje</string>
   <string name="mark_harass_time_setting">Blokovat obtěžující čísla nahlášená vícekrát</string>
   <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_courier">Kurýr</string>
   <string name="mark_number_fraud">Otravný</string>
   <string name="mark_number_harass">Obtěžování</string>
   <string name="mark_number_info">"
@@ -344,10 +350,4 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
-  <string name="mark_courier">Blokovat nahlášené kurýry</string>
-   <string name="mark_courier_block">Nahlásit jako kurýra</string>
-   <string name="mark_courier_block_large">Kurýr</string>
-   <string name="mark_courier_time_setting">Blokovat čísla, které byly nahlášena jako kurýr</string>
-   <string name="mark_number_courier">Kurýr</string>
-   <string name="dlg_add_blacklist_title">Přidat do černé listiny</string>
 </resources>
