@@ -824,9 +824,9 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
-  <string name="fling_on_border_gesture_hint">You can choose the function of this gesture in Settings</string>
- +  <string name="hint">Hint</string>
- +  <string name="miuichromium_error_page_btn_report_issue">Report issue</string>
- +  <string name="pref_fling_on_border">Posuňte od hrany</string>
- +  <string name="pref_fling_on_border_title_summary">Gesto prstem z pravého nebo levého okraje</string>
+  <string name="fling_on_border_gesture_hint">Můžete nastavit funkci tohoto gesta v Nastaveních</string>
+  <string name="hint">Poznámka</string>
+  <string name="miuichromium_error_page_btn_report_issue">Nahlásit chybu</string>
+  <string name="pref_fling_on_border">Posuňte od hrany</string>
+  <string name="pref_fling_on_border_title_summary">Gesto prstem z pravého nebo levého okraje</string>
 </resources>
