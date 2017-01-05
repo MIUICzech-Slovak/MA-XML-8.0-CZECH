@@ -238,4 +238,10 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
+   <string name="call_button_conference_manager_text">Správa konf. hovoru</string>
+   <string name="call_button_mute_text">Ztišit</string>
+   <string name="card_title_in_video">Video</string>
+   <string name="card_title_video_conf_call">Videokonference</string>
+   <string name="card_video_hold_swap">Zaměnit</string>
+   <string name="video_conference_caller_info_name">Video konference %1$s</string>
 </resources>

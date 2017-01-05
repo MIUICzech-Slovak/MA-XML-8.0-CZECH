@@ -32,4 +32,9 @@
          <item>Vymazat</item>
          <item>Ne, děkuji</item>
      </string-array>
+     <string-array name="pref_fling_on_border_gesture_entries">
+         <item>Zpět / Další</item>
+         <item>Změnit kartu</item>
+         <item>Žádná</item>
+     </string-array>
 </resources>
