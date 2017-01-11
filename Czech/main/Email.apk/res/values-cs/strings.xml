@@ -861,4 +861,11 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="network_tip">Přihlašování selhalo, zkontrolujte vaše nastavení sítě</string>
+   <string name="webview_logout">Chcete ukončit přihlašování se? Zkuste to znovu!</string>
+   <string name="webview_logout_cancel">Ukončit</string>
+   <string name="webview_logout_sure">Znovu</string>
+   <string name="webview_sslerror_handle_cancel">Zrušit</string>
+   <string name="webview_sslerror_handle_continue">Pokračovat</string>
+   <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračování na tuto webstránku je nebezpečné!</string> 
 </resources>

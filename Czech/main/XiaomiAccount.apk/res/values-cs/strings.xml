@@ -423,4 +423,5 @@ Zkontrolujte také složku SPAM."</string>
   <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se odstraní, pokud budete pokračovat).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
+  <string name="my_favorite">Moje oblébené</string>
 </resources>
