@@ -1267,5 +1267,8 @@ Vyberte si z následujících možností:</string>
   
   To avoid frequent queries, we update balance info once a day."</string>
    <string name="disclaimer_title">Disclaimer</string>
-   <string name="report_inquiry_mms">Report SMS</string>
+   <string name="report_inquiry_mms">Nahlásit SMS</string>
+   <string name="dialog_device_info_hardware_version">Verze Hardware: %s</string>
+   <string name="dialog_device_info_miui_version">Verze MIUI: %s</string>
+   <string name="dialog_device_info_title">Info o verzi</string>
 </resources>
