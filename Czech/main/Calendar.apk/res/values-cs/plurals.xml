@@ -37,7 +37,8 @@
      </plurals>
      <plurals name="group_copy_success_toast">
          <item quantity="other">Zkopírováno kontaktů: %1$d</item>
-	 <plurals name="Ndays_ago">
+     </plurals>
+     <plurals name="Ndays_ago">
          <item quantity="other">Před %1$d dny v %2$s</item>
          <item quantity="one">Před %1$d dny v %2$s</item>
      </plurals>

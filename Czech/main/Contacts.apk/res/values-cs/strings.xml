@@ -348,8 +348,6 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="device_paired_dialog_title">Zařízení je spárované, získávání kontaktů</string>
   <string name="device_pairing_dialog_message">Párování zařízení (může se vyžadovat potvrzení na druhém zařízení)...</string>
   <string name="device_pairing_dialog_title">Párování zařízení</string>
-  <string name="device_version_header_bluetooth">Otevřete Bluetooth</string>
-  <string name="device_version_header_no_bluetooth">Importovat kontakty se SIM kartou</string>
   <string name="device_version_title">Zvolte verzi telefonu</string>
   <string name="dial">Vytočit</string>
   <string name="dialerDialpadHintText">Vytočte pro přidání hovoru</string>
