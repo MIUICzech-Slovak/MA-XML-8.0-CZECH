@@ -740,8 +740,8 @@ Chyba: \"%s\""</string>
   <string name="multipleContactDeleteConfirmation">Smazáním tohoto kontaktu smažete informace z více účtů.</string>
   <string name="multipleContactDeleteConfirmationDetail">Vymazání \"%s\" vymaže údaje z více účtů.</string>
   <string name="my_in_call_show">Moje video</string>
-  <string name="my_phone_not_provider_bluetooth">Můj telefon nemá Bluetooth</string>
-  <string name="my_phone_provider_bluetooth">Můj telefon má Bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Ne</string>
+  <string name="my_phone_provider_bluetooth">Ne</string>
   <string name="nameLabelsGroup">Jméno</string>
   <string name="name_family">Příjmení</string>
   <string name="name_given">Křestní jméno</string>
@@ -1253,4 +1253,14 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Zapněte \"Bluetooth\" na druhém zařízení;
+ - Android zařízení mají nastavení \"Bluetooth\" v nastaveních sítě
+ - iOS zařízení mají \"Bluetooth\" v Nastavení
+ 2. Android zařízení by měly mít povoleno \"Viditelné zařízení\";
+ 3. Stiskněte \"Další\", a povolte přísup ke kontaktům."</string>
+   <string name="device_transfer_by_sim_message">"1. Uložte vaše kontakty na SIM kartu v druhém telefonu;
+ 
+ 2. Jděte do \"Nastavení kontaktů\" -- \"Import/Export kontaktů\" -- \"Importovat ze SIM karty\", dlouze podržte prst na SIM kontaktu, vyberte kontakty pro importování, potom stiskněte \"Importovat\"."</string>
+   <string name="device_version_header_bluetooth">Importovat přes Bluetooth</string>
+   <string name="device_version_header_no_bluetooth">Importovat přes SIM kartu</string>
 </resources>

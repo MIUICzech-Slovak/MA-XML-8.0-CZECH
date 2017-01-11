@@ -22,7 +22,6 @@
         <item>2 týdny</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -50,7 +49,6 @@
         <item>2 týdny</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -292,7 +290,6 @@
         <item>Odpočítávání</item>
     </string-array>
     <string-array name="miui_reminder_minutes_labels">
-        <item>Bez připomenutí</item>
         <item>0 minut</item>
         <item>5 minut</item>
         <item>10 minut</item>
@@ -305,6 +302,17 @@
         <item>1 týden</item>
         <item>2 týdny</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+         <item>Bez připomenutí</item>
+         <item>5 minut</item>
+         <item>10 minut</item>
+         <item>15 minut</item>
+         <item>30 minut</item>
+         <item>1 hodina</item>
+         <item>1 den</item>
+         <item>2 dny</item>
+         <item>1 týden</item>
+     </string-array>
     <string-array name="travel_reminder_minutes_labels">
         <item>3 h</item>
         <item>4 h</item>

@@ -665,4 +665,5 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
+  <string name="mx_stranger_recommend_msg">Dotykem zablokujete Mi zprávy z neznámých čísel</string>
 </resources>

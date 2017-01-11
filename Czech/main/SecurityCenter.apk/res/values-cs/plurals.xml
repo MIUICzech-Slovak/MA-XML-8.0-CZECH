@@ -229,5 +229,9 @@
      <plurals name="quick_optimize_suggest_issue_found">
          <item quantity="other">Nalezeno %d problémů s baterií</item>
          <item quantity="one">Nalezen %d problém s baterií</item>
+     </plurals>
+      <plurals name="virus_clean_num">
+         <item quantity="other">Vše se zdá být v pořádku</item>
+         <item quantity="one">Vše se zdá být v pořádku</item>
      </plurals>	
 </resources>
