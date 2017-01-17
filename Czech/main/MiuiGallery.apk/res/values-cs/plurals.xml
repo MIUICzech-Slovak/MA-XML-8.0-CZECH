@@ -296,5 +296,37 @@
      <plurals name="remind_face_recommend_confirm_text">
          <item quantity="other">Celkem %d fotografií</item>
          <item quantity="one">Celkem %d fotografie</item>
+     </plurals>
+     <plurals name="file_count_format">
+         <item quantity="other">Celkem: %1$d</item>
+         <item quantity="one">Celkem: %1$d</item>
+     </plurals>
+     <plurals name="quickly_discovery_message_format">
+         <item quantity="other">Nalezených fotografií: %1$d</item>
+         <item quantity="one">Nalezena nová fotografie</item>
+     </plurals>
+     <plurals name="backuping_desc_normal">
+         <item quantity="other">Foto nebo video: %1$d</item>
+         <item quantity="one">Foto nebo video: %1$d</item>
+     </plurals>
+     <plurals name="backuping_desc_gprs">
+         <item quantity="other">%1$d fotografií a videí | %2$s</item>
+         <item quantity="one">%1$d fotografie a video | %2$s</item>
+     </plurals>
+     <plurals name="sync_error_title">
+         <item quantity="other">Není zálohováno %d fotografií a videí</item>
+         <item quantity="one">Není zálohována %d fotografie a video</item>
+     </plurals>
+     <plurals name="sync_total_count">
+         <item quantity="other">Položek: %d</item>
+         <item quantity="one">Položek: %d</item>
+     </plurals>
+     <plurals name="cloud_storage_photo_num">
+         <item quantity="other">Fotografií:%d</item>
+         <item quantity="one">Fotografií:%d</item>
+     </plurals>
+     <plurals name="cloud_storage_video_num">
+         <item quantity="other">Videa: %d</item>
+         <item quantity="one">Videa: %d</item>
      </plurals>	
 </resources>
