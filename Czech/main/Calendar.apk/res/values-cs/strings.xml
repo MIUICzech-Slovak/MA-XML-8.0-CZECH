@@ -430,4 +430,8 @@
    <string name="setting_accounts">Účty kalendáře</string>
    <string name="setting_features_title">Svátky</string>
    <string name="setting_title_holiday_display">Zobrazit svátky</string>
+   <string name="edit_event_birthday_reminder_summary">Den %1$s</string>
+   <string name="edit_event_birthday_reminder_summary_3_days_before">Tři dny před tím, den %1$s</string>  
+   <string name="edit_event_reminder_text">%1$s den %2$s</string>
+   <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s den %3$s</string> 
 </resources>
