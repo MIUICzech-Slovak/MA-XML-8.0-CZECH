@@ -719,7 +719,7 @@
   <string name="reply">Odpovědět</string>
   <string name="reply_add_bodycontent">Vložit rychlou odpověď?</string>
   <string name="reply_all">Odpovědět všem</string>
-  <string name="reply_attribution" formatted="false">Dne %s %s napsal(a):</string>
+  <string name="reply_attribution" formatted="false">%s %s:</string>
   <string name="report_spam">Nahlásit spam</string>
   <string name="request_entity_large">Požadovaný soubor je příliš velký!</string>
   <string name="request_permission_activity">Je nutné povolení</string>
