@@ -832,4 +832,6 @@ Chcete opustit tuto stránku?"</string>
    <string name="contextmenu_recognise_qr_code">Rozpoznat QR kód</string>
    <string name="pref_paper_mode_title">Režim čtení</string>
    <string name="comment_hint">Komentář</string>
+   <string name="empty_app_name">Jiná aplikace</string>
+   <string name="open_app_confirm_message">Povolit této stránce otevřít %s?</string>
 </resources>

@@ -125,6 +125,6 @@
    <string name="local_setting">Nastavení</string>
    <string name="appindex_description">Funkce nainstalovaných apl.</string>
    <string name="appindex_search_label">Funkce apl.</string>
-   <string name="pull_to_input">Potáhněte dolů pro zobrazení vyhledávání</string>
-   <string name="release_to_input">Pusťte pro zobrazení vyhledávání</string>
+   <string name="pull_to_input">Potáhněte dolů pro obnovení</string>
+   <string name="release_to_input">Pusťte pro obnovení</string>
 </resources>
