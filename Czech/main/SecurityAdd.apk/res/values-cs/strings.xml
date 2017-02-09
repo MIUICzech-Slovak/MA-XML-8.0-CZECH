@@ -80,4 +80,7 @@
   <string name="usage_sorted_loading_text">Načítání...</string>
   <string name="wlan_change_protection_detail">Nepřepínat automaticky na Wi-Fi po připojení na mobilní data</string>
   <string name="wlan_change_protection_title">Zamezit změně sítě</string>
+  <string name="gs_auto_clean_memory">Vymazat cache</string>
+   <string name="gs_auto_clean_memory_detail">Vymazat cache automaticky pro optimalizaci hraní</string>
+   <string name="gs_game_disturb_msg">Nerušit</string>
 </resources>
