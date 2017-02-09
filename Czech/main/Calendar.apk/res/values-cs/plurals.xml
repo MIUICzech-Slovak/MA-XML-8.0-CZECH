@@ -39,12 +39,12 @@
          <item quantity="other">Zkopírováno kontaktů: %1$d</item>
      </plurals>
      <plurals name="Ndays_ago">
-         <item quantity="other">Před %1$d dny v %2$s</item>
-         <item quantity="one">Před %1$d dny v %2$s</item>
+         <item quantity="other">%1$d dny před v %2$s</item>
+         <item quantity="one">%1$d den před v %2$s</item>
      </plurals>
      <plurals name="Ndays_after">
-         <item quantity="other">Po %1$d dnech v %2$s</item>
-         <item quantity="one">Po %1$d dny v %2$s</item>
+         <item quantity="other">%1$d dnů poté v %2$s</item>
+         <item quantity="one">%1$d den poté v %2$s</item>
      </plurals>
      <plurals name="Nweeks">
          <item quantity="other">%d týdny</item>
