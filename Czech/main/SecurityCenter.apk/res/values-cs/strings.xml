@@ -1749,4 +1749,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="try_recommended_function">Chraňte své zařízení používáním nových bezpečnostních funkcí</string>
   <string name="auto_task_notify_task_canceled_summary2">Vypadá to, že hrajete hru.</string>
    <string name="shutdown_cancel_reminder_detail2">Vypadá to, že hrajete hru. Naplánované vypnutí je žrušeno.</string>
+   <string name="resource_app_permissions">Práva aplikací</string>
+   <string name="resource_auto_restart">Autostart aplikací</string>
+   <string name="resource_usb_install">Instalace přes USB</string>
 </resources>

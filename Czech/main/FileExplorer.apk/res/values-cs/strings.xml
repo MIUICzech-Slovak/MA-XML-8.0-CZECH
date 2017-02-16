@@ -280,7 +280,7 @@ Server je momentálně nedostupný, zkuste to znovu později
   <string name="menu_item_sort_add_time">"Vytvořeno "</string>
   <string name="menu_item_sort_by_added_time">Přidáno</string>
   <string name="menu_item_sort_date">Data</string>
-  <string name="menu_item_sort_name">Jména</string>
+  <string name="menu_item_sort_name">Názvu</string>
   <string name="menu_item_sort_size">Velikosti</string>
   <string name="menu_item_sort_type">Typu</string>
   <string name="menu_item_usb">USB</string>

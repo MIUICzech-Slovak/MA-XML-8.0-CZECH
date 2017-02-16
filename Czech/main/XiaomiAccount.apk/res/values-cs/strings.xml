@@ -427,5 +427,7 @@ Zkontrolujte také složku SPAM."</string>
   <string name="push_notification_content">Klikněte pro získání ověřovacího kódu</string>
    <string name="push_notification_title">Přihlásili jste se svým Mi účtom na neznámém zařízení</string>
    <string name="push_notify_dialog_message">New device attempts to log in to your millet account. Please enter the verification code on your new device to complete the security verification. If I do not please modify the millet account password, do not tell others to verify the code.</string>
-   <string name="push_notify_dialog_title">Bezpečnostní oveření přihlášení</string>  
+   <string name="push_notify_dialog_title">Bezpečnostní oveření přihlášení</string>
+   <string name="find_device_locked_account_email" formatted="false">%s, propojený e-mail: %s</string>
+   <string name="find_device_locked_account_phone" formatted="false">%s, propojené tel. číslo: %s</string>   
 </resources>
