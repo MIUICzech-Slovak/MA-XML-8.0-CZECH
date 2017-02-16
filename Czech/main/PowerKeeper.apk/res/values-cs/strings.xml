@@ -174,7 +174,7 @@
    <string name="power_checker_background_gps_multi_apps_title">%1$s často lokalizuje</string>
    <string name="power_checker_background_gps_title">%1$s často lokalizuje</string>
    <string name="power_checker_mobile_radio_multi_apps_title">%1$s často přistupuje na síť</string>
-   <string name="power_checker_mobile_radio_title">%1$s často přistupuje na síť/string>
+   <string name="power_checker_mobile_radio_title">%1$s často přistupuje na síť</string>
    <string name="power_checker_multi_apps_title">%2$s apl. vybíjí baterii</string>
    <string name="power_checker_notify_summary">Vyčištěte aplikace se zvýšenou spotřebou baterie</string>
    <string name="power_checker_partial_wakelock_multi_apps_title">%1$s brání uspání CPU</string>
