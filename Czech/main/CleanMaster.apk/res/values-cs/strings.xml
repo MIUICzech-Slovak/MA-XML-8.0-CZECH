@@ -445,4 +445,5 @@
    <string name="location_not_found">Nelze nalézt soubor</string>
    <string name="open_file_error">Tento soubor nelze otevřít žádnou apl.</string>
    <string name="output_videos">Exportovat videa</string>
+   <string name="file_not_found">Soubor nebyl nalezen</string>
 </resources>
