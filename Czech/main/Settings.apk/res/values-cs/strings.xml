@@ -4719,4 +4719,11 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="edge_touch_volume">Nastavit hlasitost dotykem na hranu</string>
+   <string name="screen_resolution_dialog_title">Změnit rozlišení</string>
+   <string name="screen_resolution_high_format">Vysoké (%1$s)</string>
+   <string name="screen_resolution_normal_format">Normální (%1$s)</string>
+   <string name="screen_resolution_summary">Snížení rozlišení displeje může zvýšit výdrž baterie a zrychlit chod systému.</string>
+   <string name="screen_resolution_switch">Použít</string>
+   <string name="screen_resolution_ultrahigh_format">Ultra (%1$s)</string>
 </resources>
