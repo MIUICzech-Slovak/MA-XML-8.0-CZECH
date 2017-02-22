@@ -666,4 +666,5 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
   <string name="mx_stranger_recommend_msg">Dotykem zablokujete Mi zprávy z neznámých čísel</string>
+  <string name="title_use_gsm_alphabet">Ořezat diakritiku před odesláním</string>
 </resources>

@@ -567,4 +567,5 @@
    <string name="shuffle_music">Přehrát náhodně</string>
    <string name="stop">Zastavit</string>
    <string name="stop_backup">Zastavit</string>
+   <string name="playlist_type_album">Alba</string>
 </resources>

@@ -9,7 +9,7 @@
   <string name="alarm_disabled">Vypnuto</string>
   <string name="alarm_in_silent_mode_title">Budík v tichém režimu</string>
   <string name="alarm_klaxon_service_desc">Služba přehrávání zvuku budíků nastavených v aplikaci Hodiny.</string>
-  <string name="alarm_label_hint">Vložte název budíku</string>
+  <string name="alarm_label_hint">Zadejte název</string>
   <string name="alarm_list_title">Budíky</string>
   <string name="alarm_notify_snooze_label">%s (odloženo)</string>
   <string name="alarm_notify_text">Odložit nebo zavřít budík</string>
