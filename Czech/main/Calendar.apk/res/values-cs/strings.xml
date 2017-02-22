@@ -47,8 +47,8 @@
   <string name="birthday_event_description_a_week_later">O týden později</string>
   <string name="birthday_event_description_day_after_tomorrow">Pozítří</string>
   <string name="birthday_event_description_day_before_yesterday">Předevčírem</string>
-  <string name="birthday_event_description_days_ago">Před %1$s dny</string>
-  <string name="birthday_event_description_days_later">O %1$s dnů později</string>
+  <string name="birthday_event_description_days_ago">Před %1$d dny</string>
+  <string name="birthday_event_description_days_later">O %1$d dnů později</string>
   <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
@@ -434,4 +434,16 @@
    <string name="edit_event_birthday_reminder_summary_3_days_before">Tři dny před tím, den %1$s</string>  
    <string name="edit_event_reminder_text">%1$s den %2$s</string>
    <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s den %3$s</string> 
+   <string name="anniversary_card_title">Výročí</string>
+   <string name="countdown_card_title">Odpočet dnů</string>
+   <string name="countdown_notify_before_3_day_title">[Countdown]%1$s za 3 dny</string>
+   <string name="countdown_today">Dnes</string>
+   <string name="edit_event_anniversary_name_empty_hint">Zadejte výročí</string>
+   <string name="edit_event_anniversary_name_hint">Popis</string>
+   <string name="edit_event_countdown_name_empty_hint">Zadejte popis výročí</string>
+   <string name="edit_event_countdown_name_hint">Popis</string>
+   <string name="edit_event_reminder_3_days_before">Připomenout 3 dny před</string>
+   <string name="edit_event_reminder_summary">Daný den v %1$s</string>
+   <string name="edit_event_reminder_summary_3_days_before">3 dny před a daný den v %1$s</string>
+   <string name="edit_event_reminder_time">Čas upozornění</string>
 </resources>

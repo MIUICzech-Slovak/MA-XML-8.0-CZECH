@@ -102,4 +102,9 @@
          <item quantity="zero">Vytvořeno %1$s | celkem %2$d skladeb</item>
          <item quantity="one">Vytvořeno %1$s | celkem %2$d skladeb</item>
      </plurals>	
+     <plurals name="Nalbum_total_songs">
+         <item quantity="other">Celkem: %d skladeb</item>
+         <item quantity="zero">Celkem: %d skladeb</item>
+         <item quantity="one">Celkem: %d skladba</item>
+     </plurals>	
 </resources>

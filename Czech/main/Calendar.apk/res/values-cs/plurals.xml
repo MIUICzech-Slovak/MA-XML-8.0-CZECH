@@ -38,16 +38,44 @@
      <plurals name="group_copy_success_toast">
          <item quantity="other">Zkopírováno kontaktů: %1$d</item>
      </plurals>
-     <plurals name="Ndays_ago">
+     <plurals name="Ndays_ago_at">
          <item quantity="other">%1$d dny před v %2$s</item>
          <item quantity="one">%1$d den před v %2$s</item>
      </plurals>
-     <plurals name="Ndays_after">
+     <plurals name="Ndays_after_at">
          <item quantity="other">%1$d dnů poté v %2$s</item>
          <item quantity="one">%1$d den poté v %2$s</item>
      </plurals>
      <plurals name="Nweeks">
          <item quantity="other">%d týdny</item>
          <item quantity="one">1 týden</item>
+     </plurals>	
+     <plurals name="Ndays_ago">
+         <item quantity="other">%1$d dny před tím</item>
+         <item quantity="one">%1$d den předem</item>
+     </plurals>
+     <plurals name="Ndays_after">
+         <item quantity="other">%1$d dní potom</item>
+         <item quantity="one">%1$d den potom</item>
+     </plurals>	
+     <plurals name="anniversary_notify_title">
+         <item quantity="other">[Anniversary]%2$d let výročí %1$s</item>
+         <item quantity="one">[Anniversary]%2$d rok výročí %1$s</item>
+     </plurals>
+     <plurals name="anniversary_notify_before_3_day_title">
+         <item quantity="other">[Anniversary]%2$d let výročí %1$s za 3 dny</item>
+         <item quantity="one">[Anniversary]%2$d rok výročí %1$s za 3 dny</item>
+     </plurals>
+     <plurals name="anniversary_year">
+         <item quantity="other">let</item>
+         <item quantity="one">rok</item>
+     </plurals>
+     <plurals name="anniversary_day">
+         <item quantity="other">dní</item>
+         <item quantity="one">den</item>
+     </plurals>
+     <plurals name="countdown_day">
+         <item quantity="other">dní později</item>
+         <item quantity="one">den později</item>
      </plurals>	
 </resources>
