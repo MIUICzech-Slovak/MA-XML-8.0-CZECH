@@ -75,7 +75,7 @@
          <item quantity="one">den</item>
      </plurals>
      <plurals name="countdown_day">
-         <item quantity="other">dní později</item>
-         <item quantity="one">den později</item>
+         <item quantity="other">dní</item>
+         <item quantity="one">den</item>
      </plurals>	
 </resources>
