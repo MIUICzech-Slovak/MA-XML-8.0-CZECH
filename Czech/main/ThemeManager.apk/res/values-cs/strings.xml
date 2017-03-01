@@ -410,4 +410,9 @@ ale obsah, který hledáte, není dostupný ve Vaší zemi."</string>
    <string name="lockscreen_apply_success_but_home_apply_failured">Tapeta zámku nastavena, ale nelze ji nastavit pro domácí obrazovku</string>
    <string name="the_picture_is_too_small">Obrázek je příliš malý</string>
    <string name="wallpaper_scroll_type_tips">Posouvání tapety</string>
+   <string name="wallpaper_auto_change_title">Zamykací obrazovka</string>
+   <string name="wallpaper_settings_change_wallpaper">Změnit</string>
+   <string name="wallpaper_settings_desktop_text">Domácí plocha</string>
+   <string name="wallpaper_settings_lockscreen_text">Zamykací obrazovka</string>
+   <string name="wallpaper_settings_page_title">tapeta</string>
 </resources>

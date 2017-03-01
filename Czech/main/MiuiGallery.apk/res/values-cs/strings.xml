@@ -211,10 +211,10 @@
   <string name="custom_select_title_select_item">Vyberte položky</string>
   <string name="default_album_name">Nové album</string>
   <string name="delete"> Vymazat</string>
-  <string name="delete_album_failed">Smazání alba neúspěšné.</string>
+  <string name="delete_album_failed">Vymazání alba neúspěšné.</string>
   <string name="delete_album_msg_format">Vymazat \"%2$s\" album %1$s%3$s?</string>
-  <string name="delete_album_success">Album smazáno.</string>
-  <string name="delete_finish_format">%d smazáno</string>
+  <string name="delete_album_success">Album vymazáno.</string>
+  <string name="delete_finish_format">%d vymazáno</string>
   <string name="delete_from_album">Od \"%s\" alba a MiCloud</string>
   <string name="delete_from_album_no_account">z \"%s\" alba</string>
   <string name="delete_from_all_devices">Ze všech zařízení</string>
@@ -227,7 +227,7 @@
   <string name="delete_from_web">Webová alba</string>
   <string name="delete_in_album">Pokud vymažete fotografii nebo video v albu, bude vymazáno i z:</string>
   <string name="delete_in_home_page">Pokud vymažete fotografii nebo video  na domovské obrazovce, vymaže se i z:</string>
-  <string name="delete_in_process">Mazání</string>
+  <string name="delete_in_process">Mazání...</string>
   <string name="delete_origin">Vymazat obrázky z původního alba</string>
   <string name="delete_other_shared_images">"Promiňte, nemůžete vymazat fotografii sdílenou jinou osobou"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d vymazáno, %2$d ponecháno</string>

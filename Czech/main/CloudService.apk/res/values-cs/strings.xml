@@ -263,7 +263,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_main_sync_now">Synchronizovat</string>
   <string name="micloud_main_sync_on">Synchr. povolena</string>
   <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
-  <string name="micloud_main_sync_pause">Zastavit</string>
+  <string name="micloud_main_sync_pause">Zastaveno</string>
   <string name="micloud_main_sync_pending">Čeká na synchr.</string>
   <string name="micloud_main_sync_setting">Nastavení synchr.</string>
   <string name="micloud_main_sync_stop">Ukončit synchr.</string>

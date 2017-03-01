@@ -867,5 +867,7 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="webview_logout_sure">Znovu</string>
    <string name="webview_sslerror_handle_cancel">Zrušit</string>
    <string name="webview_sslerror_handle_continue">Pokračovat</string>
-   <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračování na tuto webstránku je nebezpečné!</string> 
+   <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračování na tuto webstránku je nebezpečné!</string>
+   <string name="auto_mail_window_description">Tato funkce je pouze pro Čínu. Na jejím odstranění pracujeme...</string>
+   <string name="auto_mail_window_label">Nastavení služby 139 Mailbox</string> 
 </resources>
