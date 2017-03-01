@@ -245,4 +245,22 @@ Můžete je i znovu stáhnout."</string>
   <string name="xspace_uninstall_dialog_content">Odinstalace klonované aplikace vymaže všechna její data.</string>
   <string name="xspace_uninstall_dialog_title">Odinstalovat klonovanou apl.</string>
   <string name="xspace_uninstalling">Odinstalace...</string>
+  <string name="air_space_created">Pracovní prostor vytvořen</string>
+   <string name="air_space_deleted">Pracovní prostor vymazán</string>
+   <string name="confirm_airspace_password">Potvrďte heslo pracovního prostoru</string>
+   <string name="create_work_space">Vytvořit pracovní prostor</string>
+   <string name="downloading_space">Stahování...</string>
+   <string name="enter_air_space">Přepnout do pracovního prostoru</string>
+   <string name="invalid_qr_code">Nesprávný QR kód</string>
+   <string name="need_network_when_create">Před vytvořením pracovního prostoru se musíte připojit k síti</string>
+   <string name="need_reset_passwd">Obnovte heslo pracovního prostoru před přepnutím do nového</string>
+   <string name="reset_passwd_success">Heslo bylo obnoveno</string>
+   <string name="resource_sspace">Druhý profil</string>
+   <string name="resource_xspace">Klonované aplikace</string>
+   <string name="space_des_default">Izolovaný prostos se šifrovanými daty</string>
+   <string name="space_name_default">Pracovní prostor</string>
+   <string name="switch_download_space">Přepnout do pracovního prostoru</string>
+   <string name="xpsace_guide_button">Vytvořit</string>
+   <string name="xspace_guide_des">Použijte 2 účty bez přepínání</string>
+   <string name="xspace_guide_title">Vytvořit klonovanou apl. pro %s</string> 
 </resources>

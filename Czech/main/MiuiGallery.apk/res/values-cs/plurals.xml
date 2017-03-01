@@ -329,4 +329,16 @@
          <item quantity="other">Videa: %d</item>
          <item quantity="one">Videa: %d</item>
      </plurals>	
+     <plurals name="backup_after_hours">
+         <item quantity="other"Pokračovat v záloze za %d hodin</item>
+         <item quantity="one">Pokračovat v záloze za %d hodinu</item>
+     </plurals>
+     <plurals name="backup_pause_desc">
+         <item quantity="other">%d fotografií nebo videí | Pozastaveno</item>
+         <item quantity="one">%d fotografie nebo video | Pozastaveno</item>
+     </plurals>
+     <plurals name="download_retry_message">
+         <item quantity="other">Nelze stáhnout %1$d souborů, zkontrolujte nastavení sítě</item>
+         <item quantity="one">Nelze stáhnout %1$d soubor, zkontrolujte nastavení sítě</item>
+     </plurals>
 </resources>
