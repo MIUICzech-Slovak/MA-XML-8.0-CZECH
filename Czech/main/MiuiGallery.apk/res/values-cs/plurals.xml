@@ -330,7 +330,7 @@
          <item quantity="one">Videa: %d</item>
      </plurals>	
      <plurals name="backup_after_hours">
-         <item quantity="other"Pokračovat v záloze za %d hodin</item>
+         <item quantity="other">Pokračovat v záloze za %d hodin</item>
          <item quantity="one">Pokračovat v záloze za %d hodinu</item>
      </plurals>
      <plurals name="backup_pause_desc">
