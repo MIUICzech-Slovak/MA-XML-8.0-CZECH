@@ -59,12 +59,12 @@
          <item quantity="one">%1$d den potom</item>
      </plurals>	
      <plurals name="anniversary_notify_title">
-         <item quantity="other">[Anniversary]%2$d let výročí %1$s</item>
-         <item quantity="one">[Anniversary]%2$d rok výročí %1$s</item>
+         <item quantity="other">Výročí: %2$d let výročí %1$s</item>
+         <item quantity="one">Výročí: %2$d rok výročí %1$s</item>
      </plurals>
      <plurals name="anniversary_notify_before_3_day_title">
-         <item quantity="other">[Anniversary]%2$d let výročí %1$s za 3 dny</item>
-         <item quantity="one">[Anniversary]%2$d rok výročí %1$s za 3 dny</item>
+         <item quantity="other">Výročí: %2$d let výročí %1$s za 3 dny</item>
+         <item quantity="one">Výročí: %2$d rok výročí %1$s za 3 dny</item>
      </plurals>
      <plurals name="anniversary_year">
          <item quantity="other">let</item>

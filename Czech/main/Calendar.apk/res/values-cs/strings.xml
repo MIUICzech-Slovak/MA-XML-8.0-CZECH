@@ -435,7 +435,7 @@
    <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s den %3$s</string> 
    <string name="anniversary_card_title">Výročí</string>
    <string name="countdown_card_title">Odpočet</string>
-   <string name="countdown_notify_before_3_day_title">[Countdown]%1$s za 3 dny</string>
+   <string name="countdown_notify_before_3_day_title">Odpočet: %1$s za 3 dny</string>
    <string name="countdown_today">Dnes</string>
    <string name="edit_event_anniversary_name_empty_hint">Zadejte výročí</string>
    <string name="edit_event_anniversary_name_hint">Popis</string>
@@ -445,4 +445,7 @@
    <string name="edit_event_reminder_summary">Daný den v %1$s</string>
    <string name="edit_event_reminder_summary_3_days_before">3 dny před a daný den v %1$s</string>
    <string name="edit_event_reminder_time">Čas upozornění</string>
+   <string name="anniversary_event_title">Výročí: %1$s</string>
+   <string name="countdown_event_title">Odpočet: %1$s</string>
+   <string name="countdown_notify_title">Odpočet: %1$s</string>   
 </resources>
