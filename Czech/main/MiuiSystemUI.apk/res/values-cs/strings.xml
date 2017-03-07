@@ -247,7 +247,7 @@ Použijte síťovou nabíječku."</string>
   <string name="recent_task_unlock_text">Odemknout</string>
   <string name="recents_launch_error_message">Nelze spustit %s.</string>
   <string name="reject_call">Odmítnutí</string>
-  <string name="return_to_incall_screen">Stiskněte pro návart k hovoru</string>
+  <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
   <string name="save_mode_btn_ok">OK</string>
   <string name="saved_network">Uloženo přes %1$s</string>
   <string name="screen_button_notification_text">Zapněte je stisknutím tlačítka Domů a Zapínání.</string>
