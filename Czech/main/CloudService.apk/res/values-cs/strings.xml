@@ -503,4 +503,6 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
    <string name="micloud_dialog_sync_now_title">Synchr. data nyní přes mobilní data</string>
    <string name="micloud_main_cancel_sync">Zrušit synchr.</string>
    <string name="micloud_main_sync_need_charge">Čeká na nabíječku</string>
+   <string name="micloud_notif_content_dirty_data">Podrobnosti</string>
+   <string name="micloud_notif_title_dirty_data">Máte nesynchr. data</string>
 </resources>
