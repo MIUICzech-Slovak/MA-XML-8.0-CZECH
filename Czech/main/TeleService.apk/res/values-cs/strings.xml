@@ -1269,4 +1269,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
    <string name="labelCFVoice">Hlas</string>
    <string name="crescendo_ringer_summary">Hlasitost zvonění se bude postupně zvyšovat až do nastavené hlasitosti</string>
    <string name="crescendo_ringer_title">Zvyšování hlasitosti zvonění</string>
+    <string name="bad_pin2_old">Starý PIN2 je nesprávný.</string>
 </resources>
