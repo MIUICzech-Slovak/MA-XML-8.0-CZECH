@@ -4793,4 +4793,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="work_space_delete">Vymazat pracovní prostor</string>
    <string name="work_space_delete_confirm">Potvrďte vymazání</string>
    <string name="work_space_delete_description">Nebude možné se přepnout do pracovního prostoru, když jej vymažete. Všechna data budou vymazána nebo přesunuta.</string>
+   <string name="device_name_input_overlength">Nad limitem slov</string>
+   <string name="disable_wifi_master_key_service_first">Vypnout</string>
+   <string name="enable_wifi_master_key_service_first">Zapnout</string>
 </resources>

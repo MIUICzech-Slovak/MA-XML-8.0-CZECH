@@ -139,4 +139,5 @@
   <string name="unknown_caller">Neznámé číslo</string>
   <string name="user_switching_dialog_text">Přepínání...</string>
   <string name="xspace_resolver_activity_title">Vybrat apl.</string>
+  <string name="miui_upgrading_notification_title">Probíhá aktualizace systému, některé funkce mohou být omezeny.</string>
 </resources>

@@ -79,4 +79,5 @@
   Přihlaste se na i.mi.com, jděte na “Find device”, vyberte zařízení a potvrďte "Wipe device."</string>
    <string name="phone_locked_foget_password_header">Co mám dělat v případě zapomenutí hesla?</string>
    <string name="phone_locked_foget_password_ok">Rozumím</string>  
+   <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otevřít První profil po restartu zařízení</string>
 </resources>
