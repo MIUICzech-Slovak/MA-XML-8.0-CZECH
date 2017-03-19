@@ -179,7 +179,7 @@
   <string name="auto_task_notify_task_canceled_summary">Můžete uskutečnit hovory</string>
   <string name="auto_task_notify_task_canceled_title">Úloha je zrušena</string>
   <string name="auto_task_notify_task_continue_do">Spustit úlohu</string>
-  <string name="auto_task_notify_task_count_down">Autoatická úloha se spustí za 5 sekund</string>
+  <string name="auto_task_notify_task_count_down">Automatická úloha se spustí za 5 sekund</string>
   <string name="auto_task_operation_airplane_mode">Režim Letadlo</string>
   <string name="auto_task_operation_auto_brightness">Auto. jas</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
