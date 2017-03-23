@@ -1270,4 +1270,6 @@ Vyberte si z následujících možností:</string>
    <string name="dialog_device_info_miui_version">Verze MIUI: %s</string>
    <string name="dialog_device_info_title">Info o verzi</string>
    <string name="update_sim_contact_photo_toast">Pro kontakty na SIM kartě nelze nastavit fotografii</string>
+   <string name="call_sim_menu_title_suffix">(Primární)</string>
+   <string name="sim_unloaded">SIM karta není načtena</string>
 </resources>

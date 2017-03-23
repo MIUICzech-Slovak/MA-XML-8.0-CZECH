@@ -61,5 +61,8 @@
   <string name="user_agreement">Podmínky používání</string>
   <string name="welcome">Vítejte</string>
   <string name="language_picker_other_languages_title">Více jazyků</string>
-   <string name="language_picker_popular_languages_title">Populární jazyky</string> 
+   <string name="language_picker_popular_languages_title">Populární jazyky</string>
+   <string name="enable_accessibility_dialog_message">Povolili jste TalkBack podržením dvou prstů na displeji po dobu 10s. TalkBack pomáhá nevidomým. Pokud jste jej aktivovali omylem, stiskněte tlačítko zrušit a 2x poklepejte na displej.</string>
+   <string name="enable_accessibility_dialog_negative_btn">Zrušit</string>
+   <string name="enable_accessibility_dialog_positive_btn">OK</string>  
 </resources>

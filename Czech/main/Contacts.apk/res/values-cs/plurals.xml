@@ -56,8 +56,8 @@
         <item quantity="one">%1$d přidaný kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d lidí</item>
-        <item quantity="one">1 člověk</item>
+        <item quantity="other">%1$d lidí</item>
+        <item quantity="one">%1$d člověk</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Vybraných: %1$d</item>
@@ -97,28 +97,28 @@
         <item quantity="one">Importovaných kontaktů: %1$d</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM karta uloží %d kontaktů.</item>
-        <item quantity="one">SIM karta uloží %d kontakt.</item>
+        <item quantity="other">SIM karta uloží %1$d kontaktů.</item>
+        <item quantity="one">SIM karta uloží %1$d kontakt.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Vymazat kontakty (%d) ze SIM karty?</item>
-        <item quantity="one">Vymazat kontakty (%d) ze SIM karty?</item>
+        <item quantity="other">Vymazat kontakty (%1$d) ze SIM karty?</item>
+        <item quantity="one">Vymazat kontakty (%1$d) ze SIM karty?</item>
     </plurals>
     <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Zkopírované kontakty: %d</item>
         <item quantity="one">Zkopírované kontakty: %d</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Vymazat kontakty %d</item>
-        <item quantity="one">Vymazat kontakt</item>
+        <item quantity="other">Vymazat kontakty %1$d</item>
+        <item quantity="one">Vymazat kontakty %1$d</item>
     </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">Vymazat kontakty (%d)?</item>
-        <item quantity="one">Vymazat kontakty (%d)?</item>
+        <item quantity="other">Vymazat kontakty (%1$d)?</item>
+        <item quantity="one">Vymazat kontakty (%1$d)?</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvonil %dx</item>
-        <item quantity="one">Zvonil %dx</item>
+        <item quantity="other">Zvonil %1$dx</item>
+        <item quantity="one">Zvonil %1$dx</item>
     </plurals>
      <plurals name="dlg_add_blacklist">
         <item quantity="other">Blokovat tato čísla (%1$d)?</item>
@@ -133,8 +133,8 @@
         <item quantity="one">Kontaktů: %1$d</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">Nesynchr. kontakty: %d</item>
-        <item quantity="one">Nesynchr. kontakty: 1</item>
+        <item quantity="other">Nesynchr. kontakty: %1$d</item>
+        <item quantity="one">Nesynchr. kontakty: %1$d</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">Lidí: %1$d</item>
@@ -158,8 +158,8 @@
          <item quantity="other">Nyní</item>
      </plurals>
      <plurals name="abbrev_num_minutes_ago">
-         <item quantity="other">Před %d min</item>
-         <item quantity="one">Před 1 min</item>
+         <item quantity="other">Před %1$d min</item>
+         <item quantity="one">Před %1$d min</item>
      </plurals>
      <plurals name="abbrev_in_a_hour">
          <item quantity="other">Za 1h</item>
@@ -171,7 +171,15 @@
          <item quantity="other">Okamžitě</item>
      </plurals>
      <plurals name="abbrev_in_num_minutes">
-         <item quantity="other">za %d min</item>
-         <item quantity="one">za 1 min</item>
-     </plurals>	
+         <item quantity="other">za %1$d min</item>
+         <item quantity="one">za %1$d min</item>
+     </plurals>
+     <plurals name="group_move_success_toast">
+          <item quantity="other">Přesunutých kontaktů: %1$d</item>
+         <item quantity="one">Přesunutých kontaktů: %1$d</item>
+      </plurals>
+      <plurals name="group_copy_success_toast">
+          <item quantity="other">Zkopírovaných kontaktů: %1$d</item>
+         <item quantity="one">Zkopírovaných kontaktů: %1$d</item>
+      </plurals>	
 </resources>

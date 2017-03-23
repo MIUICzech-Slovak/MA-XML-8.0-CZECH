@@ -670,6 +670,7 @@ Postupujte dle pokynů"</item>
         <item>1 min.</item>
         <item>2 min.</item>
         <item>5 min.</item>
+	<item>Nikdy</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>Vypnout animace systému</item>

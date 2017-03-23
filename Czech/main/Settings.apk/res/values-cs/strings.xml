@@ -4796,4 +4796,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="device_name_input_overlength">Nad limitem slov</string>
    <string name="disable_wifi_master_key_service_first">Vypnout</string>
    <string name="enable_wifi_master_key_service_first">Zapnout</string>
+   <string name="vpn_set_screen_lock_content">Nastavte zámek displeje a uložte vaše nastavení VPN</string>
+   <string name="vpn_set_screen_lock_title">Nastavit zámek displeje</string>
+   <string name="aod_mode_summary">Vždy zobrazit čas, datum a SMS na vypnutém displeji.</string>
+   <string name="aod_mode_title">Always-on displej</string> 
 </resources>

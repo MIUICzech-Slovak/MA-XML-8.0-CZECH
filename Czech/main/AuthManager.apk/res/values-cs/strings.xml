@@ -293,4 +293,6 @@
   <string name="screen_overlay_button">Otevřít nastavení</string>
   <string name="screen_overlay_message">Pro změnu nastavení tohoto povolení, musíte nejprve vypnout překrytí displeje v Nastavení &gt; Aplikace</string>
   <string name="screen_overlay_title">Zjištěno překrytí displeje</string>
+  <string name="HIPS_Perm_get_installed_apps">Získat informace o nainstalovaných aplikacích</string>
+   <string name="HIPS_Perm_get_installed_apps_Desc">Získat informace o nainstalovaných aplikacích v tomto zařízení</string>
 </resources>
