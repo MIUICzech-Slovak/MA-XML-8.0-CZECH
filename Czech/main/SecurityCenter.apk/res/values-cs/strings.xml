@@ -539,7 +539,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_fragment_tab_title_sys">Systémové</string>
   <string name="firewall_network_restrict_notify_message">Změnit nastavení</string>
   <string name="firewall_network_restrict_notify_mobile">Mobilní data</string>
-  <string name="firewall_network_restrict_notify_title">%1$s nemá povoleno připojení k %2$s.</string>
+  <string name="firewall_network_restrict_notify_title">%1$s nemá povoleno připojení k síti.</string>
   <string name="firewall_restrict_android_dialog_content">Pro zajištění správné funkčnosti systému, budou mít některé systémové aplikace stále přístup k internetu. Tyto aplikace budou využívat vaše mobilní připojení.</string>
   <string name="firewall_restrict_android_dialog_title">Upozornění</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
@@ -1762,25 +1762,5 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="show_system_app">Zobrazit systémové apl.</string>
    <string name="auto_task_notify_task_canceled_summary3">Zrušeno Druhým profilem</string>
    <string name="auto_task_notify_task_canceled_summary4">Zrušeno Prvním profilem</string>
-   <string name="menu_text_power_percent_title_default">Baterie</string>
-   <string name="button_look_up">Zobrazit</string>
-   <string name="customize_limit_pkg">%s (vlastní)</string>
-   <string name="data_usage_warning_body_notify">Zobrazit podrobnosti</string>
-   <string name="data_usage_warning_title_notify">Překročili jste svůj limit dat</string>
-   <string name="firewall_allow_network">Povoleno</string>
-   <string name="firewall_network_allow">Povoleno %1$s použít %2$s připojení</string>
-   <string name="guide_primary_text">"Povolte Správu mobilních dat
- pro kontrolu vaší spotřeby"</string>
-   <string name="guide_quck_open">Povolit</string>
-   <string name="guide_wait_setting">Později</string>
-   <string name="main_month_total_used">Tento měsíc</string>
-   <string name="main_month_used">Balíček</string>
-   <string name="main_no_info">Žádná data</string>
-   <string name="main_normal_data_usage">Využitá mobilní data</string>
-   <string name="main_primary_message_traffic_remain">Mobilní data</string>
-   <string name="main_today_used">Využito dnes</string>
-   <string name="pref_adjust_data_usage_value">Změněno</string> 
-   <string name="pref_more_settings">Více nastavení</string>
-   <string name="pref_month_traffic_limit">Limit mobilních dat</string>
-   <string name="pref_normal_traffic_limit">Překročení limitu dat</string>
+   <string name="menu_text_power_percent_title_default">Baterie</string> 
 </resources>
