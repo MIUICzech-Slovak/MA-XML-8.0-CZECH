@@ -579,4 +579,5 @@
    <string name="no_scanned_songs">Prázdné</string>
    <string name="playlist_empty">Žádný playlist</string>
    <string name="recently_played_songs">Nedávno přehráno</string>
+   <string name="loadercontainer_loading">Načítání...</string>
 </resources>

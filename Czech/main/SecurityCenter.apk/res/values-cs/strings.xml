@@ -1774,10 +1774,13 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="guide_quck_open">Povolit</string>
    <string name="guide_wait_setting">Později</string>
    <string name="main_month_total_used">Tento měsíc</string>
-   <string name="main_month_used">Využito tento měsíc</string>
+   <string name="main_month_used">Balíček</string>
    <string name="main_no_info">Žádná data</string>
    <string name="main_normal_data_usage">Využitá mobilní data</string>
    <string name="main_primary_message_traffic_remain">Mobilní data</string>
    <string name="main_today_used">Využito dnes</string>
    <string name="pref_adjust_data_usage_value">Změněno</string> 
+   <string name="pref_more_settings">Více nastavení</string>
+   <string name="pref_month_traffic_limit">Limit mobilních dat</string>
+   <string name="pref_normal_traffic_limit">Překročení limitu dat</string>
 </resources>
