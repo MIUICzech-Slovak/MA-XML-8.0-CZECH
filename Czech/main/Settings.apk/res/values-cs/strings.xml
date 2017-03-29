@@ -4800,4 +4800,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="vpn_set_screen_lock_title">Nastavit zámek displeje</string>
    <string name="aod_mode_summary">Vždy zobrazit čas, datum a SMS na vypnutém displeji.</string>
    <string name="aod_mode_title">Always-on displej</string> 
+   <string name="current_zone">(současná)</string>
+   <string name="privacy_password_settings_titles_elder_mode">Heslo ochrany soukromí chráni vaše fotografie, soubory a poznámky.</string>
+   <string name="privacy_password_settings_titles_second_space">Heslo ochrany soukromí chráni vaše SMS. fotografie a poznámky.</string>
 </resources>
