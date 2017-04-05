@@ -920,4 +920,8 @@
    <string name="sync_state_unknow">Získávání informací</string>
    <string name="backup_detail_page_empty">Žádná videa nebo fotografie na zálohování</string>
    <string name="set_wallpaper_get_image_failed">Nelze stáhnout obrázek, zkuste to později.</string>
+   <string name="loading_fail_sync_without_network">Připojte se k síti pro stažení informací</string>
+   <string name="loading_fail_syncing">Počkejte na načtení informací</string>
+   <string name="loading_video_fail_sync_without_network">Připojte se k síti pro stažení informací</string>
+   <string name="loading_video_fail_syncing">Počkejte na načtení informací</string> 
 </resources>

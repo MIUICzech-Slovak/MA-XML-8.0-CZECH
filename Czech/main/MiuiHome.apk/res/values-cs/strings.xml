@@ -264,7 +264,7 @@
   <string name="uninstall_result_two_failed">Nelze odinstalovat %s a 1 další apl.</string>
   <string name="uninstall_with_xspace_dialog_message">Odpovídající klonované apl. budou vymazány spolu s jejich daty.</string>
   <string name="uninstall_xspace_dialog_message">Odinstalování klonované apl. vymaže všechna data aplikace.</string>
-  <string name="uninstall_xspace_dialog_title_format">Odinstalovat klonované \"%s\"</string>
+  <string name="uninstall_xspace_dialog_title_format">Odinstalovat klonované \"%s\"?</string>
   <string name="unknown_artist_name">Neznámý interpret</string>
   <string name="unnamed_folder_name">Bez názvu</string>
   <string name="wallpaper">Tapeta</string>

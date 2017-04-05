@@ -668,4 +668,6 @@ Pokus: %s."</string>
   <string name="mx_stranger_recommend_msg">Dotykem zablokujete Mi zprávy z neznámých čísel</string>
   <string name="title_use_gsm_alphabet">Ořezat diakritiku před odesláním</string>
   <string name="fail_to_add_attachment">Nelze připojit přílohu</string>
+  <string name="pref_hide_verification_code_summary">Automaticky skrýt OTP v SMS na zamčené obrazovce</string>
+  <string name="title_hide_verification_code">Autom. skrýt OTP na zamyk. obrazovce</string>
 </resources>

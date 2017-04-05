@@ -40,4 +40,8 @@
          <item quantity="other">Vybráno: %d</item>
          <item quantity="zero">Vyberte položku</item>
      </plurals>	
+     <plurals name="batch_delete_confirm_dialog_message">
+         <item quantity="other">Vymazat %1$s SMS?</item>
+         <item quantity="one">Vymazat %1$s SMS?</item>
+       </plurals>
 </resources>
