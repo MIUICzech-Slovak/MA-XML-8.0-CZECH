@@ -4806,4 +4806,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="http_invoke_app">Web aplikace</string>
    <string name="http_invoke_app_summary">Otevřít aplikace rychleji bez jejich instalace</string>
    <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Po deaktivaci hesla zamykací obrazovky se vymaže i nastavení otisků.</string>
+   <string name="account_other">Ostatní</string>
+  <string name="xiaomi_cloud_service_description">MiCloud synchr. vaše kontakty a fotografie, zálohuje vaše aplikace a nastavení a pomáha najít Vaše zařízení, když jej ztratíte.</string>
+   <string name="xiaomi_cloud_service_disabled">Vyp</string>
+   <string name="xiaomi_cloud_service_unknown">Neznámé</string>
 </resources>
