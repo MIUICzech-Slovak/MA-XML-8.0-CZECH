@@ -4810,6 +4810,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="xiaomi_cloud_service_description">MiCloud synchr. vaše kontakty a fotografie, zálohuje vaše aplikace a nastavení a pomáha najít Vaše zařízení, když jej ztratíte.</string>
    <string name="xiaomi_cloud_service_disabled">Vyp</string>
    <string name="xiaomi_cloud_service_unknown">Neznámé</string>
-   <string name="palm_enabled">Large area covered off screen</string>
-   <string name="suspend_gesture_enabled">Flip off the screen</string>
+   <string name="palm_enabled">Vypnout displej zakrytím</string>
+   <string name="suspend_gesture_enabled">Vypnout displej otočením telefonu</string>
+   <string name="music_unsupport_effect_summary">Nepodporovaná USB sluchátka</string>
 </resources>

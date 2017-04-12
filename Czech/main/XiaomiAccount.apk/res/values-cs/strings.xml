@@ -430,5 +430,15 @@ Zkontrolujte také složku SPAM."</string>
    <string name="push_notify_dialog_title">Bezpečnostní oveření přihlášení</string>
    <string name="find_device_locked_account_email" formatted="false">%s, propojený e-mail: %s</string>
    <string name="find_device_locked_account_phone" formatted="false">%s, propojené tel. číslo: %s</string> 
-   <string name="account_error_invalid_user_name">"Jméno nesmí obsahovat znaky &lt;, &gt;, /"</string>  
+   <string name="account_error_invalid_user_name">"Jméno nesmí obsahovat znaky &lt;, &gt;, /"</string>
+   <string name="vip_account_settings">Vip Nastavení</string>
+   <string name="vip_more_info">Více Vip Info</string>  
+   <string name="account_mipay_info">Mi pay</string>
+   <string name="account_secure_info_pref_title">Info o účtu/string>
+   <string name="account_security">Zabezpečení účtu</string>
+   <string name="account_security_info_pref_title">Zabezpečení</string>
+   <string name="account_protection_off">Vyp</string>
+   <string name="account_protection_on">Zap</string>
+   <string name="account_user_info">Info o účtu</string>
+   <string name="logout_account">Odhlásit</string>  
 </resources>

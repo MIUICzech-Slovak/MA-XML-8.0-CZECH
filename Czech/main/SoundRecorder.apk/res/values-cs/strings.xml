@@ -148,4 +148,5 @@ Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
    <string name="head_set_tip_dialog_msg">Odpojte svá sluchátka pro možnost nahrávání zvuku v různých režimech (např. Hudba, Hlas).</string>
     <string name="head_set_tip_dialog_ok">Rozumím</string>
     <string name="head_set_tip_dialog_title">Použít interní mikrofon</string>  
+    <string name="rename_fail_tip">Soubor s tímto názvem již existuje.</string>
 </resources>
