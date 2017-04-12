@@ -680,4 +680,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="clear_record">Vymazat historii</string>
+   <string name="search_history">Vyhledat v historii</string>
 </resources>
