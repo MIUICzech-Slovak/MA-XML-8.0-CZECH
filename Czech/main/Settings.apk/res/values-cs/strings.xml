@@ -4803,4 +4803,7 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="current_zone">(současná)</string>
    <string name="privacy_password_settings_titles_elder_mode">Heslo ochrany soukromí chráni vaše fotografie, soubory a poznámky.</string>
    <string name="privacy_password_settings_titles_second_space">Heslo ochrany soukromí chráni vaše SMS. fotografie a poznámky.</string>
+   <string name="http_invoke_app">Web aplikace</string>
+   <string name="http_invoke_app_summary">Otevřít aplikace rychleji bez jejich instalace</string>
+   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Po deaktivaci hesla zamykací obrazovky se vymaže i nastavení otisků.</string>
 </resources>
