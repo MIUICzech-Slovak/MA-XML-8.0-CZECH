@@ -117,4 +117,5 @@
    <string name="sys_freememory_title">Dostupné</string>
    <string name="top_load_fail_detail">Nelze načíst, zkuste to znovu</string>
    <string name="top_no_network_detial">Nelze načíst, zkuste to znovu</string>
+  <string name="intro_skip">Přeskočit</string>
 </resources>
