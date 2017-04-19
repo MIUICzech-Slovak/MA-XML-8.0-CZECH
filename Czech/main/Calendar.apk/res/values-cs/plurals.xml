@@ -78,4 +78,24 @@
          <item quantity="other">dní</item>
          <item quantity="one">den</item>
      </plurals>	
+     <plurals name="work_days">
+         <item quantity="other">%d pracovních dní</item>
+         <item quantity="one">%d pracovní den</item>
+     </plurals>
+     <plurals name="date_calculate_direction_forward">
+         <item quantity="other">Dopředu %1$d dní</item>
+         <item quantity="one">Dopředu %1$d den</item>
+     </plurals>
+     <plurals name="date_calculate_direction_backward">
+         <item quantity="other">Zpětně %1$d dní</item>
+         <item quantity="one">Zpětně %1$d den</item>
+     </plurals>
+     <plurals name="date_calculate_days_ago">
+         <item quantity="other">před %1$d dny</item>
+         <item quantity="one">před %1$d dnem</item>
+     </plurals>
+     <plurals name="date_calculate_days_after">
+         <item quantity="other">po %1$d dnech</item>
+         <item quantity="one">po %1$d dni</item>
+     </plurals>	
 </resources>

@@ -344,5 +344,9 @@
          <item>Nikdy</item>
          <item>Měsíčně</item>
          <item>Ročně</item>
+     </string-array>
+     <string-array name="date_calculate_spinner">
+         <item>Zpětně</item>
+         <item>Dopředu</item>
      </string-array>	
 </resources>
