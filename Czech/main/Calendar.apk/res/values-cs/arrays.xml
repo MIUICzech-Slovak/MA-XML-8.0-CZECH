@@ -346,7 +346,7 @@
          <item>Ročně</item>
      </string-array>
      <string-array name="date_calculate_spinner">
-         <item>Zpětně</item>
          <item>Dopředu</item>
+         <item>Dozadu</item>
      </string-array>	
 </resources>
