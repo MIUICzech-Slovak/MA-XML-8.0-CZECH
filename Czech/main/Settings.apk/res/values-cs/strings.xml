@@ -2377,7 +2377,7 @@ Zvolte Váš operační systém:"</string>
   <string name="nfc_payment_use_default">Použít výchozí</string>
   <string name="nfc_quick_toggle_summary">Povolit výměnu dat, pokud se zařízení dotkne jiného zařízení</string>
   <string name="nfc_quick_toggle_title">NFC</string>
-  <string name="nfc_se_route_title">Secure element position</string>
+  <string name="nfc_se_route_title">Pozice bezpečnostních prvků</string>
   <string name="nfc_se_wallet_title">Výchozí peněženka</string>
   <string name="night_mode_auto">Automatický</string>
   <string name="night_mode_no">Světlý</string>
