@@ -923,5 +923,10 @@
    <string name="loading_fail_sync_without_network">Připojte se k síti pro stažení informací</string>
    <string name="loading_fail_syncing">Počkejte na načtení informací</string>
    <string name="loading_video_fail_sync_without_network">Připojte se k síti pro stažení informací</string>
-   <string name="loading_video_fail_syncing">Počkejte na načtení informací</string> 
+   <string name="loading_video_fail_syncing">Počkejte na načtení informací</string>
+   <string name="grant_permission_go_and_set">Povolit</string>
+   <string name="grant_permission_text">"Galerie vyžaduje přístup k 
+ %s
+  pro správné fungování."</string>
+   <string name="grant_permission_title">Povolení</string> 
 </resources>

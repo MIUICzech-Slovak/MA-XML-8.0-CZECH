@@ -670,4 +670,5 @@ Pokus: %s."</string>
   <string name="fail_to_add_attachment">Nelze připojit přílohu</string>
   <string name="pref_hide_verification_code_summary">Automaticky skrýt OTP v SMS na zamčené obrazovce</string>
   <string name="title_hide_verification_code">Autom. skrýt OTP na zamyk. obrazovce</string>
+  <string name="mx_activate_network_allow_notice">Tato služba vyžaduje připojení k internetu.</string>
 </resources>
