@@ -456,7 +456,7 @@
    <string name="date_calculate_days">Zadejte počet dní</string>
    <string name="date_calculate_description">Vypočítat datum</string>
    <string name="date_calculate_direction">Směr výpočtu</string>
-   <string name="date_calculate_result">Vásledek</string>
+   <string name="date_calculate_result">Výsledek</string>
    <string name="date_calculate_tab">Výpočet data</string>
    <string name="date_calculate_today">0 dní</string>
    <string name="date_calculate_when">Kdy</string>
