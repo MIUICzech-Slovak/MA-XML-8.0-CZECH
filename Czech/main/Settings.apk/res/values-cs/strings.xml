@@ -4819,4 +4819,13 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="music_notification_headset_custom">Zrušit</string>
    <string name="music_notification_headset_info">Zobrazit nastavení</string>
    <string name="music_notification_headset_settings">Připojena sluchátka</string>  
+   <string name="paper_mode_auto_twilight_summary">Režim čtení naplánován dle slunce</string>
+   <string name="paper_mode_auto_twilight_title">Dle slunce</string>
+   <string name="paper_mode_customize_time_summary">Režim čtení naplánován dle času</string>
+   <string name="paper_mode_customize_time_title">Nastavit čas</string>
+   <string name="paper_mode_get_location_dlg_msg">Pro získání přesného času východu a západu slunce je zapotřebí přístup k poloze. Otevřít nastavení polohy?</string>
+   <string name="paper_mode_get_location_dlg_negative_btn_text">Zrušit</string>
+   <string name="paper_mode_get_location_dlg_positive_btn_text">Nastavení</string>
+   <string name="paper_mode_get_location_dlg_title">Přístup k poloze</string>
+   <string name="screen_paper_mode_time_summary">Režim čtení nastaven dle času</string>
 </resources>
