@@ -120,7 +120,7 @@ Zadejte město manuálně"</string>
    <string name="wind_direction_no_data">Vítr</string>
    <string name="information_manager_default_weather_bg">Výchozí pozadí počasí</string>
   <string name="act_find_city_hot_city_title">Populární města</string>
-  <string name="data_provided_by">Data poskytuje</string>
+  <string name="data_provided_by" />
    <string name="feedback_heavy_rain">Silný déšť</string>
    <string name="feedback_heavy_snow">Sníh/string>
    <string name="feedback_light_rain">Jemný déšť</string>
