@@ -122,7 +122,7 @@ Zadejte město manuálně"</string>
   <string name="act_find_city_hot_city_title">Populární města</string>
   <string name="data_provided_by" />
    <string name="feedback_heavy_rain">Silný déšť</string>
-   <string name="feedback_heavy_snow">Sníh/string>
+   <string name="feedback_heavy_snow">Sníh</string>
    <string name="feedback_light_rain">Jemný déšť</string>
    <string name="feedback_overcast">Předpověď</string>
    <string name="feedback_result_fail_no_choice">Vyberte aktuální počasí</string>
