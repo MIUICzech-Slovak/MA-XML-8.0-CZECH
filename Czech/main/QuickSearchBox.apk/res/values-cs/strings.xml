@@ -128,4 +128,5 @@
    <string name="pull_to_input">Potáhněte dolů pro obnovení</string>
    <string name="release_to_input">Pusťte pro obnovení</string>
    <string name="choose_search_engine">Vyberte výchozího poskytovatele vyhledávání</string>
+   <string name="switch_email">E-mail</string>
 </resources>

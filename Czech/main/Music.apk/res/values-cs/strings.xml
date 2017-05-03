@@ -563,4 +563,6 @@
    <string name="no_scanned_songs">Prázdné</string>
    <string name="playlist_empty">Žádný playlist</string>
    <string name="recently_played_songs">Nedávno přehráno</string>
+    <string name="artist_home_search_hint">Vyhledejte interpreta</string>
+   <string name="search_hint_not_support_online">Vyhledat umělce, skladby a alba</string>
 </resources>
