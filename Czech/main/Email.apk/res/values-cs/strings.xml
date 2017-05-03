@@ -21,7 +21,6 @@
   <string name="account_setting_message_body_load_text">Jen tělo zprávy</string>
   <string name="account_settings_action">Nastavení účtu</string>
   <string name="account_settings_background_attachments_label">Stahovat přílohy</string>
-  <string name="account_settings_background_attachments_summary">Automaticky stahovat přílohy posledních zpráv pomocí sítě Wi-Fi</string>
   <string name="account_settings_data_usage">Využití dat</string>
   <string name="account_settings_description_label">Název účtu</string>
   <string name="account_settings_edit_quick_responses_label">Rychlé odpovědi</string>
@@ -870,4 +869,7 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
    <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračování na tuto webstránku je nebezpečné!</string>
    <string name="auto_mail_window_description">Tato funkce je pouze pro Čínu. Na jejím odstranění pracujeme...</string>
    <string name="auto_mail_window_label">Nastavení služby 139 Mailbox</string> 
+   <string name="account_settings_background_attachments_summary">Stáhnout přílohy přes Wi-Fi</string>
+   <string name="account_settings_background_attachments_summary_inter">Stáhnout přílohy přes Wi-Fi</string>
+   <string name="policy_dont_allow_wifi_inter">Nepovolovat Wi-Fi</string>
 </resources>

@@ -842,4 +842,12 @@ Chcete opustit tuto stránku?"</string>
    <string name="more_description">Menu</string>
    <string name="storage_permission_request_toast">Stahování vyžaduje přístup k úložišti zařízení</string>
    <string name="tabs_description">Karty</string>
+   <string name="autoSwithcingSearchEngineTips">Změnil se poskytovatel vyhledávání</string>
+   <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
+   <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
+   <string name="quicklink_cannot_save_url">Tato URL nemůže být přidána.</string>
+   <string name="quicklink_folder_text">Top App</string>
+   <string name="switchText">ANO</string>
+   <string name="unSwitchText">NE</string>
+   <string name="undo">Zpět</string>
 </resources>
