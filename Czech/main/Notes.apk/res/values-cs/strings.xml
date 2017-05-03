@@ -192,4 +192,5 @@ http://www.miuios.cz/rom
   <string name="trash_folder_reminder">Poznámky, které vymažete, budou trvale odstraněny za 30 dní.</string>
   <string name="cloud_trash_bin_title">Vymazat poznámky z MiCloud</string>
    <string name="pref_title_cloud_trash_bin">Vymazat poznámky z MiCloud</string>
+   <string name="cta_reminder">Tato aplikace vyžaduje připojení na internet pro zálohování na Mi Cloud a přístup ke kontaktům.</string> 
 </resources>

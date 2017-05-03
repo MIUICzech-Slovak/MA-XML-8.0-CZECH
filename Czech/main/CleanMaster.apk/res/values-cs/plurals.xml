@@ -81,4 +81,16 @@
          <item quantity="other">Nainstalováno %d apl.</item>
          <item quantity="one">Nainstalována %d apl.</item>
      </plurals>	
+     <plurals name="app_usage_day">
+         <item quantity="other">Nebylo použito %d dní</item>
+         <item quantity="one">Nebylo použito %d den</item>
+     </plurals>
+     <plurals name="app_usage_month">
+         <item quantity="other">Nebylo použito %d měsíců</item>
+         <item quantity="one">Nebylo použito %d měsíc</item>
+     </plurals>
+     <plurals name="app_usage_year">
+         <item quantity="other">Nebylo použito %d roky</item>
+         <item quantity="one">Nebylo použito %d rok</item>
+     </plurals>	
 </resources>
