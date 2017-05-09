@@ -4832,4 +4832,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="privacy_password_use_finger_dialog_open">Nastavení</string>
    <string name="privacy_password_use_finger_dialog_title">Odemknutí otisku prstu</string>
    <string name="privacy_password_use_finger_success">Povoleno</string>
+   <string name="recents_config_title">Zobrazení spuštěných aplikací</string>
+   <string name="show_mem_info_title">Zobrazit stav RAM</string>
 </resources>

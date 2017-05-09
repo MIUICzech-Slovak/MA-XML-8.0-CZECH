@@ -2206,4 +2206,10 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
    <string name="applock_login_and_add_account">Přihlásit a přidat</string>
    <string name="applock_not_add_account">Později</string>
    <string name="applock_not_login_account">Přihlaste se</string>  
+   <string name="app_manager_go_to_manger_app">Spravovat</string>
+   <string name="app_manager_have_not_consume">Žádné</string>
+   <string name="app_manager_perm">Povolení</string>
+   <string name="app_manager_usage_record_title">Využití apl.</string>
+   <string name="app_usage_never">Nepoužito</string>
+   <string name="app_usage_recently">Použito nedávno</string>
 </resources>
