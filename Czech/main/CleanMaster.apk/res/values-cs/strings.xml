@@ -453,4 +453,5 @@
    <string name="menu_clear">Vyčistit</string>
    <string name="menu_install">Nainstalovat</string>
    <string name="menu_view">Zobrazit ve složce</string>
+   <string name="resutl_function_deep_clean_summary">Dalších %1$s souborů může být vyčištěno.</string>
 </resources>

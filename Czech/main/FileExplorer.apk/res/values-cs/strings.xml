@@ -682,4 +682,6 @@ Bylo přičteno dalších %1$s"</string>
   <string name="yesterday">Včera</string>
   <string name="clear_record">Vymazat historii</string>
    <string name="search_history">Vyhledat v historii</string>
+   <string name="overwrite_msg">\"%s\" již existuje. Dotykem jej přepíšete novým souborem.</string>
+   <string name="skip_file">Přeskočit</string>
 </resources>
