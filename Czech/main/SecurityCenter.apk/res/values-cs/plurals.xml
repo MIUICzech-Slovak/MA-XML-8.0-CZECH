@@ -314,4 +314,8 @@
          <item quantity="other">Nebyly použity %d roky</item>
          <item quantity="one">Nebyly použity %d rok</item>
      </plurals>
+     <plurals name="marked_by_others">
+         <item quantity="other">%d ostatní označili jako</item>
+         <item quantity="one">%d označil jako</item>
+       </plurals>
 </resources>
