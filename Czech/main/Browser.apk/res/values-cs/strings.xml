@@ -850,4 +850,6 @@ Chcete opustit tuto stránku?"</string>
    <string name="switchText">ANO</string>
    <string name="unSwitchText">NE</string>
    <string name="undo">Zpět</string>
+    <string name="ssl_bad_clock_date_settings">Nastavení dat</string>
+   <string name="ssl_bad_clock_warning" formatted="false">Bezpečné připojení k %s1 nemůže být navázáno, protože máte nesprávný čas a datum ve vašem zařízení (%s2).</string>
 </resources>

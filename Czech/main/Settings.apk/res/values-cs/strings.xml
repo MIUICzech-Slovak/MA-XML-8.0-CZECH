@@ -4828,4 +4828,8 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
    <string name="paper_mode_get_location_dlg_positive_btn_text">Nastavení</string>
    <string name="paper_mode_get_location_dlg_title">Přístup k poloze</string>
    <string name="screen_paper_mode_time_summary">Režim čtení nastaven dle času</string>
+   <string name="privacy_password_use_finger_dialog_mess">Můžete použít otisk prstu a Heslo ochrany soukromí.</string>
+   <string name="privacy_password_use_finger_dialog_open">Nastavení</string>
+   <string name="privacy_password_use_finger_dialog_title">Odemknutí otisku prstu</string>
+   <string name="privacy_password_use_finger_success">Povoleno</string>
 </resources>

@@ -2196,5 +2196,14 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="user_define_title">Vlastní režim</string>
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
-  <string name="wl_no_whitelist">Žádná čísla</string>   
+  <string name="wl_no_whitelist">Žádná čísla</string> 
+  <string name="applock_add_account">Přidat</string>
+   <string name="applock_add_account_info">Přidejte Mi účet pro možnost resetování vašeho hesla v případě zapomenutí.</string>
+   <string name="applock_add_account_setting">Účet a soukromí</string>
+   <string name="applock_close_dialog_summary">Vaše aplikace nebudou chráněny a vaše heslo bude vymazáno, pokud deaktivujete zámek aplikací.</string>
+   <string name="applock_close_dialog_title">Deaktivovat zámek aplikací?</string>
+   <string name="applock_exit_account_info">Účet bude automaticky odebrán, když se odhlásíte.</string>
+   <string name="applock_login_and_add_account">Přihlásit a přidat</string>
+   <string name="applock_not_add_account">Později</string>
+   <string name="applock_not_login_account">Přihlaste se</string>  
 </resources>
