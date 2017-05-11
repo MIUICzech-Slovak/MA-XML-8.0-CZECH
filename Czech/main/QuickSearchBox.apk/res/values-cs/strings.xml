@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">Ukázat na ploše</string>
   <string name="app_name">Vyhledávání</string>
+  <string name="appindex_description">Funkce nainstalovaných apl.</string>
+  <string name="appindex_search_label">Funkce apl.</string>
   <string name="application_desc">Aplikace</string>
   <string name="applications_search_label">Apl.</string>
   <string name="apps_search_activity"/>
@@ -10,6 +13,7 @@
   <string name="baidu_search_url_from_systemui">https://www.google.cz/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="choose_search_engine">Vyberte výchozího poskytovatele vyhledávání</string>
   <string name="clear_history">Vymazat historii</string>
   <string name="clear_shortcuts">Smazat historii v zařízení</string>
   <string name="clear_shortcuts_agree">Vymazat historii</string>
@@ -47,6 +51,8 @@
   <string name="hot_search">Často vyhledávané</string>
   <string name="hot_words"/>
   <string name="loading">Načítání...</string>
+  <string name="local_app">Aplikace</string>
+  <string name="local_setting">Nastavení</string>
   <string name="menu_help">Nápověda</string>
   <string name="menu_settings">Nastavení hledání</string>
   <string name="network_unavailable">Žádné internetové připojení</string>
@@ -54,6 +60,7 @@
   <string name="permission_prompt_start">Povolit</string>
   <string name="permission_prompt_started_info">Povoleno globální vyhledávání</string>
   <string name="permission_prompt_title">Chcete více?</string>
+  <string name="pull_to_input">Potáhněte dolů pro obnovení</string>
   <string name="recent_apps">Nedávné apl.</string>
   <string name="recent_apps_filter">Skryté aplikace, které nepoužíváte.</string>
   <string name="recent_close_content">"Vypnout tuto funkci nyní?
@@ -69,6 +76,7 @@
   <string name="recent_filter_functions">Vypnuté funkce</string>
   <string name="recent_function">Funkce</string>
   <string name="recently_shortcut_label">Nedávné odkazy</string>
+  <string name="release_to_input">Pusťte pro obnovení</string>
   <string name="remove_from_history">Odebrat z historie hledání</string>
   <string name="remove_from_history_failed">"Odebrání položky z historie se nezdařilo"</string>
   <string name="search_apps">Vyhledat aplikaci</string>
@@ -92,6 +100,7 @@
   <string name="switch_application">Aplikace</string>
   <string name="switch_browser">Prohlížeč</string>
   <string name="switch_contacts">Kontakty</string>
+  <string name="switch_email">E-mail</string>
   <string name="switch_file">Soubory</string>
   <string name="switch_mms">Zprávy</string>
   <string name="switch_notes">Zprávy</string>
@@ -120,13 +129,4 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="app_loaction">Ukázat na ploše</string>
-   <string name="local_app">Aplikace</string>
-   <string name="local_setting">Nastavení</string>
-   <string name="appindex_description">Funkce nainstalovaných apl.</string>
-   <string name="appindex_search_label">Funkce apl.</string>
-   <string name="pull_to_input">Potáhněte dolů pro obnovení</string>
-   <string name="release_to_input">Pusťte pro obnovení</string>
-   <string name="choose_search_engine">Vyberte výchozího poskytovatele vyhledávání</string>
-   <string name="switch_email">E-mail</string>
 </resources>

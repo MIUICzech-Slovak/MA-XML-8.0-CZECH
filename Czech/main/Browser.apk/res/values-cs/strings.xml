@@ -76,6 +76,7 @@
   <string name="app_new_version">Poslední verze aplikace již je nainstalována</string>
   <string name="app_update_install">Stahování je dokončeno</string>
   <string name="application_name">Prohlížeč</string>
+  <string name="autoSwithcingSearchEngineTips">Změnil se poskytovatel vyhledávání</string>
   <string name="autofill_keyboard_accessory_content_description">Dostupné návrhy</string>
   <string name="autofill_popup_content_description">Zobrazit automatické vyplňování</string>
   <string name="autologin_bar_error">"Přihlášení neúspěšné."</string>
@@ -83,6 +84,7 @@
   <string name="autologin_bar_login_text">Přihlásit se</string>
   <string name="autologin_bar_text">Přihlásit se jako</string>
   <string name="back_button_label">Zpět</string>
+  <string name="back_description">Zpět</string>
   <string name="block">Blokovat</string>
   <string name="block_ads_choice_block">Blokovat</string>
   <string name="block_ads_choice_continue">Pokračovat</string>
@@ -103,6 +105,7 @@
   <string name="bookmark_title_lable">Název</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_already_exisit">Záložka již existuje</string>
+  <string name="bookmark_url_can_not_null">Zadejte URL adresu.</string>
   <string name="bookmark_url_not_valid">"Tato URL je neplatná."</string>
   <string name="bookmarks_content_is_null">Prázdné</string>
   <string name="bookmarks_management">Záložky</string>
@@ -152,6 +155,8 @@
   <string name="color_picker_hue">Odstín</string>
   <string name="color_picker_saturation">Sytost barvy</string>
   <string name="comment_app_menu">Komentář</string>
+  <string name="comment_description">Komentář</string>
+  <string name="comment_hint">Komentář</string>
   <string name="comment_menu">Komentář</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.sk</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.cz</string>
@@ -173,6 +178,7 @@
   <string name="contextmenu_openlink">Otevřít</string>
   <string name="contextmenu_openlink_newwindow">Otevřít v nové kartě</string>
   <string name="contextmenu_openlink_newwindow_background">Otevřít v nové kartě na pozadí</string>
+  <string name="contextmenu_recognise_qr_code">Rozpoznat QR kód</string>
   <string name="contextmenu_savelink">Uložit odkaz</string>
   <string name="contextmenu_send_mail">Poslat e-mail</string>
   <string name="contextmenu_set_wallpaper">Nastavit jako pozadí</string>
@@ -265,6 +271,7 @@
   <string name="edit">Upravit</string>
   <string name="edit_bookmark">Upravit záložku</string>
   <string name="edit_quicklink">Upravit</string>
+  <string name="empty_app_name">Jiná aplikace</string>
   <string name="empty_bookmark">Prázdné</string>
   <string name="empty_history_hint">Prázdné</string>
   <string name="empty_snapshot_hint">Prázdné</string>
@@ -292,9 +299,12 @@
   <string name="find_on_page_next">Další</string>
   <string name="find_on_page_prev">Zpět</string>
   <string name="find_previous">Předch.</string>
+  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
+  <string name="fling_on_border_gesture_hint">Můžete nastavit funkci tohoto gesta v Nastaveních</string>
   <string name="force_quick_search_title">Vyhledat</string>
   <string name="force_touch_bookmark_history_title">Záložky a Historie</string>
   <string name="force_touch_infoflow_title">Denní noviny</string>
+  <string name="forward_description">Přeposlat</string>
   <string name="geolocation_permissions_prompt_dont_share">Odmítnout</string>
   <string name="geolocation_permissions_prompt_message">%s chce znát Vaši polohu</string>
   <string name="geolocation_permissions_prompt_remember">Pamatovat volbu</string>
@@ -311,7 +321,9 @@
   <string name="go_supermarket_title">Více apl., rychlejší a méně dat v Google Play</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="have_sent_bookmark_to_home_screen">Záložka odeslána na plochu</string>
+  <string name="hint">Poznámka</string>
   <string name="history_saved_webpage">Uložit stránku</string>
+  <string name="home_description">Domů</string>
   <string name="homepage_delete_card_menu">Vymazat</string>
   <string name="homepage_get_location">Získat polohu</string>
   <string name="homepage_get_location_failed">Nelze načíst vaši polohu, zvolte město.</string>
@@ -394,6 +406,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Deaktivujte režim Letadlo</string>
   <string name="miuichromium_error_page_btn_close">Zavřít</string>
   <string name="miuichromium_error_page_btn_refresh">Obnovit</string>
+  <string name="miuichromium_error_page_btn_report_issue">Nahlásit chybu</string>
   <string name="miuichromium_error_page_diagnose">Diagnostika sítě</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnostika sítě</string>
   <string name="miuichromium_error_page_diagnose_certificate">Nelze otevřít síťový protokol</string>
@@ -434,6 +447,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Pro změnu se vyžaduje USB úložiště.</string>
   <string name="month_picker_dialog_title">Nastavit měsíc</string>
+  <string name="more_description">Menu</string>
   <string name="more_option">Další nastavení</string>
   <string name="nav_bottom_bar_back">Zpět</string>
   <string name="nav_bottom_bar_close_all">Zavřít</string>
@@ -459,6 +473,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="notif_install_successful">Stahování dokončeno</string>
   <string name="ok">OK</string>
   <string name="older">Starší</string>
+  <string name="open_app_confirm_message">Povolit této stránce otevřít %s?</string>
   <string name="open_file_explorer_failed">Nelze otevřít aplikaci Soubory</string>
   <string name="opening_file_error">Otevírání souboru selhalo</string>
   <string name="page_info">Informace o stránce</string>
@@ -482,6 +497,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_adblock_counts">Blokovaných reklam: %d</string>
   <string name="pref_adblock_title">Blokování reklam</string>
   <string name="pref_auto_update_under_wifi">Auto. aktualizovat přes Wi-Fi</string>
+  <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
   <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">Odeslat URL stránky na Mi server pro ověření bezpečnosti</string>
   <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
@@ -516,8 +532,10 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_file_download_default_path_prefix">Výchozí cesta: %s</string>
   <string name="pref_file_download_save_modify_default_path">Upravit složku ukládání</string>
   <string name="pref_file_download_save_title">Stáhnout a uložit soubor</string>
+  <string name="pref_fling_on_border">Posuňte od hrany</string>
   <string name="pref_fling_on_border_enabled">Přepínání karet</string>
   <string name="pref_fling_on_border_enabled_title_summary">Tažením přes pravý/levý okraj displeje</string>
+  <string name="pref_fling_on_border_title_summary">Gesto prstem z pravého nebo levého okraje</string>
   <string name="pref_font_size_category">Velikost textu</string>
   <string name="pref_force_userscalable">Vynutit nastavení přiblížení</string>
   <string name="pref_force_userscalable_summary">"Ignorovat požadavek stránky na kontrolu vlastností přiblížení"</string>
@@ -530,6 +548,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_notifications_receive">Nové upozornění</string>
   <string name="pref_notifications_title">Upozornění</string>
   <string name="pref_other_title">Ostatní</string>
+  <string name="pref_paper_mode_title">Režim čtení</string>
   <string name="pref_privacy_clear_cache">Vymazat cache</string>
   <string name="pref_privacy_clear_cache_dlg">Vymazat lokální cache obsahu a databází?</string>
   <string name="pref_privacy_clear_cache_summary">Vyčistit lokální cache obsahu a databází</string>
@@ -582,6 +601,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="pull_to_refresh_release_label">Pusťte pro obnovení</string>
   <string name="qr_code_title">QR kód</string>
   <string name="quicklink_bookmark_save">Uložit jako:</string>
+  <string name="quicklink_cannot_save_url">Tato URL nemůže být přidána.</string>
+  <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">Nelze přidat na úvodní stránku</string>
   <string name="quicklink_saved">Přidáno na úvodní stránku</string>
   <string name="quicklink_saved_before">Stránka byla přidána</string>
@@ -685,6 +706,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="skip_current_version">Přeskočit tuto verzi</string>
   <string name="snapshot_failed">"Nelze uložit pro offline použití."</string>
   <string name="snapshot_successed">Uloženo pro offline čtení</string>
+  <string name="ssl_bad_clock_date_settings">Nastavení dat</string>
+  <string name="ssl_bad_clock_warning" formatted="false">Bezpečné připojení k %s1 nemůže být navázáno, protože máte nesprávný čas a datum ve vašem zařízení (%s2).</string>
   <string name="ssl_certificate">Bezpečnostní certifikát</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="ssl_continue">Pokračovat</string>
@@ -699,6 +722,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="ssl_warnings_header">Tato stránka má problém s bezpečnostním certifikátem!</string>
   <string name="start_save_page_capture">Ukládání screenshotu...</string>
   <string name="storage_internal">Interní úložiště</string>
+  <string name="storage_permission_request_toast">Stahování vyžaduje přístup k úložišti zařízení</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">USB úložiště</string>
   <string name="suggest_access_appstore">MiApp Store</string>
@@ -711,11 +735,13 @@ Chcete opustit tuto stránku?"</string>
   <string name="suggest_access_item_singer_pop">Skladby: %d</string>
   <string name="suggest_item_delete_text">Vymazat</string>
   <string name="suggest_open_app_failed">Nebylo možné otevřít tuto aplikaci</string>
+  <string name="switchText">ANO</string>
   <string name="switch_proxy_dialog_msg">"Bylo zjištěno napadení vaší sítě. Použijte MIUI aplikaci Optimalizace nebo to nahlaste vašemu operátorovi."</string>
   <string name="switch_proxy_dialog_title">Napadení sítě</string>
   <string name="tab_hotpage">Trendy</string>
   <string name="tab_quicklinks">Užitečné</string>
   <string name="tab_yellowpage">Populární</string>
+  <string name="tabs_description">Karty</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -725,6 +751,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="title_bar_loading">Nahrávám...</string>
   <string name="too_many_windows_dialog_message">"Nemohu otevřít novou kartu dokud nebude nějaká uzavřena."</string>
   <string name="too_many_windows_dialog_title">Dosažen maximální počet karet</string>
+  <string name="unSwitchText">NE</string>
+  <string name="undo">Zpět</string>
   <string name="unknown_title">Neznámý</string>
   <string name="unsecurity_url_toast">Tato webová stránka není bezpečná</string>
   <string name="up_to_loading_tips">Pusťte pro obnovení</string>
@@ -824,32 +852,4 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
-  <string name="fling_on_border_gesture_hint">Můžete nastavit funkci tohoto gesta v Nastaveních</string>
-  <string name="hint">Poznámka</string>
-  <string name="miuichromium_error_page_btn_report_issue">Nahlásit chybu</string>
-  <string name="pref_fling_on_border">Posuňte od hrany</string>
-  <string name="pref_fling_on_border_title_summary">Gesto prstem z pravého nebo levého okraje</string>
-   <string name="contextmenu_recognise_qr_code">Rozpoznat QR kód</string>
-   <string name="pref_paper_mode_title">Režim čtení</string>
-   <string name="comment_hint">Komentář</string>
-   <string name="empty_app_name">Jiná aplikace</string>
-   <string name="open_app_confirm_message">Povolit této stránce otevřít %s?</string>
-   <string name="bookmark_url_can_not_null">Zadejte URL adresu.</string>
-   <string name="back_description">Zpět</string>
-   <string name="comment_description">Komentář</string>
-   <string name="forward_description">Přeposlat</string>
-   <string name="home_description">Domů</string>
-   <string name="more_description">Menu</string>
-   <string name="storage_permission_request_toast">Stahování vyžaduje přístup k úložišti zařízení</string>
-   <string name="tabs_description">Karty</string>
-   <string name="autoSwithcingSearchEngineTips">Změnil se poskytovatel vyhledávání</string>
-   <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
-   <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
-   <string name="quicklink_cannot_save_url">Tato URL nemůže být přidána.</string>
-   <string name="quicklink_folder_text">Top App</string>
-   <string name="switchText">ANO</string>
-   <string name="unSwitchText">NE</string>
-   <string name="undo">Zpět</string>
-    <string name="ssl_bad_clock_date_settings">Nastavení dat</string>
-   <string name="ssl_bad_clock_warning" formatted="false">Bezpečné připojení k %s1 nemůže být navázáno, protože máte nesprávný čas a datum ve vašem zařízení (%s2).</string>
 </resources>

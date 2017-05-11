@@ -20,6 +20,7 @@
   <string name="alarm_volume_summary">Nastavení hlasitostí Budíků a Časovačů</string>
   <string name="alarm_volume_title">Hlasitost budíku</string>
   <string name="alarmclock_empty_text">Žádné budíky</string>
+  <string name="alarmclock_silent_hint">Budík je ztišen</string>
   <string name="alert">Vyzváněcí tón</string>
   <string name="analog_gadget">Analogové hodiny</string>
   <string name="app_label">Hodiny</string>
@@ -141,5 +142,4 @@
   <string name="workday_alarm_clock">Pracovní den</string>
   <string name="worldclock_empty_text">Žádné světové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="alarmclock_silent_hint">Budík je ztišen</string>
 </resources>

@@ -103,6 +103,7 @@
   <string name="badPuk2">Zadaný PUK2 je neplatný. Zkuste znovu.</string>
   <string name="bad_pin">Zadali jste nesprávně starý PIN. Prosím zkuste to znovu.</string>
   <string name="bad_pin2">Zadali jste nesprávně starý PIN2. Prosím zkuste to znovu.</string>
+  <string name="bad_pin2_old">Starý PIN2 je nesprávný.</string>
   <string name="bad_puk">Zadali jste nesprávně PUK. Prosím zkuste to znovu.</string>
   <string name="bad_puk2">Zadali jste nesprávně PUK2. Prosím zkuste to znovu.</string>
   <string name="bf_news_settings">Obchodní a finanční zprávy</string>
@@ -139,6 +140,7 @@
   <string name="call_barring_outgoing">Ppesměrování odch. hovoru</string>
   <string name="call_barring_sum">Nastavení blokování hlasových hovorů</string>
   <string name="call_description_recording">Nahrávání hovoru...</string>
+  <string name="call_forward_option">Přesměrování hovoru</string>
   <string name="call_forwarding_number_hint">Zadejte prosím číslo pro přesměrování</string>
   <string name="call_forwarding_settings">Přesměrování hovorů</string>
   <string name="call_forwarding_settings_with_label">Přesměrovávání hovorů (%s)</string>
@@ -291,6 +293,8 @@
   <string name="contactdeleteSuccess">Kontakt vymazaný ze SIM</string>
   <string name="corporate_unlock_failed">Požadavek na odemčení firemní SIM nebyl úspěšný.</string>
   <string name="corporate_unlock_success">Požadavek na odemčení firemní SIM byl úspěšný.</string>
+  <string name="crescendo_ringer_summary">Hlasitost zvonění se bude postupně zvyšovat až do nastavené hlasitosti</string>
+  <string name="crescendo_ringer_title">Zvyšování hlasitosti zvonění</string>
   <string name="cursorError">Kurzor nemá správná data!</string>
   <string name="data_enable_summary">Aktivuje datové přenosy prostřednictvím mobilní sítě</string>
   <string name="data_enabled">Mobilní data</string>
@@ -558,6 +562,8 @@
   <string name="labelCFNRc">Přesměrovat, při nedostupnosti</string>
   <string name="labelCFNRy">Přesměrovat, pokud neodpovídám</string>
   <string name="labelCFU">Přesměrovat vždy</string>
+  <string name="labelCFVideo">Video</string>
+  <string name="labelCFVoice">Hlas</string>
   <string name="labelCW">Další hovor na lince</string>
   <string name="labelCallerId">ID volajícího</string>
   <string name="labelGSMMore">Nastavení GSM hovorů</string>
@@ -1130,6 +1136,7 @@ Počet zbývajících pokusů: %d."</string>
   <string name="sum_cfu_disabled">Vypnuto</string>
   <string name="sum_cfu_enabled">Všechny hovory budou přesměrovány na {0}</string>
   <string name="sum_cfu_enabled_indicator">Všechny hovory budou přesměrovány</string>
+  <string name="sum_cfu_enabled_indicator_by_sim">Všechny hovory na SIM %s budou přesměrované</string>
   <string name="sum_cfu_enabled_no_number">Číslo není k dispozici</string>
   <string name="sum_cw_disabled">Upozorňovat na příchozí hovory i během hovoru</string>
   <string name="sum_cw_enabled">Upozorňovat na příchozí hovory i během hovoru</string>
@@ -1196,6 +1203,7 @@ Počet dní do začátku dalšího období: %4$d (%5$s)"</string>
   <string name="throttle_time_frame">Období využití dat</string>
   <string name="throttle_time_frame_subtext">"Uplynulo %1$d٪ cyklu. 
 Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
+  <string name="title_cfu_enabled">Přesměrování hovoru je aktivní</string>
   <string name="transport_title">Typ transportu</string>
   <string name="tty_mode_entries_full">TTY Full</string>
   <string name="tty_mode_entries_hco">TTY HCO</string>
@@ -1244,6 +1252,9 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="voicemail_settings_number_label">Číslo hlasové schránky</string>
   <string name="voicemail_settings_number_title">Číslo hlasové schránky</string>
   <string name="voip_setting">VOIP nastavení</string>
+  <string name="volte_provision_notification_activate">Aktivovat</string>
+  <string name="volte_provision_text">Detekce VoLTE na vaší SIM není podporována, chcete jej aktivovat?</string>
+  <string name="volte_provision_title">Povolit VoLTE</string>
   <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
   <string name="volte_switch_title">Povolit VoLTE</string>
   <string name="wait_prompt_str">"Odeslat následující tóny?
@@ -1264,15 +1275,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="call_forward_option">Přesměrování hovoru</string>
-   <string name="labelCFVideo">Video</string>
-   <string name="labelCFVoice">Hlas</string>
-   <string name="crescendo_ringer_summary">Hlasitost zvonění se bude postupně zvyšovat až do nastavené hlasitosti</string>
-   <string name="crescendo_ringer_title">Zvyšování hlasitosti zvonění</string>
-    <string name="bad_pin2_old">Starý PIN2 je nesprávný.</string>
-    <string name="volte_provision_notification_activate">Aktivovat</string>
-   <string name="volte_provision_text">Detekce VoLTE na vaší SIM není podporována, chcete jej aktivovat?</string>
-   <string name="volte_provision_title">Povolit VoLTE</string>  
-   <string name="sum_cfu_enabled_indicator_by_sim">Všechny hovory na SIM %s budou přesměrované</string>
-   <string name="title_cfu_enabled">Přesměrování hovoru je aktivní</string>
 </resources>

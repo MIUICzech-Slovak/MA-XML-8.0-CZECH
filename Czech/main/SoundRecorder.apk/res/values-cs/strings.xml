@@ -41,6 +41,9 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="error_sdcard_unmounted">SD karta je odpojena, vložte SD kartu</string>
   <string name="export_to_note">Exportovat Poznámku</string>
   <string name="fm_record">Nahrávání FM rádia (%d)</string>
+  <string name="head_set_tip_dialog_msg">Odpojte svá sluchátka pro možnost nahrávání zvuku v různých režimech (např. Hudba, Hlas).</string>
+  <string name="head_set_tip_dialog_ok">Rozumím</string>
+  <string name="head_set_tip_dialog_title">Použít interní mikrofon</string>
   <string name="invalid_argument">Neplatný argument</string>
   <string name="low_battery_error">Baterie má méně než 5%. Nahrávání bylo zastaveno a uloženo, aby nedošlo ke ztrátě nahrávky. Pro pokračování nahrávání připojte nabíječku.</string>
   <string name="low_battery_error_confirm">OK</string>
@@ -80,6 +83,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="recognition_error_internal">Závažná chyba</string>
   <string name="recognition_error_stopped">Rozpoznávání pozastaveno</string>
   <string name="recognition_status_downloading">Stahování</string>
+  <string name="record">Nahrát</string>
   <string name="record_back_pressed_hint">Dotykem ukončíte nahrávání</string>
   <string name="record_download">Stáhnout z MiCloud</string>
   <string name="record_download_complete">Staženo</string>
@@ -107,6 +111,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
   <string name="rename">Přejmenovat</string>
   <string name="rename_dialog_title">Přejmenovat nahrávku</string>
   <string name="rename_duplicate">Název již existuje, zadejte jiný.</string>
+  <string name="rename_fail_tip">Soubor s tímto názvem již existuje.</string>
   <string name="rename_no_more_tip">Znovu se neptat</string>
   <string name="retry">Znovu</string>
   <string name="runtime_permission_ungranted">Nelze použít záznamník, protože nemá potřebná povolení.</string>
@@ -144,9 +149,4 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
 Dotkněte se %s pro spuštění stahování po připojení k Wi-Fi"</string>
   <string name="wifi_recommended_title">Upozornění na spotřebu dat</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-   <string name="record">Nahrát</string>
-   <string name="head_set_tip_dialog_msg">Odpojte svá sluchátka pro možnost nahrávání zvuku v různých režimech (např. Hudba, Hlas).</string>
-    <string name="head_set_tip_dialog_ok">Rozumím</string>
-    <string name="head_set_tip_dialog_title">Použít interní mikrofon</string>  
-    <string name="rename_fail_tip">Soubor s tímto názvem již existuje.</string>
 </resources>

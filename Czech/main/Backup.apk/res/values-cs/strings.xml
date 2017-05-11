@@ -108,6 +108,7 @@
   <string name="exchange_account">Exchange účet</string>
   <string name="fail">Nedokončeno</string>
   <string name="feature_title_account">Účet</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Historie hovorů</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Odesílání...</string>
@@ -348,5 +349,4 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
-  <string name="feature_title_antispam">AntiSpam</string>
 </resources>

@@ -165,6 +165,7 @@
   <string name="exceed_message_text_limitation">Dosaženo limitu zprávy</string>
   <string name="expire_on">Platnost vyprší: %s</string>
   <string name="exporting_progress_private_message">Exportování zpráv ze soukromé schránky</string>
+  <string name="fail_to_add_attachment">Nelze připojit přílohu</string>
   <string name="failed_to_add_media">Tuto položku %1$s, nelze do zprávy přidat.</string>
   <string name="failed_to_resize_image">Velikost fotografie se nepodařilo přizpůsobit.</string>
   <string name="fake_cell_alert_hint">Vypadá to, že sms byla odeslána z jiného čísla, než je zobrazeno. Buďte opatrní, pokud SMS vyžaduje přihlašovací údaje nebo platby.</string>
@@ -307,6 +308,7 @@
   <string name="mx_activate_int_hint_malformed_info">Nastala chyba. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
   <string name="mx_activate_int_hint_server">Aktivace serveru pro Cloud zprávy selhala. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
   <string name="mx_activate_int_hint_sim_change">Byla změněna SIM karta. Je vyžadováno odeslání mezinárodní SMS pro opětovnou aktivaci Cloud zpráv. Aktivovat nyní?</string>
+  <string name="mx_activate_network_allow_notice">Tato služba vyžaduje připojení k internetu.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivování ...</string>
   <string name="mx_activate_status_desc_check_net_connection">Nelze se připojit k síti</string>
   <string name="mx_activate_status_desc_fail">Nelze aktivovat Cloudové zprávy</string>
@@ -348,6 +350,7 @@
   <string name="mx_online">Aktivováno</string>
   <string name="mx_reactivate">Znovu aktivovat Cloudové zprávy</string>
   <string name="mx_recommend_msg">Povolte Cloud zprávy pro zasílání zpráv zdarma</string>
+  <string name="mx_stranger_recommend_msg">Dotykem zablokujete Mi zprávy z neznámých čísel</string>
   <string name="mx_type_guide">Cloudové zprávy umožňují MIUI odesílat zdarma SMS přes Wi-Fi nebo mobilní data</string>
   <string name="need_download">Čekání na synchr...</string>
   <string name="networking_allow_continue">OK</string>
@@ -389,6 +392,7 @@
   <string name="pref_delivery_ringtone">Zvukové upozornění</string>
   <string name="pref_edit_smsc_address">Číslo SMS centra (SMSC)</string>
   <string name="pref_forward_title">Přeposlat</string>
+  <string name="pref_hide_verification_code_summary">Automaticky skrýt OTP v SMS na zamčené obrazovce</string>
   <string name="pref_message_recovery_introduction_title">Obnovit zprávu</string>
   <string name="pref_messages_to_save">Nastavit počet zpráv pro uložení</string>
   <string name="pref_mms_settings_title">Nastavení zpráv (MMS)</string>
@@ -398,6 +402,7 @@
   <string name="pref_show_blocked_messages_summary">Zobrazit blokované SMS v konverzaci</string>
   <string name="pref_show_sms_template_in_summary">Automaticky rozpoznat OTP v SMS zprávě</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovat a vložit ověřovací kód</string>
+  <string name="pref_smart_messages_settings">Inteligentní SMS</string>
   <string name="pref_sms_theme_title">Nastavení vzhledu</string>
   <string name="pref_summary_allow_si_sl_push">Povolit zprávám načítat obsah webstránek</string>
   <string name="pref_summary_delete_limit">Počet zpráv v konverzaci: %1$s</string>
@@ -614,10 +619,12 @@
   <string name="timed_message_to">Komu</string>
   <string name="title_allow_network_access">Aktualizovat info automaticky</string>
   <string name="title_collapse_sp_messages">Spojovat zprávy služeb</string>
+  <string name="title_hide_verification_code">Autom. skrýt OTP na zamyk. obrazovce</string>
   <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
   <string name="title_show_sms_template">Kontrola SMS zda obsahuje ověřovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pro OTP</string>
   <string name="title_timed_message_dialog">Nastavte čas odeslání</string>
+  <string name="title_use_gsm_alphabet">Ořezat diakritiku před odesláním</string>
   <string name="to_address_label">"Komu: "</string>
   <string name="to_count">%d lidí</string>
   <string name="to_label">"Komu "</string>
@@ -665,11 +672,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
-  <string name="mx_stranger_recommend_msg">Dotykem zablokujete Mi zprávy z neznámých čísel</string>
-  <string name="title_use_gsm_alphabet">Ořezat diakritiku před odesláním</string>
-  <string name="fail_to_add_attachment">Nelze připojit přílohu</string>
-  <string name="pref_hide_verification_code_summary">Automaticky skrýt OTP v SMS na zamčené obrazovce</string>
-  <string name="title_hide_verification_code">Autom. skrýt OTP na zamyk. obrazovce</string>
-  <string name="mx_activate_network_allow_notice">Tato služba vyžaduje připojení k internetu.</string>
-  <string name="pref_smart_messages_settings">Inteligentní SMS</string>
 </resources>

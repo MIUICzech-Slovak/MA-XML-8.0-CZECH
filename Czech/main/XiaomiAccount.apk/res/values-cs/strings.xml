@@ -14,17 +14,24 @@
   <string name="account_crop_user_avatar">Ořezat</string>
   <string name="account_empty_user_name">Zadejte uživ. jméno</string>
   <string name="account_error_all_space_user_name">Jméno se nesmí skládat z mezer</string>
+  <string name="account_error_invalid_user_name">"Jméno nesmí obsahovat znaky &lt;, &gt;, /"</string>
   <string name="account_error_longer_user_name">Maximum je 20 znaků</string>
   <string name="account_error_shorter_user_name">Minimum jsou 2 znaky</string>
   <string name="account_error_user_birthday">Datum narozenin není správný</string>
   <string name="account_has_been_set">Změnit</string>
   <string name="account_limit_update_birthday">Bohužel nebylo možné zpracovat váš požadavek. Omlouváme se.</string>
+  <string name="account_mipay_info">Mi pay</string>
   <string name="account_no_set">Prázdné</string>
   <string name="account_none">Prázdné</string>
   <string name="account_none_binded_info">Žádný</string>
   <string name="account_none_binded_secure_phone">Žádný telefon</string>
   <string name="account_none_user_name">Žádné</string>
   <string name="account_protection">Ochrana účtu</string>
+  <string name="account_protection_off">Vyp</string>
+  <string name="account_protection_on">Zap</string>
+  <string name="account_secure_info_pref_title">Info o účtu</string>
+  <string name="account_security">Zabezpečení účtu</string>
+  <string name="account_security_info_pref_title">Zabezpečení</string>
   <string name="account_security_question">Bezpečnostní otázka</string>
   <string name="account_settings">Nastavení účtu</string>
   <string name="account_user_avatar">Profilová fotka</string>
@@ -40,6 +47,7 @@
   <string name="account_user_gender_male">Muž</string>
   <string name="account_user_id">Mi ID</string>
   <string name="account_user_income">Příjem</string>
+  <string name="account_user_info">Info o účtu</string>
   <string name="account_user_location">Poloha</string>
   <string name="account_user_location_title">Vyberte aktuální polohu</string>
   <string name="account_user_name">Jméno</string>
@@ -133,6 +141,8 @@
   <string name="find_device_error_password_recently_changed">Změnili jste své heslo ke Mi účtu v posledních 3 dnech. Nelze deaktivovat vyhledávání zařízení z bezpečnostních důvodů.</string>
   <string name="find_device_interrupted">Akce byla přerušena, zkuste to později.</string>
   <string name="find_device_io_error">Nelze se připojit k síti</string>
+  <string name="find_device_locked_account_email" formatted="false">%s, propojený e-mail: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, propojené tel. číslo: %s</string>
   <string name="find_device_null_credential_error">Nelze načíst stav zařízení, kontaktujte Mi podporu zákazníků</string>
   <string name="find_device_operation_failed_error">Nastala chyba</string>
   <string name="find_device_operation_failed_error_unknown">Nastala chyba, zkuste to později.</string>
@@ -157,6 +167,7 @@
   <string name="login_check_find_device_failed_title">Nelze zkontrolovat zabezpečení zařízení</string>
   <string name="login_find_device_bind">Toto zařízení je spojené s existujícím Mi účtem (%s).</string>
   <string name="login_guard_prompt">Vyžadovat ověření telefonního čísla při následujícím přihlášení se ke Mi účtu na neznámém zařízení nebo aplikaci.</string>
+  <string name="logout_account">Odhlásit</string>
   <string name="logout_failed">Odhlášení selhalo</string>
   <string name="mi_account_identity_title">Ověřit vaši identitu</string>
   <string name="mi_pass">MiPass</string>
@@ -170,6 +181,7 @@
   <string name="multi_user_not_show_sync_activity_message_2">V tomto případě budou všechna vaše data synchr. do Druhého profilu. Pro zabránění zakažte synchr. s MiCloud.</string>
   <string name="multi_user_not_show_sync_activity_title">Nezapínejte synchr. s MiCloud</string>
   <string name="my_device_title">Současné zařízení</string>
+  <string name="my_favorite">Moje oblébené</string>
   <string name="no_network_btn">Obnovit</string>
   <string name="no_network_title">Nelze se připojit k síti.</string>
   <string name="no_response_retry">Žádná odpověď, zkuste to později.</string>
@@ -368,6 +380,10 @@ Zkontrolujte také složku SPAM."</string>
   <string name="phone_unactivated">Neaktivováno</string>
   <string name="phone_unknown">Neznámé</string>
   <string name="photoPickerNotFoundText">Obrázek není dostupný.</string>
+  <string name="push_notification_content">Klikněte pro získání ověřovacího kódu</string>
+  <string name="push_notification_title">Přihlásili jste se svým Mi účtom na neznámém zařízení</string>
+  <string name="push_notify_dialog_message">New device attempts to log in to your millet account. Please enter the verification code on your new device to complete the security verification. If I do not please modify the millet account password, do not tell others to verify the code.</string>
+  <string name="push_notify_dialog_title">Bezpečnostní oveření přihlášení</string>
   <string name="qq">QQ</string>
   <string name="remove_account_notice">Co si přejete udělat s dříve synchronizovanými zprávami, kontakty, historií volání a poznámkami ve vašem zařízení?</string>
   <string name="remove_device_success_notice">Pokud odeberete toto zařízení z důvěryhodných, budete muset ověřit toto zařízení znovu po dalším přihlášení.</string>
@@ -420,25 +436,9 @@ Zkontrolujte také složku SPAM."</string>
   <string name="verified_devices">Ověřená zařízení</string>
   <string name="verify_phone_prompt">Vyberte telefonní číslo na ověření</string>
   <string name="verify_phone_title">Ověřit telefonní číslo</string>
+  <string name="vip_account_settings">Vip Nastavení</string>
+  <string name="vip_more_info">Více Vip Info</string>
   <string name="wipe_data_dialog_msg">%s nebylo synchronizováno (tato data se odstraní, pokud budete pokračovat).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchronizovány.</string>
-  <string name="my_favorite">Moje oblébené</string>
-  <string name="push_notification_content">Klikněte pro získání ověřovacího kódu</string>
-   <string name="push_notification_title">Přihlásili jste se svým Mi účtom na neznámém zařízení</string>
-   <string name="push_notify_dialog_message">New device attempts to log in to your millet account. Please enter the verification code on your new device to complete the security verification. If I do not please modify the millet account password, do not tell others to verify the code.</string>
-   <string name="push_notify_dialog_title">Bezpečnostní oveření přihlášení</string>
-   <string name="find_device_locked_account_email" formatted="false">%s, propojený e-mail: %s</string>
-   <string name="find_device_locked_account_phone" formatted="false">%s, propojené tel. číslo: %s</string> 
-   <string name="account_error_invalid_user_name">"Jméno nesmí obsahovat znaky &lt;, &gt;, /"</string>
-   <string name="vip_account_settings">Vip Nastavení</string>
-   <string name="vip_more_info">Více Vip Info</string>  
-   <string name="account_mipay_info">Mi pay</string>
-   <string name="account_secure_info_pref_title">Info o účtu</string>
-   <string name="account_security">Zabezpečení účtu</string>
-   <string name="account_security_info_pref_title">Zabezpečení</string>
-   <string name="account_protection_off">Vyp</string>
-   <string name="account_protection_on">Zap</string>
-   <string name="account_user_info">Info o účtu</string>
-   <string name="logout_account">Odhlásit</string>  
 </resources>

@@ -44,6 +44,8 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="passport_verify">Ověřit</string>
   <string name="password">Heslo</string>
   <string name="phone_locked">Toto zařízení je zřejmě propojeno s jiným Mi účtem (%s). Přihlaste se pro aktivaci tohoto zařízení.</string>
+  <string name="phone_locked_account_email">, propojený email: %s</string>
+  <string name="phone_locked_account_phone">, propojené telefonní číslo: %s</string>
   <string name="stop_on_empty_captcha">Captcha nesmí být prázdná</string>
   <string name="stop_on_empty_password">Heslo nesmí být prázdné</string>
   <string name="time_correction_failure">Nelze upravit čas (%s)</string>
@@ -75,6 +77,4 @@ Pokud změníte SIM kartu, automaticky se odešle SMS pro její aktivaci."</stri
   <string name="unlocking">Aktivování...</string>
   <string name="verifing_account">Ověřování hesla...</string>
   <string name="verify_password_failed">Nelze ověřit Mi účet. %s.</string>
-  <string name="phone_locked_account_email">, propojený email: %s</string>
-   <string name="phone_locked_account_phone">, propojené telefonní číslo: %s</string>  
 </resources>

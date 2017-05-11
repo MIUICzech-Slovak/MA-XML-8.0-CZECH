@@ -17,11 +17,13 @@
   <string name="find_device_turn_off_flight_mode">Deaktivovat režim letadlo</string>
   <string name="fingerprint_add_text">Rozpoznávání otisku prstu bylo aktualizováno. Přidejte otisk prstu znovu.</string>
   <string name="fingerprint_add_title">Přidat otisk</string>
+  <string name="fingerprint_again_identified_msg">Váš otisk prstu je aktivní. Odemkněte jím zařízení nebo zadejte heslo.</string>
   <string name="fingerprint_enter_second_psw_msg">Zadejte heslo Druhého profilu po restartu, aby bylo možné použít váš otisk prstu</string>
   <string name="fingerprint_enter_second_psw_title">Zadejte heslo Druhého profilu</string>
   <string name="fingerprint_lockout_msg">Počkejte 1 minutu a zkuste znovu odemknout otiskem prstu.</string>
   <string name="fingerprint_not_identified_msg">Zadejte své heslo k odemknutí.</string>
   <string name="fingerprint_not_identified_title">Zadejte své heslo</string>
+  <string name="fingerprint_try_again_msg">Nelze rozpoznat otisk, zkuste to znovu.</string>
   <string name="fingerprint_try_again_text">Znovu</string>
   <string name="forget_password_string">Zapom. heslo</string>
   <string name="incorrect_pincode">Nesprávný PIN</string>
@@ -29,6 +31,7 @@
   <string name="incorrect_pukcode">Nesprávný PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Nesprávný PUK kód, zbývající pokusy: %d</string>
   <string name="input_password_after_boot_msg">Po restartu zařízení musíte zadat heslo.</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otevřít První profil po restartu zařízení</string>
   <string name="input_password_hint_text">Zadejte heslo</string>
   <string name="input_pattern_hint_text">Zadejte svůj odemykací vzor</string>
   <string name="input_pin_code">PIN</string>
@@ -61,6 +64,14 @@
   <string name="open_camera_hint_text">Potáhněte doleva pro %s</string>
   <string name="open_remote_center_hint_text">Potáhněte doprava pro %s</string>
   <string name="open_wifi_settings">Nastavení sítě</string>
+  <string name="phone_locked_foget_password">Zapomněli jste heslo?</string>
+  <string name="phone_locked_foget_password_content">"Můžete se přihlásit na i.mi.com svým Mi účtom, který je propojen s tímto zařízením a vymazat vaše data. Všechny Vaše data budou vymazána. Potom můžte restartovat zařízení a obnovit vaše kontakty, SMS, fotografie z Mi Cloud, pokud jste měli povolenou synchronizaci. 
+  
+  Toto neple provést, dokud se nepřihlásíte k vašemu Mi účtu na tomto zařízení."</string>
+  <string name="phone_locked_foget_password_footer">"Postup:
+  Přihlaste se na i.mi.com, jděte na “Find device”, vyberte zařízení a potvrďte "Wipe device."</string>
+  <string name="phone_locked_foget_password_header">Co mám dělat v případě zapomenutí hesla?</string>
+  <string name="phone_locked_foget_password_ok">Rozumím</string>
   <string name="phone_locked_string">Zařízení je zablokováno</string>
   <string name="phone_locked_timeout_minutes_string">Zkuste znovu po %s min</string>
   <string name="phone_locked_timeout_seconds_string">Zkuste znovu po %s s</string>
@@ -68,19 +79,8 @@
   <string name="unlock_string">OK</string>
   <string name="unlocking_sim_card">Odblokování SIM karty</string>
   <string name="unlockscreen_low_battery">Připojte nabíječku</string>
+  <string name="unlockscreen_quick_charging_message">Rychlonabíjení %d%%</string>
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="phone_locked_foget_password">Zapomněli jste heslo?</string>
-   <string name="phone_locked_foget_password_content">"Můžete se přihlásit na i.mi.com svým Mi účtom, který je propojen s tímto zařízením a vymazat vaše data. Všechny Vaše data budou vymazána. Potom můžte restartovat zařízení a obnovit vaše kontakty, SMS, fotografie z Mi Cloud, pokud jste měli povolenou synchronizaci. 
-  
-  Toto neple provést, dokud se nepřihlásíte k vašemu Mi účtu na tomto zařízení."</string>
-   <string name="phone_locked_foget_password_footer">"Postup:
-  Přihlaste se na i.mi.com, jděte na “Find device”, vyberte zařízení a potvrďte "Wipe device."</string>
-   <string name="phone_locked_foget_password_header">Co mám dělat v případě zapomenutí hesla?</string>
-   <string name="phone_locked_foget_password_ok">Rozumím</string>  
-   <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otevřít První profil po restartu zařízení</string>
-   <string name="unlockscreen_quick_charging_message">Rychlonabíjení %d%%</string>
-   <string name="fingerprint_try_again_msg">Nelze rozpoznat otisk, zkuste to znovu.</string>
-   <string name="fingerprint_again_identified_msg">Váš otisk prstu je aktivní. Odemkněte jím zařízení nebo zadejte heslo.</string>
 </resources>

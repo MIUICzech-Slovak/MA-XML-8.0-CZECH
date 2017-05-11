@@ -84,6 +84,7 @@
   <string name="call_settings">Nastavení</string>
   <string name="call_sim1_menu_title">Volat přes SIM1</string>
   <string name="call_sim2_menu_title">Volat přes SIM2</string>
+  <string name="call_sim_menu_title_suffix">(Primární)</string>
   <string name="call_telex">Volat na číslo Telex</string>
   <string name="call_tty_tdd">Volat na číslo TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -348,6 +349,16 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="device_paired_dialog_title">Zařízení je spárované, získávání kontaktů</string>
   <string name="device_pairing_dialog_message">Párování zařízení (může se vyžadovat potvrzení na druhém zařízení)...</string>
   <string name="device_pairing_dialog_title">Párování zařízení</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Zapněte \"Bluetooth\" na druhém zařízení;
+ - Android zařízení mají nastavení \"Bluetooth\" v nastaveních sítě
+ - iOS zařízení mají \"Bluetooth\" v Nastavení
+ 2. Android zařízení by měly mít povoleno \"Viditelné zařízení\";
+ 3. Stiskněte \"Další\", a povolte přísup ke kontaktům."</string>
+  <string name="device_transfer_by_sim_message">"1. Uložte vaše kontakty na SIM kartu v druhém telefonu;
+ 
+ 2. Jděte do \"Nastavení kontaktů\" -- \"Import/Export kontaktů\" -- \"Importovat ze SIM karty\", dlouze podržte prst na SIM kontaktu, vyberte kontakty pro importování, potom stiskněte \"Importovat\"."</string>
+  <string name="device_version_header_bluetooth">Importovat přes Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Importovat přes SIM kartu</string>
   <string name="device_version_title">Zvolte verzi telefonu</string>
   <string name="dial">Vytočit</string>
   <string name="dialerDialpadHintText">Vytočte pro přidání hovoru</string>
@@ -363,6 +374,9 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="dialer_menu_title">Nastavení menu</string>
   <string name="dialer_returnToInCallScreen">Návrat k hovoru</string>
   <string name="dialer_useDtmfDialpad">Použít číselník</string>
+  <string name="dialog_device_info_hardware_version">Verze Hardware: %s</string>
+  <string name="dialog_device_info_miui_version">Verze MIUI: %s</string>
+  <string name="dialog_device_info_title">Info o verzi</string>
   <string name="dialog_import">Importovat kontakty</string>
   <string name="dialog_import_export">Importovat/exportovat kontakty</string>
   <string name="dialog_new_contact_account">Vytvořit kontakt na účtu</string>
@@ -372,6 +386,10 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="dialog_voicemail_airplane_mode_message">Pro volání do hlasové schránky vypněte režim Letadlo.</string>
   <string name="dialog_voicemail_not_ready_message">Pro nastavení hlasové schránky otevřete Menu &gt; Nastavení.</string>
   <string name="directory_search_label">Adresář</string>
+  <string name="disclaimer_text">"Yellow pages get the info about your balance by sending an SMS. Your carrier may update this info with a delay, so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+  
+  To avoid frequent queries, we update balance info once a day."</string>
+  <string name="disclaimer_title">Disclaimer</string>
   <string name="display_all_contacts">Všechny kontakty</string>
   <string name="display_more_groups">Další skupiny...</string>
   <string name="display_only_phones">Pouze kontakty s tel. číslem</string>
@@ -1004,6 +1022,7 @@ Synchronizujte je nyní."</string>
   <string name="remove_blacklist_dialog_message">Odblokovat toto číslo?</string>
   <string name="remove_blacklist_dialog_title">Odblokovat toto číslo?</string>
   <string name="remove_duplicate">"MIUI Vám pomůže najít a sloučit duplicitní kontakty. Kontakty se nesloučí automaticky."</string>
+  <string name="report_inquiry_mms">Nahlásit SMS</string>
   <string name="restore_nickname">Obnovit</string>
   <string name="ret_sign">" 
 "</string>
@@ -1096,6 +1115,7 @@ Synchronizujte je nyní."</string>
   <string name="sim_export_loading">Informace o SIM kartě se načítají. Tato operace může trvat déle.</string>
   <string name="sim_indexed_contact_not_exist" formatted="false">Pozice %1$d na SIM kartě není platná, měla by být mezi %2$d a %3$d</string>
   <string name="sim_no_contact">Žádné kontakty na SIM kartě</string>
+  <string name="sim_unloaded">SIM karta není načtena</string>
   <string name="single_group_list_empty">Prázdná skupina</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Podle firmy</string>
@@ -1179,6 +1199,7 @@ Synchronizujte je nyní."</string>
   <string name="unknow_phone_number_mms_failed">Nelze odeslat SMS na neznámé číslo.</string>
   <string name="unknown">Neznámý</string>
   <string name="unknown_contact_name">Neznámý kontakt</string>
+  <string name="update_sim_contact_photo_toast">Pro kontakty na SIM kartě nelze nastavit fotografii</string>
   <string name="upgrade_in_progress">"Aktualizace seznamu kontaktů"</string>
   <string name="upgrade_out_of_memory">Proces aktualizace kontaktů. 
     
@@ -1251,25 +1272,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Zapněte \"Bluetooth\" na druhém zařízení;
- - Android zařízení mají nastavení \"Bluetooth\" v nastaveních sítě
- - iOS zařízení mají \"Bluetooth\" v Nastavení
- 2. Android zařízení by měly mít povoleno \"Viditelné zařízení\";
- 3. Stiskněte \"Další\", a povolte přísup ke kontaktům."</string>
-   <string name="device_transfer_by_sim_message">"1. Uložte vaše kontakty na SIM kartu v druhém telefonu;
- 
- 2. Jděte do \"Nastavení kontaktů\" -- \"Import/Export kontaktů\" -- \"Importovat ze SIM karty\", dlouze podržte prst na SIM kontaktu, vyberte kontakty pro importování, potom stiskněte \"Importovat\"."</string>
-   <string name="device_version_header_bluetooth">Importovat přes Bluetooth</string>
-   <string name="device_version_header_no_bluetooth">Importovat přes SIM kartu</string>
-   <string name="disclaimer_text">"Yellow pages get the info about your balance by sending an SMS. Your carrier may update this info with a delay, so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
-  
-  To avoid frequent queries, we update balance info once a day."</string>
-   <string name="disclaimer_title">Disclaimer</string>
-   <string name="report_inquiry_mms">Nahlásit SMS</string>
-   <string name="dialog_device_info_hardware_version">Verze Hardware: %s</string>
-   <string name="dialog_device_info_miui_version">Verze MIUI: %s</string>
-   <string name="dialog_device_info_title">Info o verzi</string>
-   <string name="update_sim_contact_photo_toast">Pro kontakty na SIM kartě nelze nastavit fotografii</string>
-   <string name="call_sim_menu_title_suffix">(Primární)</string>
-   <string name="sim_unloaded">SIM karta není načtena</string>
 </resources>

@@ -15,11 +15,16 @@
   <string name="desc_fingerprint">Použít otisk prstu pro odemknutí zařízení nebo přihlášení se.</string>
   <string name="desc_international_fingerprint">Použijte otisk prstu pro odemknutí vašeho zařízení nebo přihlášení.</string>
   <string name="disagree">Odmítnout</string>
+  <string name="enable_accessibility_dialog_message">Povolili jste TalkBack podržením dvou prstů na displeji po dobu 10s. TalkBack pomáhá nevidomým. Pokud jste jej aktivovali omylem, stiskněte tlačítko zrušit a 2x poklepejte na displej.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Zrušit</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>
   <string name="ime_privacy_policy">Podmínky soukromí zvolené klávesnice</string>
   <string name="ime_privacy_policy_no_network">Nelze se připojit k síti. Přečtěte si podmínky soukromí pro tuto klávesnici na %s</string>
   <string name="input_method_category">Vybrat výchozí metodu zadávání</string>
   <string name="input_method_setting">Vyberte metodu zadávání</string>
   <string name="install_preinstall_app">Načítání aplikací...</string>
+  <string name="language_picker_other_languages_title">Více jazyků</string>
+  <string name="language_picker_popular_languages_title">Populární jazyky</string>
   <string name="locale_picker_title">Vyberte zemi</string>
   <string name="miui_privacy_policy_no_network">Žádné internetové připojení. Ochranu soukromí najdete na %s</string>
   <string name="miui_terms_no_network">Žádné internetové připojení. Podmínky používání najdete na %s</string>
@@ -60,9 +65,4 @@
   <string name="title_fingerprint">Přidat otisk prstu</string>
   <string name="user_agreement">Podmínky používání</string>
   <string name="welcome">Vítejte</string>
-  <string name="language_picker_other_languages_title">Více jazyků</string>
-   <string name="language_picker_popular_languages_title">Populární jazyky</string>
-   <string name="enable_accessibility_dialog_message">Povolili jste TalkBack podržením dvou prstů na displeji po dobu 10s. TalkBack pomáhá nevidomým. Pokud jste jej aktivovali omylem, stiskněte tlačítko zrušit a 2x poklepejte na displej.</string>
-   <string name="enable_accessibility_dialog_negative_btn">Zrušit</string>
-   <string name="enable_accessibility_dialog_positive_btn">OK</string>  
 </resources>

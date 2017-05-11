@@ -21,6 +21,8 @@
   <string name="account_setting_message_body_load_text">Jen tělo zprávy</string>
   <string name="account_settings_action">Nastavení účtu</string>
   <string name="account_settings_background_attachments_label">Stahovat přílohy</string>
+  <string name="account_settings_background_attachments_summary">Stáhnout přílohy přes Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary_inter">Stáhnout přílohy přes Wi-Fi</string>
   <string name="account_settings_data_usage">Využití dat</string>
   <string name="account_settings_description_label">Název účtu</string>
   <string name="account_settings_edit_quick_responses_label">Rychlé odpovědi</string>
@@ -197,6 +199,8 @@
 (po archivaci, smazání atd.)"</string>
   <string name="auto_advance_label">Automatický přechod</string>
   <string name="auto_advance_summary">Vyberte, kterou obrazovku chcete zobrazit po smazání zprávy.</string>
+  <string name="auto_mail_window_description">Tato funkce je pouze pro Čínu. Na jejím odstranění pracujeme...</string>
+  <string name="auto_mail_window_label">Nastavení služby 139 Mailbox</string>
   <string name="auto_sync_off">Automatická synchronizace je vypnuta.</string>
   <string name="battery_saver">Úspora baterie</string>
   <string name="battery_saver_keywords">Úspora baterie;e-mail baterie</string>
@@ -542,6 +546,7 @@
   <string name="net_check_title">Nelze se připojit k síti. Zkontrolujte nastavení sítě.</string>
   <string name="network_error">Žádné připojení</string>
   <string name="network_not_available">Síť není dostupná, zkuste to později.</string>
+  <string name="network_tip">Přihlašování selhalo, zkontrolujte vaše nastavení sítě</string>
   <string name="network_try_again">Zkontrolujte nastavení sítě</string>
   <string name="network_unavailable">Síť není dostupná</string>
   <string name="new_incoming_messages_one">Nová zpráva od %s. Zobrazit.</string>
@@ -642,6 +647,7 @@
   <string name="policy_dont_allow_unsigned_apps">Nepovolit nepodepsané aplikace</string>
   <string name="policy_dont_allow_unsigned_installers">Nepovolit nepodepsané instalátory</string>
   <string name="policy_dont_allow_wifi">Nepovolit připojení Wi-Fi</string>
+  <string name="policy_dont_allow_wifi_inter">Nepovolovat Wi-Fi</string>
   <string name="policy_email_age">Omezit počet synchronizovaných e-mailů</string>
   <string name="policy_html_truncation">Omezit velikost e-mailů ve formátu HTML</string>
   <string name="policy_password_expiration">Požadovat omezenou platnost hesel</string>
@@ -850,6 +856,12 @@
   <string name="wait_for_manual_sync_body">"Tento účet není nastaven na automatickou synchronizaci.
 Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". Chcete-li v účtu nastavit automatickou synchronizaci pošty, dotkněte se položky - Změnit nastavení synchronizace.</string>
   <string name="wait_for_sync_title">Čekání na synchronizaci</string>
+  <string name="webview_logout">Chcete ukončit přihlašování se? Zkuste to znovu!</string>
+  <string name="webview_logout_cancel">Ukončit</string>
+  <string name="webview_logout_sure">Znovu</string>
+  <string name="webview_sslerror_handle_cancel">Zrušit</string>
+  <string name="webview_sslerror_handle_continue">Pokračovat</string>
+  <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračování na tuto webstránku je nebezpečné!</string>
   <string name="widget_all_mail">Všechny zprávy</string>
   <string name="widget_large_unread_count">%d</string>
   <string name="widget_other_views">Ostatní</string>
@@ -860,16 +872,4 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="network_tip">Přihlašování selhalo, zkontrolujte vaše nastavení sítě</string>
-   <string name="webview_logout">Chcete ukončit přihlašování se? Zkuste to znovu!</string>
-   <string name="webview_logout_cancel">Ukončit</string>
-   <string name="webview_logout_sure">Znovu</string>
-   <string name="webview_sslerror_handle_cancel">Zrušit</string>
-   <string name="webview_sslerror_handle_continue">Pokračovat</string>
-   <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračování na tuto webstránku je nebezpečné!</string>
-   <string name="auto_mail_window_description">Tato funkce je pouze pro Čínu. Na jejím odstranění pracujeme...</string>
-   <string name="auto_mail_window_label">Nastavení služby 139 Mailbox</string> 
-   <string name="account_settings_background_attachments_summary">Stáhnout přílohy přes Wi-Fi</string>
-   <string name="account_settings_background_attachments_summary_inter">Stáhnout přílohy přes Wi-Fi</string>
-   <string name="policy_dont_allow_wifi_inter">Nepovolovat Wi-Fi</string>
 </resources>

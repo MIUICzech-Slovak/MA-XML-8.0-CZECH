@@ -71,6 +71,7 @@
   <string name="clean_message">Odstraňování %1$s</string>
   <string name="clean_title">Odstranit z koše soubory starší než 30 dní</string>
   <string name="clean_trash_box">Vyprázdnit koš</string>
+  <string name="clear_record">Vymazat historii</string>
   <string name="click_to_switch_volume">Dotykem sem přepnete mezi interním úložištěm a SD kartou</string>
   <string name="click_to_switch_volume_pad">Dotykem přepnete mezi interním úložištěm a SD kartou</string>
   <string name="close">Zavřít</string>
@@ -451,6 +452,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_show_sys">Zobrazit systémové soubory</string>
   <string name="operation_unfavorite">Odebrat z oblíbených</string>
   <string name="otg_file_can_not_open">Nie je možné otvoriť súbor na USB. Najskôr skopírujte súbor na interné úložisko.</string>
+  <string name="overwrite_msg">\"%s\" již existuje. Dotykem jej přepíšete novým souborem.</string>
   <string name="pan_settting">MiDrive nastavení</string>
   <string name="partial_cancel_successful">Nelze odebrat některé soubory. Zbylé soubory byly přesunuty do %s"</string>
   <string name="partial_delete_failure">Nelze vymazat některé soubory</string>
@@ -528,6 +530,7 @@ and never miss the cool new ones!"</string>
   <string name="search_file_type_picture">Fotografie</string>
   <string name="search_file_type_video">Video</string>
   <string name="search_hint">Zadejte část nebo celé jméno souboru</string>
+  <string name="search_history">Vyhledat v historii</string>
   <string name="search_keyword">Značky</string>
   <string name="search_keyword_buy">Nákup</string>
   <string name="search_keyword_game">Hra</string>
@@ -581,6 +584,7 @@ and never miss the cool new ones!"</string>
   <string name="signin_error">Žádné připojení k síti, zkuste to později.</string>
   <string name="signin_success">"Podepsání úspěšné!
 Bylo přičteno dalších %1$s"</string>
+  <string name="skip_file">Přeskočit</string>
   <string name="smb_loading">Načítání...</string>
   <string name="sort_size_asc">Od nejmenšího</string>
   <string name="sort_size_desc">Od největšího</string>
@@ -680,8 +684,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="clear_record">Vymazat historii</string>
-   <string name="search_history">Vyhledat v historii</string>
-   <string name="overwrite_msg">\"%s\" již existuje. Dotykem jej přepíšete novým souborem.</string>
-   <string name="skip_file">Přeskočit</string>
 </resources>
