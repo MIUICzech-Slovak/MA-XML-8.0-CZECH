@@ -318,4 +318,8 @@
          <item quantity="other">%d ostatní označili jako</item>
          <item quantity="one">%d označil jako</item>
        </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Čekejte %d sekund a zkuste to znovu. "</item>
+        <item quantity="one">"Čekejte %d sekundu a zkuste to znovu. "</item>
+    </plurals>	
 </resources>
