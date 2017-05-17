@@ -624,7 +624,6 @@
   <string name="picker_full_format">Nejvíce %d položek.</string>
   <string name="picker_image_need_download">%d vybraných není v zařízení, stáhnout přes mobilní data?</string>
   <string name="picker_image_will_download">%d vybraných není v zařízení, stahování</string>
-  <string name="picker_mobile_data_video">Videa nelze stáhnout přes mobilní data, přeskočit %d.</string>
   <string name="picker_no_network_message">Síť není dostupná. Připojte se k síti a zkuste to znovu.</string>
   <string name="picker_origin_need_download">%1$d vybraných není v zařízení (%2$dMB), stáhnout přes mobilní data?</string>
   <string name="picker_title_format">Můžete vybrat %d</string>
@@ -931,4 +930,23 @@
   <string name="xiaomi_account_not_exists_toast">Mi účet neexistuje</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
+  <string name="album_jump_failed">Počkejte, dokud se alba nesesynchronizují s MiCloud a zkuste to znovu</string>
+   <string name="change_to_visible">Obnovit tuto osobu?</string>
+   <string name="delete_from_local_and_cloud">z tohoto zařízení a MiCloud</string>
+   <string name="delete_unsynced">Vymazat položky, které nebyly zálohovány.</string>
+   <string name="ignore_faces_title">Ignorováno</string>
+   <string name="load_complete">Prázdné</string>
+   <string name="load_failed">Nelze načíst info</string>
+   <string name="loading">Načítání</string>
+   <string name="loading_dots">Načítání...</string>
+   <string name="no_ignore_faces">Žádní lidé</string>
+   <string name="people_jump_failed">Počkejte, dokud se alba nesesynchronizují s MiCloud a zkuste to znovu</string>
+   <string name="picker_mobile_data_video">Nelze stáhnout videa přes mobilní data, přeskočeno %d.</string>
+   <string name="recovery_merge">Sloučit</string>
+   <string name="recovery_merge_or_rename">Sloučit alba</string>
+   <string name="recovery_merge_or_rename_message">Již máte album se stejným názvem, chcete je sloučit?</string>
+   <string name="recovery_rename">Přejmenovat</string>
+   <string name="search_clear_histories">Vyčistit</string>
+   <string name="search_title_history">Historie vyhledávání</string>
+   <string name="see_ignore_faces">Zobrazit lidi, které ignorujete.</string>
 </resources>

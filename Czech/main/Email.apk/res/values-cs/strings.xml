@@ -872,4 +872,5 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
+  <string name="cancel_pop3_attchemt_downloading">Zrušení stahování příloh není podporováno v POP3 protokolu.</string>
 </resources>

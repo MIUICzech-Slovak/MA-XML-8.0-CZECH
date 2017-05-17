@@ -505,4 +505,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchr.</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="micloud_main_sync_need_charge_or_sleep">Nabijte baterii a vypněte displej</string>
 </resources>
