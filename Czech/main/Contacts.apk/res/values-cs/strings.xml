@@ -1272,4 +1272,6 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
+  <string name="profileSavedErrorToast">Nelze uložit změny</string>
+  <string name="profileSavedToast">Změny nebyly uloženy</string>  
 </resources>
