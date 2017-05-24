@@ -329,5 +329,13 @@
      <plurals name="st_show_num_number">
          <item quantity="other">Čísel: %d</item>
          <item quantity="one">Čísel: %d</item>
-     </plurals> 	
+     </plurals> 
+      <plurals name="app_manager_permission_summary_accept">
+         <item quantity="other">Povoleno: %d</item>
+         <item quantity="one">Povoleno: %d</item>
+     </plurals>
+     <plurals name="app_manager_permission_summary_ask">
+         <item quantity="other">Vyžádat %d povolení</item>
+         <item quantity="one">Vyžádat %d povolení</item>
+       </plurals>	
 </resources>

@@ -1771,13 +1771,13 @@ Když zapnete automatické zálohování, data zařízení a aplikací se budou 
   <string name="key_position_cat">Rozložení tlačítek</string>
   <string name="key_settings">Tlačítka</string>
   <string name="key_settings_title">Tlačítka</string>
-  <string name="keyboard_and_input_methods_category">Klávesnice a metody vstupu</string>
+  <string name="keyboard_and_input_methods_category">Klávesnice</string>
   <string name="keyboard_layout_default_label">Výchozí</string>
   <string name="keyboard_layout_dialog_setup_button">Nastavit rozvržení klávesnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Přepněte klávesami ctrl+mezerník</string>
   <string name="keyboard_layout_dialog_title">Zvolte rozložení klávesnice</string>
   <string name="keyboard_layout_picker_title">Rozložení klávesnice</string>
-  <string name="keyboard_settings_category">Metody zadávání</string>
+  <string name="keyboard_settings_category">Klávesnice a metody zadávání</string>
   <string name="keyboard_settings_title">Klávesnice Android</string>
   <string name="keyguard_advance_setting_title">Další nastavení</string>
   <string name="keyguard_left_function_chooser_hint_text">Levý odkaz změněn na %s</string>
