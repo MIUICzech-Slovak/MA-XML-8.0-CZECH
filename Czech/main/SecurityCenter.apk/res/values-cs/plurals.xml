@@ -321,5 +321,13 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Čekejte %d sekund a zkuste to znovu. "</item>
         <item quantity="one">"Čekejte %d sekundu a zkuste to znovu. "</item>
-    </plurals>	
+    </plurals>	   
+     <plurals name="st_show_num_keyword">
+         <item quantity="other">Výrazů: %d</item>
+         <item quantity="one">Výrazů: %d</item>
+     </plurals>
+     <plurals name="st_show_num_number">
+         <item quantity="other">Čísel: %d</item>
+         <item quantity="one">Čísel: %d</item>
+     </plurals> 	
 </resources>
