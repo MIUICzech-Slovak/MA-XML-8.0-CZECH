@@ -85,16 +85,16 @@
   <string name="wrong_password">Nesprávné heslo</string>
   <string name="keyguard_charging_info_battery_temperature_text">Teplota baterie</string>
    <string name="keyguard_charging_info_battery_used_time_text">Na baterii</string>
-   <string name="keyguard_charging_info_charging_full_need_hour_time__text">Kolem %d h do nabití</string>
-   <string name="keyguard_charging_info_charging_full_need_min_time__text">Kolem %d min do nabití​</string>
-   <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Kolem %d h %d min do nabití</string>
+   <string name="keyguard_charging_info_charging_full_need_hour_time__text">%d h do nabití</string>
+   <string name="keyguard_charging_info_charging_full_need_min_time__text">%d min do nabití​</string>
+   <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%d h %d min do nabití</string>
    <string name="keyguard_charging_info_charging_text">Nabíjení</string>
    <string name="keyguard_charging_info_charging_voltage_text">Napětí</string>
    <string name="keyguard_charging_info_click_to_detail">Podrobnosti</string>
-   <string name="keyguard_charging_info_could_use_hour_time_text">Zbývá kolem %d h</string>
-   <string name="keyguard_charging_info_could_use_min_time_text">Zbývá kolem %d min</string>
-   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Zbývá kolem %dh %d min</string>
-   <string name="keyguard_charging_info_current_now_text">Sledování nabíjení</string>
+   <string name="keyguard_charging_info_could_use_hour_time_text">Zbývá %d h</string>
+   <string name="keyguard_charging_info_could_use_min_time_text">Zbývá %d min</string>
+   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Zbývá %dh %d min</string>
+   <string name="keyguard_charging_info_current_now_text">Proud</string>
    <string name="keyguard_charging_info_drained_hour_time_format">%d h</string>
    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
    <string name="keyguard_charging_info_drained_power_percent_text">Vybito</string>
