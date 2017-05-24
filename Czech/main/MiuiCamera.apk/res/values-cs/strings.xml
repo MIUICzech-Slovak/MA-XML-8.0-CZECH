@@ -20,6 +20,7 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_zoom_button">Režim přiblížení</string>
   <string name="audio_focus_exit_button_text">Ukončit</string>
   <string name="burst_shoot_exit_button_text">Ukončit</string>
   <string name="button_fisheye_camera_title">Rybí oko</string>
@@ -418,4 +419,21 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Byla dosažena maximální velikost souboru.</string>
   <string name="wait">Čekejte prosím...</string>
+  <string name="hibernate_hint">Dotkněte se kdekoliv pro probuzení</string>
+  <string name="portrait_mode_depth_effect_success_hint">Efekt hloubky ostrosti</string>
+   <string name="portrait_mode_lowlight_hint">Je vyžadováno více světla</string>
+   <string name="portrait_mode_too_close_hint">Postavte se dál od objektu</string>
+   <string name="portrait_mode_too_far_hint">Umístěte objekt max 2,5m od objektivu</string>
+   <string name="portrait_with_facebeauty_hint">Režim vyhlazení pleti je dostupný</string>
+ <string name="pref_camera_portrait_mode_entry_off">Portrét vyp.</string>
+   <string name="pref_camera_portrait_mode_entry_on">Portrét zap.</string>
+   <string name="pref_camera_portrait_mode_title">Portrét</string>
+   <string name="pref_camera_portrait_with_facebeauty_title">Vyhladit pleť v režimu Portrét</string>
+ <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+   <string name="pref_camera_zoom_mode_entry_wide">Široký</string>
+   <string name="pref_camera_zoom_mode_title">Objektiv</string>
+ <string name="pref_watermark_style_entry_dualcamera">Duální fotoaparát</string>
+   <string name="pref_watermark_style_entry_off">Vyp</string>
+   <string name="pref_watermark_style_entry_timestamp">Časový vodoznak</string>
+   <string name="pref_watermark_style_title">Přidat vodoznak do fotografie</string>
 </resources>
