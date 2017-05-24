@@ -348,5 +348,14 @@
      <string-array name="date_calculate_spinner">
          <item>Dopředu</item>
          <item>Dozadu</item>
+     </string-array>
+     <string-array name="week_header_name">
+         <item>NED</item>
+         <item>PON</item>
+         <item>ÚTE</item>
+         <item>STŘ</item>
+         <item>ČTV</item>
+         <item>PÁT</item>
+         <item>SOB</item>
      </string-array>	
 </resources>

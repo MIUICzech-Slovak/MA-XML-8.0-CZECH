@@ -477,4 +477,7 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="missing_required_permission">Deaktiovovali jste požadovaná oprávnění.</string>
+   <string name="install_weather_app_error">Nastala chyba.</string>
+   <string name="install_weather_app_loading">Načítání...</string>  
 </resources>

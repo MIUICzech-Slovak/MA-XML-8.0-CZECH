@@ -506,4 +506,5 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
   <string name="micloud_main_sync_need_charge_or_sleep">Nabijte baterii a vypněte displej</string>
+  <string name="micloud_detail_need_charge_or_sleep">Připojte k nabíječce a vypněte displej pro pokračování v synchr.</string>
 </resources>
