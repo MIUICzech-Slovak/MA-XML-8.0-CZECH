@@ -244,4 +244,6 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
+  <string name="remind_unlock_message">Vaše zařízení je uzamčeno. \"%s\" bude dostupné až po odblokování zařízení. Odblokovat?</string>
+   <string name="unlock_phone">Odemknout zařízení</string>
 </resources>

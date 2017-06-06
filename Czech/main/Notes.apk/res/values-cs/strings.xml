@@ -200,4 +200,27 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
+  <string name="action_folder_description">Složky</string>
+   <string name="action_mode_switcher_grid_description">Mřížka</string>
+   <string name="action_mode_switcher_list_description">Seznam</string>
+   <string name="action_settings_description">Nastavení</string>
+   <string name="cancel_alarm_description">Zrušit upozornění</string>
+   <string name="edit_header_done_description">Hotovo</string>
+   <string name="edit_header_home_description">Zpět</string>
+   <string name="menu_add_description">Nová</string>
+   <string name="menu_add_folder_description">Složka</string>
+   <string name="set_alarm_description">Upozornění</string>
+   <string name="theme_blue_description">Modrá</string>
+   <string name="theme_green_description">Zelená</string>
+   <string name="theme_red_description">Červená</string>
+   <string name="theme_white_description">Bílá</string>
+   <string name="theme_yellow_description">Žlutá</string>
+   <string name="toolbar_check_description">Zaškrtávací políčko</string>
+   <string name="toolbar_delete_description">Vymazat tuto poznámku</string>
+   <string name="toolbar_gallery_description">Přidat obrázek</string>
+   <string name="toolbar_more_description">Více</string>
+   <string name="toolbar_redo_description">Znovu</string>
+   <string name="toolbar_share_description">Sdílet</string>
+   <string name="toolbar_theme_description">Téma</string>
+   <string name="toolbar_undo_description">Zpět</string> 
 </resources>

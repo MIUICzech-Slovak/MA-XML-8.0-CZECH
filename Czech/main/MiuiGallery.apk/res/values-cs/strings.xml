@@ -949,4 +949,6 @@
    <string name="search_clear_histories">Vyčistit</string>
    <string name="search_title_history">Historie vyhledávání</string>
    <string name="see_ignore_faces">Zobrazit lidi, které ignorujete.</string>
+   <string name="album_already_exists_check">Zobrazit</string>
+   <string name="album_already_exists_msg">Album \"%s\" již existuje</string>
 </resources>

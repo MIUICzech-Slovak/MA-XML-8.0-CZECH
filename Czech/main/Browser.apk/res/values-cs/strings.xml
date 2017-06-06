@@ -288,7 +288,7 @@
   <string name="error_unauthorized">Synchr. byla deaktivována z důvodu mnoho pokusů o přihlášení.</string>
   <string name="exit_browser_warning">Ukončit prohlížeč?</string>
   <string name="file_dir">Umístění</string>
-  <string name="file_name">Název</string>
+  <string name="file_name">"Název: "</string>
   <string name="file_picker">Zvolte cestu</string>
   <string name="filename_empty_alert_message">"Název souboru nesmí být prázdný"</string>
   <string name="filename_illegal_alert_message">Název souboru obsahuje nepovolené znaky, které byly odstraněny.</string>

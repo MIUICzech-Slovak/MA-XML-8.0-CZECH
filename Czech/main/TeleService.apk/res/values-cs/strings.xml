@@ -1275,4 +1275,5 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="no_checked_network">Nebude možné se připojit k mobilní síti. Vybrat jinou síť?"</string>  
 </resources>

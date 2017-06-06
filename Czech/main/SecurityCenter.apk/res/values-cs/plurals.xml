@@ -222,10 +222,6 @@
          <item quantity="other">%d​ rizik, opravit nyní</item>
          <item quantity="one">%d riziko, opravit nyní</item>
      </plurals>
-     <plurals name="sp_settings_exception_count">
-         <item quantity="other">%d položek</item>
-         <item quantity="one">1 položka</item>
-     </plurals>
      <plurals name="quick_optimize_suggest_issue_found">
          <item quantity="other">Nalezeno %d problémů s baterií</item>
          <item quantity="one">Nalezen %d problém s baterií</item>
@@ -337,5 +333,25 @@
      <plurals name="app_manager_permission_summary_ask">
          <item quantity="other">Vyžádat %d povolení</item>
          <item quantity="one">Vyžádat %d povolení</item>
-       </plurals>	
+       </plurals>
+       <plurals name="sp_settings_exception_count">
+         <item quantity="other">Položek: %d</item>
+         <item quantity="one">Položek: 1</item>
+     </plurals>
+     <plurals name="scan_result_description">
+         <item quantity="other">Výsledek: %d rizik</item>
+         <item quantity="one">Výsledek: %d riziko</item>
+     </plurals>
+     <plurals name="manual_white_list_header">
+         <item quantity="other">Výjimky: %d</item>
+         <item quantity="one">Výnimky: %d</item>
+     </plurals>
+     <plurals name="summary_flow_verify">
+         <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
+         <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+     </plurals>
+     <plurals name="notification_title_cmcc_app_check">
+         <item quantity="other">%d days since last check-up</item>
+         <item quantity="one">%d day since last check-up</item>
+     </plurals>	
 </resources>

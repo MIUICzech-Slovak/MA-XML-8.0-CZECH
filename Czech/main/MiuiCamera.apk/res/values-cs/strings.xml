@@ -436,4 +436,9 @@
    <string name="pref_watermark_style_entry_off">Vyp</string>
    <string name="pref_watermark_style_entry_timestamp">Časový vodoznak</string>
    <string name="pref_watermark_style_title">Přidat vodoznak do fotografie</string>
+   <string name="pref_camera_show_gender_age_label_alias">Věk</string>
+   <string name="pref_camera_show_gender_age_label_on">Věk a pohlaví</string>
+   <string name="pref_camera_snap_label_take_movie">Video</string>
+   <string name="pref_camera_snap_label_take_picture">Fotografie</string>
+   <string name="pref_front_mirror_label_auto">Auto</string>
 </resources>

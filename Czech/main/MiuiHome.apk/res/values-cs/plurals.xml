@@ -25,4 +25,24 @@
         <item quantity="one">"Nelze odinstalovat"</item>
         <item quantity="two">"Nelze odinstalovat \"%s\" a 1 další aplikaci"</item>
     </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+         <item quantity="other">Odinstalovat %1$d apl.?</item>
+         <item quantity="one">Odinstalovat %1$d apl.?</item>
+     </plurals>
+     <plurals name="uninstall_result_multi_succeeded">
+         <item quantity="other">%1$d apl. odinstalováno</item>
+         <item quantity="one">%1$d apl. odinstalována</item>
+     </plurals>
+     <plurals name="uninstall_result_multi_failed">
+         <item quantity="other">Nelze odinstalovat %1$d apl.</item>
+         <item quantity="one">Nelze odinstalovat %1$d apl.</item>
+     </plurals>
+     <plurals name="scroll_tip_format_when_announce_accessibility">
+         <item quantity="other">strana %1$d, %2$d apl.</item>
+         <item quantity="one">strana %1$d, %2$d apl.</item>
+     </plurals>
+     <plurals name="delete_wallpapers_message">
+         <item quantity="other">Vymazat %1$d tapet?</item>
+         <item quantity="one">Vymazat %1$d tapetu?</item>
+     </plurals>	
 </resources>

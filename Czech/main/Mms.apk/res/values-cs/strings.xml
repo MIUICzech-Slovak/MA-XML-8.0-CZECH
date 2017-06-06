@@ -674,4 +674,10 @@ Pokus: %s."</string>
   <string name="yes">OK</string>
   <string name="title_show_list_avatar">Zobrazit fotografie kontaktu</string>
    <string name="pref_show_list_avatar_summary">Zobrazit podrobnosti a fotografie kontaktů</string>
+   <string name="select_sim">Vyberte SIM kartu</string>
+   <string name="sms_report_dialog_content">Nelze odeslat potvrzení.</string>
+   <string name="sms_report_dialog_retry">Znovu</string>
+   <string name="sms_report_dialog_title">Znovu</string>
+   <string name="switch_to_editor">Upravit</string>
+   <string name="switch_to_menu">Menu</string> 
 </resources>
