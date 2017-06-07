@@ -25,4 +25,22 @@
          <item quantity="other">Můžete přidat max. %s lidí.</item>
          <item quantity="one">Můžete přidat max. %s osobu</item>
      </plurals>	
+     <plurals name="call_record_auto_whitelist_summary">
+         <item quantity="other">Čísel: %d</item>
+         <item quantity="one">Čísel: %d</item>
+     </plurals>
+     <plurals name="call_remove_exception_numbers_confirm">
+         <item quantity="other">%d čísel bude vymazáno.</item>
+         <item quantity="one">%d číslo bude vymazáno.</item>
+     </plurals>
+     <plurals name="auto_answer_summary_delay">
+         <item quantity="other">Zpoždění: %s s</item>
+         <item quantity="one">Zpoždění: %s s</item>
+     </plurals>
+     <plurals name="pin_attempts">
+         <item quantity="other">"
+ Zbývá %d pokusů."</item>
+         <item quantity="one">"
+ Zbývá %d pokus."</item>
+     </plurals> 
 </resources>

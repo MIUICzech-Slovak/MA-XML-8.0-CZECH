@@ -183,4 +183,9 @@
   <string name="still">Obrázky</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Název</string>
+  <string name="sleep_config_disable_description">MIUI nebude šetřit baterii přes noc</string>
+   <string name="sleep_config_disable_title">Vypnuto</string>
+   <string name="sleep_config_enhance_description">MIUI bude šetřit baterii přes noc</string>
+   <string name="sleep_config_enhance_title">Zapnuto</string>
+   <string name="sleep_config_mode_title">Šetření baterie v noci</string>  
 </resources>

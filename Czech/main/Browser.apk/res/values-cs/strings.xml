@@ -866,5 +866,7 @@ Chcete opustit tuto stránku?"</string>
    <string name="voice_connect_network">Unable to connect to network</string>
    <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
    <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
-   <string name="voice_semantic_analysis">Semantic analysis after networking</string>  
+   <string name="voice_semantic_analysis">Semantic analysis after networking</string> 
+   <string name="agree">Souhlasím</string>
+   <string name="exit">Ukončit</string> 
 </resources>
