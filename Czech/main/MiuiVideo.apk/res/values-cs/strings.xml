@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">MIUIVideo</string>
-  <string name="receive_follow">Upozornění na novou epizodu</string>
-     <string name="receive_follow_summary">Dostávat upozornění na novou epizodu seriálu</string>
   <string name="about_title">O aplikaci</string>
   <string name="about_version_label">Verze:</string>
   <string name="ad_countdown">Reklama: %ss</string>
@@ -248,6 +246,8 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Movie</string>
   <string name="receive_develop_summary">Receive application update when new develop version is available</string>
+  <string name="receive_follow">Upozornění na novou epizodu</string>
+  <string name="receive_follow_summary">Dostávat upozornění na novou epizodu seriálu</string>
   <string name="receive_mipush">Přijímat xiaomi push</string>
   <string name="receive_mipush_summary">Přijímat upozornění na nový a aktual. online obsah.</string>
   <string name="recentplay">Naposledy přehrané</string>

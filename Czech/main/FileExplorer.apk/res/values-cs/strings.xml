@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">"Migrování uživatelských dat. Čekejte prosím..."</string>
-  <string name="category_installed_app">Nainstalované apl.</string>
   <string name="action_mode_deselect_all">Odznačit</string>
   <string name="action_mode_select_all">Vše</string>
   <string name="add_private">Přidat soubor</string>
@@ -53,6 +52,7 @@
   <string name="category_favorite">Oblíbené</string>
   <string name="category_file">Soubory</string>
   <string name="category_files">Soubory</string>
+  <string name="category_installed_app">Nainstalované apl.</string>
   <string name="category_kuaipan">KuaiPan</string>
   <string name="category_midrive">MiDrive</string>
   <string name="category_music">Hudba</string>
@@ -607,6 +607,7 @@ Bylo přičteno dalších %1$s"</string>
   <string name="storage_usb_description">USB úložiště</string>
   <string name="storage_warning">SD karta není přístupná, nebo ji nelze přečíst.</string>
   <string name="subtitle_report_video">Od %1$s</string>
+  <string name="support_mtp">MTP bude brzy podporován</string>
   <string name="sys_size_enable">" Volno"</string>
   <string name="system_alert">Upozornění</string>
   <string name="tab_category">Kategorie</string>
@@ -685,5 +686,4 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
-  <string name="support_mtp">MTP bude brzy podporován</string>
 </resources>

@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="FMRecording_reach_storage_threshold">Nahrávání bylo ukončeno, dochází volné místo pro zápis.</string>
-   <string name="context_menu_title">%s MHZ</string>
   <string name="access_sd_fail">Nelze načíst SD kartu</string>
   <string name="alert_dialog_cancel">Zrušit</string>
   <string name="alert_dialog_ok">OK</string>
@@ -25,6 +24,7 @@
   <string name="context_menu_item_edit">Upravit</string>
   <string name="context_menu_item_favorite">Přidat k oblíbeným</string>
   <string name="context_menu_item_unfavorite">Odebrat z oblíbených</string>
+  <string name="context_menu_title">%s MHZ</string>
   <string name="delete_station_title">Odstranit</string>
   <string name="dialog_sleep_title">Čas do automatického vypnutí</string>
   <string name="durationformat">%2$d:%5$02d</string>

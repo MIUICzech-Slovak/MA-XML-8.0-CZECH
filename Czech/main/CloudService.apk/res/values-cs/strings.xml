@@ -54,6 +54,8 @@ Naposledy: %2$s"</string>
   <string name="cloud_storage_is_full">Plný</string>
   <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahují synchronizaci, vyhledání polohy zařízení a mnoho dalších funkcí. Také můžete svá data spravovat kdekoli online!</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
+  <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
   <string name="connect_network">Připojte se k Wi-Fi nebo vložte SIM kartu</string>
   <string name="connect_wlan">Připojte se k Wi-Fi</string>
   <string name="contact">Kontaktů</string>
@@ -112,6 +114,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="free_space_has_received">Tento měsíc již byla navýšena kapacita</string>
   <string name="free_space_receive_fail">Nelze navýšit</string>
   <string name="get_first_month_gb">Získejte %s prostoru</string>
+  <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
   <string name="get_this_month_gb">Získejte %s prostoru</string>
   <string name="google_100gb">100GB</string>
   <string name="google_cloud">Google Drive</string>
@@ -141,6 +144,7 @@ Pokud změníte SIM kartu, bude odeslána SMS pro aktivaci této služby.</strin
   <string name="micloud_battery_low_notification_message">Změnit a synchr.</string>
   <string name="micloud_battery_low_notification_title">Slabá baterie</string>
   <string name="micloud_buy_member">Účet</string>
+  <string name="micloud_buy_member_safe">Navýšit MiCloud</string>
   <string name="micloud_check_sim_notify_text">"Zřejmě byla změněna SIM karta. Přihlaste se
 do vašeho Mi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znovu aktivovat MiCloud</string>
@@ -188,6 +192,7 @@ do vašeho Mi účtu pro opětovné aktivování MiCloud."</string>
   <string name="micloud_detail_lastest">Synchr.</string>
   <string name="micloud_detail_lastest_with_off">Synchr.</string>
   <string name="micloud_detail_need_charge">Nabijte baterii pro synchr.</string>
+  <string name="micloud_detail_need_charge_or_sleep">Připojte k nabíječce a vypněte displej pro pokračování v synchr.</string>
   <string name="micloud_detail_not_sync">%d čeká na synchr.</string>
   <string name="micloud_detail_not_synced">Nesynchr.</string>
   <string name="micloud_detail_ok">OK</string>
@@ -269,6 +274,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
   <string name="micloud_main_sync_init">Získávání informací</string>
   <string name="micloud_main_sync_need_charge">Čeká na nabíječku</string>
+  <string name="micloud_main_sync_need_charge_or_sleep">Nabijte baterii a vypněte displej</string>
   <string name="micloud_main_sync_now">Synchronizovat</string>
   <string name="micloud_main_sync_on">Synchr. povolena</string>
   <string name="micloud_main_sync_on_wifi">Synchr. jen přes Wi-Fi</string>
@@ -356,6 +362,7 @@ Stiskněte tlačítko Nastavení pro více možností"</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Použít MiCloud</string>
   <string name="micloud_sync_off">Synchr. s MiCloud deaktivována</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Synchr. jen Kontakty, Kalendář a Poznámky. Pro více možností synchr. jděte do nastavení MiCloud.</string>
   <string name="micloud_title_dspt" formatted="false">"Celkem %s
 Využito %s | Zbývá %s"</string>
   <string name="micloud_title_dspt_remain">" / %s Zbývá"</string>
@@ -505,11 +512,4 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchr.</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="micloud_main_sync_need_charge_or_sleep">Nabijte baterii a vypněte displej</string>
-  <string name="micloud_detail_need_charge_or_sleep">Připojte k nabíječce a vypněte displej pro pokračování v synchr.</string>
-   <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
-   <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
-   <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>  
-<string name="micloud_buy_member_safe">Navýšit MiCloud</string>
-   <string name="micloud_sync_prompt_for_no_gallery_sync">Synchr. jen Kontakty, Kalendář a Poznámky. Pro více možností synchr. jděte do nastavení MiCloud.</string>
 </resources>

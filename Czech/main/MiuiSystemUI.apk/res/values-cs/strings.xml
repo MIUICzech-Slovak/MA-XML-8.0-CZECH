@@ -243,6 +243,7 @@ Použijte síťovou nabíječku."</string>
   <string name="quick_settings_wifi_label">Wi-Fi</string>
   <string name="quick_settings_wifi_nearby">Vyberte síť</string>
   <string name="recent_task_app_info_text">Info</string>
+  <string name="recent_task_cleaning">Čištění...</string>
   <string name="recent_task_lock_text">Uzamknout</string>
   <string name="recent_task_unlock_text">Odemknout</string>
   <string name="recents_launch_error_message">Nelze spustit %s.</string>
@@ -366,5 +367,4 @@ přetažením dolů uzamknete"</string>
   <string name="wifi_remembered">Uloženo</string>
   <string name="wifi_security_none">Žádné</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="recent_task_cleaning">Čištění...</string>
 </resources>

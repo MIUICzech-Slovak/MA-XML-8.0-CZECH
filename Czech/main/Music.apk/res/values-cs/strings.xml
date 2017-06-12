@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Účet</string>
-  <string name="artist_album">Alba</string>
-     <string name="force_touch_audio_picker">Rozpoznat</string>
-     <string name="force_touch_play_local_music_random">Přehrávání</string>
-     <string name="input_hint_prefix">Vložte %1$s</string>
-     <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="account_and_cloud">Účet</string>
   <string name="action_item_add">Přidat</string>
   <string name="action_item_add_song">Přidat</string>
@@ -37,6 +32,7 @@
   <string name="all_tracks">Vše</string>
   <string name="all_tracks_short">Vše</string>
   <string name="artist">Interpreti</string>
+  <string name="artist_album">Alba</string>
   <string name="artist_home_search_hint">Vyhledejte interpreta</string>
   <string name="artist_is_empty">Jméno interpreta nemůže být prázdné.</string>
   <string name="artist_name">Umělec</string>
@@ -220,6 +216,8 @@
   <string name="filter_by_size_prefix">"Minimální velikost: "</string>
   <string name="filter_by_size_summary">Nezobrazovat malé audio soubory</string>
   <string name="find_music">Prohledat skladby</string>
+  <string name="force_touch_audio_picker">Rozpoznat</string>
+  <string name="force_touch_play_local_music_random">Přehrávání</string>
   <string name="format_not_support">Formát není podporován</string>
   <string name="format_unsupported_or_corrupted">"Tento formát není podporován nebo je soubor poškozen"</string>
   <string name="fragment_more">Více</string>
@@ -251,6 +249,7 @@
   <string name="impunity_declaration_summary">Zobrazit Podmínky používání pro Baidu Online Music Service vždy při otevření aplikace</string>
   <string name="impunity_declaration_title">Podmínky používání</string>
   <string name="in_searching_please_wait">Vyhledávání...</string>
+  <string name="input_hint_prefix">Vložte %1$s</string>
   <string name="is_loading_data">Načítání skladby...</string>
   <string name="is_scanning">Skenuji, prosím o strpení.</string>
   <string name="is_scanning_support_online">Skenuji, počkejte prosím nebo si vyberte hudbu online.</string>
@@ -263,6 +262,7 @@
   <string name="list_detail_title">Detaily</string>
   <string name="list_item_play_FM_radio">Dotykem spustíte FM rádio</string>
   <string name="list_item_play_all_tracks">Přehrát všechny skladby</string>
+  <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="load_shuffle">Načítání...</string>
   <string name="loadercontainer_loading">Načítání...</string>
   <string name="loading_hint">Načítání...</string>
@@ -329,6 +329,9 @@
   <string name="multichoice">Vybrat</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_filter">Filtrovat audio soubory</string>
+  <string name="music_notification_headset_custom">Zrušit</string>
+  <string name="music_notification_headset_info">Dotykem zobrazíte nastavení</string>
+  <string name="music_notification_headset_settings">Připojena sluchátka</string>
   <string name="music_picker_title">Vyberte skladbu</string>
   <string name="music_settings">Hudba</string>
   <string name="my_account">Můj účet</string>
@@ -504,6 +507,7 @@
   <string name="sort_by_name">Název</string>
   <string name="sort_by_time">Datum</string>
   <string name="source_from">Zdroj: %1$s</string>
+  <string name="start_shuffle">Spustit náhodně...</string>
   <string name="start_to_download">Začít stahování…</string>
   <string name="start_to_play">Přehrát</string>
   <string name="stop">Zastavit</string>
@@ -570,8 +574,4 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
-  <string name="music_notification_headset_custom">Zrušit</string>
-   <string name="music_notification_headset_info">Dotykem zobrazíte nastavení</string>
-   <string name="music_notification_headset_settings">Připojena sluchátka</string>
-   <string name="start_shuffle">Spustit náhodně...</string>
 </resources>

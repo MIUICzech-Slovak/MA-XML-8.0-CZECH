@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_add_attendee">Přidat účastníka</string>
-  <string name="buy_a_new_phone">Navýšení úložiště</string>
-     <string name="dialog_msg_uninstall_apps_xspace">Odinstalovat tyto aplikace (včetně klonovaných)?</string>
-     <string name="pref_title_clean_alert">Vyčistit automaticky</string>
   <string name="accessibility_add_reminder">Přidat připomenutí</string>
   <string name="accessibility_all_day">Celodenní událost</string>
   <string name="accessibility_pick_end_date">Datum ukončení</string>
@@ -16,7 +13,6 @@
   <string name="accessibility_reminder_time">Čas připomenutí</string>
   <string name="accessibility_reminder_type">Typ připomenutí</string>
   <string name="accessibility_remove_attendee">Odebrat účastníka</string>
-  <string name="done">Zpět</string>
   <string name="accessibility_remove_reminder">Odebrat připomenutí</string>
   <string name="accessibility_repeats">Opakování</string>
   <string name="accessibility_sync_cal">Synchronizovat kalendář</string>
@@ -79,6 +75,7 @@
   <string name="button_day">Den</string>
   <string name="button_month">Měsíc</string>
   <string name="button_week">Týden</string>
+  <string name="buy_a_new_phone">Navýšení úložiště</string>
   <string name="calculate_result">Vypočítat</string>
   <string name="calendar_refresh">Aktualizovat</string>
   <string name="calendar_server_error">Chyba serveru</string>
@@ -129,11 +126,13 @@
   <string name="delete_topic_dialog_title">Vymazat "%s"?</string>
   <string name="delete_topic_success">"%s" odebráno</string>
   <string name="description_label">Popis</string>
+  <string name="dialog_msg_uninstall_apps_xspace">Odinstalovat tyto aplikace (včetně klonovaných)?</string>
   <string name="directory_searching_fmt">Vyhledávání na webu %s...</string>
   <string name="discard_label">Zrušit</string>
   <string name="dismiss_all_label">Zavřít vše</string>
   <string name="do_not_check">Nekontrolovat -</string>
   <string name="does_not_repeat">Jednorázová událost</string>
+  <string name="done">Zpět</string>
   <string name="download">Stáhnout</string>
   <string name="edit_date_calculate_days_backward_error_hint">Nelze vypočítat zpětně</string>
   <string name="edit_date_calculate_days_empty_hint">Počet dní nesmí být prázdný</string>
@@ -236,6 +235,8 @@
   <string name="insert_event_dialog_title">Upozornění</string>
   <string name="insert_event_toast_add_failed">Přidání selhalo</string>
   <string name="insert_event_toast_add_success">Událost vytvořena</string>
+  <string name="install_weather_app_error">Nastala chyba.</string>
+  <string name="install_weather_app_loading">Načítání...</string>
   <string name="item_num_selected">Vybráno: %1$d</string>
   <string name="jump_date">Přejít</string>
   <string name="jump_date_full">Přejít na datum</string>
@@ -250,6 +251,7 @@
   <string name="menu_reminder_preferences">Nastavení upozornění</string>
   <string name="menu_select_visible_calendars">Kalendáře k zobrazení</string>
   <string name="missing_name">(Žádné jméno)</string>
+  <string name="missing_required_permission">Deaktiovovali jste požadovaná oprávnění.</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Nová</string>
@@ -294,6 +296,7 @@
   <string name="pref_reminder_time">Čas upozornění</string>
   <string name="pref_title_alarm_remind">Zvukové upozornění</string>
   <string name="pref_title_alert_remind">Vyskakovací okno</string>
+  <string name="pref_title_clean_alert">Vyčistit automaticky</string>
   <string name="pref_title_no_remind">Žádné upozornění</string>
   <string name="pref_title_notification_remind">Upozornění v roletce</string>
   <string name="preferences_about_title">O aplikaci</string>
@@ -481,7 +484,4 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
-  <string name="missing_required_permission">Deaktiovovali jste požadovaná oprávnění.</string>
-   <string name="install_weather_app_error">Nastala chyba.</string>
-   <string name="install_weather_app_loading">Načítání...</string>  
 </resources>

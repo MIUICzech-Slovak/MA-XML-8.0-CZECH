@@ -1,13 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_device_info">Podrobnosti o zařízení</string>
-  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
-     <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
-     <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
-     <string name="unlock_help_notice">"Pomoc:
- · Pokud jste zapomněli heslo, můžete jej obnovit na id.mi.com.
- · Pokud nemůžete odemknout vaše zařízení, jděte na i.mi.com a deaktivujte Vyhledávání zařízení (Find device).
- · Toto číslo napište naší zákaznické podpoře: %s"</string>
   <string name="access_token_expired_warning">Účet Weibo vypršel. Přihlaste se znovu.</string>
   <string name="access_token_invalid_warning">Účet Weibo je neplatný. Přihlaste se znovu.</string>
   <string name="account">Účet</string>
@@ -97,12 +90,14 @@
   <string name="cloud_service">MiCloud</string>
   <string name="completed">Dokončit</string>
   <string name="confirm_activate_email">Ověřeno</string>
+  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
   <string name="confirm_delete_app_message">Po vymazání této apl., bude nutné pvěřit vaše telefonní číslo při dalším přihlášením se ke Mi účtu.</string>
   <string name="confirm_delete_browser_message">Po vymazání tohoto prohlížeče, bude nutné ověřit vaše telefonní číslo při dalším přihlášením se ke Mi účtu.</string>
   <string name="confirm_delete_device_message">Po vymazání tohoto zařízení, bude nutné ověřit vaše telefonní číslo při dalším přihlášením se ke Mi účtu.</string>
   <string name="confirm_phone_number_dialog_message">Ověřovací kód bude odeslán na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrzení telefonního čísla</string>
   <string name="confirm_unbind">Odpojit?</string>
+  <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
   <string name="continue_action">Pokračovat</string>
   <string name="cta_declaration_agree_and_continue">Souhlasím</string>
   <string name="cta_declaration_exit">Ukončit</string>
@@ -160,6 +155,7 @@
   <string name="first_login_time">První pokus přihlášení: %s</string>
   <string name="forward_to_bind">Připojit</string>
   <string name="get_device_list_failed">Nelze načíst zařízení</string>
+  <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>
   <string name="get_phone_verifycode_exceed_limit">Bylo odesláno příliš mnoho ověřovacích kódů. Čekejte 24 hodin a zkuste to znovu.</string>
   <string name="guest_account_label">Účet Mi Hosta</string>
   <string name="ignore">Nyní ne</string>
@@ -431,6 +427,10 @@ Zkontrolujte také složku SPAM."</string>
   <string name="turning_off_find_device">Deaktivování vyhledávání zařízení...</string>
   <string name="unbind_sns_description">Po odpojení se již nepřihlásíte do Mi účtu přes %s</string>
   <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
+  <string name="unlock_help_notice">"Pomoc:
+ · Pokud jste zapomněli heslo, můžete jej obnovit na id.mi.com.
+ · Pokud nemůžete odemknout vaše zařízení, jděte na i.mi.com a deaktivujte Vyhledávání zařízení (Find device).
+ · Toto číslo napište naší zákaznické podpoře: %s"</string>
   <string name="update_contacts">Aktualizovat kontakty</string>
   <string name="update_contacts_description">Aktualizovat Vaše kontakty a ostatní informace</string>
   <string name="update_email_address_dialog_message">Musíte ověřit svou identitu před tím, než změníte e-mail.</string>

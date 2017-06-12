@@ -1,11 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_bar_delete">Vymazat</string>
-  <string name="power_checker_recent_btn_title">Nastavení Výkonu</string>
-     <string name="power_checker_recent_group_title">Nedávné</string>
-     <string name="power_checker_running_btn_title">Ukončit proces</string>
-     <string name="power_checker_running_group_title">Spuštěno</string>
-     <string name="power_checker_title">PowerChecker</string>
   <string name="action_settings">Nastavení</string>
   <string name="action_title_optimize">Optimalizovat</string>
   <string name="activity_title_poweranalyze">Test baterie</string>
@@ -94,6 +89,11 @@
   <string name="power_checker_notify_summary">Vyčištěte aplikace se zvýšenou spotřebou baterie</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">%1$s brání uspání CPU</string>
   <string name="power_checker_partial_wakelock_title">%1$s brání uspání CPU</string>
+  <string name="power_checker_recent_btn_title">Nastavení Výkonu</string>
+  <string name="power_checker_recent_group_title">Nedávné</string>
+  <string name="power_checker_running_btn_title">Ukončit proces</string>
+  <string name="power_checker_running_group_title">Spuštěno</string>
+  <string name="power_checker_title">PowerChecker</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s často probouzí CPU</string>
   <string name="power_checker_wakeup_alarm_title">%1$s často probouzí CPU</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s často vyhledává Wi-Fi sítě</string>
@@ -185,12 +185,12 @@
   <string name="set_cpufreq_max">Max frekvence CPU</string>
   <string name="set_lcd_mode">Režim displeje</string>
   <string name="settings_safetylegal_activity_loading">Načítání...</string>
+  <string name="sleep_config_disable_description">MIUI nebude šetřit baterii přes noc</string>
+  <string name="sleep_config_disable_title">Vypnuto</string>
+  <string name="sleep_config_enhance_description">MIUI bude šetřit baterii přes noc</string>
+  <string name="sleep_config_enhance_title">Zapnuto</string>
+  <string name="sleep_config_mode_title">Šetření baterie v noci</string>
   <string name="still">Obrázky</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Název</string>
-  <string name="sleep_config_disable_description">MIUI nebude šetřit baterii přes noc</string>
-   <string name="sleep_config_disable_title">Vypnuto</string>
-   <string name="sleep_config_enhance_description">MIUI bude šetřit baterii přes noc</string>
-   <string name="sleep_config_enhance_title">Zapnuto</string>
-   <string name="sleep_config_mode_title">Šetření baterie v noci</string>  
 </resources>

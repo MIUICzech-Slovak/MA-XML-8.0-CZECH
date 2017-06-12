@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_calllog_detail">Seznam hovorů</string>
+  <string name="accessibility_contact_detail">Podrobnosti</string>
   <string name="account_container_title">Z tohoto účtu</string>
   <string name="account_default">Telefon</string>
   <string name="account_phone">Pouze v telefonu (nesynchr.)</string>
@@ -82,7 +83,9 @@
   <string name="call_radio">Volat radiostanici</string>
   <string name="call_record_setting_miui">Nahrávání hovoru</string>
   <string name="call_settings">Nastavení</string>
+  <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">Volat přes SIM1</string>
+  <string name="call_sim2_description">SIM 2</string>
   <string name="call_sim2_menu_title">Volat přes SIM2</string>
   <string name="call_sim_menu_title_suffix">(Primární)</string>
   <string name="call_telex">Volat na číslo Telex</string>
@@ -194,6 +197,7 @@
   <string name="contactPickerActivityTitle">Vyberte kontakt</string>
   <string name="contactSavedErrorToast">Chyba, změny nelze uložit.</string>
   <string name="contactSavedToast">Kontakt uložen</string>
+  <string name="contact_clear_search_history">Vymazat historii</string>
   <string name="contact_delete_toast">Kontakt úspěšně vymazaný</string>
   <string name="contact_detail_action_item_calllog">Historie</string>
   <string name="contact_detail_action_item_nocalllog">Žádná historie</string>
@@ -238,6 +242,7 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="contact_list_loading">Načítání...</string>
   <string name="contact_pick_photo">Fotografie</string>
   <string name="contact_read_only">Nelze upravit na tomto zařízení.</string>
+  <string name="contact_search_history">Historie</string>
   <string name="contact_status_update_attribution">přes %1$s</string>
   <string name="contact_status_update_attribution_with_date">%1$s přes %2$s</string>
   <string name="contact_unfavorite_toast">Kontakt byl odebrán z oblíbených</string>
@@ -292,7 +297,10 @@ Karty kontaktu jsou deaktivovány"</string>
   <string name="description_add_contact">Přidat kontakt</string>
   <string name="description_call">Volat %1$s</string>
   <string name="description_call_log_incoming_call">Příchozí hovor</string>
+  <string name="description_call_log_incoming_forwarding_call">Příchozí přesměrovaný hovor</string>
   <string name="description_call_log_missed_call">Zmeškaný hovor</string>
+  <string name="description_call_log_missed_forwarding_call">Zmeškaný přesměrovaný hovor</string>
+  <string name="description_call_log_new_contact">Nový kontakt</string>
   <string name="description_call_log_outgoing_call">Odchozí hovor</string>
   <string name="description_call_log_play_button">Přehrát hlasovou schránku</string>
   <string name="description_call_log_unheard_voicemail">Nevyzvednutý vzkaz</string>
@@ -721,6 +729,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_nick_name_edit_dialog_hint">Zadejte přezdívku</string>
   <string name="miprofile_nick_name_edit_dialog_message">Přezdívka se zobrazí při volání a info o kontaktu</string>
   <string name="miprofile_nick_name_edit_dialog_title">Upravit přezdívku</string>
+  <string name="miprofile_notice_close">Zavřít</string>
   <string name="miprofile_notice_text">Dotkněte se fotografie kontaktu</string>
   <string name="miprofile_request_agenda_date">%1$s si chce s vámi vyměnit kartu kontaktu</string>
   <string name="miprofile_request_agenda_today">%1$s si chce s vámi vyměnit kartu kontaktu</string>
@@ -977,6 +986,9 @@ Synchronizujte je nyní."</string>
   <string name="preview_incall_show_entry">Náhled videa</string>
   <string name="previous">Zpět</string>
   <string name="private_num">Soukromé číslo</string>
+  <string name="profileSavedErrorToast">Nelze uložit změny</string>
+  <string name="profileSavedToast">Změny nebyly uloženy</string>
+  <string name="profile_delete_toast">Profil vymazán</string>
   <string name="profile_display_name">Nastavit můj profil</string>
   <string name="profile_name">Můj profil</string>
   <string name="profile_name_photo">Fotografie</string>
@@ -1272,16 +1284,4 @@ Vyberte si z následujících možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nic není vybráno</string>
-  <string name="profileSavedErrorToast">Nelze uložit změny</string>
-  <string name="profileSavedToast">Změny nebyly uloženy</string> 
-  <string name="accessibility_contact_detail">Podrobnosti</string>
-   <string name="call_sim1_description">SIM 1</string>
-   <string name="call_sim2_description">SIM 2</string>
-   <string name="contact_clear_search_history">Vymazat historii</string>
-   <string name="contact_search_history">Historie</string>
-   <string name="description_call_log_incoming_forwarding_call">Příchozí přesměrovaný hovor</string>
-   <string name="description_call_log_missed_forwarding_call">Zmeškaný přesměrovaný hovor</string>
-   <string name="description_call_log_new_contact">Nový kontakt</string>
-   <string name="miprofile_notice_close">Zavřít</string>
-   <string name="profile_delete_toast">Profil vymazán</string> 
 </resources>

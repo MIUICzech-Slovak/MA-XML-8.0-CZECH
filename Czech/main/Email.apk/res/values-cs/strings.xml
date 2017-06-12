@@ -218,6 +218,7 @@
   <string name="calendar_remind_gridview_pick_date">Vybrat datum</string>
   <string name="cancel">Zrušit</string>
   <string name="cancel_action">Zrušit</string>
+  <string name="cancel_pop3_attchemt_downloading">Zrušení stahování příloh není podporováno v POP3 protokolu.</string>
   <string name="cant_move_or_change_labels">Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů.</string>
   <string name="cc">Kopie</string>
   <string name="cc_attribution">Kopie: %1$s</string>
@@ -872,5 +873,4 @@ Chcete-li poštu jednou synchronizovat, dotkněte se položky "Synchronizovat". 
   <string name="you_are_in_mobile_network">Používáte mobilní datové připojení.</string>
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žádné soubory!</string>
-  <string name="cancel_pop3_attchemt_downloading">Zrušení stahování příloh není podporováno v POP3 protokolu.</string>
 </resources>

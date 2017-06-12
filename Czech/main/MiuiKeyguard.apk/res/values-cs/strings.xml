@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Dotykem otevřete galerii tapet</string>
-  <string name="custom_lock_wallpaper_enter">Zadat</string>
-     <string name="lock_wallpaper_enter">Otevřít</string>
-     <string name="lock_wallpaper_learn_more">Více</string>
   <string name="click_to_enter_text">Dotykem odemkněte</string>
   <string name="confirm_pin_msg">Zadejte PIN znovu</string>
+  <string name="custom_lock_wallpaper_enter">Zadat</string>
   <string name="default_lockscreen_unlock_hint_text">Posuňte nahoru</string>
   <string name="delete">Vymazat</string>
   <string name="emergency_call_string">SOS</string>
@@ -42,10 +40,41 @@
   <string name="invalid_confirm_pin_hint">PIN kód nesouhlasí</string>
   <string name="invalid_sim_pin_hint">Zadajte PIN, který má 4 až 8 čísel</string>
   <string name="invalid_sim_puk_hint">PUK kód by měl mít 8 a více čísel</string>
+  <string name="keyguard_charging_info_battery_temperature_text">Teplota baterie</string>
+  <string name="keyguard_charging_info_battery_used_time_text">Na baterii</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">%d h do nabití</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">%d min do nabití​</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%d h %d min do nabití</string>
+  <string name="keyguard_charging_info_charging_text">Nabíjení</string>
+  <string name="keyguard_charging_info_charging_voltage_text">Napětí</string>
+  <string name="keyguard_charging_info_click_to_detail">Podrobnosti</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Zbývá %d h</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Zbývá %d min</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Zbývá %dh %d min</string>
+  <string name="keyguard_charging_info_current_now_text">Proud</string>
+  <string name="keyguard_charging_info_drained_hour_time_format">%d h</string>
+  <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+  <string name="keyguard_charging_info_drained_power_percent_text">Vybito</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d h %d min</string>
+  <string name="keyguard_charging_info_finished_charging_text">Nabito</string>
+  <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
+  <string name="keyguard_charging_info_last_charge_today_time">Dnes %s</string>
+  <string name="keyguard_charging_info_last_charge_yesterday_time">Včera %s</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Poslední nabíjení</string>
+  <string name="keyguard_charging_info_tip_text1">Pro prodloužení životnosti baterie ji nenechávejte klesnout pod 10%.</string>
+  <string name="keyguard_charging_info_tip_text2">Nepřebíjejte vaše zařízení. Častější nabíjení je lepší, než nabíjení přes celou noc.</string>
+  <string name="keyguard_charging_info_tip_text3">Vyhněte se nabíjení při okolní teplotě 0℃.</string>
+  <string name="keyguard_charging_info_tip_text4">Nezatěžujte zařízení, když je připojené k nabíječce. Omezíte tak jeho příhřívání.</string>
+  <string name="keyguard_charging_info_tip_text5">Baterie se nabíjí déle, když má vyšší teplotu.</string>
+  <string name="keyguard_charging_info_tip_text6">Vypněte displej a nechte zařízení vychladnout.</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Zobrazit podrobnosti</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Rychlonabíjení</string>
   <string name="keyguard_torch_cover_text"> Pro delší svícení stiskněte tlačítko zapínání.</string>
   <string name="left_action_default_hint_text">MiRemote</string>
   <string name="lock_screen_date">EEEE d. MMMM</string>
   <string name="lock_screen_date_12">EEEE, dd.MM.</string>
+  <string name="lock_wallpaper_enter">Otevřít</string>
+  <string name="lock_wallpaper_learn_more">Více</string>
   <string name="lock_wallpaper_see_more">Zjistit více &gt;</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka byla přidána</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostní vzor byl vymazán</string>
@@ -86,33 +115,4 @@
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
-  <string name="keyguard_charging_info_battery_temperature_text">Teplota baterie</string>
-   <string name="keyguard_charging_info_battery_used_time_text">Na baterii</string>
-   <string name="keyguard_charging_info_charging_full_need_hour_time__text">%d h do nabití</string>
-   <string name="keyguard_charging_info_charging_full_need_min_time__text">%d min do nabití​</string>
-   <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%d h %d min do nabití</string>
-   <string name="keyguard_charging_info_charging_text">Nabíjení</string>
-   <string name="keyguard_charging_info_charging_voltage_text">Napětí</string>
-   <string name="keyguard_charging_info_click_to_detail">Podrobnosti</string>
-   <string name="keyguard_charging_info_could_use_hour_time_text">Zbývá %d h</string>
-   <string name="keyguard_charging_info_could_use_min_time_text">Zbývá %d min</string>
-   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Zbývá %dh %d min</string>
-   <string name="keyguard_charging_info_current_now_text">Proud</string>
-   <string name="keyguard_charging_info_drained_hour_time_format">%d h</string>
-   <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
-   <string name="keyguard_charging_info_drained_power_percent_text">Vybito</string>
-   <string name="keyguard_charging_info_drained_time_format" formatted="false">%d h %d min</string>
-   <string name="keyguard_charging_info_finished_charging_text">Nabito</string>
-   <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
-   <string name="keyguard_charging_info_last_charge_today_time">Dnes %s</string>
-   <string name="keyguard_charging_info_last_charge_yesterday_time">Včera %s</string>
-   <string name="keyguard_charging_info_last_charged_time_text">Poslední nabíjení</string>
-   <string name="keyguard_charging_info_tip_text1">Pro prodloužení životnosti baterie ji nenechávejte klesnout pod 10%.</string>
-   <string name="keyguard_charging_info_tip_text2">Nepřebíjejte vaše zařízení. Častější nabíjení je lepší, než nabíjení přes celou noc.</string>
-   <string name="keyguard_charging_info_tip_text3">Vyhněte se nabíjení při okolní teplotě 0℃.</string>
-   <string name="keyguard_charging_info_tip_text4">Nezatěžujte zařízení, když je připojené k nabíječce. Omezíte tak jeho příhřívání.</string>
-   <string name="keyguard_charging_info_tip_text5">Baterie se nabíjí déle, když má vyšší teplotu.</string>
-   <string name="keyguard_charging_info_tip_text6">Vypněte displej a nechte zařízení vychladnout.</string>
-   <string name="keyguard_quick_charging_info_click_to_detail">Zobrazit podrobnosti</string>
-   <string name="keyguard_quickly_charging_info_charging_text">Rychlonabíjení</string>  
 </resources>

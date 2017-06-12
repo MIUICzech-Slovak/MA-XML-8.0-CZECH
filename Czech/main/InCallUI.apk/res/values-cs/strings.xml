@@ -227,6 +227,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Načítání kontaktu...</string>
   <string name="private_num">Soukromé číslo</string>
+  <string name="remind_unlock_message">Vaše zařízení je uzamčeno. \"%s\" bude dostupné až po odblokování zařízení. Odblokovat?</string>
   <string name="respond_via_sms_custom_message">Vlastní zpráva...</string>
   <string name="select_audio_dialog_title">Vyberte režim odpovědi</string>
   <string name="select_one_sim_title">Je možné použít jen SIM %1$d</string>
@@ -236,6 +237,7 @@
   <string name="sip_call_not_support_record">SIP hovor nepodporuje nahrávání</string>
   <string name="suspect_info">Nedůvěryhodný hovor</string>
   <string name="unknown">Neznámé</string>
+  <string name="unlock_phone">Odemknout zařízení</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Vypněte TTY režim</string>
   <string name="video_conference_caller_info_name">Video konference %1$s</string>
@@ -244,6 +246,4 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
-  <string name="remind_unlock_message">Vaše zařízení je uzamčeno. \"%s\" bude dostupné až po odblokování zařízení. Odblokovat?</string>
-   <string name="unlock_phone">Odemknout zařízení</string>
 </resources>

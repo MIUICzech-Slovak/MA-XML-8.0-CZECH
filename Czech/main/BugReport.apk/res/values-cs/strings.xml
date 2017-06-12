@@ -4,13 +4,6 @@
   <string name="action_submit">Odeslat</string>
   <string name="announcement">Upozornění</string>
   <string name="app_empty">Nestáhli jste žádnou aplikaci</string>
-  <string name="feedback_status_forum_reply">Odpovědět</string>
-     <string name="feedback_status_supplement_more">Přidat komentář</string>
-     <string name="feedback_third_packagename_hint">Která doinstalovaná aplikace způsobuje problémy?</string>
-     <string name="permission_granted">Získaná povolení %1$s</string>
-     <string name="time_in_justnow">Přávě nyní</string>
-     <string name="title_bbs_feedback_main">Více o Mi telefonech</string>
-     <string name="toast_third_packagename_required">Zadejte název aplikace</string>
   <string name="app_label">Hlášení chyb</string>
   <string name="app_name">Hlášení chyb</string>
   <string name="btn_send">Odeslat</string>
@@ -90,6 +83,7 @@
   <string name="feedback_status_commit_failed_title">Nelze odeslat hlášení</string>
   <string name="feedback_status_commit_succ_title">Odesláno</string>
   <string name="feedback_status_commit_uploading_title">Odesílání…</string>
+  <string name="feedback_status_forum_reply">Odpovědět</string>
   <string name="feedback_status_jira_comment">Přidat komentář</string>
   <string name="feedback_status_more">Podrobnosti</string>
   <string name="feedback_status_processing">Zpracovávání…</string>
@@ -97,6 +91,7 @@
   <string name="feedback_status_replyed">Odpovězeno</string>
   <string name="feedback_status_reresolved">Vyřešeno</string>
   <string name="feedback_status_supplement">Podrobně popište svůj problém</string>
+  <string name="feedback_status_supplement_more">Přidat komentář</string>
   <string name="feedback_submit_failed_notification_desc">Zobrazit podrobnosti</string>
   <string name="feedback_submit_failed_notification_retry">Znovu odeslat</string>
   <string name="feedback_submit_failed_notification_title">Nelze odeslat hlášení</string>
@@ -107,6 +102,7 @@
   <string name="feedback_submit_succ_button">Hotovo</string>
   <string name="feedback_submitting">Odesílání…</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s návrh \"%2$s\"</string>
+  <string name="feedback_third_packagename_hint">Která doinstalovaná aplikace způsobuje problémy?</string>
   <string name="feedback_title">Název</string>
   <string name="feedback_title_hint">Stručně popište svůj problém</string>
   <string name="feedback_tracking">Problémy se sledováním</string>
@@ -229,6 +225,7 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Více</string>
   <string name="packaging_dialog_content">Generuje se hlášení, čekejte prosím…</string>
+  <string name="permission_granted">Získaná povolení %1$s</string>
   <string name="pic_not_exist">Tento obrázek neexistuje</string>
   <string name="pic_view_format">%1$s\"/\"%2$s</string>
   <string name="plus_one_submit_dialog_content">Vaše zpětná vazba společně s protokoly chyb bude odeslána na servery Mi.</string>
@@ -263,7 +260,9 @@
   <string name="tab_title_chat">Časté dotazy</string>
   <string name="tab_title_my_reports">Moje hlášení</string>
   <string name="tab_title_report">Zpětná vazba</string>
+  <string name="time_in_justnow">Přávě nyní</string>
   <string name="title_answer_feedback_main">Našli jsme odpovědi!</string>
+  <string name="title_bbs_feedback_main">Více o Mi telefonech</string>
   <string name="title_frequent_question_feedback_main">Časté dotazy</string>
   <string name="title_mi_family">Mi Home v okolí</string>
   <string name="title_nonsystem_app">Jiné apl.</string>
@@ -285,6 +284,7 @@
   <string name="toast_report_copied_to_clipboard">Hlášení zkopírováno do schránky</string>
   <string name="toast_report_sent_failed">Odeslání hlášení selhalo</string>
   <string name="toast_report_sent_succeed">Hlášení chyb bylo odesláno</string>
+  <string name="toast_third_packagename_required">Zadejte název aplikace</string>
   <string name="toast_title_required">Popište svůj problém</string>
   <string name="topic_author">1#</string>
   <string name="try_again">Zkusit znovu</string>

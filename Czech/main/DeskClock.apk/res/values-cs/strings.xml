@@ -3,8 +3,6 @@
   <string name="add_alarm">Přidat</string>
   <string name="alarm_alert">Zvonění budíku</string>
   <string name="alarm_alert_alert_silenced">Budík ztišen na dobu %d min.</string>
-  <string name="alarm_settings_category_title">Nastavení budíku</string>
-     <string name="system_time_settings_category_title">Nastavení času</string>
   <string name="alarm_alert_snooze_set">Odložit o %d min.</string>
   <string name="alarm_ascending_mode_summary">Hlasitost budíku postupně vzrůstá až do max. výše nastavené hlasitosti.</string>
   <string name="alarm_ascending_mode_title">Vzrůstající hlasitost</string>
@@ -18,6 +16,7 @@
   <string name="alarm_repeat">Opakovat</string>
   <string name="alarm_screen">Styl budíku</string>
   <string name="alarm_settings">Nastavení budíků</string>
+  <string name="alarm_settings_category_title">Nastavení budíku</string>
   <string name="alarm_vibrate">Vibrace</string>
   <string name="alarm_volume_summary">Nastavení hlasitostí Budíků a Časovačů</string>
   <string name="alarm_volume_title">Hlasitost budíku</string>
@@ -113,6 +112,7 @@
   <string name="stopwatch_lap_empty_text">Žádné kolo</string>
   <string name="stopwatch_title">Stopky</string>
   <string name="system_time_setting">Nastavení</string>
+  <string name="system_time_settings_category_title">Nastavení času</string>
   <string name="time">Čas</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotykem ukončíte vyzvánění</string>

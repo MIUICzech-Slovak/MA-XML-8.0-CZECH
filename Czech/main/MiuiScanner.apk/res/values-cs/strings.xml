@@ -2,13 +2,12 @@
 <resources>
   <string name="accept">OK</string>
   <string name="access_sd_fail">Není přístup na SD kartu</string>
-  <string name="app_description_content">Skener může načíst QR kódy, vizitky a dokumenty.</string>
-     <string name="app_description_title">O skeneru</string>
-     <string name="study_rotate_picture">Zpracovávání...</string>
   <string name="accessibility_shutter_button">Spoušť</string>
   <string name="action_search">Vyhledat</string>
   <string name="address">"Adresa: "</string>
   <string name="allow_check_website_security">Zkontrolovat bezpečnost odkazů na web</string>
+  <string name="app_description_content">Skener může načíst QR kódy, vizitky a dokumenty.</string>
+  <string name="app_description_title">O skeneru</string>
   <string name="app_details">"Apl.: "</string>
   <string name="app_name">Skener</string>
   <string name="back">Zpět</string>
@@ -136,6 +135,7 @@
   <string name="shopping_title">Vyfoťte produkt</string>
   <string name="shopping_vendor_info">Technická podpora od Taobao</string>
   <string name="spaceIsLow_content">Není dostatek volného místa na SD kartě.</string>
+  <string name="study_rotate_picture">Zpracovávání...</string>
   <string name="study_scan_result">Výsledek</string>
   <string name="study_searching">Vyhledávání...</string>
   <string name="study_title">Take a photo of the problem</string>

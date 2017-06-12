@@ -1,8 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakt na SIM kartě</string>
-  <string name="phone_accounts_settings_header">Nastavení</string>
-     <string name="volte_switch_not_support_summary">VoLTE hovory nejsou podporovány na datové SIM kartě.</string>
   <string name="accessibility_settings_activity_title">Dostupnost</string>
   <string name="account_changed_title">Účet změněn</string>
   <string name="active_phone_fail_nochoice">"Nelze ověřit SIM kartu"</string>
@@ -732,6 +730,7 @@
   <string name="new_pin_label">Nový PIN</string>
   <string name="new_sim_detected">Zjištěna nová SIM karta:</string>
   <string name="no_change">Nebyly provedeny žádné změny.</string>
+  <string name="no_checked_network">Nebude možné se připojit k mobilní síti. Vybrat jinou síť?"</string>
   <string name="no_internet_available">Chcete-li uskutečnit internetové volání, nejprve zkontrolujte Vaše internetové připojení.</string>
   <string name="no_internet_available_title">Chybí internetové připojení</string>
   <string name="no_number">Žádné telefonní číslo</string>
@@ -838,6 +837,7 @@ Může to trvat i 5 min."</string>
   <string name="phone_accounts_make_calls_with">Volat s</string>
   <string name="phone_accounts_make_sip_calls_with">SIP hovory s</string>
   <string name="phone_accounts_selection_header">Účty telefonu</string>
+  <string name="phone_accounts_settings_header">Nastavení</string>
   <string name="phone_entered_ecm_text">Byl aktivován režim tísňového zpětného volání</string>
   <string name="phone_in_ecm_call_notification_text">Datové spojení zakázáno</string>
   <string name="phone_in_ecm_notification_title">Režim tísňového zpětného volání</string>
@@ -1257,6 +1257,7 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="volte_provision_notification_activate">Aktivovat</string>
   <string name="volte_provision_text">Detekce VoLTE na vaší SIM není podporována, chcete jej aktivovat?</string>
   <string name="volte_provision_title">Povolit VoLTE</string>
+  <string name="volte_switch_not_support_summary">VoLTE hovory nejsou podporovány na datové SIM kartě.</string>
   <string name="volte_switch_summary">Použít VoLTE pro zlepšení kvality hlasu</string>
   <string name="volte_switch_title">Povolit VoLTE</string>
   <string name="wait_prompt_str">"Odeslat následující tóny?
@@ -1277,5 +1278,4 @@ Počet dní do začátku dalšího období: %2$d (%3$s)"</string>
   <string name="xdivert_setting">Nastavení X-Divert</string>
   <string name="xdivert_summary">Nastavení CFNRc</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="no_checked_network">Nebude možné se připojit k mobilní síti. Vybrat jinou síť?"</string>  
 </resources>

@@ -22,6 +22,7 @@
   <string name="activity_weathermain_locationg">Získávání polohy...</string>
   <string name="activity_weathermain_locationg_error">Zjištění polohy selhalo</string>
   <string name="add_city">Přidat město</string>
+  <string name="alert_detail_title">Podrobnosti</string>
   <string name="alert_warning">Varování</string>
   <string name="app_name">Počasí</string>
   <string name="button_abandon">Zrušit změny</string>
@@ -32,6 +33,7 @@
   <string name="button_not_allow">Zrušit</string>
   <string name="button_sure_abandon">Zrušit změny?</string>
   <string name="change_alert">Zkontrolujte nastavení sítě a zkuste to znovu</string>
+  <string name="city_exceeded_warning">Můžete přidat max. 10 míst</string>
   <string name="close">Zavřít</string>
   <string name="common_loading_text">Načítání...</string>
   <string name="connect_fail">Špatné připojení. Zkuste to později.</string>
@@ -149,6 +151,4 @@ Zadejte město manuálně"</string>
   <string name="view_indexes_item_tommorrow">Zítra</string>
   <string name="weather_alert">Varování</string>
   <string name="wind_direction_no_data">Vítr</string>
-  <string name="alert_detail_title">Podrobnosti</string>
-  <string name="city_exceeded_warning">Můžete přidat max. 10 míst</string>
 </resources>

@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_info">Můj účet</string>
-  <string name="resource_purchase_common_error">Operace selhala, zkuste to znovu později.</string>
-     <string name="resource_purchase_continue_to_pay">Pokračovat pro zaplacení %s</string>
-     <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
   <string name="account_name_not_login">Přihlásit se</string>
   <string name="account_unactivated">Účet není aktivován.</string>
   <string name="add_resource_detail_fail">Nelze přidat zdroje</string>
@@ -260,8 +257,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Zdarma</string>
   <string name="resource_price_unit">" MiKreditů "</string>
+  <string name="resource_purchase_common_error">Operace selhala, zkuste to znovu později.</string>
+  <string name="resource_purchase_continue_to_pay">Pokračovat pro zaplacení %s</string>
   <string name="resource_purchase_getting_order">Načítání info. o objednávce...</string>
   <string name="resource_purchase_verifying_payment">Ověřování info. o platbě...</string>
+  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
   <string name="resource_purchase_waiting_payment">Čekání na info. o platbě...</string>
   <string name="resource_ranking">Populární</string>
   <string name="resource_ranking_free">Zdarma</string>

@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_folder_description">Složky</string>
+  <string name="action_mode_switcher_grid_description">Mřížka</string>
+  <string name="action_mode_switcher_list_description">Seznam</string>
+  <string name="action_settings_description">Nastavení</string>
   <string name="add_account_desc">Poznámky se mohou synchronizovat s Vaším účtem Mi. Chcete se přihlásit?</string>
-  <string name="note_description_content">Aplikace Poznámky slouží k vytváření poznámek a nákupních seznamů.</string>
-     <string name="note_description_title">O poznámkách</string>
   <string name="alarm_bar_title">Upozornění</string>
   <string name="alert_action_edit_anyway">Pokračovat</string>
   <string name="alert_edit_action_delete">Odstranit</string>
@@ -25,6 +27,7 @@
   <string name="button_new_note">Nová poznámka</string>
   <string name="call_folder_name">Poznámky hovorů</string>
   <string name="call_record_folder_name">Seznam volání</string>
+  <string name="cancel_alarm_description">Zrušit upozornění</string>
   <string name="cloud_trash_bin_title">Vymazat poznámky z MiCloud</string>
   <string name="cta_reminder">Tato aplikace vyžaduje připojení na internet pro zálohování na Mi Cloud a přístup ke kontaktům.</string>
   <string name="default_folder_name">Poznámky</string>
@@ -53,6 +56,8 @@
   <string name="dlg_unhide_message">Odkrývání...</string>
   <string name="dlg_unmark_privacy_message">Odkrývání...</string>
   <string name="done">Hotovo</string>
+  <string name="edit_header_done_description">Hotovo</string>
+  <string name="edit_header_home_description">Zpět</string>
   <string name="empty_folder_hint">"Žádná složka"</string>
   <string name="empty_note_mark_privacy_error">Prázdná poznámka nemůže být soukromá</string>
   <string name="enable_sync">Synchr.</string>
@@ -78,7 +83,9 @@
   <string name="info_note_enter_desktop">Poznámka byla přidána na plochu</string>
   <string name="loading_text">Načítání...</string>
   <string name="login_sync">Přihlášení a synchr.</string>
+  <string name="menu_add_description">Nová</string>
   <string name="menu_add_folder">Přidat do složky</string>
+  <string name="menu_add_folder_description">Složka</string>
   <string name="menu_create_folder">Nová složka</string>
   <string name="menu_delete">Odstranit</string>
   <string name="menu_delete_forever">Vymazat natrvalo</string>
@@ -102,6 +109,8 @@
   <string name="menu_unstick">Odepnout</string>
   <string name="not_now">Nyní ne</string>
   <string name="note_alert_expired">Prošlá</string>
+  <string name="note_description_content">Aplikace Poznámky slouží k vytváření poznámek a nákupních seznamů.</string>
+  <string name="note_description_title">O poznámkách</string>
   <string name="note_link_email">Napsat e-mail</string>
   <string name="note_link_other">Otevřít mapy</string>
   <string name="note_link_select">Vybrat text</string>
@@ -136,6 +145,7 @@
   <string name="search_label">Hledat</string>
   <string name="search_setting_description">Vyhledá text v poznámkách</string>
   <string name="select_account_prompt">Povolit synchronizaci poznámek</string>
+  <string name="set_alarm_description">Upozornění</string>
   <string name="sina_share_fail">Odesílání selhalo</string>
   <string name="sina_share_fail_content_repeat">"Nelze sdílet, obsah již existuje..."</string>
   <string name="sina_share_pendding">Odesílání...</string>
@@ -161,6 +171,9 @@
   <string name="sns_toast_empty">Prázdnou zprávu nelze odeslat</string>
   <string name="sns_toast_over_limit">Odeslat jako obrázek</string>
   <string name="sync_tips">Dotykem synchr. poznámky s MiCloud.</string>
+  <string name="theme_blue_description">Modrá</string>
+  <string name="theme_green_description">Zelená</string>
+  <string name="theme_red_description">Červená</string>
   <string name="theme_title_antique">Podzim</string>
   <string name="theme_title_arty">Květy</string>
   <string name="theme_title_blue">Modrá</string>
@@ -172,6 +185,8 @@
   <string name="theme_title_red">Červená</string>
   <string name="theme_title_star">Hvězdy</string>
   <string name="theme_title_yellow">Žlutá</string>
+  <string name="theme_white_description">Bílá</string>
+  <string name="theme_yellow_description">Žlutá</string>
   <string name="toast_folder_privacy_mode">V Chráněném režimu nelze upravovat složky</string>
   <string name="toast_mark_privacy_notes">Skryto</string>
   <string name="toast_mark_privacy_notes_count">Skryto %1$s</string>
@@ -188,6 +203,14 @@
   <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky zkrácen, protože je příliš dlouhý."</string>
   <string name="toast_unmark_privacy_notes">Odkryto</string>
   <string name="toast_unmark_privacy_notes_count">Označení %1$s jako běžná poznámka, proběhlo úspěšné.</string>
+  <string name="toolbar_check_description">Zaškrtávací políčko</string>
+  <string name="toolbar_delete_description">Vymazat tuto poznámku</string>
+  <string name="toolbar_gallery_description">Přidat obrázek</string>
+  <string name="toolbar_more_description">Více</string>
+  <string name="toolbar_redo_description">Znovu</string>
+  <string name="toolbar_share_description">Sdílet</string>
+  <string name="toolbar_theme_description">Téma</string>
+  <string name="toolbar_undo_description">Zpět</string>
   <string name="trash_folder_name">Koš</string>
   <string name="trash_folder_reminder">Poznámky, které vymažete, budou trvale odstraněny za 30 dní.</string>
   <string name="undo">Zpět</string>
@@ -202,27 +225,4 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítání...</string>
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
-  <string name="action_folder_description">Složky</string>
-   <string name="action_mode_switcher_grid_description">Mřížka</string>
-   <string name="action_mode_switcher_list_description">Seznam</string>
-   <string name="action_settings_description">Nastavení</string>
-   <string name="cancel_alarm_description">Zrušit upozornění</string>
-   <string name="edit_header_done_description">Hotovo</string>
-   <string name="edit_header_home_description">Zpět</string>
-   <string name="menu_add_description">Nová</string>
-   <string name="menu_add_folder_description">Složka</string>
-   <string name="set_alarm_description">Upozornění</string>
-   <string name="theme_blue_description">Modrá</string>
-   <string name="theme_green_description">Zelená</string>
-   <string name="theme_red_description">Červená</string>
-   <string name="theme_white_description">Bílá</string>
-   <string name="theme_yellow_description">Žlutá</string>
-   <string name="toolbar_check_description">Zaškrtávací políčko</string>
-   <string name="toolbar_delete_description">Vymazat tuto poznámku</string>
-   <string name="toolbar_gallery_description">Přidat obrázek</string>
-   <string name="toolbar_more_description">Více</string>
-   <string name="toolbar_redo_description">Znovu</string>
-   <string name="toolbar_share_description">Sdílet</string>
-   <string name="toolbar_theme_description">Téma</string>
-   <string name="toolbar_undo_description">Zpět</string> 
 </resources>

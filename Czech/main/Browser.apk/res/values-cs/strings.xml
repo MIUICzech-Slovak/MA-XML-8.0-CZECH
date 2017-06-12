@@ -3,7 +3,6 @@
   <string name="abc_action_bar_home_description">Domů</string>
   <string name="abc_action_bar_up_description">Nahoru</string>
   <string name="abc_action_menu_overflow_description">Více</string>
-       <string name="pref_extras_send_feedback">Zpětná vazba</string>
   <string name="abc_action_mode_done">Hotovo</string>
   <string name="abc_action_mode_select_all">Vše</string>
   <string name="accept_cookies_confirm_message">Deaktivování této funkce může způsobit nesprávné fungování webstránek.</string>
@@ -72,6 +71,7 @@
   <string name="add_to_quicklink">Přidat na úvodní stránku</string>
   <string name="added_to_bookmarks">Přidáno do záložek.</string>
   <string name="adjust_text_zoom_toast">Změna velikosti textu může způsobit nesprávné zobrazení některých web stránek</string>
+  <string name="agree">Souhlasím</string>
   <string name="alert_tips">Tato stránka může ohrozit Vaši bezpečnost a soukromí, buďte opatrní!</string>
   <string name="allow">Povolit</string>
   <string name="app_new_version">Poslední verze aplikace již je nainstalována</string>
@@ -121,6 +121,8 @@
   <string name="browserFrameNetworkErrorLabel">Problém s připojením</string>
   <string name="cancel">Zrušit</string>
   <string name="cannot_download">Je možné stáhnout jen \"http\" nebo \"https\" URL.</string>
+  <string name="check_permission_of_current_location">Info o aktuální poloze</string>
+  <string name="check_permission_of_current_url">URL stránek, které jste navštívili</string>
   <string name="choosertitle_sharevia">Sdílet přes</string>
   <string name="clear_history">Vymazat historii</string>
   <string name="clear_most_visited">Historie</string>
@@ -183,6 +185,7 @@
   <string name="contextmenu_savelink">Uložit odkaz</string>
   <string name="contextmenu_send_mail">Poslat e-mail</string>
   <string name="contextmenu_set_wallpaper">Nastavit jako pozadí</string>
+  <string name="contextmenu_share_image">Sdílet obrázek</string>
   <string name="contextmenu_sharelink">Sdílet odkaz</string>
   <string name="contextmenu_view_image">Zobrazit obrázek</string>
   <string name="contextmenu_webpage_capture">Uložit jako screenshot</string>
@@ -287,6 +290,7 @@
   <string name="error_not_acceptable">Synchr. byla deaktivována.</string>
   <string name="error_title">Nebylo možné synchr.</string>
   <string name="error_unauthorized">Synchr. byla deaktivována z důvodu mnoho pokusů o přihlášení.</string>
+  <string name="exit">Ukončit</string>
   <string name="exit_browser_warning">Ukončit prohlížeč?</string>
   <string name="file_dir">Umístění</string>
   <string name="file_name">"Název: "</string>
@@ -476,6 +480,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="older">Starší</string>
   <string name="open_app_confirm_message">Povolit této stránce otevřít %s?</string>
   <string name="open_file_explorer_failed">Nelze otevřít aplikaci Soubory</string>
+  <string name="open_voice_permission">Open voice networking permission</string>
   <string name="opening_file_error">Otevírání souboru selhalo</string>
   <string name="page_info">Informace o stránce</string>
   <string name="page_info_address">Adresa:</string>
@@ -501,7 +506,9 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
   <string name="pref_category_hint">Kategorie</string>
   <string name="pref_check_security_url_summary">Odeslat URL stránky na Mi server pro ověření bezpečnosti</string>
+  <string name="pref_check_security_url_summary_international">For providing a better referral service, allow the browser to get your access URL</string>
   <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
+  <string name="pref_check_security_url_title_international">Získať URL</string>
   <string name="pref_clear_adblock_statistics">Vymazat statistiky Adblock</string>
   <string name="pref_clear_adblock_statistics_dlg">Vymazat všechny statistiky Adblock?</string>
   <string name="pref_clear_all_data_dlg">Vymazat všechna data?</string>
@@ -526,6 +533,7 @@ Chcete opustit tuto stránku?"</string>
   <string name="pref_extras_reset_default_dlg">Opravdu chcete obnovit výchozí nastavení?</string>
   <string name="pref_extras_reset_default_summary">Obnovit výchozí nastavení</string>
   <string name="pref_extras_reset_default_title">Výchozí nastavení</string>
+  <string name="pref_extras_send_feedback">Zpětná vazba</string>
   <string name="pref_extras_title">Pokročilé</string>
   <string name="pref_extras_title_version">Verze</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Obnovit výchozí nastavení pro ukládání souborů?</string>
@@ -665,6 +673,8 @@ Chcete opustit tuto stránku?"</string>
   <string name="save_to_camera">Uložit do galerie</string>
   <string name="save_to_camera_failed">Ukládání selhalo</string>
   <string name="save_to_camera_success">Uloženo</string>
+  <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
+  <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
   <string name="sdcard_error">Zkontrolujte stav SD karty</string>
   <string name="search">Vyhledávání</string>
   <string name="search_baidu">Baidu</string>
@@ -698,8 +708,10 @@ Chcete opustit tuto stránku?"</string>
   <string name="send_comment_title">Komentář</string>
   <string name="senddesktop">Plochu</string>
   <string name="sendstartpage">Úvodní stránku</string>
+  <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
   <string name="share_page_text">【%1$s】| %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL adresa této stránky bude odeslána na server Mi pro kontrolu její bezpečnosti. Toto nastavení můžete kdykoliv změnit v nastavení prohlížeče.</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Pro poskytování přesnějších doporučení je vyžadován přístup k následujícím oprávněním:</string>
   <string name="show_security_tip_dialog_title">Podmínky používání</string>
   <string name="show_weather_location_getter_tip_dialog_description">Služba pro předpověď počasí potřebuje vaši polohu pro její správné fungování.</string>
   <string name="sign_in_to" formatted="false">Přihlásit k %s1 \"%s2\"</string>
@@ -840,6 +852,11 @@ Chcete opustit tuto stránku?"</string>
   <string name="video_unknown_duration">Neznámé</string>
   <string name="view_certificate">Zobrazit certifikát</string>
   <string name="view_document_downloaded_files">Zobrazit stažené aplikace ve Správci stahování</string>
+  <string name="voice_check_network">Please check the network and try again</string>
+  <string name="voice_connect_network">Unable to connect to network</string>
+  <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
+  <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
+  <string name="voice_semantic_analysis">Semantic analysis after networking</string>
   <string name="voice_sub_title">"Nevíte co říct? Zkuste otevřít mi.com!"</string>
   <string name="voice_title">Vyslovte váš příkaz...</string>
   <string name="voice_title_distinguish">Zpracovává se...</string>
@@ -853,21 +870,4 @@ Chcete opustit tuto stránku?"</string>
   <string name="webview_find_on_page">Najít na stránce</string>
   <string name="webviewchromium_private_browsing_warning">Tato funkce není podporována vaší verzí Androidu.</string>
   <string name="week_picker_dialog_title">Nastavit týden</string>
-  <string name="check_permission_of_current_location">Info o aktuální poloze</string>
-   <string name="check_permission_of_current_url">URL stránek, které jste navštívili</string>
-   <string name="contextmenu_share_image">Sdílet obrázek</string>
-   <string name="open_voice_permission">Open voice networking permission</string>
-   <string name="pref_check_security_url_summary_international">For providing a better referral service, allow the browser to get your access URL</string>
-   <string name="pref_check_security_url_title_international">Získať URL</string>
-   <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
-   <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
-   <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
-   <string name="show_check_security_url_check_tip_dialog_description_international">Pro poskytování přesnějších doporučení je vyžadován přístup k následujícím oprávněním:</string>
-   <string name="voice_check_network">Please check the network and try again</string>
-   <string name="voice_connect_network">Unable to connect to network</string>
-   <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
-   <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
-   <string name="voice_semantic_analysis">Semantic analysis after networking</string> 
-   <string name="agree">Souhlasím</string>
-   <string name="exit">Ukončit</string> 
 </resources>

@@ -400,6 +400,7 @@
   <string name="pref_notification_settings_title">Nastavení oznamování</string>
   <string name="pref_other_title">Ostatní</string>
   <string name="pref_show_blocked_messages_summary">Zobrazit blokované SMS v konverzaci</string>
+  <string name="pref_show_list_avatar_summary">Zobrazit podrobnosti a fotografie kontaktů</string>
   <string name="pref_show_sms_template_in_summary">Automaticky rozpoznat OTP v SMS zprávě</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovat a vložit ověřovací kód</string>
   <string name="pref_smart_messages_settings">Inteligentní SMS</string>
@@ -536,6 +537,7 @@
   <string name="select_local_video">Vybrat video</string>
   <string name="select_message_send_sim">Vybrat SIM kartu</string>
   <string name="select_recipient">Příjemce</string>
+  <string name="select_sim">Vyberte SIM kartu</string>
   <string name="select_top_text">Text nahoře</string>
   <string name="send">Odeslat</string>
   <string name="send_hms_editor_hints">Cloudová zpráva</string>
@@ -578,6 +580,9 @@
   <string name="sms_full_title">Textové zprávy mají zaplněnou paměť</string>
   <string name="sms_rejected_body">Příchozí zpráva odmítnuta z neznámého důvodu.</string>
   <string name="sms_rejected_title">Textová zpráva odmítnuta</string>
+  <string name="sms_report_dialog_content">Nelze odeslat potvrzení.</string>
+  <string name="sms_report_dialog_retry">Znovu</string>
+  <string name="sms_report_dialog_title">Znovu</string>
   <string name="sms_report_failed">Nebylo možné odeslat hlášení</string>
   <string name="sms_report_success">Hlášení odesláno</string>
   <string name="sp_category_all">Všechny zprávy služeb</string>
@@ -611,6 +616,8 @@
   <string name="storage_unavailable">Není dostatek volného místa</string>
   <string name="subject_hint">Předmět</string>
   <string name="subject_label">"Předmět: "</string>
+  <string name="switch_to_editor">Upravit</string>
+  <string name="switch_to_menu">Menu</string>
   <string name="text_in_popup_saved_to_clipboard">Vybraný text z vyskakovacího okna byl uložen do schránky</string>
   <string name="text_message">Text zprávy</string>
   <string name="timed_message_expired_title">Neodeslané zprávy: %d</string>
@@ -621,6 +628,7 @@
   <string name="title_collapse_sp_messages">Spojovat zprávy služeb</string>
   <string name="title_hide_verification_code">Auto. skrýt OTP na zamyk. obrazovce</string>
   <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
+  <string name="title_show_list_avatar">Zobrazit fotografie kontaktu</string>
   <string name="title_show_sms_template">Kontrola SMS zda obsahuje ověřovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pro OTP</string>
   <string name="title_timed_message_dialog">Nastavte čas odeslání</string>
@@ -672,12 +680,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
-  <string name="title_show_list_avatar">Zobrazit fotografie kontaktu</string>
-   <string name="pref_show_list_avatar_summary">Zobrazit podrobnosti a fotografie kontaktů</string>
-   <string name="select_sim">Vyberte SIM kartu</string>
-   <string name="sms_report_dialog_content">Nelze odeslat potvrzení.</string>
-   <string name="sms_report_dialog_retry">Znovu</string>
-   <string name="sms_report_dialog_title">Znovu</string>
-   <string name="switch_to_editor">Upravit</string>
-   <string name="switch_to_menu">Menu</string> 
 </resources>
