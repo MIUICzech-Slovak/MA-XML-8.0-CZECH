@@ -9,6 +9,14 @@
         <item quantity="few">Vymazat %1$d souborů</item>
         <item quantity="many">Vymazat %1$d souborů</item>
     </plurals>
+    <plurals name="video_items">
+        <item quantity="other">Položek: %1$d</item>
+        <item quantity="zero">Položek: %1$d</item>
+        <item quantity="one">Položek: %1$d</item>
+        <item quantity="two">Položek: %1$d</item>
+        <item quantity="few">Položek: %1$d</item>
+        <item quantity="many">Položek: %1$d</item>
+     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" a %1$d složek?"</item>
         <item quantity="zero">" a %1$d složek?"</item>

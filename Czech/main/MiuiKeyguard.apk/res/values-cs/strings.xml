@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_enter_lock_wallpaper">Dotykem otevřete galerii tapet</string>
+  <string name="custom_lock_wallpaper_enter">Zadat</string>
+     <string name="lock_wallpaper_enter">Otevřít</string>
+     <string name="lock_wallpaper_learn_more">Více</string>
   <string name="click_to_enter_text">Dotykem odemkněte</string>
   <string name="confirm_pin_msg">Zadejte PIN znovu</string>
   <string name="default_lockscreen_unlock_hint_text">Posuňte nahoru</string>

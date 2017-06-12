@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakt na SIM kartě</string>
+  <string name="phone_accounts_settings_header">Nastavení</string>
+     <string name="volte_switch_not_support_summary">VoLTE hovory nejsou podporovány na datové SIM kartě.</string>
   <string name="accessibility_settings_activity_title">Dostupnost</string>
   <string name="account_changed_title">Účet změněn</string>
   <string name="active_phone_fail_nochoice">"Nelze ověřit SIM kartu"</string>

@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">"Migrování uživatelských dat. Čekejte prosím..."</string>
+  <string name="category_installed_app">Nainstalované apl.</string>
   <string name="action_mode_deselect_all">Odznačit</string>
   <string name="action_mode_select_all">Vše</string>
   <string name="add_private">Přidat soubor</string>

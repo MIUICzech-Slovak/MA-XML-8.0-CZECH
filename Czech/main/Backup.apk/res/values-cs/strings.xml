@@ -349,4 +349,6 @@ a Přenos je povolen"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
  Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verze!</string>
+  <string name="notif_trans_receiving_failed">Příjem dat selhal</string>
+     <string name="notif_trans_sending_failed">Odeslání dat selhalo</string>
 </resources>

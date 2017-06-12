@@ -2,6 +2,9 @@
 <resources>
   <string name="accept">OK</string>
   <string name="access_sd_fail">Není přístup na SD kartu</string>
+  <string name="app_description_content">Skener může načíst QR kódy, vizitky a dokumenty.</string>
+     <string name="app_description_title">O skeneru</string>
+     <string name="study_rotate_picture">Zpracovávání...</string>
   <string name="accessibility_shutter_button">Spoušť</string>
   <string name="action_search">Vyhledat</string>
   <string name="address">"Adresa: "</string>

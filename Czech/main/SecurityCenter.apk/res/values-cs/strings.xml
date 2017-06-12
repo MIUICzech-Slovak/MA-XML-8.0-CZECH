@@ -1,6 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ACaddnumcontent">Zadejte začátek čísla, systém automaticky přidá *</string>
+  <string name="adb_install_no_network">Připojte se k síti a zkuste to znovu</string>
+     <string name="adb_install_open">Povolení...</string>
+     <string name="adb_install_open_error">Nelze povolit. Zkontrolujte nastavení sítě.</string>
+     <string name="adb_install_reject_notiy">Nepovoloená instalace %s přes USB</string>
+     <string name="adb_install_reject_notiy_desc">Můžete povolit instalaci přes USB v nastavení pro vývojáře</string>
+     <string name="adb_login_xiaomi_account">Nejprve se přihlaste k vašemu Mi účtu</string>
+     <string name="btn_back">Zpět</string>
+     <string name="firewall_allow_all">Povolit všem aplikacím připojení</string>
+     <string name="firewall_allow_data">Povolit využívání mobilních dat</string>
+     <string name="firewall_allow_wlan">Povolit používání Wi-Fi</string>
+     <string name="firewall_mobile_dialog_message">Nainstalované aplikace nebudou mít přístup k internetovému připojení přes mobilní data, pokud je přepínač na Vyp.</string>
+     <string name="firewall_partial">Povolit některým aplikacím připojení​</string>
+     <string name="firewall_restrict_all">Zakázat připojení pro všechny aplikace</string>
+     <string name="firewall_restrict_data">Zakázat mobilní připojení</string>
+     <string name="firewall_restrict_wlan">Zakázat používání Wi-Fi</string>
+     <string name="firewall_wifi_dialog_message">Nainstalované aplikace nebudou mít přístup k internetovému připojení přes Wi-fi, pokud je přepínač na Vyp.</string>
+     <string name="optimize_result_button_realname_now">Ověřit</string>
+     <string name="sp_network_privacy_dialog_message">Nelze ověřit platby, protože jste zakázali aplikaci Optimalizácia datové připojení. Chcete jej povolit nyní?</string>
+     <string name="sp_network_privacy_dialog_title">Nelze zkontrolovat platby</string>
+     <string name="st_summary_blacklist_numbers">Blokovat hovory a SMS pomocí čísla a směrovacího čísla</string>
+     <string name="st_summary_blacklist_numbers_international">Blokovat hovory a zprávy z těchto čísel</string>
+     <string name="st_summary_keywords_blacklist">Přidat slova pro blokování SMS</string>
+     <string name="st_summary_special_numbers">Blokovat označená čísla</string>
+     <string name="st_summary_whitelist_numbers">Povolit hovory a SMS z určitých čísel a krajin</string>
+     <string name="st_summary_whitelist_numbers_international">Povolit hovory a zprávy z těchto čísel</string>
+     <string name="summary_realname_verify">Ověřit vaši identitu pro bezpečnější platby.</string>
+     <string name="title_realname_verify">Ověření ID</string>
+     <string name="usb_adb_input_apply_step_1">Může to vést k úniku osobních informací nebo ztrátě dat. Nedoporučujeme to v případě, že nejste vývojářem.</string>
+     <string name="usb_adb_input_apply_step_2">Vývojáři mohou využít speciální software pro ovládání gest, změnu nastavení, přístup k USB, atd.</string>
+     <string name="usb_adb_input_apply_step_3">Povolit?</string>
   <string name="ACaddnumtitle">Přidat předvolbu do výjimek</string>
   <string name="AD_ALLOW">Povolit</string>
   <string name="AD_APPInfo">Informace o apl.</string>

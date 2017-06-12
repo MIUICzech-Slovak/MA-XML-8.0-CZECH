@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_sd_fail">"Není možný přístup na SD kartu"</string>
+  <string name="front_camera_hint_text_confirm">Rozumím</string>
+     <string name="front_camera_hint_text_place">Otočte telefon tak, aby kamera byla na horní straně pro vytvoření selfie</string>
+     <string name="front_camera_hint_text_rotate">Otočte telefon</string>
+     <string name="pref_camera_proximity_lock_summary">Uzamknout gesta dotyků, když je zařízení v kapse</string>
+     <string name="pref_camera_proximity_lock_title">Režim v kapse</string>
   <string name="accessibility_audio_shutter_bg">Tlačítko spouště zvukem</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Výběr přední/zadní kamery</string>

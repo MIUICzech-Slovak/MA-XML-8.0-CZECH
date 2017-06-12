@@ -3,6 +3,7 @@
   <string name="abc_action_bar_home_description">Domů</string>
   <string name="abc_action_bar_up_description">Nahoru</string>
   <string name="abc_action_menu_overflow_description">Více</string>
+       <string name="pref_extras_send_feedback">Zpětná vazba</string>
   <string name="abc_action_mode_done">Hotovo</string>
   <string name="abc_action_mode_select_all">Vše</string>
   <string name="accept_cookies_confirm_message">Deaktivování této funkce může způsobit nesprávné fungování webstránek.</string>

@@ -350,4 +350,10 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Přidat všechny čísla s předvolbou do výjimek</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="st_summary_blacklist_numbers">Blokovat hovory a SMS pomocí čísla a směrovacího čísla</string>
+     <string name="st_summary_blacklist_numbers_international">Blokovat hovory a zprávy z těchto čísel</string>
+     <string name="st_summary_keywords_blacklist">Přidat slova pro blokování SMS</string>
+     <string name="st_summary_special_numbers">Blokovat označená čísla</string>
+     <string name="st_summary_whitelist_numbers">Povolit hovory a SMS z určitých čísel a krajin</string>
+     <string name="st_summary_whitelist_numbers_international">Povolit hovory a zprávy z těchto čísel</string>
 </resources>

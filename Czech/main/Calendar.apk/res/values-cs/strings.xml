@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_add_attendee">Přidat účastníka</string>
+  <string name="buy_a_new_phone">Navýšení úložiště</string>
+     <string name="dialog_msg_uninstall_apps_xspace">Odinstalovat tyto aplikace (včetně klonovaných)?</string>
+     <string name="pref_title_clean_alert">Vyčistit automaticky</string>
   <string name="accessibility_add_reminder">Přidat připomenutí</string>
   <string name="accessibility_all_day">Celodenní událost</string>
   <string name="accessibility_pick_end_date">Datum ukončení</string>
@@ -13,6 +16,7 @@
   <string name="accessibility_reminder_time">Čas připomenutí</string>
   <string name="accessibility_reminder_type">Typ připomenutí</string>
   <string name="accessibility_remove_attendee">Odebrat účastníka</string>
+  <string name="done">Zpět</string>
   <string name="accessibility_remove_reminder">Odebrat připomenutí</string>
   <string name="accessibility_repeats">Opakování</string>
   <string name="accessibility_sync_cal">Synchronizovat kalendář</string>

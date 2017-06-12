@@ -7,6 +7,10 @@
         <item>Po 30 minutách</item>
         <item>Nikdy</item>
     </string-array>
+    <string-array name="sms_report_type">
+        <item>Využití dat</item>
+        <item>Stav volných minut</item>
+     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 sekund</item>
         <item>30 sekund</item>

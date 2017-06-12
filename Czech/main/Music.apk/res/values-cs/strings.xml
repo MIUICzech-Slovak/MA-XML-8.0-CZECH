@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account">Účet</string>
+  <string name="artist_album">Alba</string>
+     <string name="force_touch_audio_picker">Rozpoznat</string>
+     <string name="force_touch_play_local_music_random">Přehrávání</string>
+     <string name="input_hint_prefix">Zadejte %1$s</string>
+     <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="account_and_cloud">Účet</string>
   <string name="action_item_add">Přidat</string>
   <string name="action_item_add_song">Přidat</string>

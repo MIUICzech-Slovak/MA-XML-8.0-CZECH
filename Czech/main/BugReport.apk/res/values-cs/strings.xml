@@ -4,6 +4,13 @@
   <string name="action_submit">Odeslat</string>
   <string name="announcement">Upozornění</string>
   <string name="app_empty">Nestáhli jste žádnou aplikaci</string>
+  <string name="feedback_status_forum_reply">Odpovědět</string>
+     <string name="feedback_status_supplement_more">Přidat komentář</string>
+     <string name="feedback_third_packagename_hint">Která doinstalovaná aplikace způsobuje problémy?</string>
+     <string name="permission_granted">Získaná povolení %1$s</string>
+     <string name="time_in_justnow">Přávě nyní</string>
+     <string name="title_bbs_feedback_main">Více o Mi telefonech</string>
+     <string name="toast_third_packagename_required">Zadejte název aplikace</string>
   <string name="app_label">Hlášení chyb</string>
   <string name="app_name">Hlášení chyb</string>
   <string name="btn_send">Odeslat</string>

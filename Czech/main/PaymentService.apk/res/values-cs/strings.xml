@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="mibi_app_name">Mi Kredit</string>
+  <string name="app_name">Platby</string>
   <string name="passport_access_denied">Přístup zamítnut</string>
   <string name="passport_account_hint_text">E-mail nebo telefonní číslo</string>
   <string name="passport_account_identity_title">Ověřit vaši identitu</string>

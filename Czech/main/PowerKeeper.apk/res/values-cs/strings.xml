@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_bar_delete">Vymazat</string>
+  <string name="power_checker_recent_btn_title">Nastavení Výkonu</string>
+     <string name="power_checker_recent_group_title">Nedávné</string>
+     <string name="power_checker_running_btn_title">Ukončit proces</string>
+     <string name="power_checker_running_group_title">Spuštěno</string>
+     <string name="power_checker_title">PowerChecker</string>
   <string name="action_settings">Nastavení</string>
   <string name="action_title_optimize">Optimalizovat</string>
   <string name="activity_title_poweranalyze">Test baterie</string>

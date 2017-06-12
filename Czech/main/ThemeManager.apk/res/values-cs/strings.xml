@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_info">Můj účet</string>
+  <string name="resource_purchase_common_error">Operace selhala, zkuste to znovu později.</string>
+     <string name="resource_purchase_continue_to_pay">Pokračovat pro zaplacení %s</string>
+     <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
   <string name="account_name_not_login">Přihlásit se</string>
   <string name="account_unactivated">Účet není aktivován.</string>
   <string name="add_resource_detail_fail">Nelze přidat zdroje</string>

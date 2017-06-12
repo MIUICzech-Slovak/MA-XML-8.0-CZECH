@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_app_name">MIUIVideo</string>
+  <string name="receive_follow">Upozornění na novou epizodu</string>
+     <string name="receive_follow_summary">Dostávat upozornění na novou epizodu seriálu</string>
   <string name="about_title">O aplikaci</string>
   <string name="about_version_label">Verze:</string>
   <string name="ad_countdown">Reklama: %ss</string>
