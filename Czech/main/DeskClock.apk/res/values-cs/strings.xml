@@ -27,7 +27,7 @@
   <string name="analog_gadget">Analogové hodiny</string>
   <string name="app_label">Hodiny</string>
   <string name="auto_silence_never">Nezastavovat</string>
-  <string name="auto_silence_title">Autom. ztišení</string>
+  <string name="auto_silence_title">Auto. ztišení</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="birthday_alarm">Upozornění na narozeniny</string>
   <string name="birthday_alarm_summary">Přehrát \"Happy Birthday\" namísto výchozího zvonění, když máte narozeniny.</string>

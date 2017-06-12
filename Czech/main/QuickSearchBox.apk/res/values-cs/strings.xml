@@ -2,10 +2,10 @@
 <resources>
   <string name="app_loaction">Ukázat na ploše</string>
   <string name="app_name">Vyhledávání</string>
-  <string name="appindex_description">Funkce nainstalovaných apl.</string>
-  <string name="appindex_search_label">Funkce apl.</string>
+  <string name="appindex_description">Funkce nainstalovaných aplikací</string>
+  <string name="appindex_search_label">Funkce aplikací</string>
   <string name="application_desc">Aplikace</string>
-  <string name="applications_search_label">Apl.</string>
+  <string name="applications_search_label">Aplikace</string>
   <string name="apps_search_activity"/>
   <string name="baidu_search_url_from_default">https://www.google.cz/search?q=%s&amp;tn=ins</string>
   <string name="baidu_search_url_from_input">https://www.google.cz/search?q=%s&amp;tn=ins</string>
@@ -61,12 +61,12 @@
   <string name="permission_prompt_started_info">Povoleno globální vyhledávání</string>
   <string name="permission_prompt_title">Chcete více?</string>
   <string name="pull_to_input">Potáhněte dolů pro obnovení</string>
-  <string name="recent_apps">Nedávné apl.</string>
+  <string name="recent_apps">Nedávné aplikace</string>
   <string name="recent_apps_filter">Skryté aplikace, které nepoužíváte.</string>
   <string name="recent_close_content">"Vypnout tuto funkci nyní?
   Můžete to změnit v nastavení - Nainstalované aplikace - Vyhledávání"</string>
   <string name="recent_close_title">Vypnout funkce</string>
-  <string name="recent_delete_content">"Skrýt tyto apl. nyní?
+  <string name="recent_delete_content">"Skrýt tyto aplikace nyní?
   Můžete to změnit v nastavení - Nainstalované aplikace - Vyhledávání"</string>
   <string name="recent_delete_negative">Zrušit</string>
   <string name="recent_delete_positive">OK</string>

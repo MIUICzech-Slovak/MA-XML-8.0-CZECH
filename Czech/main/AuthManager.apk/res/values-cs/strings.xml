@@ -8,7 +8,7 @@
   <string name="Dashboard_Log_Clear_Title">Vymazat záznamy</string>
   <string name="Dashboard_Perm">Práva</string>
   <string name="Dashboard_Perm_AutoStart">Po startu</string>
-  <string name="Dashboard_Perm_AutoStart_Desc">Zap./vyp. autom. spouštění aplikací</string>
+  <string name="Dashboard_Perm_AutoStart_Desc">Zap./vyp. auto. spouštění aplikací</string>
   <string name="Dashboard_Perm_HIPS">Spravovat práva aplikací</string>
   <string name="Dashboard_Perm_HIPS_Desc">Sledování %1$d aplikací kvůli bezpečnosti a soukromí</string>
   <string name="Dashboard_Perm_HIPS_Desc2">Sledování %1$d kvůli bezpečnosti a soukromí</string>
@@ -270,7 +270,7 @@
   <string name="Su_Package_Forbidden">%1$s nemá ROOT práva.</string>
   <string name="Su_Package_Forbidden2">nemá práva ROOT.</string>
   <string name="Su_Unavailable">ROOT není dostupný ve Stabilní verzi MIUI. Nainstalujte si vývojářskou verzi MIUI pro aktivaci práv ROOT.</string>
-  <string name="SysOpt_Boost_AutoStart">Oprávnění autom. spuštění</string>
+  <string name="SysOpt_Boost_AutoStart">Oprávnění auto. spuštění</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatické spuštění</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>

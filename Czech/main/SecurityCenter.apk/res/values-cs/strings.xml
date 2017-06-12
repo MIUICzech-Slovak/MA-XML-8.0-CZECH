@@ -95,7 +95,7 @@
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVirus</string>
   <string name="activity_title_apps_manager">Aplikace</string>
-  <string name="activity_title_auto_start_manager">Správa autom. spuštění</string>
+  <string name="activity_title_auto_start_manager">Správa auto. spuštění</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
   <string name="activity_title_deep_clean">Hluboké čištění</string>
   <string name="activity_title_default_apps_manager">Správa výchozích aplikací</string>
@@ -1384,7 +1384,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="power_optimize_btn_text_fixed">Optimalizováno</string>
   <string name="power_optimize_catagory_fixed_title">Optimalizováno</string>
   <string name="power_optimize_close_app">Ukončete apl. s vysokou spotřebou</string>
-  <string name="power_optimize_disable_app_autostart">Zabraňte autom. spouštění apl.</string>
+  <string name="power_optimize_disable_app_autostart">Zabraňte auto. spouštění apl.</string>
   <string name="power_optimize_disable_gps">Vypnout GPS</string>
   <string name="power_optimize_disable_start_other_app">Zabránit apl. otevřít jiné apl.</string>
   <string name="power_optimize_loading">Načítání...</string>
@@ -1897,7 +1897,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="summary_flow_verify">Vaše spotřeba dat nebyla synchronizována s operátorem %d dní. Objem naměřených dat se může lišit od objemu naměřených dat vaším operátorem.</string>
   <string name="summary_flow_verify_failed">Kalibrovat</string>
   <string name="summary_garbage_clean">Vyčistěte cache pro uvolnění místa</string>
-  <string name="summary_garbage_lib">Pro lepší ochranu proti spyware, adware, a ostatními škodlivými aplikacemi povolte autom. aktualizaci Čističe.</string>
+  <string name="summary_garbage_lib">Pro lepší ochranu proti spyware, adware, a ostatními škodlivými aplikacemi povolte auto. aktualizaci Čističe.</string>
   <string name="summary_install_virus">Kontrolovat aplikace před instalací</string>
   <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
   <string name="summary_miui_update">Dostupná aktualizace pro %s.</string>

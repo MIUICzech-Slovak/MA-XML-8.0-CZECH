@@ -424,8 +424,8 @@
   <string name="pref_time_auto_group_disabled_summary">Není podporováno v nastavené velikosti písma</string>
   <string name="pref_time_auto_group_summary">Seskupit zprávy podle času</string>
   <string name="pref_time_auto_group_title">Seskupení zpráv</string>
-  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
-  <string name="pref_title_allow_si_sl_push">Povolit WAP push</string>
+  <string name="pref_title_about_smart_sms">O poskytovateli inteligentních zpráv</string>
+  <string name="pref_title_allow_si_sl_push">Povolit WAP Push</string>
   <string name="pref_title_card_format">Formát vizitky</string>
   <string name="pref_title_delivery_reports">Doručenka</string>
   <string name="pref_title_festival_networking">Upozornění na připojení</string>
@@ -619,7 +619,7 @@
   <string name="timed_message_to">Komu</string>
   <string name="title_allow_network_access">Aktualizovat info automaticky</string>
   <string name="title_collapse_sp_messages">Spojovat zprávy služeb</string>
-  <string name="title_hide_verification_code">Autom. skrýt OTP na zamyk. obrazovce</string>
+  <string name="title_hide_verification_code">Auto. skrýt OTP na zamyk. obrazovce</string>
   <string name="title_show_blocked_messages">Zobrazit blokované SMS</string>
   <string name="title_show_sms_template">Kontrola SMS zda obsahuje ověřovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pro OTP</string>

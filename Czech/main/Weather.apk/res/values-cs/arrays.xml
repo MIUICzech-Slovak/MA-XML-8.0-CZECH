@@ -107,10 +107,10 @@
          <item>SZ</item>
      </string-array>	
      <string-array name="wind_unit_detail">
-         <item>Beaufortova stupnice</item>
+         <item>Beaufortova stupnice (BFT)</item>
          <item>Kilometry za hodinu (km/h)</item>
          <item>Metry za sekundu (m/s)</item>
-         <item>Míle za hodinu (mph)</item>
+         <item>Míle za hodinu (mi/h)</item>
          <item>Uzly (kn)</item>
      </string-array>
      <string-array name="minute_rain_array">

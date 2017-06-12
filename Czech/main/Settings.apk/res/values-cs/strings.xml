@@ -11,7 +11,7 @@
      <string name="notification_update_new_version">Dostupná aktualizace</string>
      <string name="notification_update_now">Aktualizovat</string>
      <string name="path_about_about_settings">Nastavení/Info o telefonu</string>
-     <string name="path_accelerometer_settings">Nastavení/Displej/Autom. otočenie obrazovky</string>
+     <string name="path_accelerometer_settings">Nastavení/Displej/Auto. otočenie obrazovky</string>
      <string name="path_access_control_settings">Nastavení/Další Nastavení/Zabezpečenie/Ochrana súkromia</string>
      <string name="path_accessibility_settings">Nastavení/Další Nastavení/Uľahčenie prístupu</string>
      <string name="path_account_add">Nastavení/Účty</string>
@@ -110,7 +110,7 @@
   <string name="ac_set_apps_title">Vybrat apl. pro uzamknutí</string>
   <string name="accelerometer_summary_off">Při otáčení zařízení automaticky přepínat orientaci</string>
   <string name="accelerometer_summary_on">Při otáčení zařízení automaticky přepínat orientaci</string>
-  <string name="accelerometer_title">Autom. otočení obrazovky</string>
+  <string name="accelerometer_title">Auto. otočení obrazovky</string>
   <string name="access_control_app_entry_multiple">Otevřít %s</string>
   <string name="access_control_app_entry_single">Otevřít zvolenou aplikaci</string>
   <string name="access_control_need_password">"%s - uzamknuto
@@ -185,13 +185,13 @@ Poznámka: Zvětšení trojitým klepnutím funguje ve všech částech obrazovk
   <string name="accessibility_wifi_two_bars">Wi-Fi dvě čárky.</string>
   <string name="accessibility_work_account_title">Pracovní účet - %s</string>
   <string name="account_add">Přidat</string>
-  <string name="account_autostar_label">Autom. spuštění</string>
+  <string name="account_autostar_label">Auto. spuštění</string>
   <string name="account_list">Vše</string>
   <string name="account_other">Ostatní</string>
   <string name="account_settings">Účty</string>
-  <string name="account_settings_menu_auto_sync">Autom. synchronizovat data</string>
-  <string name="account_settings_menu_auto_sync_personal">Autom. synchr. osobní data</string>
-  <string name="account_settings_menu_auto_sync_work">Autom. synchr. pracovní data</string>
+  <string name="account_settings_menu_auto_sync">Auto. synchronizovat data</string>
+  <string name="account_settings_menu_auto_sync_personal">Auto. synchr. osobní data</string>
+  <string name="account_settings_menu_auto_sync_work">Auto. synchr. pracovní data</string>
   <string name="account_settings_title">Účty</string>
   <string name="account_sync_settings_title">Synchronizace</string>
   <string name="activate_miui_screensaver">Spořič displeje během spánku</string>
@@ -3863,7 +3863,7 @@ Umožňují to důvěryhodné identifikační údaje nainstalované ve vašem za
   <string name="switch_screen_button_order_desc">Prohození tlačítek Menu a Zpět</string>
   <string name="symbols_not_allowed_for_password">Heslo nesmí obsahovat symboly</string>
   <string name="sync_active">Synchronizace je aktivní</string>
-  <string name="sync_automatically">Autom. synchr. data aplikací</string>
+  <string name="sync_automatically">Auto. synchr. data aplikací</string>
   <string name="sync_calendar">Kalendář</string>
   <string name="sync_contacts">Kontakty</string>
   <string name="sync_disabled">Synchronizace vypnuta</string>
