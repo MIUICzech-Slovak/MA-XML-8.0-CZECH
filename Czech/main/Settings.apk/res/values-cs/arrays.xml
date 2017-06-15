@@ -28,6 +28,11 @@
         <item>Média</item>
         <item>Zařízení</item>
     </string-array>
+    <string-array name="traffic_balance_entries">
+         <item>Vypnuto</item>
+         <item>Normální režim</item>
+         <item>Extrémní režim</item>
+     </string-array>	
     <string-array name="app_ops_labels">
         <item>Poloha</item>
         <item>Poloha</item>

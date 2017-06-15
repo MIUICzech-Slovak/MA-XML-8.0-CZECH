@@ -5,6 +5,10 @@
         <item quantity="other">Vymazat obrázky (%s) v cloudu?</item>
         <item quantity="one">Vymazat obrázky (%s) v cloudu?</item>
     </plurals>
+     <plurals name="add_to_secret_successful">
+         <item quantity="other">Přidané fotografie (%1$d) do tajného albumu</item>
+         <item quantity="one">Přidaná fotografie do tajného alba</item>
+     </plurals>	
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Vymazat obrázky (%s)?</item>
         <item quantity="one">Vymazat obrázek (%s)?</item>

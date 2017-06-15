@@ -680,4 +680,19 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyzkoušejte cloudové SMS zprávy</string>
   <string name="yes">OK</string>
+  <string name="delete_verification_code_sms_message">Vymazat všechna jednorázová hesla?</string>
+   <string name="delete_verification_code_sms_title">Vymazat jednorázová hesla</string>
+   <string name="disabled">Deaktivováno</string>
+   <string name="earlier">Starší</string>
+   <string name="enabled">Povoleno</string>
+   <string name="favorite_at_time">Označeno v: %1s</string>
+   <string name="group_verification_codes_summary">Automaticky spojovat do skupiny SMS s jednorázovými hesly</string>
+   <string name="group_verification_codes_title">Spojovat SMS s hesly</string>
+   <string name="pref_show_sms_template_entry_summary">Kontrolovat SMS pro jednorázová hesla</string>
+   <string name="received_at_time">Přijato: %1s</string>
+   <string name="sent_at_time">Odesláno: %1s</string>
+   <string name="today">Dnes</string>
+   <string name="verification_code_icon_name">V</string>
+   <string name="verification_code_list_title">Ověřovací kódy</string>
+   <string name="yesterday">Včera</string>
 </resources>

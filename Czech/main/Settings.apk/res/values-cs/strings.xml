@@ -2824,6 +2824,7 @@ Zvolte Váš operační systém:"</string>
   <string name="privacy_factory_reset_dlg_title">Zálohujte svá data</string>
   <string name="privacy_file">Soubory</string>
   <string name="privacy_gallery">Fotografie</string>
+  <string name="traffic_balance">Inteligentní řazení procesů</string>
   <string name="privacy_mms">Zprávy</string>
   <string name="privacy_mode_dialog_message">Skrýt zprávy, poznámky, fotografie, nastavení a příchozí hovory</string>
   <string name="privacy_mode_dialog_title">Režim Návštěvník</string>

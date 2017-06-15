@@ -22,7 +22,7 @@
   <string name="fingerprint_enter_second_psw_msg">Zadejte heslo Druhého profilu po restartu, aby bylo možné použít váš otisk prstu</string>
   <string name="fingerprint_enter_second_psw_title">Zadejte heslo Druhého profilu</string>
   <string name="fingerprint_lockout_msg">Počkejte 1 minutu a zkuste znovu odemknout otiskem prstu.</string>
-  <string name="fingerprint_not_identified_msg">Příliš mnoho neúspěšných pokusů. Zadejte heslo nebo zkuste znovu za %d s.</string>
+  <string name="fingerprint_not_identified_msg">Nelze rozpoznat otisk. Zadejte své heslo.</string>
   <string name="fingerprint_not_identified_title">Zadejte své heslo</string>
   <string name="fingerprint_try_again_msg">Nelze rozpoznat otisk, zkuste to znovu.</string>
   <string name="fingerprint_try_again_text">Znovu</string>
@@ -115,4 +115,5 @@
   <string name="unlockscreen_recharge_completed">Baterie nabita</string>
   <string name="unlockscreen_recharging_message">Nabíjení %d%%</string>
   <string name="wrong_password">Nesprávné heslo</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nelze přepínat mezi profily během hovoru</string>  
 </resources>

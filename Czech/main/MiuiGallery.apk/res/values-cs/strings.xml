@@ -47,6 +47,12 @@
   <string name="album_already_exists_msg">Album \"%s\" již existuje</string>
   <string name="album_already_forced_top">Připnuto</string>
   <string name="album_camera_name">Fotoaparát</string>
+  <string name="cloud_sync_card_description">Synchr. vaše fotografie a videa do MiCloud</string>
+   <string name="cloud_sync_card_title">Povolit synchr. s MiCloud</string>
+   <string name="secret_album_card_description">Nejlepší místo pro vaše tajnosti</string>
+   <string name="secret_album_card_title">Zkuste tajná alba</string>
+   <string name="today">Dnes</string>
+   <string name="yesterday">Včera</string>
   <string name="album_detail_clear_local_page_empty">Žádné zálohované fotografie nebo videa na vymazání.</string>
   <string name="album_detail_page_empty">Žádné fotky ani video</string>
   <string name="album_faces_name">Lidé</string>
