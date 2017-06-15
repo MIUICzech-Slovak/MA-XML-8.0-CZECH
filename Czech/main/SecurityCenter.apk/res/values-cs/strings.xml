@@ -1303,7 +1303,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="passwordIncorrect">Zadané jméno nebo heslo není správné</string>
   <string name="password_promotion_button_text">Přidat Mi účet</string>
   <string name="password_promotion_message">Přidejte svůj Mi účet (%s) pro možnost obnovy vašeho hesla v případě, že jej zapomenete.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Přidejte svůj Mi účet pro možnost obnovy vašeho hesla v případě, že jej zapomenete.<</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Přidejte svůj Mi účet pro možnost obnovy vašeho hesla v případě, že jej zapomenete.</string>
   <string name="password_promotion_postbutton_text">Přidat</string>
   <string name="password_promotion_title">Přidejte Mi účet</string>
   <string name="pay_charge">Top-up</string>
