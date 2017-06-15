@@ -1301,11 +1301,11 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="package_setted_error_notification_titile">Nelze nastavit limit dat.</string>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
   <string name="passwordIncorrect">Zadané jméno nebo heslo není správné</string>
-  <string name="password_promotion_button_text">Rozumím</string>
-  <string name="password_promotion_message">Zámek aplikací je aktualizován na heslo ochrany soukromí. Můžete použít váš současný xiaomi účet pro jeho obnovení.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Zámek aplikací je aktualizován na heslo ochrany soukromí. Můžete použít váš současný xiaomi účet pro jeho obnovení. Přidejte svůj Mi účet.</string>
-  <string name="password_promotion_postbutton_text">Otevřete Nastavení</string>
-  <string name="password_promotion_title">Heslo ochrany soukromí</string>
+  <string name="password_promotion_button_text">Přidat Mi účet</string>
+  <string name="password_promotion_message">Přidejte svůj Mi účet (%s) pro možnost obnovy vašeho hesla v případě, že jej zapomenete.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Přidejte svůj Mi účet pro možnost obnovy vašeho hesla v případě, že jej zapomenete.<</string>
+  <string name="password_promotion_postbutton_text">Přidat</string>
+  <string name="password_promotion_title">Přidejte Mi účet</string>
   <string name="pay_charge">Top-up</string>
   <string name="pc_install_manager">Správce instalací</string>
   <string name="pc_to_phone_install">Blokována instalace apl. %s z USB</string>
@@ -2269,4 +2269,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_fake">Detekce falešné Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žádné datové připojení</string>
   <string name="wl_no_whitelist">Žádná čísla</string>
+  <string name="main_button_usage_adjusting_bill">Probíhá změna...</string>
+   <string name="password_forget_pattern_confirm">Zálohovat data</string>
+   <string name="password_forget_pattern_message">Zálohujte svá data a obnovte obnovte tovární nastavení. Potom bude možné změnit vaše heslo.</string>
+   <string name="password_forget_pattern_title">Zálohujte svá data</string>
+   <string name="password_xspace_forget_pattern_message">Pro změnu hesla Druhého profilu jej musíte vymazat a vytvořit znovu.</string>
 </resources>
