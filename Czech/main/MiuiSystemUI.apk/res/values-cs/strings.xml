@@ -251,7 +251,7 @@ Použijte síťovou nabíječku."</string>
   <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
   <string name="save_mode_btn_ok">OK</string>
   <string name="saved_network">Uloženo přes %1$s</string>
-  <string name="loading_desktop">Načítavanie...</string>
+  <string name="loading_desktop">Načítání...</string>
   <string name="screen_button_notification_text">Zapněte je stisknutím tlačítka Domů a Zapínání.</string>
   <string name="screen_button_notification_title">Tlačítka pod displejem jsou vypnuta</string>
   <string name="screen_pinning_description">"Pokud je toto nastavení zapnuté, můžete pomocí připnutí k obrazovce zajistit zobrazení aktuální obrazovky, dokud ji neuvolníte. Podržte tlačítko Domů a Zapnutí pro uvolnění."</string>
