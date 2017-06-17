@@ -2274,4 +2274,6 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="password_forget_pattern_message">Zálohujte svá data a obnovte obnovte tovární nastavení. Potom bude možné změnit vaše heslo.</string>
    <string name="password_forget_pattern_title">Zálohujte svá data</string>
    <string name="password_xspace_forget_pattern_message">Pro změnu hesla Druhého profilu jej musíte vymazat a vytvořit znovu.</string>
+  <string name="card_main_hbassistant_summary">Zrychlit a zlepšit odezvu při hrách</string>
+  <string name="card_main_hbassistant_title">Zrychlení her</string>  
 </resources>
