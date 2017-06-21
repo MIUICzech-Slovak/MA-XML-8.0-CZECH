@@ -224,7 +224,7 @@
   <string name="account_failure">Chyba účtu</string>
    <string name="changepw_dialog_tips_please_clikc_btn">Zkontrolujte ověřovací kód %s a přihlaste se znovu</string>
    <string name="dialog_system_auto_sync_account_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
-   <string name="dialog_system_auto_sync_master_no_open"Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
+   <string name="dialog_system_auto_sync_master_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
    <string name="drawer_classification">Kategorie</string>
    <string name="mail_description_content">Aplikace Email je klient pro správu vaší emailové komunikace.</string>
    <string name="mail_description_title">Co je Email</string>
