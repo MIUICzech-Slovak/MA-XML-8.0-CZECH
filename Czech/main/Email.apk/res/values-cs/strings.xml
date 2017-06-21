@@ -221,6 +221,17 @@
   <string name="cancel_pop3_attchemt_downloading">Zrušení stahování příloh není podporováno v POP3 protokolu.</string>
   <string name="cant_move_or_change_labels">Přesun nelze uskutečnit, protože vybrané zprávy pocházejí z různých účtů.</string>
   <string name="cc">Kopie</string>
+  <string name="account_failure">Chyba účtu</string>
+   <string name="changepw_dialog_tips_please_clikc_btn">Zkontrolujte ověřovací kód %s a přihlaste se znovu</string>
+   <string name="dialog_system_auto_sync_account_no_open">Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
+   <string name="dialog_system_auto_sync_master_no_open"Synchr. účtu není povolena a zprávy nebudou synchronizovány</string>
+   <string name="drawer_classification">Kategorie</string>
+   <string name="mail_description_content">Aplikace Email je klient pro správu vaší emailové komunikace.</string>
+   <string name="mail_description_title">Co je Email</string>
+   <string name="syncing_wait_restart">Zkusit znova</string>
+   <string name="syncing_wait_restart_title">"Připojení k serveru selhalo. 
+  Nelze načíst zprávy"</string>
+   <string name="system_setup_open_error">Synchronizace není povolena.</string>
   <string name="cc_attribution">Kopie: %1$s</string>
   <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Kopie: "</string>

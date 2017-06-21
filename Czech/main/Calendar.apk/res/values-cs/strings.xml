@@ -115,7 +115,7 @@
   <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">Do %1$s</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(dnes)</string>
+  <string name="date_today">" (dnes) "</string>
   <string name="day_view">Den</string>
   <string name="day_view_new_event_hint">Přidat novou událost</string>
   <string name="default_reminder_mode">Výchozí upozornění</string>
@@ -126,6 +126,10 @@
   <string name="delete_topic_dialog_title">Vymazat "%s"?</string>
   <string name="delete_topic_success">"%s" odebráno</string>
   <string name="description_label">Popis</string>
+  <string name="too_long_content">Příliš dlouhý popis</string>
+   <string name="too_long_description">Popis události je příliš dlouhý</string>
+   <string name="too_long_location">Popis polohy je příliš dlouhý</string>
+   <string name="too_long_name">Název je příliš dlouhý</string>
   <string name="dialog_msg_uninstall_apps_xspace">Odinstalovat tyto aplikace (včetně klonovaných)?</string>
   <string name="directory_searching_fmt">Vyhledávání na webu %s...</string>
   <string name="discard_label">Zrušit</string>

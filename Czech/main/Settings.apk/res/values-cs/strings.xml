@@ -2486,6 +2486,9 @@ Zvolte Váš operační systém:"</string>
   <string name="notifications_disabled">Blokováno</string>
   <string name="notifications_enabled">Normální</string>
   <string name="notifications_label">Oznámení</string>
+  <string name="connect_mode">Režim připojení</string>
+   <string name="sure_sync_now">Synchronizovat nyní?</string>
+   <string name="sync_now">Synchr.</string>
   <string name="notifications_no_peeking">Rychlý náhled zakázán</string>
   <string name="notifications_priority">Prioritní</string>
   <string name="notifications_sensitive">Citlivý obsah byl skryt</string>
