@@ -12,6 +12,10 @@
   <string name="activity_title_image_gallery">Vymazat podobné fotografie</string>
   <string name="activity_title_large_file">Velké soubory</string>
   <string name="activity_title_main">Čistič</string>
+  <string name="app_description_content">Čistič vyhledá nepotřebné soubory a uvolní místo na vašem úložišti.</string>
+   <string name="app_description_title">O Čističi</string>  
+   <string name="engine_cm">Clean Master</string>
+   <string name="engine_tm">Tencent</string>
   <string name="activity_title_news">Novinky</string>
   <string name="activity_title_privacy_cache">Soukromí</string>
   <string name="activity_title_residual">Staré</string>

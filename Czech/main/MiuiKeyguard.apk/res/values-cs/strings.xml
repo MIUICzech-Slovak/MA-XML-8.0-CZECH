@@ -105,8 +105,8 @@
   <string name="phone_locked_foget_password_header">Co mám dělat v případě zapomenutí hesla?</string>
   <string name="phone_locked_foget_password_ok">Rozumím</string>
   <string name="phone_locked_string">Zařízení je zablokováno</string>
-  <string name="phone_locked_timeout_minutes_string">Zkuste znovu po %s min</string>
-  <string name="phone_locked_timeout_seconds_string">Zkuste znovu po %s s</string>
+  <string name="phone_locked_timeout_minutes_string">Zkuste znovu po %d min</string>
+  <string name="phone_locked_timeout_seconds_string">Zkuste znovu po %d s</string>
   <string name="unlock_sim_string">Odblokovat SIM</string>
   <string name="unlock_string">OK</string>
   <string name="unlocking_sim_card">Odblokování SIM karty</string>
