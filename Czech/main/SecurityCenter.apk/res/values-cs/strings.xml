@@ -975,7 +975,7 @@ For more info check the message you received from your service provider"</string
   <string name="lockpattern_tutorial_cancel_label">Zrušit</string>
    <string name="handle_title_network">Zabezpečenie Wi-Fi</string>
    <string name="handle_title_pay_env">Zabezpečení plateb</string>
-   <string name="handle_title_privacy">Zabezpečení soukromí</string>virus_update_tips_title
+   <string name="handle_title_privacy">Zabezpečení soukromí</string>
    <string name="hints_scan_danger_result">Nalezeno riziko, opravte jej</string>
    <string name="hints_scan_result_no_finish">Kontrola není dokončena. Dotykem spustíte znovu.</string>
    <string name="suggest_scan_again">Doporučuje se kompletní kontrola pro vaši bezpečnost.</string>
