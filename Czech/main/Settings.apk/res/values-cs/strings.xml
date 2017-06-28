@@ -33,6 +33,7 @@
   <string name="accessibility_display_daltonizer_preference_title">Korekce barev</string>
   <string name="accessibility_display_inversion_preference_subtitle">(Experimentální) Může mít vliv na výkon</string>
   <string name="accessibility_display_inversion_preference_title">Převrácení barev</string>
+  <string name="music_app_unavailable">Závisí na aplikaci Hudba. Ujistěte se, že ji máte nainstalovanou</string>
   <string name="accessibility_display_title">Displej</string>
   <string name="accessibility_enable">Povolit přístup</string>
   <string name="accessibility_feature_or_input_method_not_allowed">Není povoleno vaší organizací</string>

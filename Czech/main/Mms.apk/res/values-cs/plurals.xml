@@ -5,6 +5,26 @@
         <item quantity="other">Konverzace k vymazání: %1$s</item>
         <item quantity="one">Konverzace vymazána</item>
     </plurals>
+    <plurals name="to_count">
+         <item quantity="other">Adresátů: %d</item>
+         <item quantity="one">Adresátů: %d</item>
+     </plurals>
+     <plurals name="send_to_count">
+         <item quantity="other">Odeslaných: %1$s SMS</item>
+         <item quantity="one">Odeslaných: %1$s SMS</item>
+     </plurals>
+     <plurals name="group_message_failed_title">
+         <item quantity="other">Nelze odeslat %d kontaktům</item>
+         <item quantity="one">Nelze odeslat %d kontaktu</item>
+     </plurals>
+     <plurals name="timed_message_expired_title">
+         <item quantity="other">%d naplánovaných SMS nebylo odesláno</item>
+         <item quantity="one">%d naplánovaná SMS nebyla odeslána</item>
+     </plurals>
+     <plurals name="timed_message_in_total">
+         <item quantity="other">(%d SMS)</item>
+         <item quantity="one">(%d SMS)</item>
+     </plurals> 
     <plurals name="slide_duration">
         <item quantity="other">Sekund: %d</item>
         <item quantity="one">Sekund: %d</item>

@@ -695,4 +695,5 @@ Pokus: %s."</string>
    <string name="verification_code_icon_name">V</string>
    <string name="verification_code_list_title">Ověřovací kódy</string>
    <string name="yesterday">Včera</string>
+   <string name="fail_to_view_attachment">Příloha není dostupná</string>
 </resources>

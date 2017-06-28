@@ -362,4 +362,12 @@
          <item quantity="other">%d days since last check-up</item>
          <item quantity="one">%d day since last check-up</item>
      </plurals>	
+      <plurals name="result_virus_header">
+         <item quantity="other">Nalezeno %d virů a nebezpečných apl.</item>
+         <item quantity="one">Nalezen 1 vir</item>
+     </plurals>
+     <plurals name="result_sign_header">
+         <item quantity="other">Nalezeno %d neoficiálních apl.</item>
+         <item quantity="one">Nalezena 1 neoficiální apl.</item>
+     </plurals>	
 </resources>

@@ -839,9 +839,9 @@ For more info check the message you received from your service provider"</string
   <string name="hints_auto_start_warning_info">Zákaz auto. spouštění zakáže přijímání upozornění aplikace</string>
   <string name="hints_cleanning_done">Kontrola dokončena</string>
   <string name="hints_cleanning_text">Čištění...</string>
-  <string name="hints_handle_item_text_risk">Rizika: %d</string>
+  <string name="hints_handle_item_text_risk">Nebezpečné: %d</string>
   <string name="hints_handle_item_text_safe">OK</string>
-  <string name="hints_handle_item_text_virus">Viry: %d</string>
+  <string name="hints_handle_item_text_virus">Nebezpečné: %d</string>
   <string name="hints_input_roaming_daily_limit">Zadejte denní limit mobilních dat</string>
   <string name="hints_install_apps_new">nepoužité</string>
   <string name="hints_install_apps_today">dnes použité</string>
@@ -973,6 +973,13 @@ For more info check the message you received from your service provider"</string
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Zkuste to znovu za %d sekund.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Příliš mnoho nesprávných pokusů</string>
   <string name="lockpattern_tutorial_cancel_label">Zrušit</string>
+   <string name="handle_title_network">Zabezpečenie Wi-Fi</string>
+   <string name="handle_title_pay_env">Zabezpečení plateb</string>
+   <string name="handle_title_privacy">Zabezpečení soukromí</string>virus_update_tips_title
+   <string name="hints_scan_danger_result">Nalezeno riziko, opravte jej</string>
+   <string name="hints_scan_result_no_finish">Kontrola není dokončena. Dotykem spustíte znovu.</string>
+   <string name="suggest_scan_again">Doporučuje se kompletní kontrola pro vaši bezpečnost.</string>
+   <string name="virus_auto_update_engine">Autom. aktualizace: %s</string>
   <string name="lockpattern_tutorial_continue_label">Další</string>
   <string name="lockscreen_access_pattern_cell_added">Buňka přidána</string>
   <string name="lockscreen_access_pattern_cleared">Vzor vymazán</string>
