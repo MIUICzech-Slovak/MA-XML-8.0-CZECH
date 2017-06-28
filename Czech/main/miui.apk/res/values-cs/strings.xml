@@ -328,4 +328,6 @@
   <string name="wednesday_short">Stř</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="immersion_button_close_description">zavřít</string>
+   <string name="search_input_description">Vyhledat</string>
 </resources>

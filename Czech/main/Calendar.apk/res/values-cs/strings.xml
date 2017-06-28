@@ -488,4 +488,9 @@
   <string name="yearly">Ročně (%s)</string>
   <string name="yearly_plain">Ročně</string>
   <string name="zhushen"/>
+  <string name="agenda_month_empty_hint">Žádné události na dnešek</string>
+   <string name="load_more_hint">Obnovit události z %1$d</string>
+   <string name="no_events_hint">Žádné události</string>
+   <string name="pull_to_refresh_hint">Potažením obnovíte události z %1$d</string>
+   <string name="refreshing_hint">Obnovování...</string>
 </resources>
