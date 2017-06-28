@@ -2288,4 +2288,7 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="password_xspace_forget_pattern_message">Pro změnu hesla Druhého profilu jej musíte vymazat a vytvořit znovu.</string>
   <string name="card_main_hbassistant_summary">Zrychlit a zlepšit odezvu při hrách</string>
   <string name="card_main_hbassistant_title">Zrychlení her</string>  
+  <string name="auto_task_notify_task_exit_task">Ukončit úlohu</string>
+   <string name="power_consume_hardware_total_format">Hardware: %s</string>
+   <string name="power_consume_software_total_format">Aplikace: %s</string>
 </resources>
