@@ -170,4 +170,7 @@
    <string name="suggestion_tab_btn">Spustit</string>
    <string name="suggestion_tab_detail">Klepněte sem pro zvolení kategorie</string>
    <string name="suggestion_tab_title">Vyhledat v těchto kategoriích</string>
+<string name="setting_version">Verze aplikace</string>
+<string name="setting_version_title">Verze aplikace</string>
+<string name="setting_other">Další</string>
 </resources>

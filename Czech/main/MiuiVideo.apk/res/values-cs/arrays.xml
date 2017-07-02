@@ -17,8 +17,8 @@
         <item>Nejnovější</item>
     </string-array>
     <string-array name="version_list_entries">
-        <item>Stable</item>
-        <item>Developer</item>
-        <item>Alpha</item>
+        <item>Stabilní</item>
+        <item>Pro vývojáře</item>
+        <item>Alfa</item>
     </string-array>
 </resources>

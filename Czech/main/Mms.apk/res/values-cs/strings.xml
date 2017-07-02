@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_smart_sms_title">Smart messages partner</string>
+  <string name="about_smart_sms_title">Poskytovatel inteligentních zpráv</string>
   <string name="action_firewall_setting">Černá listina</string>
   <string name="activity_not_found">Nenalezen program pro zobrazení přílohy</string>
   <string name="activity_not_found_uri">Nenalezen program pro tuto akci</string>

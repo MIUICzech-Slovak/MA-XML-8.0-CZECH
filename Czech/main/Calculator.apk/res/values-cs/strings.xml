@@ -141,7 +141,7 @@
   <string name="unit_data_display_area_acre">Akr</string>
   <string name="unit_data_display_area_are">Ar</string>
   <string name="unit_data_display_area_ha">Hektar</string>
-  <string name="unit_data_display_area_mu">mu</string>
+  <string name="unit_data_display_area_mu">Mu</string>
   <string name="unit_data_display_area_qing">Qing</string>
   <string name="unit_data_display_area_sq.chi">Čtvereční chi</string>
   <string name="unit_data_display_area_sq.cm">Čtvereční centimetr</string>
@@ -198,7 +198,7 @@
   <string name="unit_data_display_time_s">Sekunda</string>
   <string name="unit_data_display_time_us">Mikrosekunda</string>
   <string name="unit_data_display_time_week">Týden</string>
-  <string name="unit_data_display_time_yr">rok</string>
+  <string name="unit_data_display_time_yr">Rok</string>
   <string name="unit_data_display_velocity_c">Světelná rychlost</string>
   <string name="unit_data_display_velocity_ftps">Stopa za sekundu</string>
   <string name="unit_data_display_velocity_inps">Palec za sekundu</string>
@@ -315,4 +315,18 @@
   <string name="wf_word_figure">Finance</string>
   <string name="description_content">Kalkulačka slouží nejen na matematické počty, ale i na konverzi měn a výpočet fyzikálních veličin.</string>
    <string name="description_title">O Kalkulačce</string>  
+<string name="unit_data_short_area_acre">akr</string>
+<string name="unit_data_short_area_are">ar</string>
+<string name="unit_data_short_time_yr">rok</string>
+<string name="unit_data_short_time_day">den</string>
+<string name="unit_data_short_time_h">hod</string>
+<string name="unit_data_short_time_min">min</string>
+<string name="unit_data_short_time_s">sek</string>
+<string name="preference_check_update_summary_current_version">Aktuální verze: %s</string>
+<string name="preference_check_update_summary_new_version">Aktualizace %s je k dispozici</string>
+<string name="xiaomi_update_dialog_title">%1$s aktualizováno!</string>
+<string name="xiaomi_update_dialog_message">"Uvedená verze %1$s
+má velikost: %2$s"</string>
+<string name="xiaomi_update_dialog_message_diff">"Uvedená verze %1$s
+Delta aktualizace má velikost: %2$s"</string>
 </resources>

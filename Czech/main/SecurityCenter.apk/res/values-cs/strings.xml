@@ -3,7 +3,7 @@
   <string name="ACaddnumcontent">Zadejte začátek čísla, systém automaticky přidá *</string>
   <string name="ACaddnumtitle">Přidat předvolbu do výjimek</string>
   <string name="AD_ALLOW">Povolit</string>
-  <string name="AD_APPInfo">Informace o apl.</string>
+  <string name="AD_APPInfo">Informace o aplikaci</string>
   <string name="AD_AntiSpam">Adware</string>
   <string name="AD_BLOCK">Blokovat</string>
   <string name="AD_BLOCKED">Blokováno</string>
@@ -43,8 +43,8 @@
   <string name="Settings_title_network_assistants">Nastavení Spotřeby dat</string>
   <string name="Settings_title_power_center">Nastavení Baterie</string>
   <string name="about_autostart">Co je to Auto-start</string>
-  <string name="ac_enable_title">Povolit zámok apl.</string>
-  <string name="ac_enter_applock">Zadejte Zámek apl.</string>
+  <string name="ac_enable_title">Povolit zámek aplikace</string>
+  <string name="ac_enter_applock">Zadejte zámek aplikace</string>
   <string name="ac_firstUseApplock_subTitle">Použijte zámek aplikací pro ochranu Vašeho soukromí</string>
   <string name="ac_firstUseApplock_title">Vyžadovat heslo pro otevření aplikací</string>
   <string name="ac_summaryOff">Vypnuto, není vyžadováno heslo pro otevření aplikací</string>
@@ -138,7 +138,7 @@
   <string name="antivirus_choose_engine_settings">Nastavení virové databáze</string>
   <string name="antivirus_choose_engine_title">Databáze</string>
   <string name="antivirus_choose_engine_update_disable_toast">Nelze měnit virová databáze během kontroly</string>
-  <string name="antivirus_monitor_btn_text_clean_risk">Vymazat nebezpečné apl.</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Vymazat nebezpečné aplikace</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Vymazat viry</string>
   <string name="antivirus_monitor_clean_tips">Vymazáno %s</string>
   <string name="antivirus_monitor_risk_advice">Tato aplikace není bezpečná, vymažte ji.</string>
@@ -249,7 +249,7 @@
   <string name="app_manager_uninstall_xspace_app_dlg_title">Odinstalovat klonovanou aplikaci?</string>
   <string name="app_manager_unstall_application">Odinstalovat</string>
   <string name="app_manager_update_label_text">Nové</string>
-  <string name="app_manager_usage_record_title">Využití apl.</string>
+  <string name="app_manager_usage_record_title">Využití aplikace</string>
   <string name="app_manager_wake_path_card_title">Historie autostartu (2 dny)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Rozumím</string>
   <string name="app_manager_wakepath_dialog_summary">Chain start happens when one app starts another app in the background. It can drain battery and lower the system performance. MIUI would normally block chain start.</string>
@@ -284,7 +284,7 @@
   <string name="apps_item_title_system">Aktualizace systému</string>
   <string name="apps_item_virus_cleanup_success">Vyčištěno!</string>
   <string name="apps_item_virus_cleanup_text">Vyčistit</string>
-  <string name="apps_item_virus_summary_installed">Nainstalovaná apl.</string>
+  <string name="apps_item_virus_summary_installed">Nainstalovaná aplikace</string>
   <string name="apps_item_virus_summary_uninstalled">Apk</string>
   <string name="apps_list_header_title_sms">Zkontrolovat apl. zpráv</string>
   <string name="apps_list_header_title_sms_access">Zakázat přístup k ověřovacím kódům</string>
@@ -538,8 +538,8 @@
   <string name="card_main_speeddetail_title">Rychlost připojení</string>
   <string name="card_main_speeddetailt_summary">Zobrazit rychlost připojení pro jednotlivé aplikace</string>
   <string name="card_main_xspace_action">Vytvořit</string>
-  <string name="card_main_xspace_summary">Používejte dva účty pro kteroukoliv apl.</string>
-  <string name="card_main_xspace_title">Klonované apl.</string>
+  <string name="card_main_xspace_summary">Používejte dva účty pro kteroukoliv aplikaci</string>
+  <string name="card_main_xspace_title">Klonované aplikace</string>
   <string name="charging_text_battery_full_time">"Naposledy nabito "</string>
   <string name="charging_text_battery_nearly_full">Skoro nabito</string>
   <string name="charging_text_battery_perfect">Nabito</string>
@@ -641,7 +641,7 @@ For more info check the message you received from your service provider"</string
   <string name="deepclean_cache_header_left">Cache: %d</string>
   <string name="delete">Smazat</string>
   <string name="delete_from_manual_item_white_list">Odstranit z výjimek</string>
-  <string name="deleted_apps">Vymazané Apl.</string>
+  <string name="deleted_apps">Vymazané aplikace</string>
   <string name="descx_cleanuping_item">Optimalizace %s</string>
   <string name="descx_finish_cleanup_cache">Dokončit optimalizaci cache</string>
   <string name="descx_finish_cleanup_memory">Dokončit optimalizaci paměti</string>
@@ -819,7 +819,7 @@ For more info check the message you received from your service provider"</string
   <string name="guide_quck_open">Povolit</string>
   <string name="guide_wait_setting">Později</string>
   <string name="handle_bar_summary_wifi_unknown">Neznáme</string>
-  <string name="handle_bar_title_apps">Apl.</string>
+  <string name="handle_bar_title_apps">Aplikace</string>
   <string name="handle_bar_title_paysms">Zprávy</string>
   <string name="handle_bar_title_system">Systém</string>
   <string name="handle_bar_title_wifi">Wi-Fi</string>
@@ -831,7 +831,7 @@ For more info check the message you received from your service provider"</string
   <string name="hide_mode_app_background_setting_text">Aplikace</string>
   <string name="hide_mode_summary_text">Spravovat aplikace na pozadí pro šetření baterie</string>
   <string name="hide_mode_title_text">Šetření baterie</string>
-  <string name="hide_system_app">Skrýt systémové apl.</string>
+  <string name="hide_system_app">Skrýt systémové aplikace</string>
   <string name="hint_antispam_mode_edit">Vlastní režim</string>
   <string name="hints_ad_header_left">Reklama: %d</string>
   <string name="hints_apk_header_left">Instalační apk: %d</string>
@@ -1339,7 +1339,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="please_continue_keep">Ponechat</string>
   <string name="pm_auto_start_by_other">Vyvolaný start</string>
   <string name="pm_auto_start_by_other_app">Povolit aplikaci spuštění jinou aplikací</string>
-  <string name="pm_auto_start_by_system">Spuštění apl.</string>
+  <string name="pm_auto_start_by_system">Spuštění aplikace</string>
   <string name="pm_auto_start_by_system_event">Povolit apl. automatické spuštění</string>
   <string name="pm_auto_start_proc_is_running">Spuštěno</string>
   <string name="pm_remember_choice">Znovu nezobrazovat</string>
@@ -1482,7 +1482,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="pref_month_traffic_limit">Limit mobilních dat</string>
   <string name="pref_more_settings">Více nastavení</string>
   <string name="pref_more_traffic_settings">Ostatní nastavení</string>
-  <string name="pref_new_installed_preconfig_title">Výchozí nastavení pro nové apl.</string>
+  <string name="pref_new_installed_preconfig_title">Výchozí nastavení pro nové aplikace</string>
   <string name="pref_normal_traffic_limit">Překročení limitu dat</string>
   <string name="pref_open_adjust_traffic">"Synchronizovat vaši spotřebu dat s operátorem"</string>
   <string name="pref_package_traffic_leisure">%1$s | Mimo špičku: %2$s</string>
@@ -1652,7 +1652,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="root_apply_step_5">Povolit aplikaci %s práva ROOT?</string>
   <string name="root_apply_title">Důležité upozornění</string>
   <string name="safe_result_header_info_protecting">Bezpečné</string>
-  <string name="safe_result_header_title_app">Bezpečnost apl.</string>
+  <string name="safe_result_header_title_app">Bezpečnost aplikace</string>
   <string name="safe_result_header_title_sms">Bezpečnost zpráv</string>
   <string name="safe_result_header_title_system">Bezpečnost systému</string>
   <string name="safe_result_header_title_wifi">Bezpečnost Wi-Fi</string>
@@ -1688,7 +1688,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="scanning_bar_cache_title">Kontrola odpadu...</string>
   <string name="scanning_bar_memory_title">Kontrola cache...</string>
   <string name="scanning_bar_number">%d%%</string>
-  <string name="scanning_bar_system_text">Povolení apl.</string>
+  <string name="scanning_bar_system_text">Povolení aplikace</string>
   <string name="scanning_bar_system_title">Kontrola systému...</string>
   <string name="score_pts">%</string>
   <string name="search_result_text">Nebyla nalezena žádná aplikace</string>
@@ -1721,7 +1721,7 @@ Během datového přenosu se text a obrázky komprimují na serveru a tím se ur
   <string name="settings_title_payment_security">Nastavení bezpečnosti plateb</string>
   <string name="settings_title_permission">Nastavení povolení</string>
   <string name="share">Sdílet</string>
-  <string name="show_system_app">Zobrazit systémové apl.</string>
+  <string name="show_system_app">Zobrazit systémové aplikace</string>
   <string name="show_traffic_dialog_message">Spotřeba vašich mobilních dat bude zobrazena v roletce. Toto nastavení můžete kdykoliv změnit v Spotřeba dat &gt; Nastavení</string>
   <string name="show_traffic_dialog_title">Zobrazit spotřebu dat v roletce</string>
   <string name="showpattern">Zobrazit vzor</string>
@@ -2019,7 +2019,7 @@ neoprávněného používání vašich aplikací"</string>
   <string name="tips_of_package_set">Nastavte zakoupená data a kontrolujte spotřebu dat</string>
   <string name="tips_of_traffic_pack_threshold">Zakupte si data navíc, když se blížíte limitu.</string>
   <string name="tips_of_virus_scan">Kontrolujte zařízení na přítomnost virů</string>
-  <string name="title_app_lock_disable">Zámek apl.</string>
+  <string name="title_app_lock_disable">Zámek aplikace</string>
   <string name="title_app_update">Dostupné aktualizace</string>
   <string name="title_auto_update">Aktualizovat automaticky</string>
   <string name="title_cleaner_cloudscan">Použít online databázi Čističe</string>

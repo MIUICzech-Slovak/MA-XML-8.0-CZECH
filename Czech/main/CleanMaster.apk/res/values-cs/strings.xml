@@ -414,7 +414,7 @@
   <string name="title_delete_clipboard">Obsah schránky</string>
   <string name="title_delete_deepclean">Vymazat</string>
   <string name="title_delete_large_file">Vymazat velké soubory</string>
-  <string name="title_of_app_manage">Apl.</string>
+  <string name="title_of_app_manage">Aplikace</string>
   <string name="title_of_auto_launch_manage">Auto-start</string>
   <string name="title_of_cloud_service">Cloudové služby</string>
   <string name="title_of_garbage_cloud_scan">Kontrola cloudu</string>
@@ -458,4 +458,5 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+<string name="pref_title_clean_alert">Vyčistit automaticky</string>
 </resources>

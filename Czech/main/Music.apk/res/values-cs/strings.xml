@@ -574,4 +574,8 @@
   <string name="vip_expiration_title">VIP členství brzy vyprší</string>
   <string name="vip_recommend_title">Získat hudbu ve vyšší kvalitě</string>
   <string name="vip_required">Promiňte, je vyžadováno VIP členství.</string>
+<string name="filter_by_size_max">%d MB</string>
+<string name="filter_by_size_min">%d KB</string>
+<string name="filter_by_duration_min">%d sek.</string>
+<string name="filter_by_duration_max">%d min.</string>
 </resources>
