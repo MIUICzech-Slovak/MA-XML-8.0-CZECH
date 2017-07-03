@@ -896,8 +896,6 @@ Synchronizujte je nyní."</string>
   <string name="path_wipe_data">System apps/Contacts/Organize contacts/Clear data</string>
   <string name="payphone">Veřejný telefon</string>
   <string name="people">Kontakty</string>
-  <string name="percent_sign">%</string>
-  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="phone_info_divider">"  |  "</string>
   <string name="phone_number_too_long_toast">Číslo je příliš dlouhé</string>
