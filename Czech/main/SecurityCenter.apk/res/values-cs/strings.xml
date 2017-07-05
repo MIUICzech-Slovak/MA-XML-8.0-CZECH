@@ -1141,7 +1141,7 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
   <string name="menu_restore">Obnovit do SMS</string>
   <string name="menu_sms">Odeslat SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>
-  <string name="menu_text_antivirus">AntiVirus</string>
+  <string name="menu_text_antivirus">Bezpečnost</string>
   <string name="menu_text_garbage_cleanup">Čistič</string>
   <string name="menu_text_garbage_cleanup_danger">%s nad</string>
   <string name="menu_text_license_manager">Povolení</string>
