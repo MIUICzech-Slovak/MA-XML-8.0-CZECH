@@ -17,4 +17,8 @@
         <item quantity="other">Jasno</item>
         <item quantity="one">Jasno</item>
      </plurals>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Předpověď na %1$s dní</item>
+        <item quantity="one">Předpověď na %1$s den</item>
+    </plurals>
 </resources>
