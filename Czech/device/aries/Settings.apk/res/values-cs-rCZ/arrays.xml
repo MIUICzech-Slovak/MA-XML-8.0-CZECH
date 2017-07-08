@@ -190,13 +190,6 @@
         <item>V mezipaměti (klient aktivity)</item>
         <item>V mezipaměti (prázdné)</item>
     </string-array>
-     <string-array name="select_logd_size_summaries">
-        <item>64 kB na vyrovnávací paměť protokolů</item>
-        <item>256 kB na vyrovnávací paměť protokolů</item>
-        <item>1 MB na vyrovnávací paměť protokolů</item>
-        <item>4 MB na vyrovnávací paměť protokolů</item>
-        <item>16 MB na vyrovnávací paměť protokolů</item>
-    </string-array>
     <string-array name="sim_card_data_range">
         <item>Poslední čtyři číslice</item>
         <item>První čtyři číslice</item>
