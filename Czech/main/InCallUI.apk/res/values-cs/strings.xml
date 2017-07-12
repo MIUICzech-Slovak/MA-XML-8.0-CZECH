@@ -249,4 +249,8 @@
   <string name="wait_prompt_str">"Odeslat následující tóny?
   "</string>
   <string name="waiting_close_airplane_mode">Čekání na ukončení režimu Letadlo...</string>
+  <string name="user_locked_prompt">Pro přístup ke kontaktům odemkněte zařízení.</string>
+   <string name="card_title_answering">Přijmutí hovoru</string>
+   <string name="card_title_answering_fail">Nelze přijmout hovor, zkuste to znovu.</string>
+   <string name="card_title_hanging_up_fail">Nelze ukončit hovor, zkuste to znovu.</string>
 </resources>
