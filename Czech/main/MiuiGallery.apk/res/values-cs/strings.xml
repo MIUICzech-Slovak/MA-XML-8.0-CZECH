@@ -957,4 +957,10 @@
   <string name="xiaomi_account_not_exists_toast">Mi účet neexistuje</string>
   <string name="yes">Ano</string>
   <string name="you_are"/>
+  <string name="backup_sync_dialog_confirm">Povolit</string>
+    <string name="backup_sync_dialog_tips">Povolte synchr. s MiCloud pro změnu nastavení zálohování.</string>
+    <string name="backup_sync_dialog_title">Synchr. je vypnuta</string>
+   <string name="backup_cta_not_allow_desc">Povolte pro automatickou zálohu</string>
+   <string name="backup_cta_not_allow_title">Není přístup k síti</string>
+   <string name="cloud_storage_extend">Navýšit MiCloud úložiště</string>
 </resources>

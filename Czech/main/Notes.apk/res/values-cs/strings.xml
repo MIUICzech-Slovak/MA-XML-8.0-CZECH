@@ -226,5 +226,7 @@ http://www.miuios.cz/rom
   <string name="widget_havenot_content">Žádná poznámka není vytvořena.</string>
   <string name="widget_under_privacy_mode">Režim Soukromí, není možné zobrazit obsah poznámky</string>
   <string name="db_downgrade_clear_button">Vymažte data aplikace</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Tato poznámka je příliš velká na sdílení.</string>
+   <string name="refuse_to_share_as_pic_because_of_loading">Počkejte, dokud se poznámka nenačte a zkuste to znovu.</string> 
   <string name="db_downgrade_clear_date_reminder">Změna na jinou verzi MIUI vyžaduje i vymazání dat aplikace Poznámky. Nejprve se ujistěte, že máte povoleno zálohování na MiCloud.</string>
 </resources>
