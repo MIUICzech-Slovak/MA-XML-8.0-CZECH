@@ -203,4 +203,6 @@
   <string name="still">Obrázky</string>
   <string name="ui">Standard</string>
   <string name="user_define_mode">Název</string>
+  <string name="scenario_policies_warmcontrol">Kontrola přehřívání</string>
+   <string name="warm_configure">Nastavení kontroly teploty</string>
 </resources>

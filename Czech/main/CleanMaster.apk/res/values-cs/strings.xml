@@ -168,6 +168,7 @@
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
   <string name="dialog_title_stop_scan">Zastavit kontrolu</string>
   <string name="dialog_title_uninstall_apps">Odinstalovat</string>
+  <string name="engine_init">Inicializace...</string>
   <string name="download">Stáhnout</string>
   <string name="downloading">Stahování...</string>
   <string name="empty">" "</string>

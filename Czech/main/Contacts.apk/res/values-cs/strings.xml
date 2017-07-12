@@ -987,6 +987,7 @@ Synchronizujte je nyní."</string>
   <string name="profileSavedErrorToast">Nelze uložit změny</string>
   <string name="profileSavedToast">Změny nebyly uloženy</string>
   <string name="profile_delete_toast">Profil vymazán</string>
+  <string name="option_delete_batch_contacts">Vymazat více najednou</string>
   <string name="profile_display_name">Nastavit můj profil</string>
   <string name="profile_name">Můj profil</string>
   <string name="profile_name_photo">Fotografie</string>

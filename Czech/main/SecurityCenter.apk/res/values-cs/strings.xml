@@ -2298,4 +2298,22 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_notify_task_exit_task">Ukončit úlohu</string>
    <string name="power_consume_hardware_total_format">Hardware: %s</string>
    <string name="power_consume_software_total_format">Aplikace: %s</string>
+   <string name="activate_fingerprint_dialog_message">Tento otisk není aktivní. Zadejte své heslo pro jeho aktivaci.</string>
+   <string name="activate_fingerprint_dialog_title">Zadejte heslo</string>
+   <string name="app_manager_app_power">"spotřeba baterie: "</string>
+   <string name="app_manager_app_storage">"Úložiště: "</string>
+   <string name="app_manager_app_traffic">"Spotřeba dat: "</string>
+   <string name="app_manager_app_update">Aktualizace</string>
+   <string name="app_manager_disable">Nepovolovat</string>
+   <string name="app_manager_factory_reset">Odinstalovat aktualizace</string>
+   <string name="app_manager_factory_reset_dlg_msg">Všechny aktualizace této systémové aplikace budou odinstalovány.</string>
+   <string name="app_manager_factory_reset_dlg_title">Odinstalovat aktualizace?</string>
+   <string name="app_manager_net_control_title">Zakázat používání dat</string>
+   <string name="app_manager_net_mobile">Mobilní</string>
+   <string name="app_manager_net_wifi">Wi-Fi</string>
+   <string name="app_manager_notify_bar">Ikony</string>
+   <string name="app_manager_notify_floating">Plovoucí upozornění</string>
+   <string name="app_manager_notify_keyguard">Zamykací obrazovka</string>
+   <string name="app_manager_system_mobile_disable">Zakázat data</string>
+   <string name="app_managere_not_have_app">Prázdné</string>
 </resources>

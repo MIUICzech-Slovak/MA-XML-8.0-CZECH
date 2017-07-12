@@ -307,16 +307,16 @@
  If you turn on mobile data again, your carrier may charge you for additional data."</item>
      </plurals>
     <plurals name="app_usage_day">
-         <item quantity="other">Nebyly použity %d dní</item>
-         <item quantity="one">Nebyly použity %d deň</item>
+         <item quantity="other">Použito před %d dny</item>
+         <item quantity="one">Použito před %d dnem</item>
      </plurals>
      <plurals name="app_usage_month">
-         <item quantity="other">Nebyly použity %d měsíce</item>
-         <item quantity="one">Nebyly použity %d měsíc</item>
+         <item quantity="other">Použito před %d měsíci</item>
+         <item quantity="one">Použito před %d měsícem</item>
      </plurals>
      <plurals name="app_usage_year">
-         <item quantity="other">Nebyly použity %d roky</item>
-         <item quantity="one">Nebyly použity %d rok</item>
+         <item quantity="other">Použito před %d lety</item>
+         <item quantity="one">Použito před %d rokem</item>
      </plurals>
      <plurals name="marked_by_others">
          <item quantity="other">%d ostatní označili jako</item>
@@ -370,4 +370,8 @@
          <item quantity="other">Nalezeno %d neoficiálních apl.</item>
          <item quantity="one">Nalezena 1 neoficiální apl.</item>
      </plurals>	
+     <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">"%d nefungují správně a vybíjí baterii"</item>
+         <item quantity="one">"%d nefunguje správně a vybíjí baterii"</item>
+     </plurals>
 </resources>

@@ -291,4 +291,5 @@
   <string name="upload_log_failed">Protokoly se nepodařilo odeslat</string>
   <string name="warning_field_empty">Zadejte %1$s</string>
   <string name="warning_field_invalid">Vyberte platný %1$s</string>
+  <string name="title_customer_service">Uživatelská podpora</string>
 </resources>

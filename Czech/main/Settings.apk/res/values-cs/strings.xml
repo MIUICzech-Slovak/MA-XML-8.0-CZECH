@@ -296,7 +296,7 @@ Administrátor může sledovat a spravovat nastavení, přístup, aplikace a dat
   <string name="apply_now_button_text">Aktualizace</string>
   <string name="apply_password_to_category_title">Nastavit heslo pro...</string>
   <string name="apply_update_fail">Aktualizace systému selhala</string>
-  <string name="approve_title">Ověření</string>
+  <string name="approve_title">Certifikace</string>
   <string name="apps_storage">Úložiště aplikací</string>
   <string name="apps_with_restrictions_header">Aplikace s omezením</string>
   <string name="apps_with_restrictions_settings_button">Rozbalit nastavení aplikace</string>
@@ -4936,4 +4936,5 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_auto_summaryOn">Použít časové pásmo ze sítě</string>
   <string name="zone_list_menu_sort_alphabetically">Řadit abecedně</string>
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
+  <string name="security_encryption_rejected_via_home_manager">Tato funkce není podporována v demo verzi.</string>
 </resources>
