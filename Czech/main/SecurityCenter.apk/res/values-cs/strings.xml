@@ -527,7 +527,7 @@
   <string name="card_main_netcheck_action">Kontrola</string>
   <string name="card_main_netcheck_summary">Zkontrolovat chyby v připojení</string>
   <string name="card_main_netcheck_title">Zkontrolovat síť</string>
-  <string name="card_main_overscroll_tips">Bezpečnost je v nejlepším</string>
+  <string name="card_main_overscroll_tips">Bezpečnost je v pořádku</string>
   <string name="card_main_paysafe_action">Zapnout</string>
   <string name="card_main_paysafe_summary">Zkontrolovat platební prostředí pro potencionální rizika</string>
   <string name="card_main_paysafe_title">Platební prostředí</string>

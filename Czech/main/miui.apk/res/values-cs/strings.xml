@@ -330,4 +330,7 @@
   <string name="yesterday">Včera</string>
   <string name="immersion_button_close_description">zavřít</string>
    <string name="search_input_description">Vyhledat</string>
+   <string name="actionbar_button_up_description">zpět</string>
+   <string name="actionbar_immersion_button_more_description">více</string>
+   <string name="search_mode_button_back_description">zpět</string>
 </resources>
