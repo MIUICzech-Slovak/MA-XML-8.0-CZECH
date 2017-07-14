@@ -2436,5 +2436,4 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="st_msg_stranger_group">SMS z neznámých čísel</string>
    <string name="st_share_settings">Sdílet nastavení ze SIM 1</string>
    <string name="st_title_show_antispam_notification">Upozornění Antispam</string>
-   <string name="tab_blacklist">Černá listina</string>
 </resources>
