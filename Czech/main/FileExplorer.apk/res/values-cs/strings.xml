@@ -686,4 +686,22 @@ Bylo přičteno dalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Ano</string>
   <string name="yesterday">Včera</string>
+  <string name="cannot_send">Nelze odeslat soubor z SD karty</string>
+   <string name="connection_lost">Odpojeno</string>
+   <string name="decompress_corrupt">Nelze rozbalit soubory. Balíček je poškozen.</string>
+   <string name="error_create_dir">Nelze vytvořit složku</string>
+   <string name="error_create_file">Nelze vytvořit soubor</string>
+   <string name="error_delete_failed">Nelze vymazat soubor</string>
+   <string name="error_folder_already_exists">Tento soubor již existuje</string>
+   <string name="error_invalid_path">Nesprávná cesta</string>
+   <string name="error_not_support">Není podporováno</string>
+   <string name="homepage_tab_file_view_phone">Úložiště</string>
+   <string name="instruction_pre_pad">Dotykem spusťte FTP server</string>
+   <string name="instruction_pre_phone">Dotykem spustíte FTP server</string>
+   <string name="mtp_device">Media zařízení (MTP)</string>
+   <string name="mtp_label">MTP</string>
+   <string name="pad">Interní úložiště</string>
+   <string name="permission_denial">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
+   <string name="permission_required">Není přístup k souborům. Povolte aplikaci Soubory přístup k úložišti.</string>
+   <string name="unknown_error">Nastala chyba. Počkejte chvíli a zkuste to znovu.</string>
 </resources>

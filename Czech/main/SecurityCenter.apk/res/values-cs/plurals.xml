@@ -374,4 +374,12 @@
         <item quantity="other">"%d nefungují správně a vybíjí baterii"</item>
          <item quantity="one">"%d nefunguje správně a vybíjí baterii"</item>
      </plurals>
+     <plurals name="install_game_count_title">
+         <item quantity="other">Přidáno apl.: %d</item>
+         <item quantity="one">Přidáno apl.: %d</item>
+     </plurals>
+     <plurals name="uninstall_game_count_title">
+         <item quantity="other">Nepřidáno apl.: %d</item>
+         <item quantity="one">Nepřidáno apl.: %d</item>
+     </plurals>	
 </resources>
