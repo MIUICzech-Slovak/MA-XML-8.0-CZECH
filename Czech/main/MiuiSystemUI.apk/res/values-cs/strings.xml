@@ -378,6 +378,7 @@ přetažením dolů uzamknete"</string>
   <string name="keyboard_shortcut_group_system_recents">Nedávné</string>
   <string name="recent_dock_tip">Dotykem vyberete aplikaci</string>
   <string name="recents_app_info_button_label">Informace o aplikaci</string>
+  <string name="recents_multi_window_mode">Rozdělení obrazovky</string>
   <string name="recents_caption_resize">Vyberte nové rozložení</string>
   <string name="recents_drag_hint_message">Přetáhněte sem pro rozdělení obrazovky</string>
   <string name="recents_empty_message">Žádné aplikace</string>
