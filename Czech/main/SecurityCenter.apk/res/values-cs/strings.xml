@@ -2436,4 +2436,9 @@ Remaining data includes data that has been rolled over from the previous month."
    <string name="st_msg_stranger_group">SMS z neznámých čísel</string>
    <string name="st_share_settings">Sdílet nastavení ze SIM 1</string>
    <string name="st_title_show_antispam_notification">Upozornění Antispam</string>
+   <string name="app_error_tip_for_launcher">Hardware nebo software vašeho zařízení, může způsobit nekompatibilitu s některými aplikacemi, zamrzání a nečekané ukočení. Pokud máte některé z těchto problémů, kontaktujte vývojáře aplikace.</string>
+   <string name="app_error_tip_for_store">Hardware nebo software vašeho zařízení, může způsobit nekompatibilitu s některými aplikacemi, zamrzání a nečekané ukočení. Pokud máte některé z těchto problémů, kontaktujte vývojáře aplikace.</string>
+   <string name="dlg_remove_blacklist_title">Odstranit</string>
+   <string name="dlg_remove_ok">Odstranit</string>
+   <string name="dlg_remove_whitelist">Odstranit tato čísla z výjimek?</string>
 </resources>
