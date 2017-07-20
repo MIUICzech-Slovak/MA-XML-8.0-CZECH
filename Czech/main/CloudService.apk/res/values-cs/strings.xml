@@ -512,4 +512,21 @@ Odeslané ID vašeho zařízení na server Mi bude zašifrováno."</string>
   <string name="wipe_data_dialog_title">Některé položky nebyly synchr.</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="micloud_detail_not_syncable">Nelze synchr.</string>
+   <string name="micloud_main_button_activate">Aktivovat</string>
+   <string name="micloud_main_button_authorize">Autorizovat</string>
+   <string name="micloud_main_button_set_internet">Nastavení</string>
+   <string name="micloud_main_error_activated_fail">Aktivujte vaši SIM kartu.</string>
+   <string name="micloud_main_error_network_disallowed">Zkontrolujte povolení připojení k síti.</string>
+   <string name="micloud_main_error_permission_limit">Povolte přístup k databázi pro MiCloud.</string>
+   <string name="micloud_main_master_sync_on">Synchr. zapnuta</string>
+   <string name="micloud_main_message_master_sync_off">Nastavení autom. synchr. je v roletce.</string>
+   <string name="micloud_main_query_again">Zeptat</string>
+   <string name="micloud_main_resume_sync_soon">Obnovit synchr. zanedlouho</string>
+   <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
+   <string name="micloud_main_wait_charge">Čeká na připojení k nabíječce</string>
+   <string name="micloud_main_wait_charge_sleep">Čeká na připojení k nabíječce</string>
+   <string name="micloud_main_wait_wlan">Čeká na Wi-Fi</string>
+   <string name="micloud_main_wait_wlan_charge">Čeká na Wi-Fi a připojení k nabíječce</string>
+   <string name="micloud_main_wait_wlan_charge_sleep">Čeká na Wi-Fi a připojení k nabíječce</string>
 </resources>
