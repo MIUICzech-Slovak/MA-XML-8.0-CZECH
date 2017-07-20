@@ -4938,10 +4938,6 @@ Nastavení zařízení může vyžadovat přenos nemalého množství dat."</str
   <string name="zone_list_menu_sort_by_timezone">Řadit podle časového pásma</string>
   <string name="security_encryption_rejected_via_home_manager">Tato funkce není podporována v demo verzi.</string>
   <string name="application_permissions">Povolení aplikace</string>
-   <string name="cloud_backup_section_title">MiCloud záloha</string>
-   <string name="cloud_backup_settings_section_title">Nastavení zálohy</string>
-   <string name="cloud_restore_section_summary">Obnovte aplikace, rozložení plochy a nastavení</string>
-   <string name="cloud_restore_section_title">Obnovit z MiCloud</string>
    <string name="login_account_dialog_message">Přihlaste se svým Mi účtom a povolte synchr. s MiCloud.</string>
    <string name="login_account_dialog_title">Přihlaste se Mi účtem</string>
    <string name="login_action">Přihlásit se</string>
